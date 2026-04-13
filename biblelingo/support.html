@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>BibleLingo - Support</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      background: #0a0a0a;
+      color: #e0e0e0;
+      line-height: 1.7;
+      padding: 0 20px;
+    }
+    .container {
+      max-width: 720px;
+      margin: 0 auto;
+      padding: 40px 0 80px;
+    }
+    .lang-switch {
+      text-align: right;
+      margin-bottom: 20px;
+    }
+    .lang-switch button {
+      background: none;
+      border: 1px solid #444;
+      color: #aaa;
+      padding: 6px 12px;
+      border-radius: 6px;
+      cursor: pointer;
+      font-size: 13px;
+      margin-left: 4px;
+    }
+    .lang-switch button.active {
+      background: #6C5CE7;
+      border-color: #6C5CE7;
+      color: #fff;
+    }
+    h1 {
+      font-size: 28px;
+      color: #fff;
+      margin-bottom: 8px;
+    }
+    .app-name {
+      color: #6C5CE7;
+      font-size: 14px;
+      font-weight: 600;
+      margin-bottom: 4px;
+    }
+    h2 {
+      font-size: 20px;
+      color: #fff;
+      margin-top: 36px;
+      margin-bottom: 12px;
+      padding-bottom: 8px;
+      border-bottom: 1px solid #222;
+    }
+    p { margin-bottom: 14px; color: #ccc; }
+    a { color: #6C5CE7; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    .section { display: block; }
+    .hidden { display: none; }
+    .card {
+      background: #111;
+      border: 1px solid #222;
+      padding: 24px;
+      border-radius: 12px;
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="lang-switch">
+      <button id="btn-en" class="active" onclick="switchLang('en')">EN</button>
+      <button id="btn-ko" onclick="switchLang('ko')">KO</button>
+      <button id="btn-ja" onclick="switchLang('ja')">JA</button>
+      <button id="btn-zh" onclick="switchLang('zh')">ZH</button>
+    </div>
+
+    <!-- English -->
+    <div id="lang-en" class="section">
+      <div class="app-name">BibleLingo</div>
+      <h1>Support</h1>
+      <div class="card">
+        <h2>Contact Us</h2>
+        <p>If you have any questions, feedback, or need assistance with BibleLingo, please contact us at:</p>
+        <p><strong>Email:</strong> <a href="mailto:blueng.choi@gmail.com">blueng.choi@gmail.com</a></p>
+      </div>
+    </div>
+
+    <!-- Korean -->
+    <div id="lang-ko" class="section hidden">
+      <div class="app-name">바이블링고 (BibleLingo)</div>
+      <h1>고객 지원</h1>
+      <div class="card">
+        <h2>문의하기</h2>
+        <p>바이블링고 사용 중 궁금한 점이나 피드백, 도움이 필요하시면 아래 이메일로 연락 주세요.</p>
+        <p><strong>이메일:</strong> <a href="mailto:blueng.choi@gmail.com">blueng.choi@gmail.com</a></p>
+      </div>
+    </div>
+
+    <!-- Japanese -->
+    <div id="lang-ja" class="section hidden">
+      <div class="app-name">バイブルリンゴ (BibleLingo)</div>
+      <h1>サポート</h1>
+      <div class="card">
+        <h2>お問い合わせ</h2>
+        <p>ご質問やフィードバックがございましたら、以下のメールアドレスまでご連絡ください。</p>
+        <p><strong>メール:</strong> <a href="mailto:blueng.choi@gmail.com">blueng.choi@gmail.com</a></p>
+      </div>
+    </div>
+
+    <!-- Chinese -->
+    <div id="lang-zh" class="section hidden">
+      <div class="app-name">圣经灵果 (BibleLingo)</div>
+      <h1>客户支持</h1>
+      <div class="card">
+        <h2>联系我们</h2>
+        <p>如果您有任何疑问、反馈或需要帮助，请通过以下邮件与我们联系：</p>
+        <p><strong>电子邮件:</strong> <a href="mailto:blueng.choi@gmail.com">blueng.choi@gmail.com</a></p>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    function switchLang(lang) {
+      const langs = ['en', 'ko', 'ja', 'zh'];
+      langs.forEach(l => {
+        document.getElementById('lang-' + l).className = l === lang ? 'section' : 'section hidden';
+        document.getElementById('btn-' + l).className = l === lang ? 'active' : '';
+      });
+    }
+  </script>
+</body>
+</html>
