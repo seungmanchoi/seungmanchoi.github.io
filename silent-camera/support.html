@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Silent Camera - Support</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      background: #0a0a0a;
+      color: #e0e0e0;
+      line-height: 1.7;
+      padding: 0 20px;
+    }
+    .container {
+      max-width: 720px;
+      margin: 0 auto;
+      padding: 40px 0 80px;
+    }
+    .lang-switch {
+      text-align: right;
+      margin-bottom: 20px;
+    }
+    .lang-switch button {
+      background: none;
+      border: 1px solid #444;
+      color: #aaa;
+      padding: 6px 14px;
+      border-radius: 6px;
+      cursor: pointer;
+      font-size: 14px;
+      margin-left: 8px;
+    }
+    .lang-switch button.active {
+      background: #0ea5e9;
+      border-color: #0ea5e9;
+      color: #fff;
+    }
+    h1 {
+      font-size: 28px;
+      color: #fff;
+      margin-bottom: 8px;
+    }
+    .app-name {
+      color: #0ea5e9;
+      font-size: 14px;
+      font-weight: 600;
+      margin-bottom: 4px;
+    }
+    h2 {
+      font-size: 20px;
+      color: #fff;
+      margin-top: 36px;
+      margin-bottom: 12px;
+      padding-bottom: 8px;
+      border-bottom: 1px solid #222;
+    }
+    p { margin-bottom: 14px; color: #ccc; }
+    ul { margin: 10px 0 14px 20px; color: #ccc; }
+    li { margin-bottom: 6px; }
+    strong { color: #e0e0e0; }
+    a { color: #0ea5e9; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    .contact-box {
+      background: #0c1929;
+      border: 1px solid #1e3a5f;
+      border-radius: 12px;
+      padding: 24px;
+      margin: 24px 0;
+      text-align: center;
+    }
+    .contact-box a {
+      font-size: 18px;
+      font-weight: 600;
+    }
+    .section { display: block; }
+    .hidden { display: none; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="lang-switch">
+      <button id="btn-en" class="active" onclick="switchLang('en')">English</button>
+      <button id="btn-ko" onclick="switchLang('ko')">한국어</button>
+      <button id="btn-ja" onclick="switchLang('ja')">日本語</button>
+      <button id="btn-zh" onclick="switchLang('zh')">中文</button>
+    </div>
+
+    <!-- English -->
+    <div id="lang-en" class="section">
+      <div class="app-name">Silent Camera</div>
+      <h1>Support</h1>
+
+      <h2>Contact Us</h2>
+      <p>If you have questions, feedback, or need help with Silent Camera, please reach out:</p>
+      <div class="contact-box">
+        <a href="mailto:blueng.choi@gmail.com">blueng.choi@gmail.com</a>
+      </div>
+
+      <h2>FAQ</h2>
+
+      <p><strong>Q: Is the camera really silent?</strong></p>
+      <p>A: Yes. Silent Camera uses iOS audio session management to suppress the shutter sound. On some devices, the system may still produce a very faint click depending on regional regulations.</p>
+
+      <p><strong>Q: Where are my photos saved?</strong></p>
+      <p>A: All photos and videos are saved to a dedicated "Silent Camera" album in your device's photo library.</p>
+
+      <p><strong>Q: Can I remove the ads?</strong></p>
+      <p>A: Currently, ads are shown to support free access to the app. A premium version may be available in the future.</p>
+
+      <p><strong>Q: Why does the app need microphone permission?</strong></p>
+      <p>A: Microphone access is required for video recording with audio. You can deny this permission if you only want to take photos.</p>
+    </div>
+
+    <!-- Korean -->
+    <div id="lang-ko" class="section hidden">
+      <div class="app-name">Silent Camera</div>
+      <h1>고객 지원</h1>
+
+      <h2>문의하기</h2>
+      <p>질문, 피드백 또는 도움이 필요하시면 아래로 연락해 주세요:</p>
+      <div class="contact-box">
+        <a href="mailto:blueng.choi@gmail.com">blueng.choi@gmail.com</a>
+      </div>
+
+      <h2>자주 묻는 질문</h2>
+
+      <p><strong>Q: 정말 무음으로 촬영되나요?</strong></p>
+      <p>A: 네. Silent Camera는 iOS 오디오 세션 관리를 통해 셔터음을 억제합니다. 일부 기기에서는 지역 규정에 따라 아주 작은 소리가 날 수 있습니다.</p>
+
+      <p><strong>Q: 사진은 어디에 저장되나요?</strong></p>
+      <p>A: 모든 사진과 동영상은 기기 사진 라이브러리의 "Silent Camera" 전용 앨범에 저장됩니다.</p>
+
+      <p><strong>Q: 광고를 제거할 수 있나요?</strong></p>
+      <p>A: 현재 광고는 무료 이용을 지원하기 위해 표시됩니다. 프리미엄 버전은 추후 제공될 수 있습니다.</p>
+
+      <p><strong>Q: 왜 마이크 권한이 필요한가요?</strong></p>
+      <p>A: 동영상 녹화 시 오디오 녹음을 위해 마이크 접근이 필요합니다. 사진만 촬영하실 경우 권한을 거부하셔도 됩니다.</p>
+    </div>
+
+    <!-- Japanese -->
+    <div id="lang-ja" class="section hidden">
+      <div class="app-name">Silent Camera</div>
+      <h1>サポート</h1>
+
+      <h2>お問い合わせ</h2>
+      <p>ご質問、フィードバック、サポートが必要な場合は、以下までご連絡ください：</p>
+      <div class="contact-box">
+        <a href="mailto:blueng.choi@gmail.com">blueng.choi@gmail.com</a>
+      </div>
+
+      <h2>よくある質問</h2>
+
+      <p><strong>Q: 本当に無音で撮影できますか？</strong></p>
+      <p>A: はい。Silent CameraはiOSのオーディオセッション管理を使用してシャッター音を抑制します。一部のデバイスでは、地域の規制により非常に小さな音が鳴る場合があります。</p>
+
+      <p><strong>Q: 写真はどこに保存されますか？</strong></p>
+      <p>A: すべての写真と動画は、デバイスのフォトライブラリ内の「Silent Camera」専用アルバムに保存されます。</p>
+
+      <p><strong>Q: 広告を削除できますか？</strong></p>
+      <p>A: 現在、広告は無料利用を支援するために表示されています。プレミアムバージョンは今後提供される可能性があります。</p>
+
+      <p><strong>Q: なぜマイクの権限が必要ですか？</strong></p>
+      <p>A: 動画録画時の音声録音のためにマイクへのアクセスが必要です。写真のみ撮影する場合は、権限を拒否しても問題ありません。</p>
+    </div>
+
+    <!-- Chinese -->
+    <div id="lang-zh" class="section hidden">
+      <div class="app-name">Silent Camera</div>
+      <h1>客户支持</h1>
+
+      <h2>联系我们</h2>
+      <p>如有问题、反馈或需要帮助，请通过以下方式联系：</p>
+      <div class="contact-box">
+        <a href="mailto:blueng.choi@gmail.com">blueng.choi@gmail.com</a>
+      </div>
+
+      <h2>常见问题</h2>
+
+      <p><strong>Q: 真的可以无声拍照吗？</strong></p>
+      <p>A: 是的。Silent Camera使用iOS音频会话管理来抑制快门声。在某些设备上，由于地区法规，可能仍会产生非常微小的声音。</p>
+
+      <p><strong>Q: 照片保存在哪里？</strong></p>
+      <p>A: 所有照片和视频都保存在设备相册中的"Silent Camera"专用文件夹中。</p>
+
+      <p><strong>Q: 可以去除广告吗？</strong></p>
+      <p>A: 目前广告用于支持免费使用。高级版本可能会在未来推出。</p>
+
+      <p><strong>Q: 为什么需要麦克风权限？</strong></p>
+      <p>A: 录制视频时需要麦克风来录制音频。如果您只拍照，可以拒绝该权限。</p>
+    </div>
+  </div>
+
+  <script>
+    function switchLang(lang) {
+      var langs = ['en', 'ko', 'ja', 'zh'];
+      for (var i = 0; i < langs.length; i++) {
+        document.getElementById('lang-' + langs[i]).className = lang === langs[i] ? 'section' : 'section hidden';
+        document.getElementById('btn-' + langs[i]).className = lang === langs[i] ? 'active' : '';
+      }
+    }
+  </script>
+</body>
+</html>
