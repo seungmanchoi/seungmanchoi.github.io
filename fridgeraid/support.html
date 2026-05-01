@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>FridgeRaid - Support</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      background: #0f1a1c;
+      color: #d0e0e3;
+      line-height: 1.7;
+      padding: 0 20px;
+    }
+    .container {
+      max-width: 720px;
+      margin: 0 auto;
+      padding: 40px 0 80px;
+    }
+    .lang-switch {
+      text-align: right;
+      margin-bottom: 20px;
+      position: sticky;
+      top: 0;
+      background: #0f1a1c;
+      padding: 10px 0;
+      z-index: 100;
+    }
+    .lang-switch button {
+      background: none;
+      border: 1px solid #3a5258;
+      color: #8ab0b8;
+      padding: 6px 12px;
+      border-radius: 6px;
+      cursor: pointer;
+      font-size: 13px;
+      margin-left: 4px;
+    }
+    .lang-switch button.active {
+      background: #2FA393;
+      border-color: #2FA393;
+      color: #fff;
+    }
+    h1 {
+      font-size: 28px;
+      color: #fff;
+      margin-bottom: 8px;
+    }
+    .app-name {
+      color: #2FA393;
+      font-size: 14px;
+      font-weight: 600;
+      margin-bottom: 4px;
+    }
+    h2 {
+      font-size: 20px;
+      color: #fff;
+      margin-top: 36px;
+      margin-bottom: 12px;
+      padding-bottom: 8px;
+      border-bottom: 1px solid #1e3035;
+    }
+    p { margin-bottom: 14px; color: #b0ccd0; }
+    a { color: #2FA393; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    .highlight {
+      background: #132428;
+      border-left: 3px solid #2FA393;
+      padding: 14px 18px;
+      border-radius: 0 8px 8px 0;
+      margin: 16px 0;
+    }
+    .faq-item {
+      background: #132428;
+      border-radius: 10px;
+      padding: 16px 18px;
+      margin-bottom: 12px;
+    }
+    .faq-q {
+      font-weight: 600;
+      color: #fff;
+      margin-bottom: 8px;
+    }
+    .faq-a { color: #a0bfc4; font-size: 14px; }
+    .lang { display: none; }
+    .lang.active { display: block; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="lang-switch">
+      <button class="active" onclick="switchLang('en')">EN</button>
+      <button onclick="switchLang('ko')">KO</button>
+      <button onclick="switchLang('ja')">JA</button>
+      <button onclick="switchLang('zh')">ZH</button>
+    </div>
+
+    <!-- ENGLISH -->
+    <div id="en" class="lang active">
+      <div class="app-name">FridgeRaid</div>
+      <h1>Support</h1>
+
+      <h2>Frequently Asked Questions</h2>
+
+      <div class="faq-item">
+        <div class="faq-q">How do I add ingredients?</div>
+        <div class="faq-a">Tap the search bar on the home screen and type the ingredient name. You can also use the "Bulk Add" button on the Fridge tab to add multiple ingredients at once.</div>
+      </div>
+      <div class="faq-item">
+        <div class="faq-q">How does recipe recommendation work?</div>
+        <div class="faq-a">FridgeRaid automatically recommends recipes based on the ingredients you have. Recipes are ranked by match rate, showing "Ready to cook" recipes first.</div>
+      </div>
+      <div class="faq-item">
+        <div class="faq-q">Can I use the app offline?</div>
+        <div class="faq-a">Yes! All data is stored locally on your device. FridgeRaid works completely offline with 230+ built-in recipes.</div>
+      </div>
+      <div class="faq-item">
+        <div class="faq-q">How do I delete my data?</div>
+        <div class="faq-a">Go to Settings > Data Reset to clear all your ingredients, favorites, and cooking history.</div>
+      </div>
+
+      <h2>Contact Us</h2>
+      <p>If you have any questions, bug reports, or feature requests, please contact us:</p>
+      <div class="highlight">
+        <strong>Email:</strong> <a href="mailto:blue_eng@hanmail.net">blue_eng@hanmail.net</a>
+      </div>
+    </div>
+
+    <!-- KOREAN -->
+    <div id="ko" class="lang">
+      <div class="app-name">냉장고털기</div>
+      <h1>고객 지원</h1>
+
+      <h2>자주 묻는 질문</h2>
+
+      <div class="faq-item">
+        <div class="faq-q">재료는 어떻게 추가하나요?</div>
+        <div class="faq-a">홈 화면의 검색창에서 재료 이름을 입력하세요. 냉장고 탭의 "일괄추가" 버튼으로 여러 재료를 한 번에 추가할 수도 있습니다.</div>
+      </div>
+      <div class="faq-item">
+        <div class="faq-q">레시피 추천은 어떻게 작동하나요?</div>
+        <div class="faq-a">냉장고털기는 보유한 재료를 기반으로 자동 레시피를 추천합니다. 매치율이 높은 순서로 정렬되며, "바로 가능"한 레시피가 먼저 표시됩니다.</div>
+      </div>
+      <div class="faq-item">
+        <div class="faq-q">오프라인에서도 사용할 수 있나요?</div>
+        <div class="faq-a">네! 모든 데이터는 기기에 로컬로 저장됩니다. 230개 이상의 내장 레시피로 인터넷 없이도 완전히 사용 가능합니다.</div>
+      </div>
+      <div class="faq-item">
+        <div class="faq-q">데이터를 삭제하려면 어떻게 하나요?</div>
+        <div class="faq-a">설정 > 데이터 초기화에서 모든 식재료, 즐겨찾기, 요리 기록을 삭제할 수 있습니다.</div>
+      </div>
+
+      <h2>문의하기</h2>
+      <p>질문, 버그 신고, 기능 요청이 있으시면 아래로 연락해 주세요:</p>
+      <div class="highlight">
+        <strong>이메일:</strong> <a href="mailto:blue_eng@hanmail.net">blue_eng@hanmail.net</a>
+      </div>
+    </div>
+
+    <!-- JAPANESE -->
+    <div id="ja" class="lang">
+      <div class="app-name">冷蔵庫レイド</div>
+      <h1>サポート</h1>
+
+      <h2>よくある質問</h2>
+
+      <div class="faq-item">
+        <div class="faq-q">食材はどうやって追加しますか？</div>
+        <div class="faq-a">ホーム画面の検索バーから食材名を入力してください。冷蔵庫タブの「一括追加」ボタンで複数の食材を一度に追加することもできます。</div>
+      </div>
+      <div class="faq-item">
+        <div class="faq-q">レシピ提案はどのように機能しますか？</div>
+        <div class="faq-a">冷蔵庫レイドは、お持ちの食材に基づいて自動的にレシピを提案します。マッチ率の高い順に並び、「すぐ作れる」レシピが優先表示されます。</div>
+      </div>
+      <div class="faq-item">
+        <div class="faq-q">オフラインで使えますか？</div>
+        <div class="faq-a">はい！すべてのデータは端末にローカル保存されます。230以上の内蔵レシピでインターネットなしでも完全に使用できます。</div>
+      </div>
+      <div class="faq-item">
+        <div class="faq-q">データを削除するにはどうすればいいですか？</div>
+        <div class="faq-a">設定 > データリセットで、すべての食材、お気に入り、調理履歴を削除できます。</div>
+      </div>
+
+      <h2>お問い合わせ</h2>
+      <p>ご質問、バグ報告、機能リクエストがございましたら、以下までご連絡ください：</p>
+      <div class="highlight">
+        <strong>メール:</strong> <a href="mailto:blue_eng@hanmail.net">blue_eng@hanmail.net</a>
+      </div>
+    </div>
+
+    <!-- CHINESE -->
+    <div id="zh" class="lang">
+      <div class="app-name">冰箱突击</div>
+      <h1>客户支持</h1>
+
+      <h2>常见问题</h2>
+
+      <div class="faq-item">
+        <div class="faq-q">如何添加食材？</div>
+        <div class="faq-a">在主页搜索栏输入食材名称。也可以在冰箱标签页使用"批量添加"按钮一次添加多种食材。</div>
+      </div>
+      <div class="faq-item">
+        <div class="faq-q">食谱推荐如何运作？</div>
+        <div class="faq-a">冰箱突击根据您拥有的食材自动推荐食谱。按匹配率排序，"可以立即烹饪"的食谱优先显示。</div>
+      </div>
+      <div class="faq-item">
+        <div class="faq-q">可以离线使用吗？</div>
+        <div class="faq-a">可以！所有数据都本地存储在您的设备上。内置230多个食谱，无需互联网即可完全使用。</div>
+      </div>
+      <div class="faq-item">
+        <div class="faq-q">如何删除数据？</div>
+        <div class="faq-a">前往设置 > 数据重置，可以删除所有食材、收藏和烹饪记录。</div>
+      </div>
+
+      <h2>联系我们</h2>
+      <p>如有任何问题、错误报告或功能请求，请联系我们：</p>
+      <div class="highlight">
+        <strong>邮箱:</strong> <a href="mailto:blue_eng@hanmail.net">blue_eng@hanmail.net</a>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    function switchLang(lang) {
+      document.querySelectorAll('.lang').forEach(el => el.classList.remove('active'));
+      document.querySelectorAll('.lang-switch button').forEach(btn => btn.classList.remove('active'));
+      document.getElementById(lang).classList.add('active');
+      event.target.classList.add('active');
+    }
+  </script>
+</body>
+</html>
