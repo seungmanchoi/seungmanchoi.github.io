@@ -1,0 +1,329 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>WakeFlow - Privacy Policy &amp; Support</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      background: #000000;
+      color: #d4d4d4;
+      line-height: 1.7;
+      padding: 0 20px;
+    }
+    .container {
+      max-width: 720px;
+      margin: 0 auto;
+      padding: 40px 0 80px;
+    }
+    .lang-switch {
+      text-align: right;
+      margin-bottom: 20px;
+    }
+    .lang-switch button {
+      background: none;
+      border: 1px solid rgba(74, 144, 217, 0.30);
+      color: #808080;
+      padding: 6px 14px;
+      border-radius: 8px;
+      cursor: pointer;
+      font-size: 14px;
+      margin-left: 8px;
+    }
+    .lang-switch button.active {
+      background: #4A90D9;
+      border-color: #4A90D9;
+      color: #ffffff;
+    }
+    h1 {
+      font-size: 28px;
+      color: #ffffff;
+      margin-bottom: 8px;
+    }
+    .app-name {
+      color: #4A90D9;
+      font-size: 14px;
+      font-weight: 600;
+      letter-spacing: 1px;
+      text-transform: uppercase;
+      margin-bottom: 6px;
+    }
+    .last-updated {
+      color: #808080;
+      font-size: 13px;
+      margin-bottom: 40px;
+    }
+    h2 {
+      font-size: 20px;
+      color: #ffffff;
+      margin-top: 36px;
+      margin-bottom: 12px;
+      padding-bottom: 8px;
+      border-bottom: 1px solid rgba(74, 144, 217, 0.18);
+    }
+    p { margin-bottom: 14px; color: #c8c8c8; }
+    ul {
+      margin: 10px 0 14px 22px;
+      color: #c8c8c8;
+    }
+    li { margin-bottom: 6px; }
+    strong { color: #ffffff; }
+    a { color: #4A90D9; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    .highlight {
+      background: rgba(74, 144, 217, 0.08);
+      border-left: 3px solid #4A90D9;
+      padding: 14px 18px;
+      border-radius: 0 8px 8px 0;
+      margin: 16px 0;
+    }
+    .highlight p { margin-bottom: 0; }
+    .section { display: block; }
+    .hidden { display: none; }
+    footer {
+      margin-top: 60px;
+      padding-top: 20px;
+      border-top: 1px solid rgba(74, 144, 217, 0.18);
+      color: #555555;
+      font-size: 13px;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="lang-switch">
+      <button id="btn-en" class="active" onclick="switchLang('en')">English</button>
+      <button id="btn-ko" onclick="switchLang('ko')">한국어</button>
+      <button id="btn-ja" onclick="switchLang('ja')">日本語</button>
+      <button id="btn-zh" onclick="switchLang('zh')">简体中文</button>
+    </div>
+
+    <!-- English -->
+    <div id="lang-en" class="section">
+      <div class="app-name">WakeFlow</div>
+      <h1>Privacy Policy &amp; Support</h1>
+      <p class="last-updated">Last Updated: May 9, 2026</p>
+
+      <div class="highlight">
+        <p><strong>WakeFlow is a local-first sleep and morning routine app. Your sleep records, alarms, routines and profile stay on your device. We do not run a backend server and we do not collect your personal data.</strong></p>
+      </div>
+
+      <h2>1. Information We Process</h2>
+      <p>The information you enter into WakeFlow — bedtime, wake time, sleep quality, factors, morning routine checks, alarm settings, target wake time and sleep goal — is stored only on your device using the local storage of your operating system. It never leaves your device unless you explicitly choose to share it (for example, by tapping the system share sheet from the Share Card screen).</p>
+
+      <h2>2. Optional AI Coach (Gemini)</h2>
+      <p>The AI Coach feature is optional. It only activates when you provide your own Google Gemini API key in Settings. When enabled:</p>
+      <ul>
+        <li>Your recent sleep summary and routine progress are sent to Google's Gemini API to generate a coaching response.</li>
+        <li>You are responsible for the data sent under your own API key. Please review <a href="https://ai.google.dev/gemini-api/terms" target="_blank" rel="noopener">Google's Gemini API terms</a> and privacy notices.</li>
+        <li>WakeFlow does not retain or proxy these requests on a server.</li>
+      </ul>
+
+      <h2>3. Notifications</h2>
+      <p>WakeFlow uses local notifications (scheduled on your device) to fire alarms and reminders. We do not use push notifications and do not operate a notification server.</p>
+
+      <h2>4. Sensors</h2>
+      <p>The Shake mission for the wake-up alarm reads the accelerometer in real time only while the wake-up screen is visible. Sensor readings are processed in memory to count shakes and are never stored or transmitted.</p>
+
+      <h2>5. Advertising</h2>
+      <p>WakeFlow displays ads from Google AdMob to keep the app free. AdMob may collect a device advertising identifier and other technical data to deliver ads. You can manage advertising preferences in your device settings (e.g., "Limit Ad Tracking" on iOS, "Reset/Delete advertising ID" on Android). Learn more from <a href="https://policies.google.com/privacy" target="_blank" rel="noopener">Google's Privacy Policy</a>.</p>
+
+      <h2>6. Permissions We Request</h2>
+      <ul>
+        <li><strong>Notifications</strong> — to fire alarms and reminders.</li>
+        <li><strong>Schedule Exact Alarm</strong> (Android 12+) — to fire alarms at the exact requested time.</li>
+        <li><strong>Motion / Accelerometer</strong> — to detect device shaking for the Shake alarm mission.</li>
+        <li><strong>Vibration / Wake Lock</strong> — to keep the wake-up screen active and to vibrate when the alarm fires.</li>
+      </ul>
+
+      <h2>7. Data Retention &amp; Deletion</h2>
+      <p>All data is stored locally. To delete it, uninstall the app or clear app data from system settings.</p>
+
+      <h2>8. Children's Privacy</h2>
+      <p>WakeFlow is not directed to children under 13. We do not knowingly collect personal information from children.</p>
+
+      <h2>9. Changes to This Policy</h2>
+      <p>We may update this Privacy Policy. Material changes will be reflected by updating the "Last Updated" date above.</p>
+
+      <h2>10. Support &amp; Contact</h2>
+      <p>For questions, bug reports or support requests, please contact us at <a href="mailto:blueng.choi@gmail.com">blueng.choi@gmail.com</a>.</p>
+    </div>
+
+    <!-- Korean -->
+    <div id="lang-ko" class="section hidden">
+      <div class="app-name">웨이크플로우</div>
+      <h1>개인정보처리방침 &amp; 고객지원</h1>
+      <p class="last-updated">최종 업데이트: 2026년 5월 9일</p>
+
+      <div class="highlight">
+        <p><strong>웨이크플로우는 로컬 우선 수면·아침 루틴 앱입니다. 수면 기록, 알람, 루틴, 프로필은 모두 사용자의 기기에만 저장됩니다. 자체 백엔드 서버를 운영하지 않으며 개인정보를 수집하지 않습니다.</strong></p>
+      </div>
+
+      <h2>1. 처리하는 정보</h2>
+      <p>웨이크플로우에 입력하시는 정보(취침/기상 시각, 수면 질, 영향 요소, 모닝 루틴 체크, 알람 설정, 목표 기상 시각, 수면 목표 등)는 운영체제의 로컬 저장소에만 보관됩니다. 사용자가 명시적으로 공유(예: 공유 카드에서 시스템 공유 시트 사용)하지 않는 한 기기 외부로 전송되지 않습니다.</p>
+
+      <h2>2. 선택적 AI 코치 (Gemini)</h2>
+      <p>AI 코치 기능은 선택 기능입니다. 설정에서 Google Gemini API 키를 직접 입력해야 활성화됩니다. 활성화 시:</p>
+      <ul>
+        <li>최근 수면 요약과 루틴 진행 현황이 Google Gemini API로 전송되어 코칭 응답을 생성합니다.</li>
+        <li>본인 API 키로 전송되는 데이터에 대한 책임은 사용자에게 있습니다. <a href="https://ai.google.dev/gemini-api/terms" target="_blank" rel="noopener">Google Gemini API 이용약관</a> 및 개인정보 안내를 확인해 주세요.</li>
+        <li>웨이크플로우는 이러한 요청을 서버에 보관하거나 중계하지 않습니다.</li>
+      </ul>
+
+      <h2>3. 알림</h2>
+      <p>알람과 리마인더는 기기 내부에서 예약되는 로컬 알림을 사용합니다. 푸시 알림이나 알림 서버를 사용하지 않습니다.</p>
+
+      <h2>4. 센서</h2>
+      <p>알람 해제용 흔들기 미션은 깨우기 화면이 표시되는 동안에만 가속도 센서를 실시간으로 사용합니다. 센서 값은 흔들림 횟수를 세는 용도로 메모리에서만 처리되며 저장·전송되지 않습니다.</p>
+
+      <h2>5. 광고</h2>
+      <p>앱을 무료로 제공하기 위해 Google AdMob 광고를 표시합니다. AdMob은 광고 제공을 위해 광고 식별자 및 기술 정보를 수집할 수 있습니다. 기기 설정(iOS의 "광고 추적 제한", Android의 "광고 ID 재설정/삭제")에서 광고 환경설정을 관리할 수 있습니다. 자세한 내용은 <a href="https://policies.google.com/privacy" target="_blank" rel="noopener">Google 개인정보처리방침</a>을 참고하세요.</p>
+
+      <h2>6. 요청 권한</h2>
+      <ul>
+        <li><strong>알림</strong> — 알람·리마인더 발생용.</li>
+        <li><strong>정확한 알람 예약</strong>(Android 12 이상) — 정확한 시각에 알람을 울리기 위함.</li>
+        <li><strong>모션/가속도 센서</strong> — 흔들기 알람 미션 감지용.</li>
+        <li><strong>진동·웨이크 락</strong> — 알람 발생 시 깨우기 화면 유지 및 진동.</li>
+      </ul>
+
+      <h2>7. 데이터 보관 &amp; 삭제</h2>
+      <p>모든 데이터는 기기 내부에 저장됩니다. 삭제하려면 앱을 제거하거나 시스템 설정에서 앱 데이터를 초기화하세요.</p>
+
+      <h2>8. 아동 개인정보</h2>
+      <p>웨이크플로우는 만 13세 미만 아동을 대상으로 하지 않으며 아동의 개인정보를 의도적으로 수집하지 않습니다.</p>
+
+      <h2>9. 정책 변경</h2>
+      <p>본 방침은 변경될 수 있으며 중요한 변경은 상단의 "최종 업데이트" 날짜로 표시됩니다.</p>
+
+      <h2>10. 고객 지원 &amp; 문의</h2>
+      <p>문의·버그 제보·지원 요청은 <a href="mailto:blueng.choi@gmail.com">blueng.choi@gmail.com</a> 으로 연락 주세요.</p>
+    </div>
+
+    <!-- Japanese -->
+    <div id="lang-ja" class="section hidden">
+      <div class="app-name">WakeFlow</div>
+      <h1>プライバシーポリシー &amp; サポート</h1>
+      <p class="last-updated">最終更新日: 2026年5月9日</p>
+
+      <div class="highlight">
+        <p><strong>WakeFlow はローカルファーストの睡眠・モーニングルーティンアプリです。睡眠記録、アラーム、ルーティン、プロフィールはすべてお使いの端末に保存されます。当方は独自のバックエンドサーバーを運営しておらず、個人情報を収集しません。</strong></p>
+      </div>
+
+      <h2>1. 取り扱う情報</h2>
+      <p>WakeFlow に入力した情報（就寝・起床時刻、睡眠の質、影響要因、モーニングルーティンのチェック、アラーム設定、目標起床時刻、睡眠目標など）は、OS のローカルストレージにのみ保存されます。ユーザーが明示的に共有（例: シェアカードからシステムの共有シートを利用）しない限り、端末外に送信されることはありません。</p>
+
+      <h2>2. オプションの AI コーチ (Gemini)</h2>
+      <p>AI コーチ機能はオプションです。設定画面でご自身の Google Gemini API キーを入力した場合のみ有効になります。有効化した場合:</p>
+      <ul>
+        <li>直近の睡眠サマリーとルーティンの進捗が Google Gemini API に送信され、コーチング応答が生成されます。</li>
+        <li>ご自身の API キーで送信されるデータについてはユーザーが責任を負います。<a href="https://ai.google.dev/gemini-api/terms" target="_blank" rel="noopener">Google Gemini API 規約</a>とプライバシー案内をご確認ください。</li>
+        <li>WakeFlow はこれらのリクエストをサーバーに保存・中継しません。</li>
+      </ul>
+
+      <h2>3. 通知</h2>
+      <p>アラームやリマインダーには、端末内でスケジュールされるローカル通知を使用します。プッシュ通知や通知サーバーは使用しません。</p>
+
+      <h2>4. センサー</h2>
+      <p>起床アラームのシェイクミッションは、起床画面が表示されている間のみ加速度センサーをリアルタイムで使用します。センサー値は振動回数のカウントのためにメモリ上で処理されるのみで、保存・送信されることはありません。</p>
+
+      <h2>5. 広告</h2>
+      <p>アプリを無料でご利用いただくために Google AdMob の広告を表示します。AdMob は広告配信のために広告識別子や技術情報を収集する場合があります。広告設定は端末の設定（iOS の「広告トラッキングを制限」、Android の「広告 ID をリセット/削除」）から管理できます。詳細は <a href="https://policies.google.com/privacy" target="_blank" rel="noopener">Google プライバシーポリシー</a>をご確認ください。</p>
+
+      <h2>6. リクエストする権限</h2>
+      <ul>
+        <li><strong>通知</strong> — アラームとリマインダーの発火に使用。</li>
+        <li><strong>正確なアラームのスケジューリング</strong>（Android 12 以降）— 指定時刻に正確に発火させるため。</li>
+        <li><strong>モーション/加速度センサー</strong> — シェイクアラームミッションの検知用。</li>
+        <li><strong>バイブレーション・ウェイクロック</strong> — アラーム発火時に起床画面を維持し振動させるため。</li>
+      </ul>
+
+      <h2>7. データの保管 &amp; 削除</h2>
+      <p>すべてのデータは端末内に保存されます。削除するにはアプリをアンインストールするか、システム設定からアプリデータをクリアしてください。</p>
+
+      <h2>8. 児童のプライバシー</h2>
+      <p>WakeFlow は 13 歳未満の児童を対象としておらず、児童から意図的に個人情報を収集することはありません。</p>
+
+      <h2>9. ポリシーの変更</h2>
+      <p>本ポリシーは更新されることがあります。重要な変更は上部の「最終更新日」に反映されます。</p>
+
+      <h2>10. サポート &amp; お問い合わせ</h2>
+      <p>お問い合わせ・不具合報告・サポートのご依頼は <a href="mailto:blueng.choi@gmail.com">blueng.choi@gmail.com</a> までご連絡ください。</p>
+    </div>
+
+    <!-- Simplified Chinese -->
+    <div id="lang-zh" class="section hidden">
+      <div class="app-name">WakeFlow</div>
+      <h1>隐私政策 &amp; 客户支持</h1>
+      <p class="last-updated">最近更新: 2026年5月9日</p>
+
+      <div class="highlight">
+        <p><strong>WakeFlow 是一款本地优先的睡眠与晨间习惯应用。您的睡眠记录、闹钟、习惯和个人档案均仅保存在您的设备上。我们不运行任何后端服务器，也不收集您的个人数据。</strong></p>
+      </div>
+
+      <h2>1. 我们处理的信息</h2>
+      <p>您在 WakeFlow 中输入的信息（就寝/起床时间、睡眠质量、影响因素、晨间习惯打卡、闹钟设置、目标起床时间和睡眠目标等）仅保存在操作系统的本地存储中。除非您主动选择分享（例如从分享卡片中使用系统分享面板），否则不会离开您的设备。</p>
+
+      <h2>2. 可选的 AI 教练 (Gemini)</h2>
+      <p>AI 教练为可选功能，仅在您于设置中填入自己的 Google Gemini API 密钥后才会启用。启用后:</p>
+      <ul>
+        <li>近期的睡眠摘要与习惯进度会发送到 Google Gemini API 以生成教练回复。</li>
+        <li>使用您自有的 API 密钥发送的数据由您自行负责。请参阅 <a href="https://ai.google.dev/gemini-api/terms" target="_blank" rel="noopener">Google Gemini API 条款</a>及其隐私说明。</li>
+        <li>WakeFlow 不会在服务器上保存或转发这些请求。</li>
+      </ul>
+
+      <h2>3. 通知</h2>
+      <p>闹钟与提醒使用在设备本地排程的本地通知。我们不使用推送通知，也不运行通知服务器。</p>
+
+      <h2>4. 传感器</h2>
+      <p>起床闹钟的摇晃任务仅在起床页面显示期间实时读取加速度感应器。传感器数值仅在内存中用于摇晃计数，绝不会被保存或传输。</p>
+
+      <h2>5. 广告</h2>
+      <p>为保持应用免费，WakeFlow 会展示 Google AdMob 广告。AdMob 可能会收集广告标识符及技术数据用于投放广告。您可以在设备设置中管理广告偏好（iOS 的"限制广告追踪"，Android 的"重置/删除广告 ID"）。详情请参阅 <a href="https://policies.google.com/privacy" target="_blank" rel="noopener">Google 隐私政策</a>。</p>
+
+      <h2>6. 请求的权限</h2>
+      <ul>
+        <li><strong>通知</strong> — 用于触发闹钟和提醒。</li>
+        <li><strong>精准闹钟排程</strong>（Android 12+）— 用于在准确时刻触发闹钟。</li>
+        <li><strong>运动/加速度感应器</strong> — 用于摇晃闹钟任务的检测。</li>
+        <li><strong>振动 / Wake Lock</strong> — 用于在闹钟响起时保持起床页面唤醒并震动。</li>
+      </ul>
+
+      <h2>7. 数据保留与删除</h2>
+      <p>所有数据均保存在设备本地。如需删除，请卸载应用或在系统设置中清除应用数据。</p>
+
+      <h2>8. 儿童隐私</h2>
+      <p>WakeFlow 不面向 13 岁以下儿童，我们不会故意收集儿童的个人信息。</p>
+
+      <h2>9. 政策变更</h2>
+      <p>本政策可能会更新，重要变更将通过更新顶部的"最近更新"日期体现。</p>
+
+      <h2>10. 客户支持与联系</h2>
+      <p>如有任何疑问、缺陷反馈或支持需求，请发送邮件至 <a href="mailto:blueng.choi@gmail.com">blueng.choi@gmail.com</a>。</p>
+    </div>
+
+    <footer>© 2026 Seungman Choi · WakeFlow</footer>
+  </div>
+
+  <script>
+    function switchLang(lang) {
+      ['en', 'ko', 'ja', 'zh'].forEach(function (l) {
+        document.getElementById('lang-' + l).classList.toggle('hidden', l !== lang);
+        document.getElementById('btn-' + l).classList.toggle('active', l === lang);
+      });
+    }
+
+    (function () {
+      var nav = (navigator.language || 'en').toLowerCase();
+      var initial = 'en';
+      if (nav.startsWith('ko')) initial = 'ko';
+      else if (nav.startsWith('ja')) initial = 'ja';
+      else if (nav.startsWith('zh')) initial = 'zh';
+      switchLang(initial);
+    })();
+  </script>
+</body>
+</html>
