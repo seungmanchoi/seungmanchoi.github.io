@@ -1,0 +1,457 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>English Diary - Privacy Policy</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      background: #0a0a0a;
+      color: #e0e0e0;
+      line-height: 1.7;
+      padding: 0 20px;
+    }
+    .container {
+      max-width: 720px;
+      margin: 0 auto;
+      padding: 40px 0 80px;
+    }
+    .lang-switch {
+      text-align: right;
+      margin-bottom: 20px;
+    }
+    .lang-switch button {
+      background: none;
+      border: 1px solid #444;
+      color: #aaa;
+      padding: 6px 14px;
+      border-radius: 6px;
+      cursor: pointer;
+      font-size: 14px;
+      margin-left: 8px;
+    }
+    .lang-switch button.active {
+      background: #9B6DD6;
+      border-color: #9B6DD6;
+      color: #fff;
+    }
+    h1 {
+      font-size: 28px;
+      color: #fff;
+      margin-bottom: 8px;
+    }
+    .app-name {
+      color: #9B6DD6;
+      font-size: 14px;
+      font-weight: 600;
+      margin-bottom: 4px;
+    }
+    .last-updated {
+      color: #888;
+      font-size: 13px;
+      margin-bottom: 40px;
+    }
+    h2 {
+      font-size: 20px;
+      color: #fff;
+      margin-top: 36px;
+      margin-bottom: 12px;
+      padding-bottom: 8px;
+      border-bottom: 1px solid #222;
+    }
+    p { margin-bottom: 14px; color: #ccc; }
+    ul {
+      margin: 10px 0 14px 20px;
+      color: #ccc;
+    }
+    li { margin-bottom: 6px; }
+    strong { color: #e0e0e0; }
+    a { color: #9B6DD6; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    .highlight {
+      background: #1a1326;
+      border-left: 3px solid #9B6DD6;
+      padding: 14px 18px;
+      border-radius: 0 8px 8px 0;
+      margin: 16px 0;
+    }
+    .highlight p { margin-bottom: 0; }
+    .section { display: block; }
+    .hidden { display: none; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="lang-switch">
+      <button id="btn-en" class="active" onclick="switchLang('en')">English</button>
+      <button id="btn-ko" onclick="switchLang('ko')">한국어</button>
+      <button id="btn-ja" onclick="switchLang('ja')">日本語</button>
+      <button id="btn-zh" onclick="switchLang('zh')">中文</button>
+    </div>
+
+    <!-- English -->
+    <div id="lang-en" class="section">
+      <div class="app-name">English Diary - AI Writing Coach</div>
+      <h1>Privacy Policy</h1>
+      <p class="last-updated">Last Updated: June 13, 2026</p>
+
+      <div class="highlight">
+        <p><strong>English Diary stores all your diary entries locally on your device. When you ask for an AI correction, the text you wrote is sent directly from your device to Google Gemini using your own API key. We operate no server and never receive, store, or have access to your diary.</strong></p>
+      </div>
+
+      <h2>1. Overview</h2>
+      <p>English Diary - AI Writing Coach ("the App") helps you write a diary in English and receive warm, encouraging AI corrections. We are committed to protecting your privacy. This Privacy Policy explains what information is involved and how it is handled.</p>
+      <p>The App requires no account or login. Your diary entries, corrections, and saved expressions remain on your device.</p>
+
+      <h2>2. Data Storage</h2>
+      <p>All data created within the App — diary entries, AI correction results, saved expressions, photos you attach, and settings — is:</p>
+      <ul>
+        <li>Stored <strong>locally</strong> on your device using on-device storage</li>
+        <li><strong>Never uploaded</strong> to any server operated by us (we run no backend)</li>
+        <li><strong>Never accessible</strong> by the developer</li>
+        <li>Removed permanently when you uninstall the App</li>
+      </ul>
+
+      <h2>3. AI Correction and Your API Key</h2>
+      <p>The AI correction feature works using <strong>your own Google Gemini API key</strong>, which you enter in the App's settings:</p>
+      <ul>
+        <li>Your API key is stored securely on your device using the operating system's secure storage (iOS Keychain / Android Keystore). It is never transmitted to us.</li>
+        <li>When you request a correction, the diary text you wrote is sent <strong>directly from your device to Google's Gemini API</strong> (<code>generativelanguage.googleapis.com</code>) to generate the correction.</li>
+        <li>This transmission happens only when you explicitly request a correction. Your text is not sent anywhere otherwise.</li>
+        <li>The handling of data you send to Gemini is governed by Google's terms and privacy policy for the Gemini API.</li>
+      </ul>
+
+      <h2>4. Information We Collect</h2>
+
+      <h3 style="font-size:16px;color:#ddd;margin:20px 0 8px;">4.1 Advertising Data</h3>
+      <p>The App shows ads through <strong>Google AdMob</strong> (banner, interstitial, and optional rewarded ads). AdMob may collect:</p>
+      <ul>
+        <li>Device advertising identifier (IDFA/GAID)</li>
+        <li>IP address (for approximate location-based ad targeting)</li>
+        <li>Ad interaction data (impressions, clicks, completions)</li>
+      </ul>
+      <p>On iOS, the App asks for your permission (App Tracking Transparency) before using your advertising identifier for personalized ads, and a consent form (Google UMP) is shown where required.</p>
+
+      <h3 style="font-size:16px;color:#ddd;margin:20px 0 8px;">4.2 Device Permissions</h3>
+      <p>The App may request the following device permissions, each only when you use the related feature:</p>
+      <ul>
+        <li><strong>Notifications</strong>: Optional, to send daily reminders to write your diary.</li>
+        <li><strong>Camera / Photo Library</strong>: Optional, to attach a photo to a diary entry. Photos stay on your device.</li>
+        <li><strong>Face ID / Biometrics</strong>: Optional, to lock and unlock the App locally. Biometric data never leaves your device and is handled by the operating system.</li>
+      </ul>
+
+      <h2>5. Information We Do NOT Collect</h2>
+      <ul>
+        <li>Your name, email address, or personal identity</li>
+        <li>Your diary entries or correction results (we have no server)</li>
+        <li>Your Gemini API key</li>
+        <li>Account credentials (no account required)</li>
+        <li>Usage analytics or behavioral tracking by the developer</li>
+        <li>Payment or purchase information (no in-app purchases)</li>
+      </ul>
+
+      <h2>6. Third-Party Services</h2>
+      <ul>
+        <li><strong>Google Gemini API</strong>: AI correction of the text you submit. <a href="https://ai.google.dev/gemini-api/terms" target="_blank">Gemini API Terms</a> · <a href="https://policies.google.com/privacy" target="_blank">Google Privacy Policy</a></li>
+        <li><strong>Google AdMob</strong>: Ad delivery. <a href="https://policies.google.com/privacy" target="_blank">Google Privacy Policy</a></li>
+      </ul>
+      <p>No other third-party analytics, crash reporting, or tracking SDKs are integrated into the App.</p>
+
+      <h2>7. Children's Privacy</h2>
+      <p>The App does not knowingly collect personal information from children under 13. It requires no account registration. Ad content is configured for a general audience.</p>
+
+      <h2>8. Data Deletion</h2>
+      <p>Since all your content is stored locally on your device, you can delete it at any time by:</p>
+      <ul>
+        <li>Deleting individual diary entries within the App</li>
+        <li>Removing your Gemini API key in the App's settings</li>
+        <li>Uninstalling the App (removes all local data permanently)</li>
+      </ul>
+      <p>We have no access to your data and cannot delete it on your behalf.</p>
+
+      <h2>9. Changes to This Policy</h2>
+      <p>We may update this Privacy Policy from time to time. Changes will be reflected by the "Last Updated" date at the top of this page. Continued use of the App after changes constitutes acceptance of the updated policy.</p>
+
+      <h2>10. Contact Us</h2>
+      <p>If you have any questions about this Privacy Policy, please contact us at:</p>
+      <p><a href="mailto:blueng.choi@gmail.com">blueng.choi@gmail.com</a></p>
+    </div>
+
+    <!-- Korean -->
+    <div id="lang-ko" class="section hidden">
+      <div class="app-name">English Diary - AI 영어일기 코치</div>
+      <h1>개인정보처리방침</h1>
+      <p class="last-updated">최종 업데이트: 2026년 6월 13일</p>
+
+      <div class="highlight">
+        <p><strong>English Diary는 모든 일기를 기기 내에 로컬 저장합니다. AI 첨삭을 요청할 때만, 작성하신 글이 회원님의 API 키를 사용해 기기에서 Google Gemini로 직접 전송됩니다. 개발자는 서버를 운영하지 않으며, 일기를 수신·저장하거나 접근할 수 없습니다.</strong></p>
+      </div>
+
+      <h2>1. 개요</h2>
+      <p>English Diary - AI 영어일기 코치("본 앱")는 영어로 일기를 쓰고 따뜻하고 격려하는 AI 첨삭을 받을 수 있도록 돕는 앱입니다. 본 개인정보처리방침은 어떤 정보가 관여되며 어떻게 처리되는지 설명합니다.</p>
+      <p>본 앱은 계정 또는 로그인이 필요하지 않습니다. 일기, 첨삭 결과, 저장한 표현은 기기 내에 보관됩니다.</p>
+
+      <h2>2. 데이터 저장</h2>
+      <p>본 앱에서 생성되는 모든 데이터(일기, AI 첨삭 결과, 저장한 표현, 첨부한 사진, 설정)는:</p>
+      <ul>
+        <li>기기 내 저장소를 사용하여 <strong>로컬</strong> 저장됩니다</li>
+        <li>개발자가 운영하는 어떠한 서버에도 <strong>업로드되지 않습니다</strong> (백엔드 없음)</li>
+        <li>개발자가 <strong>접근할 수 없습니다</strong></li>
+        <li>앱 삭제 시 영구적으로 제거됩니다</li>
+      </ul>
+
+      <h2>3. AI 첨삭과 회원님의 API 키</h2>
+      <p>AI 첨삭 기능은 설정에서 직접 입력하시는 <strong>회원님 본인의 Google Gemini API 키</strong>로 동작합니다:</p>
+      <ul>
+        <li>API 키는 운영체제의 보안 저장소(iOS Keychain / Android Keystore)를 사용해 기기에 안전하게 저장되며, 개발자에게 전송되지 않습니다.</li>
+        <li>첨삭을 요청하면, 작성하신 일기 텍스트가 <strong>기기에서 Google Gemini API</strong>(<code>generativelanguage.googleapis.com</code>)<strong>로 직접 전송</strong>되어 첨삭 결과가 생성됩니다.</li>
+        <li>이 전송은 회원님이 직접 첨삭을 요청할 때만 발생합니다. 그 외에는 텍스트가 어디로도 전송되지 않습니다.</li>
+        <li>Gemini로 전송된 데이터의 처리는 Gemini API에 대한 Google의 약관 및 개인정보처리방침을 따릅니다.</li>
+      </ul>
+
+      <h2>4. 수집하는 정보</h2>
+
+      <h3 style="font-size:16px;color:#ddd;margin:20px 0 8px;">4.1 광고 데이터</h3>
+      <p>본 앱은 <strong>Google AdMob</strong>을 통해 광고(배너, 전면, 선택형 보상 광고)를 제공합니다. AdMob은 다음을 수집할 수 있습니다:</p>
+      <ul>
+        <li>기기 광고 식별자 (IDFA/GAID)</li>
+        <li>IP 주소 (대략적인 위치 기반 광고 타겟팅용)</li>
+        <li>광고 상호작용 데이터 (노출, 클릭, 완료)</li>
+      </ul>
+      <p>iOS에서는 맞춤형 광고를 위해 광고 식별자를 사용하기 전에 동의(App Tracking Transparency)를 요청하며, 필요한 경우 동의 양식(Google UMP)을 표시합니다.</p>
+
+      <h3 style="font-size:16px;color:#ddd;margin:20px 0 8px;">4.2 기기 권한</h3>
+      <p>본 앱은 관련 기능을 사용할 때에 한해 다음 기기 권한을 요청할 수 있습니다:</p>
+      <ul>
+        <li><strong>알림</strong>: 선택 사항으로, 매일 일기 작성을 유도하는 리마인더를 전송합니다.</li>
+        <li><strong>카메라 / 사진 라이브러리</strong>: 선택 사항으로, 일기에 사진을 첨부하는 데 사용합니다. 사진은 기기 내에 보관됩니다.</li>
+        <li><strong>Face ID / 생체인증</strong>: 선택 사항으로, 앱을 로컬에서 잠그고 해제하는 데 사용합니다. 생체 정보는 기기를 벗어나지 않으며 운영체제가 처리합니다.</li>
+      </ul>
+
+      <h2>5. 수집하지 않는 정보</h2>
+      <ul>
+        <li>이름, 이메일 주소 또는 개인 신원 정보</li>
+        <li>일기 내용 또는 첨삭 결과 (서버 없음)</li>
+        <li>회원님의 Gemini API 키</li>
+        <li>계정 정보 (계정 불필요)</li>
+        <li>개발자에 의한 사용 분석 또는 행동 추적</li>
+        <li>결제 또는 구매 정보 (인앱 구매 없음)</li>
+      </ul>
+
+      <h2>6. 제3자 서비스</h2>
+      <ul>
+        <li><strong>Google Gemini API</strong>: 회원님이 제출한 텍스트의 AI 첨삭. <a href="https://ai.google.dev/gemini-api/terms" target="_blank">Gemini API 약관</a> · <a href="https://policies.google.com/privacy" target="_blank">Google 개인정보처리방침</a></li>
+        <li><strong>Google AdMob</strong>: 광고 제공. <a href="https://policies.google.com/privacy" target="_blank">Google 개인정보처리방침</a></li>
+      </ul>
+      <p>다른 제3자 분석, 오류 보고 또는 추적 SDK는 앱에 통합되어 있지 않습니다.</p>
+
+      <h2>7. 아동 개인정보 보호</h2>
+      <p>본 앱은 만 13세 미만 아동의 개인정보를 의도적으로 수집하지 않습니다. 계정 등록도 필요하지 않습니다. 광고 콘텐츠는 일반 사용자 대상으로 설정되어 있습니다.</p>
+
+      <h2>8. 데이터 삭제</h2>
+      <p>모든 콘텐츠는 기기에 로컬 저장되므로, 다음 방법으로 언제든지 삭제할 수 있습니다:</p>
+      <ul>
+        <li>앱 내에서 개별 일기 삭제</li>
+        <li>앱 설정에서 Gemini API 키 삭제</li>
+        <li>앱 삭제 (모든 로컬 데이터가 영구 삭제됩니다)</li>
+      </ul>
+      <p>개발자는 데이터에 접근할 수 없으며 대신 삭제해 드릴 수 없습니다.</p>
+
+      <h2>9. 방침 변경</h2>
+      <p>본 개인정보처리방침은 수시로 업데이트될 수 있습니다. 변경 사항은 상단의 "최종 업데이트" 날짜에 반영됩니다. 변경 후 앱을 계속 사용하면 업데이트된 방침에 동의한 것으로 간주됩니다.</p>
+
+      <h2>10. 문의</h2>
+      <p>본 개인정보처리방침에 관한 질문이 있으시면 아래로 연락해 주세요:</p>
+      <p><a href="mailto:blueng.choi@gmail.com">blueng.choi@gmail.com</a></p>
+    </div>
+
+    <!-- Japanese -->
+    <div id="lang-ja" class="section hidden">
+      <div class="app-name">English Diary - AI英語日記コーチ</div>
+      <h1>プライバシーポリシー</h1>
+      <p class="last-updated">最終更新日: 2026年6月13日</p>
+
+      <div class="highlight">
+        <p><strong>English Diaryはすべての日記をお使いのデバイスにローカル保存します。AI添削をリクエストしたときのみ、あなたが書いた文章があなた自身のAPIキーを使ってデバイスからGoogle Geminiへ直接送信されます。開発者はサーバーを運用しておらず、あなたの日記を受信・保存・閲覧することはありません。</strong></p>
+      </div>
+
+      <h2>1. 概要</h2>
+      <p>English Diary - AI英語日記コーチ（「本アプリ」）は、英語で日記を書き、温かく励ましてくれるAI添削を受けられるよう支援するアプリです。本プライバシーポリシーは、どのような情報が関わり、どのように扱われるかを説明します。</p>
+      <p>本アプリはアカウントやログインを必要としません。日記、添削結果、保存した表現はデバイス内に保管されます。</p>
+
+      <h2>2. データ保存</h2>
+      <p>本アプリ内で作成されたすべてのデータ（日記、AI添削結果、保存した表現、添付した写真、設定）は：</p>
+      <ul>
+        <li>デバイス内のストレージを使用して<strong>ローカル</strong>に保存されます</li>
+        <li>開発者が運用するいかなるサーバーにも<strong>アップロードされません</strong>（バックエンドなし）</li>
+        <li>開発者が<strong>アクセスすることはできません</strong></li>
+        <li>アプリをアンインストールすると永久に削除されます</li>
+      </ul>
+
+      <h2>3. AI添削とあなたのAPIキー</h2>
+      <p>AI添削機能は、設定画面で入力する<strong>あなた自身のGoogle Gemini APIキー</strong>を使って動作します：</p>
+      <ul>
+        <li>APIキーはOSのセキュアストレージ（iOS Keychain / Android Keystore）を使ってデバイスに安全に保存され、開発者に送信されることはありません。</li>
+        <li>添削をリクエストすると、あなたが書いた日記のテキストが<strong>デバイスからGoogleのGemini API</strong>（<code>generativelanguage.googleapis.com</code>）<strong>へ直接送信</strong>され、添削結果が生成されます。</li>
+        <li>この送信は、あなたが明示的に添削をリクエストしたときのみ発生します。それ以外の場合、テキストはどこにも送信されません。</li>
+        <li>Geminiへ送信されたデータの取り扱いは、Gemini APIに関するGoogleの規約およびプライバシーポリシーに従います。</li>
+      </ul>
+
+      <h2>4. 収集する情報</h2>
+
+      <h3 style="font-size:16px;color:#ddd;margin:20px 0 8px;">4.1 広告データ</h3>
+      <p>本アプリは<strong>Google AdMob</strong>を通じて広告（バナー、インタースティシャル、任意のリワード広告）を提供します。AdMobが収集する可能性があるもの：</p>
+      <ul>
+        <li>デバイス広告識別子（IDFA/GAID）</li>
+        <li>IPアドレス（おおよその位置情報に基づく広告ターゲティング用）</li>
+        <li>広告インタラクションデータ（インプレッション、クリック、完了）</li>
+      </ul>
+      <p>iOSでは、パーソナライズ広告のために広告識別子を使用する前に同意（App Tracking Transparency）を求め、必要に応じて同意フォーム（Google UMP）を表示します。</p>
+
+      <h3 style="font-size:16px;color:#ddd;margin:20px 0 8px;">4.2 デバイス権限</h3>
+      <p>本アプリは、関連機能を使用するときに限り、以下のデバイス権限を要求する場合があります：</p>
+      <ul>
+        <li><strong>通知</strong>：任意で、毎日日記を書くリマインダーを送信します。</li>
+        <li><strong>カメラ / フォトライブラリ</strong>：任意で、日記に写真を添付するために使用します。写真はデバイス内に保管されます。</li>
+        <li><strong>Face ID / 生体認証</strong>：任意で、アプリをローカルでロック・解除するために使用します。生体情報はデバイスを離れることはなく、OSが処理します。</li>
+      </ul>
+
+      <h2>5. 収集しない情報</h2>
+      <ul>
+        <li>氏名、メールアドレス、または個人識別情報</li>
+        <li>日記の内容や添削結果（サーバーなし）</li>
+        <li>あなたのGemini APIキー</li>
+        <li>アカウント情報（アカウント不要）</li>
+        <li>開発者による利用分析や行動トラッキング</li>
+        <li>支払いや購入情報（アプリ内購入なし）</li>
+      </ul>
+
+      <h2>6. 第三者サービス</h2>
+      <ul>
+        <li><strong>Google Gemini API</strong>：あなたが送信したテキストのAI添削。<a href="https://ai.google.dev/gemini-api/terms" target="_blank">Gemini API利用規約</a> · <a href="https://policies.google.com/privacy" target="_blank">Googleプライバシーポリシー</a></li>
+        <li><strong>Google AdMob</strong>：広告の配信。<a href="https://policies.google.com/privacy" target="_blank">Googleプライバシーポリシー</a></li>
+      </ul>
+      <p>その他の第三者分析、クラッシュレポート、トラッキングSDKは本アプリに統合されていません。</p>
+
+      <h2>7. 子どものプライバシー</h2>
+      <p>本アプリは13歳未満の子どもの個人情報を意図的に収集することはありません。アカウント登録も不要です。広告コンテンツは一般ユーザー向けに設定されています。</p>
+
+      <h2>8. データの削除</h2>
+      <p>すべてのコンテンツはデバイスにローカル保存されているため、以下の方法でいつでも削除できます：</p>
+      <ul>
+        <li>アプリ内で個別の日記を削除する</li>
+        <li>アプリ設定でGemini APIキーを削除する</li>
+        <li>アプリをアンインストールする（すべてのローカルデータが永久に削除されます）</li>
+      </ul>
+      <p>開発者はデータにアクセスできないため、代わりに削除することはできません。</p>
+
+      <h2>9. ポリシーの変更</h2>
+      <p>本プライバシーポリシーは随時更新される場合があります。変更はページ上部の「最終更新日」に反映されます。変更後もアプリを継続して使用することで、更新されたポリシーへの同意とみなされます。</p>
+
+      <h2>10. お問い合わせ</h2>
+      <p>本プライバシーポリシーに関するご質問は、以下にお問い合わせください：</p>
+      <p><a href="mailto:blueng.choi@gmail.com">blueng.choi@gmail.com</a></p>
+    </div>
+
+    <!-- Chinese -->
+    <div id="lang-zh" class="section hidden">
+      <div class="app-name">English Diary - AI 英语日记教练</div>
+      <h1>隐私政策</h1>
+      <p class="last-updated">最后更新日期：2026年6月13日</p>
+
+      <div class="highlight">
+        <p><strong>English Diary 将您的所有日记本地存储在您的设备上。仅当您请求 AI 批改时，您所写的文本才会使用您自己的 API 密钥从设备直接发送至 Google Gemini。我们不运营任何服务器，绝不接收、存储或访问您的日记。</strong></p>
+      </div>
+
+      <h2>1. 概述</h2>
+      <p>English Diary - AI 英语日记教练（"本应用"）帮助您用英语写日记，并获得温暖、鼓励性的 AI 批改。本隐私政策说明涉及哪些信息及其处理方式。</p>
+      <p>本应用无需账户或登录。您的日记、批改结果和保存的表达均保存在您的设备上。</p>
+
+      <h2>2. 数据存储</h2>
+      <p>本应用中创建的所有数据（日记、AI 批改结果、保存的表达、您附加的照片和设置）：</p>
+      <ul>
+        <li>使用设备本地存储进行 <strong>本地存储</strong></li>
+        <li><strong>绝不上传</strong>至我们运营的任何服务器（我们没有后端）</li>
+        <li>开发者<strong>无法访问</strong></li>
+        <li>卸载应用时将永久删除</li>
+      </ul>
+
+      <h2>3. AI 批改与您的 API 密钥</h2>
+      <p>AI 批改功能使用您在应用设置中输入的<strong>您自己的 Google Gemini API 密钥</strong>运行：</p>
+      <ul>
+        <li>您的 API 密钥使用操作系统的安全存储（iOS Keychain / Android Keystore）安全地保存在您的设备上，绝不会传输给我们。</li>
+        <li>当您请求批改时，您所写的日记文本会<strong>从您的设备直接发送至 Google 的 Gemini API</strong>（<code>generativelanguage.googleapis.com</code>）以生成批改结果。</li>
+        <li>此传输仅在您明确请求批改时发生。在其他情况下，您的文本不会发送至任何地方。</li>
+        <li>发送至 Gemini 的数据的处理受 Google 关于 Gemini API 的条款和隐私政策约束。</li>
+      </ul>
+
+      <h2>4. 我们收集的信息</h2>
+
+      <h3 style="font-size:16px;color:#ddd;margin:20px 0 8px;">4.1 广告数据</h3>
+      <p>本应用通过 <strong>Google AdMob</strong> 展示广告（横幅、插屏和可选的激励广告）。AdMob 可能收集：</p>
+      <ul>
+        <li>设备广告标识符（IDFA/GAID）</li>
+        <li>IP 地址（用于基于大致位置的广告定向）</li>
+        <li>广告互动数据（展示、点击、完成）</li>
+      </ul>
+      <p>在 iOS 上，本应用会在使用您的广告标识符进行个性化广告之前请求您的许可（App Tracking Transparency），并在必要时显示同意表单（Google UMP）。</p>
+
+      <h3 style="font-size:16px;color:#ddd;margin:20px 0 8px;">4.2 设备权限</h3>
+      <p>本应用可能仅在您使用相关功能时请求以下设备权限：</p>
+      <ul>
+        <li><strong>通知</strong>：可选，用于发送每日提醒以记录日记。</li>
+        <li><strong>相机 / 相册</strong>：可选，用于为日记附加照片。照片保留在您的设备上。</li>
+        <li><strong>Face ID / 生物识别</strong>：可选，用于在本地锁定和解锁应用。生物识别数据绝不会离开您的设备，由操作系统处理。</li>
+      </ul>
+
+      <h2>5. 我们不收集的信息</h2>
+      <ul>
+        <li>您的姓名、电子邮件地址或个人身份信息</li>
+        <li>您的日记内容或批改结果（无服务器）</li>
+        <li>您的 Gemini API 密钥</li>
+        <li>账户凭据（无需账户）</li>
+        <li>开发者进行的使用分析或行为追踪</li>
+        <li>支付或购买信息（无应用内购买）</li>
+      </ul>
+
+      <h2>6. 第三方服务</h2>
+      <ul>
+        <li><strong>Google Gemini API</strong>：对您提交的文本进行 AI 批改。<a href="https://ai.google.dev/gemini-api/terms" target="_blank">Gemini API 条款</a> · <a href="https://policies.google.com/privacy" target="_blank">Google 隐私政策</a></li>
+        <li><strong>Google AdMob</strong>：广告投放。<a href="https://policies.google.com/privacy" target="_blank">Google 隐私政策</a></li>
+      </ul>
+      <p>本应用未集成其他第三方分析、崩溃报告或追踪 SDK。</p>
+
+      <h2>7. 儿童隐私</h2>
+      <p>我们不会故意收集13岁以下儿童的个人信息。本应用不需要账户注册。广告内容针对一般受众进行配置。</p>
+
+      <h2>8. 数据删除</h2>
+      <p>由于您的所有内容均本地存储在您的设备上，您可随时通过以下方式删除：</p>
+      <ul>
+        <li>在应用内删除单条日记</li>
+        <li>在应用设置中删除您的 Gemini API 密钥</li>
+        <li>卸载应用（永久删除所有本地数据）</li>
+      </ul>
+      <p>我们无法访问您的数据，因此无法代您删除。</p>
+
+      <h2>9. 政策变更</h2>
+      <p>我们可能会不时更新本隐私政策。更改将反映在本页顶部的"最后更新日期"中。在更改后继续使用本应用即表示接受更新后的政策。</p>
+
+      <h2>10. 联系我们</h2>
+      <p>如对本隐私政策有任何疑问，请通过以下方式联系我们：</p>
+      <p><a href="mailto:blueng.choi@gmail.com">blueng.choi@gmail.com</a></p>
+    </div>
+  </div>
+
+  <script>
+    const langs = ['en', 'ko', 'ja', 'zh'];
+    function switchLang(lang) {
+      langs.forEach(function(l) {
+        document.getElementById('lang-' + l).className = l === lang ? 'section' : 'section hidden';
+        document.getElementById('btn-' + l).className = l === lang ? 'active' : '';
+      });
+    }
+  </script>
+</body>
+</html>
