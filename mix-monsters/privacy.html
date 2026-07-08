@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MixMonsters - Privacy Policy</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      background: #000120;
+      color: #e0e0e0;
+      line-height: 1.7;
+      padding: 0 20px;
+    }
+    .container { max-width: 720px; margin: 0 auto; padding: 40px 0 80px; }
+    .lang-switch { text-align: right; margin-bottom: 20px; }
+    .lang-switch button {
+      background: none;
+      border: 1px solid #3d3a6e;
+      color: #a9a3f5;
+      padding: 6px 12px;
+      border-radius: 6px;
+      cursor: pointer;
+      font-size: 14px;
+      margin: 0 0 8px 6px;
+    }
+    .lang-switch button.active {
+      background: #7c6ff0;
+      border-color: #7c6ff0;
+      color: #0b0820;
+    }
+    h1 { font-size: 28px; color: #f2effc; margin-bottom: 8px; }
+    .app-name { color: #a9a3f5; font-size: 14px; font-weight: 600; margin-bottom: 4px; }
+    .last-updated { color: #888; font-size: 13px; margin-bottom: 40px; }
+    h2 {
+      font-size: 20px;
+      color: #f2effc;
+      margin-top: 36px;
+      margin-bottom: 12px;
+      padding-bottom: 8px;
+      border-bottom: 1px solid #201d40;
+    }
+    p { margin-bottom: 14px; color: #ccc; }
+    ul { margin: 10px 0 14px 20px; color: #ccc; }
+    li { margin-bottom: 6px; }
+    strong { color: #eee; }
+    a { color: #a9a3f5; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    .highlight {
+      background: #14113a;
+      border-left: 3px solid #7c6ff0;
+      padding: 14px 18px;
+      border-radius: 0 8px 8px 0;
+      margin: 16px 0;
+    }
+    .highlight p { margin-bottom: 0; }
+    .section { display: block; }
+    .hidden { display: none; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="lang-switch">
+      <button id="btn-en" class="active" onclick="switchLang('en')">English</button>
+      <button id="btn-ko" onclick="switchLang('ko')">한국어</button>
+    </div>
+
+    <div id="lang-en" class="section">
+      <div class="app-name">MixMonsters</div>
+      <h1>Privacy Policy</h1>
+      <p class="last-updated">Last Updated: July 8, 2026</p>
+
+      <div class="highlight">
+        <p><strong>MixMonsters uses your camera to capture real-world objects as collectible cards, and uploads those photos to generate a unique AI character. You do not need to create an account or provide any personal information — every player uses an anonymous session.</strong></p>
+      </div>
+
+      <h2>1. Overview</h2>
+      <p>MixMonsters (“the App”) lets you photograph real-world objects, collect them as cards, and combine five cards to generate a one-of-a-kind battle character using AI. This policy explains how the App collects, uses, and shares information.</p>
+
+      <h2>2. Camera and Object Photos</h2>
+      <ul>
+        <li>The App uses your camera to detect objects in real time. Detection and cropping happen on your device.</li>
+        <li>When you capture an object, the cropped photo is uploaded to our server (Supabase) to check for duplicates and to store your card.</li>
+        <li>The App does not request access to your photo library — capture is camera-only.</li>
+        <li>Captured photos and the character artwork generated from them may be processed by Google's Gemini API to produce the AI concept, artwork, and stats for your character. Photos are used only for this purpose and are not used to identify you.</li>
+      </ul>
+
+      <h2>3. Account and Gameplay Data</h2>
+      <p>The App creates an anonymous account for you automatically — no email, phone number, or name is required. We store your collected cards, generated characters, and battle results, all tied to this anonymous account. If you delete your account from Settings, this data is permanently deleted from our servers.</p>
+
+      <h2>4. Information Processed by Third Parties</h2>
+      <p><strong>Google AdMob</strong> provides advertising and consent management. Depending on your region and choices, it may process an advertising identifier (IDFA/GAID), IP address, approximate location derived from IP, device information, and ad impressions or interactions. Ads are configured for a general audience and are not directed at young children.</p>
+      <p><strong>Firebase Analytics and Crashlytics</strong> help us understand aggregate feature usage and diagnose crashes. They may process app events, device and operating-system information, app version, crash traces, and a pseudonymous installation identifier. We do not include your photos or character images in analytics events.</p>
+      <p><strong>Google Gemini API</strong> processes the photos and gameplay data needed to generate your character's concept and artwork, as described in Section 2.</p>
+
+      <h2>5. Permissions</h2>
+      <ul>
+        <li><strong>Camera:</strong> required to detect and capture real-world objects.</li>
+        <li><strong>Tracking Transparency (iOS):</strong> requested after the advertising consent flow for personalized ads. You may decline.</li>
+      </ul>
+
+      <h2>6. Your Choices</h2>
+      <p>You can change advertising consent from the App's Settings, change tracking permission in iOS Settings, or permanently delete your account and all associated data from Settings → Delete Account. Declining personalized advertising does not prevent use of the App.</p>
+
+      <h2>7. Data Retention and Security</h2>
+      <p>Gameplay data (cards, characters, battle history) is retained until you delete your account. Advertising, analytics, and crash data are retained by Google according to its policies and your consent choices.</p>
+
+      <h2>8. Third-Party Policies</h2>
+      <ul>
+        <li><a href="https://policies.google.com/privacy" target="_blank" rel="noopener">Google Privacy Policy</a></li>
+        <li><a href="https://firebase.google.com/support/privacy" target="_blank" rel="noopener">Firebase Privacy and Security</a></li>
+        <li><a href="https://supabase.com/privacy" target="_blank" rel="noopener">Supabase Privacy Policy</a></li>
+      </ul>
+
+      <h2>9. Children's Privacy</h2>
+      <p>MixMonsters is a general-audience app suitable for ages 9 and up. It is not primarily directed at children under 13, advertising is configured for a general audience, and we do not knowingly collect personal information beyond what is described in this policy.</p>
+
+      <h2>10. Changes and Contact</h2>
+      <p>We may update this policy and will change the date above. Questions or support requests may be sent to <a href="mailto:blueng.choi@gmail.com">blueng.choi@gmail.com</a>.</p>
+    </div>
+
+    <div id="lang-ko" class="section hidden">
+      <div class="app-name">믹스몬스터즈</div>
+      <h1>개인정보처리방침</h1>
+      <p class="last-updated">최종 업데이트: 2026년 7월 8일</p>
+
+      <div class="highlight">
+        <p><strong>믹스몬스터즈는 카메라로 현실의 물건을 촬영해 카드로 수집하고, 그 사진을 업로드해 나만의 AI 캐릭터를 생성합니다. 계정을 만들거나 개인정보를 입력할 필요 없이 모든 플레이어는 익명 세션으로 이용합니다.</strong></p>
+      </div>
+
+      <h2>1. 개요</h2>
+      <p>믹스몬스터즈(“본 앱”)는 현실의 물건을 촬영해 카드로 수집하고, 카드 5개를 조합해 AI로 세상에 하나뿐인 전투 캐릭터를 생성하는 앱입니다. 본 방침은 앱이 정보를 수집·이용·제공하는 방식을 설명합니다.</p>
+
+      <h2>2. 카메라 및 오브젝트 사진</h2>
+      <ul>
+        <li>본 앱은 실시간으로 물건을 인식하기 위해 카메라를 사용합니다. 인식과 크롭은 기기에서 처리됩니다.</li>
+        <li>물건을 촬영하면 크롭된 사진이 중복 확인과 카드 저장을 위해 당사 서버(Supabase)로 업로드됩니다.</li>
+        <li>본 앱은 사진 보관함 접근 권한을 요청하지 않습니다 — 촬영은 카메라로만 이루어집니다.</li>
+        <li>촬영한 사진과 이를 바탕으로 생성된 캐릭터 이미지는 Google Gemini API를 통해 AI 컨셉·원화·능력치 생성에 사용될 수 있습니다. 사진은 이 목적에만 사용되며 사용자를 식별하는 데 사용되지 않습니다.</li>
+      </ul>
+
+      <h2>3. 계정 및 게임 데이터</h2>
+      <p>본 앱은 이메일·전화번호·이름 없이 자동으로 익명 계정을 생성합니다. 수집한 카드, 생성된 캐릭터, 전투 결과는 모두 이 익명 계정에 연결되어 저장됩니다. 설정에서 계정을 삭제하면 이 데이터는 서버에서 영구적으로 삭제됩니다.</p>
+
+      <h2>4. 제3자가 처리할 수 있는 정보</h2>
+      <p><strong>Google AdMob</strong>은 광고와 동의 관리를 제공합니다. 지역과 사용자의 선택에 따라 광고 식별자(IDFA/GAID), IP 주소, IP 기반 대략적 위치, 기기 정보, 광고 노출 및 상호작용 정보를 처리할 수 있습니다. 광고는 특정 연령층이 아닌 일반 사용자를 대상으로 구성되어 있습니다.</p>
+      <p><strong>Firebase Analytics 및 Crashlytics</strong>는 집계된 기능 사용 현황과 오류 진단에 사용됩니다. 앱 이벤트, 기기·운영체제 정보, 앱 버전, 충돌 기록, 가명 처리된 설치 식별자를 처리할 수 있습니다. 사용자의 사진이나 캐릭터 이미지는 분석 이벤트에 포함하지 않습니다.</p>
+      <p><strong>Google Gemini API</strong>는 2절에서 설명한 캐릭터 컨셉·원화 생성에 필요한 사진과 게임 데이터를 처리합니다.</p>
+
+      <h2>5. 권한</h2>
+      <ul>
+        <li><strong>카메라:</strong> 현실 물건을 인식하고 촬영하는 데 필요합니다.</li>
+        <li><strong>추적 투명성(iOS):</strong> 맞춤형 광고를 위해 광고 동의 절차 후 요청하며 거부할 수 있습니다.</li>
+      </ul>
+
+      <h2>6. 사용자 선택</h2>
+      <p>앱 설정에서 광고 동의를 변경하거나, iOS 설정에서 추적 권한을 변경하거나, 설정 → 계정 삭제에서 계정과 모든 관련 데이터를 영구 삭제할 수 있습니다. 맞춤형 광고를 거부해도 앱은 계속 사용할 수 있습니다.</p>
+
+      <h2>7. 보관 및 보안</h2>
+      <p>게임 데이터(카드·캐릭터·전투 기록)는 계정을 삭제할 때까지 보관됩니다. 광고·분석·충돌 데이터는 사용자의 동의 선택과 Google 정책에 따라 Google이 보관합니다.</p>
+
+      <h2>8. 제3자 정책</h2>
+      <ul>
+        <li><a href="https://policies.google.com/privacy" target="_blank" rel="noopener">Google 개인정보처리방침</a></li>
+        <li><a href="https://firebase.google.com/support/privacy" target="_blank" rel="noopener">Firebase 개인정보 보호 및 보안</a></li>
+        <li><a href="https://supabase.com/privacy" target="_blank" rel="noopener">Supabase 개인정보처리방침</a></li>
+      </ul>
+
+      <h2>9. 아동 개인정보 보호</h2>
+      <p>믹스몬스터즈는 만 9세 이상에게 적합한 일반 대상 앱입니다. 13세 미만 아동을 주된 대상으로 하지 않으며, 광고는 특정 연령층을 겨냥하지 않도록 구성되어 있고, 본 방침에 설명된 범위를 넘어서는 개인정보를 의도적으로 수집하지 않습니다.</p>
+
+      <h2>10. 변경 및 문의</h2>
+      <p>본 방침이 변경되면 위 날짜를 갱신합니다. 문의 및 지원 요청은 <a href="mailto:blueng.choi@gmail.com">blueng.choi@gmail.com</a>으로 보내주세요.</p>
+    </div>
+  </div>
+
+  <script>
+    function switchLang(lang) {
+      var langs = ['en', 'ko'];
+      for (var i = 0; i < langs.length; i++) {
+        document.getElementById('lang-' + langs[i]).className =
+          lang === langs[i] ? 'section' : 'section hidden';
+        document.getElementById('btn-' + langs[i]).className =
+          lang === langs[i] ? 'active' : '';
+      }
+    }
+  </script>
+</body>
+</html>
