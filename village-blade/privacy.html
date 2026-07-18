@@ -85,12 +85,14 @@
     <div class="lang-switch">
       <button id="btn-en" class="active" onclick="switchLang('en')">English</button>
       <button id="btn-ko" onclick="switchLang('ko')">한국어</button>
+      <button id="btn-ja" onclick="switchLang('ja')">日本語</button>
+      <button id="btn-zh" onclick="switchLang('zh')">中文</button>
     </div>
 
     <section id="lang-en" class="section">
       <div class="app-name">Village Blade</div>
       <h1>Privacy Policy</h1>
-      <p class="last-updated">Last Updated: July 5, 2026</p>
+      <p class="last-updated">Last Updated: July 18, 2026</p>
       <div class="highlight">
         <p><strong>Village Blade is a fully offline single-player game. It requires no account, no internet connection, and collects no personal data of any kind.</strong></p>
       </div>
@@ -115,7 +117,7 @@
     <section id="lang-ko" class="section hidden">
       <div class="app-name">마을의 검</div>
       <h1>개인정보처리방침</h1>
-      <p class="last-updated">최종 업데이트: 2026년 7월 5일</p>
+      <p class="last-updated">최종 업데이트: 2026년 7월 18일</p>
       <div class="highlight">
         <p><strong>마을의 검은 완전한 오프라인 싱글플레이어 게임입니다. 계정이나 인터넷 연결이 필요 없으며, 어떠한 개인정보도 수집하지 않습니다.</strong></p>
       </div>
@@ -136,11 +138,41 @@
       <h2>8. 문의</h2>
       <p>개인정보 또는 지원 문의는 <a href="mailto:blueng.choi@gmail.com">blueng.choi@gmail.com</a>으로 연락해 주세요.</p>
     </section>
+
+    <section id="lang-ja" class="section hidden">
+      <div class="app-name">Village Blade</div>
+      <h1>プライバシーポリシー</h1>
+      <p class="last-updated">最終更新日: 2026年7月18日</p>
+      <div class="highlight"><p><strong>Village Blade は完全オフラインのシングルプレイヤーゲームです。アカウントやインターネット接続は不要で、個人データは一切収集しません。</strong></p></div>
+      <h2>1. 概要</h2><p>Village Blade は Seungman Choi が開発した農業・戦闘RPGです。このポリシーでは、アプリが使用するデータとその扱いについて説明します。</p>
+      <h2>2. 端末に保存される情報</h2><p>農場の状態、インベントリ、クエスト進行、キャラクター能力値などのゲーム進行データは端末内にのみ保存されます。このデータは端末外へ送信されません。</p>
+      <h2>3. 分析と広告</h2><p>Village Blade は Firebase Analytics、その他の分析SDK、広告SDKを使用しません。利用データ、端末識別子、広告識別子は収集しません。</p>
+      <h2>4. アカウントと購入</h2><p>アカウント作成やサインインは不要で、アプリ内購入や決済も処理しません。</p>
+      <h2>5. 第三者サービス</h2><p>データを収集する第三者SDKは組み込んでいません。アプリ配信とストア診断は Apple App Store と Google Play の各ポリシーに従います。</p>
+      <h2>6. 子どものプライバシー</h2><p>Village Blade は一般向けゲームであり、子どもを含む誰からも個人情報を意図的に収集しません。</p>
+      <h2>7. データ削除</h2><p>端末からアプリを削除すると、ローカルに保存されたセーブデータも削除されます。</p>
+      <h2>8. お問い合わせ</h2><p>プライバシーまたはサポートに関するお問い合わせは <a href="mailto:blueng.choi@gmail.com">blueng.choi@gmail.com</a> までご連絡ください。</p>
+    </section>
+
+    <section id="lang-zh" class="section hidden">
+      <div class="app-name">Village Blade</div>
+      <h1>隐私政策</h1>
+      <p class="last-updated">最后更新：2026年7月18日</p>
+      <div class="highlight"><p><strong>Village Blade 是一款完全离线的单人游戏。无需账号或网络连接，也不会收集任何个人数据。</strong></p></div>
+      <h2>1. 概述</h2><p>Village Blade 是由 Seungman Choi 开发的农场与战斗 RPG。本政策说明应用使用哪些数据以及如何处理这些数据。</p>
+      <h2>2. 存储在设备上的信息</h2><p>应用只会在你的设备本地保存游戏进度，包括农场状态、背包、任务进度和角色属性。这些数据不会离开设备，也不会发送到任何服务器。</p>
+      <h2>3. 分析与广告</h2><p>Village Blade 不使用 Firebase Analytics、其他分析 SDK 或广告 SDK。不会收集使用数据、设备标识符或广告标识符。</p>
+      <h2>4. 账号与购买</h2><p>应用不需要账号或登录，也不处理任何应用内购买或付款。</p>
+      <h2>5. 第三方服务</h2><p>Village Blade 未集成会收集数据的第三方 SDK。Apple App Store 和 Google Play 仅负责应用分发及商店级诊断，并适用其各自政策。</p>
+      <h2>6. 儿童隐私</h2><p>Village Blade 面向一般用户，不会有意收集任何人（包括儿童）的个人信息。</p>
+      <h2>7. 数据删除</h2><p>从设备上删除应用会同时删除本地保存的所有游戏存档。</p>
+      <h2>8. 联系方式</h2><p>如有隐私或支持问题，请联系 <a href="mailto:blueng.choi@gmail.com">blueng.choi@gmail.com</a>。</p>
+    </section>
   </div>
 
   <script>
     function switchLang(lang) {
-      ["en", "ko"].forEach(function (code) {
+      ["en", "ko", "ja", "zh"].forEach(function (code) {
         document.getElementById("lang-" + code).classList.toggle("hidden", code !== lang);
         document.getElementById("btn-" + code).classList.toggle("active", code === lang);
       });
