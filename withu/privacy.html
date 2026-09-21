@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>withu - 개인정보처리방침</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      background: #0a0a0a;
+      color: #e0e0e0;
+      line-height: 1.7;
+      padding: 0 20px;
+    }
+    .container { max-width: 720px; margin: 0 auto; padding: 40px 0 80px; }
+    .lang-switch { text-align: right; margin-bottom: 20px; }
+    .lang-switch button {
+      background: none; border: 1px solid #444; color: #aaa;
+      padding: 6px 14px; border-radius: 6px; cursor: pointer;
+      font-size: 14px; margin-left: 8px;
+    }
+    .lang-switch button.active { background: #7c8cff; border-color: #7c8cff; color: #fff; }
+    h1 { font-size: 28px; color: #fff; margin-bottom: 8px; }
+    .app-name { color: #7c8cff; font-size: 14px; font-weight: 600; margin-bottom: 4px; }
+    .last-updated { color: #888; font-size: 13px; margin-bottom: 40px; }
+    h2 {
+      font-size: 20px; color: #fff; margin-top: 36px; margin-bottom: 12px;
+      padding-bottom: 8px; border-bottom: 1px solid #222;
+    }
+    h3 { font-size: 16px; color: #ddd; margin: 20px 0 8px; }
+    p { margin-bottom: 14px; color: #ccc; }
+    ul { margin: 10px 0 14px 20px; color: #ccc; }
+    li { margin-bottom: 6px; }
+    strong { color: #e0e0e0; }
+    a { color: #7c8cff; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    table { width: 100%; border-collapse: collapse; margin: 14px 0; font-size: 14px; }
+    th, td { border: 1px solid #222; padding: 9px 11px; text-align: left; vertical-align: top; }
+    th { background: #14162a; color: #fff; font-weight: 600; }
+    td { color: #ccc; }
+    .highlight {
+      background: #14162a; border-left: 3px solid #7c8cff;
+      padding: 14px 18px; border-radius: 0 8px 8px 0; margin: 16px 0;
+    }
+    .highlight p { margin-bottom: 0; }
+    .section { display: block; }
+    .hidden { display: none; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="lang-switch">
+      <button id="btn-ko" class="active" onclick="switchLang('ko')">한국어</button>
+      <button id="btn-en" onclick="switchLang('en')">English</button>
+    </div>
+
+    <!-- 한국어 -->
+    <div id="lang-ko" class="section">
+      <div class="app-name">withu — 마음 관리 앱</div>
+      <h1>개인정보처리방침</h1>
+      <p class="last-updated">최종 수정일: 2026년 9월 21일</p>
+
+      <div class="highlight">
+        <p><strong>withu 는 회사가 제공하는 임직원 마음 관리 서비스입니다.</strong> 회사 계정으로만 이용할 수 있고, 별도 회원가입으로 일반에 공개되지 않습니다. 아래는 앱이 실제로 다루는 정보만 적은 것입니다.</p>
+      </div>
+
+      <h2>1. 수집하는 정보</h2>
+      <table>
+        <tr><th>구분</th><th>항목</th><th>수집 시점</th></tr>
+        <tr><td>계정</td><td>사번 또는 이메일, 이름</td><td>가입·로그인</td></tr>
+        <tr><td>취향</td><td>힐링 활동 선호도(12개 분야의 수치), 말투 선호</td><td>온보딩, 이후 조정</td></tr>
+        <tr><td>활동</td><td>콘텐츠 열람·완료, 두뇌게임 기록, 심리테스트 결과, 호흡 세션</td><td>앱 사용 중</td></tr>
+        <tr><td>기분</td><td>하루 기분 기록(5단계), 체크인 응답</td><td>이용자가 남길 때</td></tr>
+        <tr><td><strong>민감정보</strong></td><td>마음 측정 결과(얼굴 영상 기반 심박·스트레스 추정치), 심리검사 점수</td><td>측정·검사를 직접 실행할 때</td></tr>
+        <tr><td>대화</td><td>상담 에이전트와 나눈 대화 내용</td><td>대화할 때</td></tr>
+        <tr><td>예약</td><td>상담·코칭 예약 내역</td><td>예약할 때</td></tr>
+        <tr><td>기기</td><td>푸시 알림 토큰, 앱 버전, OS 종류</td><td>알림 허용 시</td></tr>
+      </table>
+
+      <h3>수집하지 않는 것</h3>
+      <ul>
+        <li><strong>얼굴 영상 원본을 저장하지 않습니다.</strong> 마음 측정은 영상에서 계산한 수치만 남기고 영상 자체는 보관하지 않습니다.</li>
+        <li><strong>심리테스트의 사진은 기기 밖으로 나가지 않습니다.</strong> 사진형 테스트(셀피 팔레트 등)는 기기 안에서 밝기·채도 평균만 계산하고, 서버에는 그 결과 유형만 전송합니다. 사진을 받는 서버 기능 자체가 없습니다.</li>
+        <li>위치정보, 주소록, 통화기록을 수집하지 않습니다.</li>
+        <li><strong>광고를 넣지 않습니다.</strong> 광고 식별자(IDFA/AAID)를 수집하지 않고, 광고 SDK 를 싣지 않습니다.</li>
+      </ul>
+
+      <h2>2. 이용 목적</h2>
+      <ul>
+        <li>취향에 맞는 힐링 콘텐츠 추천과 그 결과에 따른 수치 조정</li>
+        <li>마음 상태 추이 정리(주간·월간 리포트)</li>
+        <li>상담·코칭 예약 처리</li>
+        <li>알림톡·SMS·푸시로 체크인과 리마인더 발송(동의한 경우)</li>
+        <li><strong>위기 대응</strong> — 대화에서 자·타해 위험 신호가 확인되면 전문 상담 창구를 즉시 안내합니다.</li>
+      </ul>
+
+      <h2>3. 제3자 제공 및 처리위탁</h2>
+      <p>개인정보를 판매하지 않습니다. 서비스 운영에 필요한 범위에서만 아래에 처리를 위탁합니다.</p>
+      <table>
+        <tr><th>수탁자</th><th>위탁 내용</th><th>비고</th></tr>
+        <tr><td>Amazon Web Services</td><td>서버·데이터베이스 운영</td><td>서울 리전</td></tr>
+        <tr><td>OpenAI, Google (Gemini)</td><td>상담 에이전트 답변 생성</td><td>대화 내용이 전달됩니다. API 로 호출하며, 각 사업자의 API 정책에 따라 모델 학습에 사용되지 않습니다.</td></tr>
+        <tr><td>네이버클라우드 (SENS)</td><td>알림톡·SMS 발송</td><td>동의한 경우</td></tr>
+      </table>
+      <p>소속 회사에는 <strong>개인을 식별할 수 없는 통계</strong>(부서 단위 이용률·평균 지표 등)만 제공하며, 개인의 대화 내용·측정값·검사 결과를 제공하지 않습니다.</p>
+
+      <h2>4. 보관과 파기</h2>
+      <ul>
+        <li>회원 탈퇴 시 계정 정보와 활동 기록을 지체 없이 파기합니다.</li>
+        <li>회사와의 서비스 계약이 종료되면 해당 임직원의 정보를 파기합니다.</li>
+        <li>법령이 별도 보관을 요구하는 경우 그 기간 동안 분리 보관합니다.</li>
+      </ul>
+
+      <h2>5. 안전조치</h2>
+      <ul>
+        <li><strong>대화 내용은 암호화해 저장합니다.</strong> 데이터베이스를 직접 조회해도 평문으로 읽을 수 없습니다.</li>
+        <li>모든 통신은 HTTPS 로 암호화합니다.</li>
+        <li>접근 권한을 최소한으로 두고 접근 기록을 남깁니다.</li>
+      </ul>
+
+      <h2>6. 이용자의 권리</h2>
+      <p>앱의 <strong>마이 → 내 정보</strong>에서 저장된 정보를 보고 고칠 수 있고, 같은 화면에서 탈퇴할 수 있습니다. 알림 수신은 <strong>마이 → 알림 설정</strong>에서, 문자로 받은 링크의 <strong>수신 거부</strong>에서도 끌 수 있습니다.</p>
+
+      <h2>7. 아동의 개인정보</h2>
+      <p>withu 는 회사 임직원을 대상으로 하며 만 14세 미만의 이용을 전제하지 않습니다.</p>
+
+      <h2>8. 문의</h2>
+      <p>개인정보 관련 문의: <a href="mailto:developer@clify.co.kr">developer@clify.co.kr</a></p>
+      <p>이 방침이 바뀌면 앱 공지와 이 페이지로 알립니다.</p>
+    </div>
+
+    <!-- English -->
+    <div id="lang-en" class="section hidden">
+      <div class="app-name">withu — Mental Wellbeing App</div>
+      <h1>Privacy Policy</h1>
+      <p class="last-updated">Last updated: September 21, 2026</p>
+
+      <div class="highlight">
+        <p><strong>withu is an employee wellbeing service provided by your employer.</strong> It can only be used with a company account and is not open to public sign-up. What follows describes only the data the app actually handles.</p>
+      </div>
+
+      <h2>1. Data We Collect</h2>
+      <table>
+        <tr><th>Category</th><th>Items</th><th>When</th></tr>
+        <tr><td>Account</td><td>Employee number or email, name</td><td>Sign-up and sign-in</td></tr>
+        <tr><td>Preferences</td><td>Wellbeing activity scores across 12 areas, tone preference</td><td>Onboarding and later adjustments</td></tr>
+        <tr><td>Activity</td><td>Content viewed/completed, brain game records, quiz results, breathing sessions</td><td>While using the app</td></tr>
+        <tr><td>Mood</td><td>Daily mood (5 levels), check-in answers</td><td>When you record them</td></tr>
+        <tr><td><strong>Sensitive</strong></td><td>Wellbeing measurement results (heart-rate and stress estimates derived from facial video), psychological assessment scores</td><td>When you run a measurement or assessment</td></tr>
+        <tr><td>Conversations</td><td>Messages exchanged with the counselling agent</td><td>When you chat</td></tr>
+        <tr><td>Bookings</td><td>Counselling and coaching reservations</td><td>When you book</td></tr>
+        <tr><td>Device</td><td>Push token, app version, OS</td><td>If you allow notifications</td></tr>
+      </table>
+
+      <h3>What we do not collect</h3>
+      <ul>
+        <li><strong>We do not store facial video.</strong> Measurements keep only the computed values; the video itself is never retained.</li>
+        <li><strong>Photos used in quizzes never leave your device.</strong> Photo-based quizzes compute average brightness and saturation locally and send only the resulting type. There is no server endpoint that accepts a photo.</li>
+        <li>No location, contacts, or call logs.</li>
+        <li><strong>No advertising.</strong> We do not collect advertising identifiers (IDFA/AAID) and ship no ad SDK.</li>
+      </ul>
+
+      <h2>2. How We Use It</h2>
+      <ul>
+        <li>Recommending wellbeing content that fits your preferences, and adjusting those scores based on what you actually do</li>
+        <li>Summarising how your state changes over time (weekly and monthly reports)</li>
+        <li>Handling counselling and coaching bookings</li>
+        <li>Sending check-ins and reminders by message or push, where you have consented</li>
+        <li><strong>Crisis response</strong> — if a conversation shows signs of risk to yourself or others, the app immediately surfaces professional help lines.</li>
+      </ul>
+
+      <h2>3. Sharing and Processors</h2>
+      <p>We do not sell personal data. We use the following processors only as needed to run the service.</p>
+      <table>
+        <tr><th>Processor</th><th>Purpose</th><th>Note</th></tr>
+        <tr><td>Amazon Web Services</td><td>Servers and databases</td><td>Seoul region</td></tr>
+        <tr><td>OpenAI, Google (Gemini)</td><td>Generating counselling agent replies</td><td>Conversation content is sent. We call their APIs, under which each provider states the content is not used for model training.</td></tr>
+        <tr><td>NAVER Cloud (SENS)</td><td>Message delivery</td><td>Where consented</td></tr>
+      </table>
+      <p>Your employer receives <strong>only aggregate statistics that cannot identify an individual</strong> (such as department-level usage and average indicators). Individual conversations, measurements, and assessment results are never shared with your employer.</p>
+
+      <h2>4. Retention and Deletion</h2>
+      <ul>
+        <li>When you delete your account, your account data and activity records are deleted without delay.</li>
+        <li>When your employer's service contract ends, the data of its employees is deleted.</li>
+        <li>Where law requires retention, that data is stored separately for the required period.</li>
+      </ul>
+
+      <h2>5. Security</h2>
+      <ul>
+        <li><strong>Conversations are stored encrypted.</strong> They cannot be read in plain text even with direct database access.</li>
+        <li>All traffic is encrypted with HTTPS.</li>
+        <li>Access is kept to a minimum and is logged.</li>
+      </ul>
+
+      <h2>6. Your Rights</h2>
+      <p>You can view and correct your stored information under <strong>My → Profile</strong>, and delete your account from the same screen. Notifications can be turned off under <strong>My → Notification settings</strong>, or from the unsubscribe link in any message we send.</p>
+
+      <h2>7. Children</h2>
+      <p>withu is intended for company employees and is not designed for use by anyone under 14.</p>
+
+      <h2>8. Contact</h2>
+      <p>Privacy enquiries: <a href="mailto:developer@clify.co.kr">developer@clify.co.kr</a></p>
+      <p>If this policy changes, we will announce it in the app and on this page.</p>
+    </div>
+  </div>
+
+  <script>
+    function switchLang(lang) {
+      for (const l of ['ko', 'en']) {
+        document.getElementById('lang-' + l).classList.toggle('hidden', l !== lang);
+        document.getElementById('btn-' + l).classList.toggle('active', l === lang);
+      }
+    }
+  </script>
+</body>
+</html>
