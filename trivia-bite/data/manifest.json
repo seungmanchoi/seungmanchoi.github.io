@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-09T13:29:27.369Z",
+  "updatedAt": "2026-10-09T13:39:35.649Z",
   "daily": [
     "2026-10-10",
     "2026-10-11",
@@ -87,6 +87,16 @@
     "2026-12-31"
   ],
   "bank": {
+    "culture": {
+      "version": 1,
+      "count": 100,
+      "hash": "d3fabea4564a"
+    },
+    "economy": {
+      "version": 1,
+      "count": 100,
+      "hash": "5fe74bf2f2a5"
+    },
     "geography": {
       "version": 1,
       "count": 100,
@@ -96,6 +106,16 @@
       "version": 2,
       "count": 100,
       "hash": "9be52284669b"
+    },
+    "korean": {
+      "version": 1,
+      "count": 100,
+      "hash": "913d1b7da7bc"
+    },
+    "life": {
+      "version": 1,
+      "count": 100,
+      "hash": "15cd63a5cd43"
     },
     "science": {
       "version": 2,

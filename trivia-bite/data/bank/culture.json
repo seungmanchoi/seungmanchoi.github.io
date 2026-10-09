@@ -1,0 +1,1431 @@
+{
+  "version": 1,
+  "id": "bank-culture",
+  "category": "culture",
+  "questions": [
+    {
+      "id": "culture-72e00991",
+      "category": "culture",
+      "difficulty": 1,
+      "question": "그리스 신화에서 번개를 다루는 신들의 왕은?",
+      "choices": [
+        "포세이돈",
+        "아폴론",
+        "제우스",
+        "하데스"
+      ],
+      "answerIndex": 2,
+      "explanation": "제우스는 올림포스 12신의 우두머리예요. 번개를 무기로 하늘을 다스리는 신으로 그려져요.",
+      "funFact": "로마 신화에서는 같은 신을 '유피테르(주피터)'라고 불러서 목성의 영어 이름이 되었어요."
+    },
+    {
+      "id": "culture-52146b8c",
+      "category": "culture",
+      "difficulty": 1,
+      "question": "추석에 반달 모양으로 빚어 먹는 대표적인 떡은?",
+      "choices": [
+        "가래떡",
+        "시루떡",
+        "송편",
+        "인절미"
+      ],
+      "answerIndex": 2,
+      "explanation": "추석에는 햅쌀로 송편을 빚어 차례상에 올려요. 솔잎을 깔고 쪄서 '송편'이라는 이름이 붙었어요."
+    },
+    {
+      "id": "culture-78fc9fb3",
+      "category": "culture",
+      "difficulty": 1,
+      "question": "설날 아침에 먹으면 나이를 한 살 더 먹는다는 음식은?",
+      "choices": [
+        "송편",
+        "오곡밥",
+        "팥죽",
+        "떡국"
+      ],
+      "answerIndex": 3,
+      "explanation": "설날에는 가래떡을 썰어 끓인 떡국을 먹어요. 떡국을 먹어야 한 살 더 먹는다는 말이 전해져요.",
+      "funFact": "가래떡을 동전 모양으로 써는 건 재물이 늘라는 바람을 담은 것이라고 해요."
+    },
+    {
+      "id": "culture-31cb0d9e",
+      "category": "culture",
+      "difficulty": 1,
+      "question": "동짓날 귀신을 쫓는다며 끓여 먹는 음식은?",
+      "choices": [
+        "팥죽",
+        "떡국",
+        "식혜",
+        "미역국"
+      ],
+      "answerIndex": 0,
+      "explanation": "동지는 밤이 가장 긴 날이에요. 붉은 팥이 나쁜 기운을 쫓는다고 믿어 팥죽을 쑤어 먹었어요."
+    },
+    {
+      "id": "culture-53e2c17f",
+      "category": "culture",
+      "difficulty": 1,
+      "question": "정월 대보름 아침에 호두·땅콩을 깨무는 풍습은?",
+      "choices": [
+        "제기차기",
+        "널뛰기",
+        "부럼 깨기",
+        "윷놀이"
+      ],
+      "answerIndex": 2,
+      "explanation": "대보름 아침에 견과류를 깨무는 것을 '부럼 깨기'라고 해요. 한 해 동안 부스럼이 나지 않기를 빌었어요."
+    },
+    {
+      "id": "culture-c67bf6cf",
+      "category": "culture",
+      "difficulty": 1,
+      "question": "축구에서 자기 팀 페널티 박스 안에서 손을 쓸 수 있는 선수는?",
+      "choices": [
+        "골키퍼",
+        "공격수",
+        "수비수",
+        "미드필더"
+      ],
+      "answerIndex": 0,
+      "explanation": "축구에서 경기 중 손으로 공을 잡을 수 있는 건 골키퍼뿐이에요. 그것도 자기 팀 페널티 에어리어 안에서만 가능해요."
+    },
+    {
+      "id": "culture-6438e2ea",
+      "category": "culture",
+      "difficulty": 1,
+      "question": "야구에서 수비하는 팀이 그라운드에 내보내는 선수는 몇 명?",
+      "choices": [
+        "11명",
+        "10명",
+        "8명",
+        "9명"
+      ],
+      "answerIndex": 3,
+      "explanation": "야구 수비는 투수, 포수, 내야수 4명, 외야수 3명으로 모두 9명이에요."
+    },
+    {
+      "id": "culture-2e6c5aa1",
+      "category": "culture",
+      "difficulty": 1,
+      "question": "법으로 정해진 우리나라의 국기(國技)인 무예는?",
+      "choices": [
+        "씨름",
+        "유도",
+        "태권도",
+        "택견"
+      ],
+      "answerIndex": 2,
+      "explanation": "2018년 법률로 태권도가 대한민국 국기로 정해졌어요. 태권도는 2000년 시드니 올림픽부터 정식 종목이 되었어요."
+    },
+    {
+      "id": "culture-de4fe22a",
+      "category": "culture",
+      "difficulty": 1,
+      "question": "『춘향전』에서 춘향과 사랑을 맹세하는 남자 주인공은?",
+      "choices": [
+        "방자",
+        "변학도",
+        "이몽룡",
+        "심학규"
+      ],
+      "answerIndex": 2,
+      "explanation": "이몽룡은 남원 부사의 아들로 춘향과 사랑에 빠져요. 훗날 암행어사가 되어 변학도에게서 춘향을 구해요."
+    },
+    {
+      "id": "culture-15a819fd",
+      "category": "culture",
+      "difficulty": 1,
+      "question": "심청이 아버지 눈을 뜨게 하려고 바친 공양미는 몇 석?",
+      "choices": [
+        "1000석",
+        "100석",
+        "300석",
+        "500석"
+      ],
+      "answerIndex": 2,
+      "explanation": "심청은 공양미 300석에 몸을 팔아 인당수에 뛰어들어요. 결국 왕비가 되고 아버지도 눈을 뜨게 돼요."
+    },
+    {
+      "id": "culture-0e667f8f",
+      "category": "culture",
+      "difficulty": 1,
+      "question": "『별주부전』에서 토끼의 간을 구하러 뭍에 오른 동물은?",
+      "choices": [
+        "자라",
+        "잉어",
+        "문어",
+        "거북"
+      ],
+      "answerIndex": 0,
+      "explanation": "'별주부'는 자라를 높여 부르는 말이에요. 용왕의 병을 고치려 토끼를 꾀어 용궁으로 데려가요."
+    },
+    {
+      "id": "culture-f044778c",
+      "category": "culture",
+      "difficulty": 1,
+      "question": "그림 '절규'를 그린 노르웨이 화가는?",
+      "choices": [
+        "빈센트 반 고흐",
+        "에드바르 뭉크",
+        "구스타프 클림트",
+        "에곤 실레"
+      ],
+      "answerIndex": 1,
+      "explanation": "'절규'는 뭉크가 1893년에 그린 표현주의 대표작이에요. 불안과 공포를 일그러진 얼굴과 하늘로 표현했어요.",
+      "funFact": "뭉크는 같은 주제로 그림, 파스텔, 판화 등 여러 버전의 '절규'를 남겼어요."
+    },
+    {
+      "id": "culture-5330995c",
+      "category": "culture",
+      "difficulty": 1,
+      "question": "베토벤의 '운명' 교향곡은 몇 번일까요?",
+      "choices": [
+        "5번",
+        "6번",
+        "3번",
+        "7번"
+      ],
+      "answerIndex": 0,
+      "explanation": "'운명'은 베토벤 교향곡 5번의 별명이에요. 3번은 '영웅', 6번은 '전원'으로 불려요.",
+      "funFact": "'따따따 딴' 첫 소절을 베토벤이 '운명이 문을 두드리는 소리'라 했다는 일화가 별명의 유래예요."
+    },
+    {
+      "id": "culture-34ceda5a",
+      "category": "culture",
+      "difficulty": 1,
+      "question": "바이올린 협주곡 '사계'를 작곡한 이탈리아 작곡가는?",
+      "choices": [
+        "하이든",
+        "비발디",
+        "바흐",
+        "헨델"
+      ],
+      "answerIndex": 1,
+      "explanation": "'사계'는 비발디가 봄, 여름, 가을, 겨울을 그린 바이올린 협주곡 네 곡이에요. 바로크 음악의 대표곡이에요.",
+      "funFact": "비발디는 머리가 붉어 '붉은 머리의 사제'라는 별명으로 불렸어요."
+    },
+    {
+      "id": "culture-9a14b0e9",
+      "category": "culture",
+      "difficulty": 1,
+      "question": "'음악의 아버지'로 불리는 독일 바로크 작곡가는?",
+      "choices": [
+        "베토벤",
+        "모차르트",
+        "바흐",
+        "헨델"
+      ],
+      "answerIndex": 2,
+      "explanation": "바흐는 서양 음악의 기초를 다졌다는 뜻에서 '음악의 아버지'로 불려요. 같은 시대의 헨델은 '음악의 어머니'라고 불려요."
+    },
+    {
+      "id": "culture-3f3a3b55",
+      "category": "culture",
+      "difficulty": 1,
+      "question": "사물놀이에 쓰는 네 악기에 들지 않는 것은?",
+      "choices": [
+        "꽹과리",
+        "장구",
+        "해금",
+        "징"
+      ],
+      "answerIndex": 2,
+      "explanation": "사물놀이는 꽹과리, 징, 장구, 북 네 가지 타악기로 연주해요. 해금은 활로 켜는 현악기예요."
+    },
+    {
+      "id": "culture-50090a66",
+      "category": "culture",
+      "difficulty": 1,
+      "question": "추석 밤 여인들이 손잡고 원을 그리며 도는 민속놀이는?",
+      "choices": [
+        "널뛰기",
+        "강강술래",
+        "쥐불놀이",
+        "차전놀이"
+      ],
+      "answerIndex": 1,
+      "explanation": "강강술래는 전라남도 해안 지방에서 전해 온 원무예요. 2009년 유네스코 인류무형문화유산에 올랐어요."
+    },
+    {
+      "id": "culture-af0d1fc3",
+      "category": "culture",
+      "difficulty": 1,
+      "question": "창포물에 머리를 감고 그네를 뛰던 명절은?",
+      "choices": [
+        "단오",
+        "칠석",
+        "중양절",
+        "한식"
+      ],
+      "answerIndex": 0,
+      "explanation": "단오는 음력 5월 5일이에요. 창포물에 머리 감기, 그네뛰기, 씨름 같은 풍습이 있었어요."
+    },
+    {
+      "id": "culture-2d21ada4",
+      "category": "culture",
+      "difficulty": 1,
+      "question": "견우와 직녀가 오작교에서 만난다는 날은?",
+      "choices": [
+        "중양절",
+        "정월 대보름",
+        "단오",
+        "칠석"
+      ],
+      "answerIndex": 3,
+      "explanation": "칠석은 음력 7월 7일이에요. 은하수에 막혀 있던 견우와 직녀가 1년에 한 번 만난다는 전설이 있어요.",
+      "funFact": "칠석날 내리는 비는 두 사람이 만나서 흘리는 기쁨의 눈물이라고 전해져요."
+    },
+    {
+      "id": "culture-d7b8a269",
+      "category": "culture",
+      "difficulty": 1,
+      "question": "팔만대장경판을 보관한 장경판전이 있는 절은?",
+      "choices": [
+        "통도사",
+        "불국사",
+        "송광사",
+        "해인사"
+      ],
+      "answerIndex": 3,
+      "explanation": "합천 해인사 장경판전은 1995년 유네스코 세계유산이 되었어요. 팔만대장경판은 세계기록유산이에요.",
+      "funFact": "장경판전은 바람이 잘 통하게 창 크기를 달리 만들어 수백 년 동안 경판을 썩지 않게 지켰어요."
+    },
+    {
+      "id": "culture-290ac834",
+      "category": "culture",
+      "difficulty": 1,
+      "question": "정조가 쌓은 성곽으로 유네스코 세계유산인 곳은?",
+      "choices": [
+        "수원 화성",
+        "남한산성",
+        "북한산성",
+        "행주산성"
+      ],
+      "answerIndex": 0,
+      "explanation": "수원 화성은 정조가 아버지 사도세자의 묘를 옮기며 쌓은 성곽이에요. 1997년 세계유산이 되었어요."
+    },
+    {
+      "id": "culture-4f65f399",
+      "category": "culture",
+      "difficulty": 1,
+      "question": "무굴 황제가 세상을 떠난 왕비를 기려 지은 인도의 건축물은?",
+      "choices": [
+        "알함브라 궁전",
+        "타지마할",
+        "보로부두르",
+        "앙코르와트"
+      ],
+      "answerIndex": 1,
+      "explanation": "타지마할은 샤 자한이 왕비 뭄타즈 마할을 위해 지은 무덤이에요. 흰 대리석으로 지어진 세계유산이에요."
+    },
+    {
+      "id": "culture-39e81f34",
+      "category": "culture",
+      "difficulty": 1,
+      "question": "잉카 유적 마추픽추가 있는 나라는?",
+      "choices": [
+        "페루",
+        "볼리비아",
+        "칠레",
+        "멕시코"
+      ],
+      "answerIndex": 0,
+      "explanation": "마추픽추는 페루 안데스 산맥 높은 곳에 있는 잉카 도시 유적이에요. 1983년 세계유산이 되었어요."
+    },
+    {
+      "id": "culture-2a0ffeee",
+      "category": "culture",
+      "difficulty": 1,
+      "question": "아테네의 파르테논 신전이 바쳐진 여신은?",
+      "choices": [
+        "아프로디테",
+        "아테나",
+        "아르테미스",
+        "헤라"
+      ],
+      "answerIndex": 1,
+      "explanation": "파르테논 신전은 지혜와 전쟁의 여신 아테나를 모신 곳이에요. 도시 이름 아테네도 아테나에서 왔어요."
+    },
+    {
+      "id": "culture-3d19dd04",
+      "category": "culture",
+      "difficulty": 1,
+      "question": "판도라의 상자에서 재앙이 다 나간 뒤 마지막에 남은 것은?",
+      "choices": [
+        "행운",
+        "사랑",
+        "희망",
+        "지혜"
+      ],
+      "answerIndex": 2,
+      "explanation": "판도라가 상자를 열자 온갖 재앙이 세상에 퍼졌어요. 서둘러 닫았을 때 마지막에 희망만 남았다고 해요."
+    },
+    {
+      "id": "culture-37876733",
+      "category": "culture",
+      "difficulty": 1,
+      "question": "그리스 영웅 아킬레우스의 유일한 약점은?",
+      "choices": [
+        "왼쪽 어깨",
+        "무릎",
+        "발뒤꿈치",
+        "목덜미"
+      ],
+      "answerIndex": 2,
+      "explanation": "어머니가 아기 아킬레우스를 스틱스 강에 담글 때 발뒤꿈치를 잡고 있어 그곳만 물이 닿지 않았어요.",
+      "funFact": "발뒤꿈치 힘줄을 '아킬레스건'이라 부르는 것도 이 이야기에서 왔어요."
+    },
+    {
+      "id": "culture-68010e83",
+      "category": "culture",
+      "difficulty": 1,
+      "question": "프로메테우스가 신들에게서 훔쳐 인간에게 준 것은?",
+      "choices": [
+        "물",
+        "불",
+        "곡식",
+        "언어"
+      ],
+      "answerIndex": 1,
+      "explanation": "프로메테우스는 제우스 몰래 불을 훔쳐 인간에게 주었어요. 그 벌로 바위에 묶여 독수리에게 간을 쪼였어요."
+    },
+    {
+      "id": "culture-7f04ade6",
+      "category": "culture",
+      "difficulty": 1,
+      "question": "북유럽 신화에서 망치 묠니르를 든 천둥의 신은?",
+      "choices": [
+        "프레이",
+        "토르",
+        "오딘",
+        "로키"
+      ],
+      "answerIndex": 1,
+      "explanation": "토르는 오딘의 아들로 망치 묠니르를 휘두르는 천둥의 신이에요.",
+      "funFact": "영어 '목요일(Thursday)'은 '토르의 날'이라는 뜻에서 왔어요."
+    },
+    {
+      "id": "culture-2ca23cb8",
+      "category": "culture",
+      "difficulty": 1,
+      "question": "단군 신화에서 곰이 사람이 되려고 먹은 것은?",
+      "choices": [
+        "쌀과 콩",
+        "솔잎과 꿀",
+        "쑥과 마늘",
+        "도토리와 밤"
+      ],
+      "answerIndex": 2,
+      "explanation": "환웅은 곰과 호랑이에게 쑥과 마늘을 주고 100일 동안 햇빛을 보지 말라고 했어요. 곰만 견뎌 여자가 되었어요."
+    },
+    {
+      "id": "culture-33fd5e46",
+      "category": "culture",
+      "difficulty": 1,
+      "question": "알에서 태어나 신라를 세웠다고 전해지는 시조는?",
+      "choices": [
+        "박혁거세",
+        "온조",
+        "주몽",
+        "김수로"
+      ],
+      "answerIndex": 0,
+      "explanation": "박혁거세는 나정 근처의 알에서 태어나 신라를 세웠다고 전해져요. 주몽과 김수로도 알에서 태어난 시조예요."
+    },
+    {
+      "id": "culture-8e3e69fa",
+      "category": "culture",
+      "difficulty": 1,
+      "question": "대하소설 『토지』를 쓴 작가는?",
+      "choices": [
+        "최명희",
+        "조정래",
+        "박완서",
+        "박경리"
+      ],
+      "answerIndex": 3,
+      "explanation": "『토지』는 박경리가 1969년부터 26년 동안 쓴 대하소설이에요. 하동 평사리 최 참판 댁 이야기로 시작해요."
+    },
+    {
+      "id": "culture-84eab85a",
+      "category": "culture",
+      "difficulty": 1,
+      "question": "소년과 소녀의 짧은 만남을 그린 『소나기』의 작가는?",
+      "choices": [
+        "현진건",
+        "황순원",
+        "이효석",
+        "김유정"
+      ],
+      "answerIndex": 1,
+      "explanation": "『소나기』는 황순원의 단편소설이에요. 시골 소년과 서울에서 온 소녀의 풋풋한 감정을 그렸어요."
+    },
+    {
+      "id": "culture-ac664cc8",
+      "category": "culture",
+      "difficulty": 1,
+      "question": "시 「진달래꽃」을 쓴 시인은?",
+      "choices": [
+        "한용운",
+        "윤동주",
+        "정지용",
+        "김소월"
+      ],
+      "answerIndex": 3,
+      "explanation": "「진달래꽃」은 김소월의 대표 시예요. '나 보기가 역겨워 가실 때에는'으로 시작해요."
+    },
+    {
+      "id": "culture-de8c3250",
+      "category": "culture",
+      "difficulty": 1,
+      "question": "소설 『노인과 바다』를 쓴 미국 작가는?",
+      "choices": [
+        "헤밍웨이",
+        "마크 트웨인",
+        "포크너",
+        "스타인벡"
+      ],
+      "answerIndex": 0,
+      "explanation": "『노인과 바다』는 늙은 어부 산티아고가 거대한 청새치와 싸우는 이야기예요. 헤밍웨이의 대표작이에요."
+    },
+    {
+      "id": "culture-0ee7a835",
+      "category": "culture",
+      "difficulty": 1,
+      "question": "장 발장이 주인공인 『레 미제라블』의 작가는?",
+      "choices": [
+        "빅토르 위고",
+        "발자크",
+        "에밀 졸라",
+        "플로베르"
+      ],
+      "answerIndex": 0,
+      "explanation": "『레 미제라블』은 빵 한 조각을 훔쳐 감옥에 간 장 발장의 일생을 그린 위고의 소설이에요.",
+      "funFact": "위고는 『노트르담 드 파리』도 썼는데, 이 소설이 노트르담 대성당 보존 여론을 불러일으켰어요."
+    },
+    {
+      "id": "culture-93cee481",
+      "category": "culture",
+      "difficulty": 1,
+      "question": "『서유기』에서 여의봉을 쓰는 원숭이는?",
+      "choices": [
+        "사오정",
+        "저팔계",
+        "삼장법사",
+        "손오공"
+      ],
+      "answerIndex": 3,
+      "explanation": "손오공은 삼장법사를 모시고 천축으로 불경을 구하러 가요. 여의봉과 근두운이 유명해요."
+    },
+    {
+      "id": "culture-1803ca2a",
+      "category": "culture",
+      "difficulty": 1,
+      "question": "명탐정 셜록 홈스를 탄생시킨 작가는?",
+      "choices": [
+        "찰스 디킨스",
+        "아서 코넌 도일",
+        "에드거 앨런 포",
+        "애거사 크리스티"
+      ],
+      "answerIndex": 1,
+      "explanation": "셜록 홈스는 영국 작가 코넌 도일이 만든 탐정이에요. 친구 왓슨 박사가 사건을 기록하는 형식이에요.",
+      "funFact": "코넌 도일은 원래 의사였고, 진료를 기다리는 시간에 소설을 썼다고 해요."
+    },
+    {
+      "id": "culture-8033a7e2",
+      "category": "culture",
+      "difficulty": 1,
+      "question": "이삭 줍는 농촌 여인들을 그린 프랑스 화가는?",
+      "choices": [
+        "밀레",
+        "드가",
+        "세잔",
+        "모네"
+      ],
+      "answerIndex": 0,
+      "explanation": "'이삭 줍는 사람들'은 밀레가 1857년에 그린 작품이에요. 밀레는 농촌의 일상을 즐겨 그렸어요."
+    },
+    {
+      "id": "culture-5c238007",
+      "category": "culture",
+      "difficulty": 1,
+      "question": "풍속화 '씨름'과 '서당'을 그린 조선 화가는?",
+      "choices": [
+        "정선",
+        "김홍도",
+        "신윤복",
+        "김정희"
+      ],
+      "answerIndex": 1,
+      "explanation": "단원 김홍도는 서민의 일상을 생생하게 그린 풍속화로 유명해요. '씨름'과 '서당'은 『단원 풍속도첩』에 있어요."
+    },
+    {
+      "id": "culture-fbad04bc",
+      "category": "culture",
+      "difficulty": 1,
+      "question": "영화 '모던 타임즈'를 만들고 주연한 희극 배우는?",
+      "choices": [
+        "버스터 키턴",
+        "찰리 채플린",
+        "로렐과 하디",
+        "해럴드 로이드"
+      ],
+      "answerIndex": 1,
+      "explanation": "'모던 타임즈'는 공장 컨베이어 벨트에서 일하는 노동자를 그린 채플린의 1936년 영화예요.",
+      "funFact": "채플린의 상징인 콧수염, 중절모, 지팡이 차림의 캐릭터 이름은 '떠돌이(트램프)'예요."
+    },
+    {
+      "id": "culture-d21ba8e0",
+      "category": "culture",
+      "difficulty": 1,
+      "question": "골프에서 기준 타수보다 1타 적게 치는 것은?",
+      "choices": [
+        "파",
+        "버디",
+        "보기",
+        "이글"
+      ],
+      "answerIndex": 1,
+      "explanation": "기준 타수와 같으면 파, 1타 적으면 버디, 2타 적으면 이글이에요. 1타 많으면 보기예요."
+    },
+    {
+      "id": "culture-0d674ef4",
+      "category": "culture",
+      "difficulty": 1,
+      "question": "농구에서 공을 든 채 너무 많이 걸으면 범하는 반칙은?",
+      "choices": [
+        "차징",
+        "블로킹",
+        "더블 드리블",
+        "트래블링"
+      ],
+      "answerIndex": 3,
+      "explanation": "농구에서 드리블 없이 공을 들고 정해진 걸음보다 많이 걸으면 트래블링이에요. 공은 상대 팀에 넘어가요."
+    },
+    {
+      "id": "culture-2afe3827",
+      "category": "culture",
+      "difficulty": 1,
+      "question": "씨름에서 허리와 다리에 둘러 잡는 천은?",
+      "choices": [
+        "허리띠",
+        "댕기",
+        "샅바",
+        "광목띠"
+      ],
+      "answerIndex": 2,
+      "explanation": "씨름 선수는 허리와 다리에 감은 샅바를 잡고 겨뤄요. 무릎 위 몸이 먼저 땅에 닿으면 져요."
+    },
+    {
+      "id": "culture-db799adc",
+      "category": "culture",
+      "difficulty": 1,
+      "question": "바르셀로나 사그라다 파밀리아 성당을 설계한 건축가는?",
+      "choices": [
+        "호안 미로",
+        "안토니 가우디",
+        "살바도르 달리",
+        "르 코르뷔지에"
+      ],
+      "answerIndex": 1,
+      "explanation": "사그라다 파밀리아는 가우디가 평생을 바친 성당이에요. 1882년 공사가 시작되었어요.",
+      "funFact": "더딘 공사를 걱정하는 사람들에게 가우디는 '내 의뢰인(신)은 서두르지 않는다'고 답했다고 해요."
+    },
+    {
+      "id": "culture-ad78fd19",
+      "category": "culture",
+      "difficulty": 2,
+      "question": "'진주 귀걸이를 한 소녀'를 그린 네덜란드 화가는?",
+      "choices": [
+        "렘브란트",
+        "페르메이르",
+        "루벤스",
+        "반 다이크"
+      ],
+      "answerIndex": 1,
+      "explanation": "'진주 귀걸이를 한 소녀'는 17세기 화가 페르메이르의 작품이에요. 헤이그 마우리츠하위스 미술관에 있어요.",
+      "funFact": "'북유럽의 모나리자'라는 별명으로 불려요."
+    },
+    {
+      "id": "culture-d150ac20",
+      "category": "culture",
+      "difficulty": 2,
+      "question": "조개껍데기 위에 선 여신을 그린 '비너스의 탄생'의 화가는?",
+      "choices": [
+        "티치아노",
+        "카라바조",
+        "라파엘로",
+        "보티첼리"
+      ],
+      "answerIndex": 3,
+      "explanation": "'비너스의 탄생'은 르네상스 화가 보티첼리의 작품이에요. 피렌체 우피치 미술관에 있어요."
+    },
+    {
+      "id": "culture-ebc2a23d",
+      "category": "culture",
+      "difficulty": 2,
+      "question": "아리아 '공주는 잠 못 이루고'가 나오는 '투란도트'의 작곡가는?",
+      "choices": [
+        "베르디",
+        "푸치니",
+        "바그너",
+        "로시니"
+      ],
+      "answerIndex": 1,
+      "explanation": "'투란도트'는 고대 중국을 배경으로 한 푸치니의 오페라예요. 푸치니는 이 곡을 끝내지 못하고 세상을 떠났어요."
+    },
+    {
+      "id": "culture-9b4c50d4",
+      "category": "culture",
+      "difficulty": 2,
+      "question": "전통 가야금의 줄은 모두 몇 개일까요?",
+      "choices": [
+        "25줄",
+        "6줄",
+        "8줄",
+        "12줄"
+      ],
+      "answerIndex": 3,
+      "explanation": "전통 가야금은 명주실 12줄로 되어 있어요. 6줄은 거문고이고, 25현 가야금은 현대에 개량한 악기예요."
+    },
+    {
+      "id": "culture-82006ceb",
+      "category": "culture",
+      "difficulty": 2,
+      "question": "가야금 곡을 짓고 신라에 가야금을 전한 가야의 악사는?",
+      "choices": [
+        "우륵",
+        "박연",
+        "옥보고",
+        "왕산악"
+      ],
+      "answerIndex": 0,
+      "explanation": "우륵은 가야 가실왕 때 12곡을 지은 악사예요. 가야가 기울자 신라로 가서 진흥왕 때 가야금을 전했어요."
+    },
+    {
+      "id": "culture-f70ccc1a",
+      "category": "culture",
+      "difficulty": 2,
+      "question": "수원 화성을 지을 때 쓴 거중기를 설계한 학자는?",
+      "choices": [
+        "김정희",
+        "박지원",
+        "박제가",
+        "정약용"
+      ],
+      "answerIndex": 3,
+      "explanation": "정약용은 도르래 원리를 이용한 거중기를 고안했어요. 덕분에 무거운 돌을 쉽게 들어 올려 공사 기간을 줄였어요."
+    },
+    {
+      "id": "culture-0bf45967",
+      "category": "culture",
+      "difficulty": 2,
+      "question": "이슬람 건축의 걸작 알함브라 궁전이 있는 나라는?",
+      "choices": [
+        "포르투갈",
+        "스페인",
+        "모로코",
+        "튀르키예"
+      ],
+      "answerIndex": 1,
+      "explanation": "알함브라 궁전은 스페인 그라나다에 있어요. 이슬람 나스르 왕조가 지은 궁전으로 세계유산이에요."
+    },
+    {
+      "id": "culture-f0c873d9",
+      "category": "culture",
+      "difficulty": 2,
+      "question": "붉은 바위를 깎아 만든 고대 도시 페트라가 있는 나라는?",
+      "choices": [
+        "레바논",
+        "시리아",
+        "이집트",
+        "요르단"
+      ],
+      "answerIndex": 3,
+      "explanation": "페트라는 요르단 남부에 있는 나바테아인의 도시 유적이에요. 1985년 세계유산이 되었어요."
+    },
+    {
+      "id": "culture-6711d0cf",
+      "category": "culture",
+      "difficulty": 2,
+      "question": "거대한 석상 모아이로 유명한 이스터섬은 어느 나라 땅?",
+      "choices": [
+        "페루",
+        "에콰도르",
+        "칠레",
+        "뉴질랜드"
+      ],
+      "answerIndex": 2,
+      "explanation": "이스터섬은 남태평양에 있는 칠레 영토예요. 섬의 국립공원은 1995년 세계유산이 되었어요."
+    },
+    {
+      "id": "culture-a304a37f",
+      "category": "culture",
+      "difficulty": 2,
+      "question": "그리스 신화에서 괴물 메두사의 목을 벤 영웅은?",
+      "choices": [
+        "헤라클레스",
+        "테세우스",
+        "페르세우스",
+        "이아손"
+      ],
+      "answerIndex": 2,
+      "explanation": "페르세우스는 메두사를 직접 보지 않으려고 방패에 비친 모습을 보며 목을 베었어요."
+    },
+    {
+      "id": "culture-141643c3",
+      "category": "culture",
+      "difficulty": 2,
+      "question": "서사시 『일리아스』와 『오디세이아』를 지은 시인은?",
+      "choices": [
+        "베르길리우스",
+        "소포클레스",
+        "헤시오도스",
+        "호메로스"
+      ],
+      "answerIndex": 3,
+      "explanation": "두 서사시는 고대 그리스 시인 호메로스의 작품으로 전해져요. 『일리아스』는 트로이 전쟁을 다뤄요."
+    },
+    {
+      "id": "culture-6ca4ac85",
+      "category": "culture",
+      "difficulty": 2,
+      "question": "이집트 신화에서 자칼 머리를 한 죽음의 신은?",
+      "choices": [
+        "라",
+        "호루스",
+        "아누비스",
+        "토트"
+      ],
+      "answerIndex": 2,
+      "explanation": "아누비스는 미라 만들기와 죽은 자를 지키는 신이에요. 호루스는 매, 토트는 따오기 머리로 그려져요."
+    },
+    {
+      "id": "culture-0392d7fc",
+      "category": "culture",
+      "difficulty": 2,
+      "question": "남북 분단 속 '이명준'의 고뇌를 그린 『광장』의 작가는?",
+      "choices": [
+        "최인훈",
+        "이청준",
+        "황석영",
+        "김승옥"
+      ],
+      "answerIndex": 0,
+      "explanation": "『광장』은 최인훈이 1960년에 발표한 소설이에요. 남과 북 어디에서도 설 곳을 찾지 못한 이명준을 그렸어요."
+    },
+    {
+      "id": "culture-f7790d14",
+      "category": "culture",
+      "difficulty": 2,
+      "question": "'박제가 되어 버린 천재'로 시작하는 『날개』의 작가는?",
+      "choices": [
+        "박태원",
+        "이상",
+        "이태준",
+        "김유정"
+      ],
+      "answerIndex": 1,
+      "explanation": "『날개』는 1936년 발표된 이상의 단편소설이에요. 무기력한 지식인의 내면을 독특한 문체로 그렸어요.",
+      "funFact": "이상의 본명은 김해경이에요."
+    },
+    {
+      "id": "culture-090ff577",
+      "category": "culture",
+      "difficulty": 2,
+      "question": "복녀의 몰락을 그린 단편소설 『감자』의 작가는?",
+      "choices": [
+        "김동인",
+        "나도향",
+        "현진건",
+        "염상섭"
+      ],
+      "answerIndex": 0,
+      "explanation": "『감자』는 1925년 발표된 김동인의 소설이에요. 가난 속에서 타락해 가는 복녀의 삶을 그렸어요."
+    },
+    {
+      "id": "culture-19acd4e6",
+      "category": "culture",
+      "difficulty": 2,
+      "question": "농촌 계몽 운동을 그린 소설 『상록수』의 작가는?",
+      "choices": [
+        "이광수",
+        "김유정",
+        "심훈",
+        "이기영"
+      ],
+      "answerIndex": 2,
+      "explanation": "『상록수』는 1935년 동아일보 공모 당선작이에요. 심훈은 시 「그날이 오면」으로도 유명해요."
+    },
+    {
+      "id": "culture-5d1064d4",
+      "category": "culture",
+      "difficulty": 2,
+      "question": "소설 『오만과 편견』을 쓴 영국 작가는?",
+      "choices": [
+        "제인 오스틴",
+        "샬럿 브론테",
+        "메리 셸리",
+        "버지니아 울프"
+      ],
+      "answerIndex": 0,
+      "explanation": "『오만과 편견』은 엘리자베스와 다아시의 사랑을 그린 오스틴의 1813년 소설이에요."
+    },
+    {
+      "id": "culture-d350e516",
+      "category": "culture",
+      "difficulty": 2,
+      "question": "'빅 브라더'가 감시하는 사회를 그린 『1984』의 작가는?",
+      "choices": [
+        "H. G. 웰스",
+        "올더스 헉슬리",
+        "조지 오웰",
+        "레이 브래드버리"
+      ],
+      "answerIndex": 2,
+      "explanation": "『1984』는 오웰이 1949년에 낸 디스토피아 소설이에요. 『동물농장』도 오웰의 작품이에요.",
+      "funFact": "헉슬리의 『멋진 신세계』와 함께 대표적인 디스토피아 소설로 꼽혀요."
+    },
+    {
+      "id": "culture-423c9428",
+      "category": "culture",
+      "difficulty": 2,
+      "question": "지옥·연옥·천국을 여행하는 서사시 『신곡』의 작가는?",
+      "choices": [
+        "페트라르카",
+        "보카치오",
+        "단테",
+        "마키아벨리"
+      ],
+      "answerIndex": 2,
+      "explanation": "『신곡』은 14세기 초 이탈리아 시인 단테의 작품이에요. 시인 베르길리우스가 지옥과 연옥을 안내해요."
+    },
+    {
+      "id": "culture-9dc5076d",
+      "category": "culture",
+      "difficulty": 2,
+      "question": "유비·관우·장비가 나오는 『삼국지연의』의 작가는?",
+      "choices": [
+        "오승은",
+        "시내암",
+        "나관중",
+        "조설근"
+      ],
+      "answerIndex": 2,
+      "explanation": "『삼국지연의』는 원나라 말 명나라 초의 나관중이 정리한 소설이에요. 진수의 역사서 『삼국지』를 바탕으로 했어요."
+    },
+    {
+      "id": "culture-cbfe3b8b",
+      "category": "culture",
+      "difficulty": 2,
+      "question": "제주 유배 중 김정희가 제자에게 그려 준 그림은?",
+      "choices": [
+        "고사관수도",
+        "세한도",
+        "인왕제색도",
+        "몽유도원도"
+      ],
+      "answerIndex": 1,
+      "explanation": "추사 김정희는 귀한 책을 보내 준 제자 이상적에게 '세한도'를 그려 주었어요. 국보로 지정되어 있어요."
+    },
+    {
+      "id": "culture-f29d665c",
+      "category": "culture",
+      "difficulty": 2,
+      "question": "보름달처럼 둥근 조선 백자 항아리를 부르는 말은?",
+      "choices": [
+        "주병",
+        "달항아리",
+        "장군",
+        "매병"
+      ],
+      "answerIndex": 1,
+      "explanation": "달항아리는 위아래를 따로 만들어 붙인 큰 백자 항아리예요. 둥근 모양이 보름달을 닮아 붙은 이름이에요."
+    },
+    {
+      "id": "culture-6c201492",
+      "category": "culture",
+      "difficulty": 2,
+      "question": "교향곡 100곡 넘게 남겨 '교향곡의 아버지'로 불리는 작곡가는?",
+      "choices": [
+        "베토벤",
+        "바흐",
+        "모차르트",
+        "하이든"
+      ],
+      "answerIndex": 3,
+      "explanation": "하이든은 교향곡 형식을 확립해 '교향곡의 아버지'로 불려요. 번호가 붙은 교향곡만 104곡이에요.",
+      "funFact": "교향곡 94번 '놀람'은 조용하다가 갑자기 '쾅' 울려 조는 청중을 깨운다는 일화로 유명해요."
+    },
+    {
+      "id": "culture-039c5700",
+      "category": "culture",
+      "difficulty": 2,
+      "question": "교향곡 '신세계로부터'를 작곡한 체코 작곡가는?",
+      "choices": [
+        "야나체크",
+        "드보르자크",
+        "스메타나",
+        "말러"
+      ],
+      "answerIndex": 1,
+      "explanation": "'신세계로부터'는 드보르자크가 미국에 머물며 쓴 교향곡 9번이에요. '신세계'는 아메리카를 뜻해요."
+    },
+    {
+      "id": "culture-94c3ebd3",
+      "category": "culture",
+      "difficulty": 2,
+      "question": "다음 중 금관악기는 어느 것일까요?",
+      "choices": [
+        "오보에",
+        "클라리넷",
+        "플루트",
+        "트럼펫"
+      ],
+      "answerIndex": 3,
+      "explanation": "트럼펫은 입술 떨림으로 소리를 내는 금관악기예요. 플루트는 금속으로 만들어도 목관악기로 분류해요."
+    },
+    {
+      "id": "culture-5f1d0bdb",
+      "category": "culture",
+      "difficulty": 2,
+      "question": "시네마토그래프를 발명해 영화를 상영한 프랑스 형제는?",
+      "choices": [
+        "몽골피에 형제",
+        "그림 형제",
+        "뤼미에르 형제",
+        "라이트 형제"
+      ],
+      "answerIndex": 2,
+      "explanation": "뤼미에르 형제는 1895년 파리에서 관객에게 돈을 받고 영화를 상영했어요. 이 일을 흔히 영화의 시작으로 봐요.",
+      "funFact": "상영작 '열차의 도착'을 본 관객들이 기차가 튀어나올까 놀랐다는 이야기가 전해져요."
+    },
+    {
+      "id": "culture-83e2384f",
+      "category": "culture",
+      "difficulty": 2,
+      "question": "칸 영화제 최고상의 이름은?",
+      "choices": [
+        "황금종려상",
+        "황금표범상",
+        "황금곰상",
+        "황금사자상"
+      ],
+      "answerIndex": 0,
+      "explanation": "칸 영화제 최고상은 황금종려상이에요. 베를린은 황금곰상, 베네치아는 황금사자상을 줘요."
+    },
+    {
+      "id": "culture-399e34e4",
+      "category": "culture",
+      "difficulty": 2,
+      "question": "테니스에서 점수 0점을 부르는 말은?",
+      "choices": [
+        "니트",
+        "러브",
+        "듀스",
+        "제로"
+      ],
+      "answerIndex": 1,
+      "explanation": "테니스는 0점을 '러브', 이후 15, 30, 40으로 불러요. 40 대 40 동점은 '듀스'예요."
+    },
+    {
+      "id": "culture-11bbfd7a",
+      "category": "culture",
+      "difficulty": 2,
+      "question": "볼링에서 스트라이크를 세 번 연속으로 치는 것은?",
+      "choices": [
+        "터키",
+        "해트트릭",
+        "더블",
+        "스페어"
+      ],
+      "answerIndex": 0,
+      "explanation": "볼링에서 스트라이크 2연속은 더블, 3연속은 터키라고 불러요. 스페어는 두 번 만에 핀을 모두 쓰러뜨린 거예요."
+    },
+    {
+      "id": "culture-3a1bc0f5",
+      "category": "culture",
+      "difficulty": 2,
+      "question": "탁구 한 게임은 몇 점을 먼저 내면 이길까요?",
+      "choices": [
+        "11점",
+        "25점",
+        "15점",
+        "21점"
+      ],
+      "answerIndex": 0,
+      "explanation": "탁구는 2001년부터 11점제를 써요. 10 대 10이 되면 2점을 앞서야 이겨요."
+    },
+    {
+      "id": "culture-cc1f4e64",
+      "category": "culture",
+      "difficulty": 2,
+      "question": "체스에서 상대 킹이 피할 곳 없이 잡히게 된 상태는?",
+      "choices": [
+        "스테일메이트",
+        "체크메이트",
+        "앙파상",
+        "캐슬링"
+      ],
+      "answerIndex": 1,
+      "explanation": "체크메이트가 되면 경기가 끝나요. 스테일메이트는 둘 수 있는 수가 없지만 체크는 아닌 상태로 무승부예요."
+    },
+    {
+      "id": "culture-1fc889cd",
+      "category": "culture",
+      "difficulty": 2,
+      "question": "한복 저고리의 앞섶을 여미는 긴 끈은?",
+      "choices": [
+        "동정",
+        "배래",
+        "섶",
+        "고름"
+      ],
+      "answerIndex": 3,
+      "explanation": "저고리 앞을 여밀 때 매는 끈이 고름이에요. 동정은 깃에 덧대는 흰 천이고, 배래는 소매 아래쪽 선이에요."
+    },
+    {
+      "id": "culture-eacd3c1d",
+      "category": "culture",
+      "difficulty": 2,
+      "question": "공주·부여·익산의 유적을 묶은 세계유산은?",
+      "choices": [
+        "가야고분군",
+        "고구려 고분군",
+        "백제역사유적지구",
+        "경주역사유적지구"
+      ],
+      "answerIndex": 2,
+      "explanation": "백제역사유적지구는 2015년 세계유산이 되었어요. 공산성, 정림사지, 미륵사지 등 8곳이 포함돼요."
+    },
+    {
+      "id": "culture-62f8bbe5",
+      "category": "culture",
+      "difficulty": 3,
+      "question": "중국 칠현금을 고쳐 거문고를 만든 고구려 사람은?",
+      "choices": [
+        "왕산악",
+        "박연",
+        "옥보고",
+        "우륵"
+      ],
+      "answerIndex": 0,
+      "explanation": "『삼국사기』에 따르면 왕산악이 진나라 칠현금을 고쳐 거문고를 만들었어요. 거문고는 줄이 6개예요.",
+      "funFact": "왕산악이 연주하자 검은 학이 날아와 춤춰 '현학금'이라 불렀다는 이야기가 전해져요."
+    },
+    {
+      "id": "culture-9f4b0736",
+      "category": "culture",
+      "difficulty": 3,
+      "question": "세종 때 편경을 만들고 궁중 아악을 정비한 음악가는?",
+      "choices": [
+        "왕산악",
+        "장영실",
+        "우륵",
+        "박연"
+      ],
+      "answerIndex": 3,
+      "explanation": "박연은 세종의 명으로 궁중 음악인 아악을 정리했어요. 국산 돌로 편경도 만들었어요.",
+      "funFact": "박연은 고구려 왕산악, 신라 우륵과 함께 우리나라 3대 악성으로 꼽혀요."
+    },
+    {
+      "id": "culture-6e537cd3",
+      "category": "culture",
+      "difficulty": 3,
+      "question": "판소리에서 노래 사이에 말로 이야기를 엮는 부분은?",
+      "choices": [
+        "발림",
+        "창",
+        "추임새",
+        "아니리"
+      ],
+      "answerIndex": 3,
+      "explanation": "판소리는 노래인 창, 말인 아니리, 몸짓인 발림으로 이뤄져요. 추임새는 고수나 관객이 넣는 '얼씨구' 같은 소리예요."
+    },
+    {
+      "id": "culture-bf6110e0",
+      "category": "culture",
+      "difficulty": 3,
+      "question": "판소리·산조 장단 중 가장 느린 것은?",
+      "choices": [
+        "자진모리",
+        "휘모리",
+        "진양조",
+        "중모리"
+      ],
+      "answerIndex": 2,
+      "explanation": "판소리 장단은 진양조가 가장 느리고 중모리, 중중모리, 자진모리, 휘모리 순으로 빨라져요."
+    },
+    {
+      "id": "culture-34a504ca",
+      "category": "culture",
+      "difficulty": 3,
+      "question": "금속으로 만들지만 목관악기로 분류되는 것은?",
+      "choices": [
+        "색소폰",
+        "호른",
+        "튜바",
+        "트럼펫"
+      ],
+      "answerIndex": 0,
+      "explanation": "색소폰은 금속 몸통이지만 리드를 떨어 소리를 내서 목관악기로 분류해요. 악기 분류는 재료보다 소리 내는 방식을 따라요.",
+      "funFact": "색소폰은 벨기에 사람 아돌프 삭스가 만들어 그의 이름이 붙었어요."
+    },
+    {
+      "id": "culture-3f24d1e9",
+      "category": "culture",
+      "difficulty": 3,
+      "question": "북유럽 신화에서 아홉 세계를 잇는 거대한 나무는?",
+      "choices": [
+        "미드가르드",
+        "이그드라실",
+        "발할라",
+        "아스가르드"
+      ],
+      "answerIndex": 1,
+      "explanation": "이그드라실은 아홉 세계를 연결하는 세계수예요. 아스가르드는 신들의 세계, 미드가르드는 인간의 세계예요."
+    },
+    {
+      "id": "culture-bb9e0326",
+      "category": "culture",
+      "difficulty": 3,
+      "question": "고구려를 세운 주몽의 어머니는?",
+      "choices": [
+        "웅녀",
+        "소서노",
+        "알영",
+        "유화"
+      ],
+      "answerIndex": 3,
+      "explanation": "유화는 물의 신 하백의 딸이에요. 햇빛을 받고 낳은 알에서 주몽이 태어났다고 전해져요."
+    },
+    {
+      "id": "culture-f16f957e",
+      "category": "culture",
+      "difficulty": 3,
+      "question": "'윤 직원 영감'을 풍자한 소설 『태평천하』의 작가는?",
+      "choices": [
+        "김유정",
+        "염상섭",
+        "이태준",
+        "채만식"
+      ],
+      "answerIndex": 3,
+      "explanation": "『태평천하』는 1938년 발표된 채만식의 풍자소설이에요. 일제 강점기를 '태평천하'라 여기는 지주를 비꼬았어요."
+    },
+    {
+      "id": "culture-653505ec",
+      "category": "culture",
+      "difficulty": 3,
+      "question": "조씨 집안 3대의 갈등을 그린 소설 『삼대』의 작가는?",
+      "choices": [
+        "현진건",
+        "염상섭",
+        "채만식",
+        "이기영"
+      ],
+      "answerIndex": 1,
+      "explanation": "『삼대』는 염상섭이 1931년 신문에 연재한 장편소설이에요. 할아버지, 아버지, 손자의 가치관 충돌을 그렸어요."
+    },
+    {
+      "id": "culture-c94a7395",
+      "category": "culture",
+      "difficulty": 3,
+      "question": "소설 『폭풍의 언덕』을 쓴 작가는?",
+      "choices": [
+        "에밀리 브론테",
+        "샬럿 브론테",
+        "앤 브론테",
+        "제인 오스틴"
+      ],
+      "answerIndex": 0,
+      "explanation": "『폭풍의 언덕』은 에밀리 브론테의 유일한 장편이에요. 언니 샬럿은 『제인 에어』, 동생 앤은 『아그네스 그레이』를 썼어요."
+    },
+    {
+      "id": "culture-42212de3",
+      "category": "culture",
+      "difficulty": 3,
+      "question": "소인국·거인국 여행기 『걸리버 여행기』의 작가는?",
+      "choices": [
+        "헨리 필딩",
+        "대니얼 디포",
+        "조너선 스위프트",
+        "로런스 스턴"
+      ],
+      "answerIndex": 2,
+      "explanation": "『걸리버 여행기』는 1726년 나온 스위프트의 풍자소설이에요. 동화로 알려졌지만 당시 사회를 비꼰 작품이에요."
+    },
+    {
+      "id": "culture-a7f790d0",
+      "category": "culture",
+      "difficulty": 3,
+      "question": "『수호지』에서 양산박에 모이는 호걸은 몇 명?",
+      "choices": [
+        "100명",
+        "72명",
+        "108명",
+        "36명"
+      ],
+      "answerIndex": 2,
+      "explanation": "『수호지』의 호걸은 36명의 천강성과 72명의 지살성을 합친 108명이에요."
+    },
+    {
+      "id": "culture-2010981a",
+      "category": "culture",
+      "difficulty": 3,
+      "question": "일본 고전 장편소설 『겐지 이야기』의 작가는?",
+      "choices": [
+        "무라사키 시키부",
+        "세이 쇼나곤",
+        "나쓰메 소세키",
+        "마쓰오 바쇼"
+      ],
+      "answerIndex": 0,
+      "explanation": "『겐지 이야기』는 11세기 초 궁중 여성 무라사키 시키부가 쓴 소설이에요. 히카루 겐지의 사랑과 삶을 그렸어요."
+    },
+    {
+      "id": "culture-9c9f8ad3",
+      "category": "culture",
+      "difficulty": 3,
+      "question": "간통의 표시로 가슴에 'A'를 단 여인 이야기 『주홍 글씨』의 작가는?",
+      "choices": [
+        "너새니얼 호손",
+        "에드거 앨런 포",
+        "허먼 멜빌",
+        "마크 트웨인"
+      ],
+      "answerIndex": 0,
+      "explanation": "『주홍 글씨』는 1850년 나온 호손의 소설이에요. 청교도 사회에서 낙인 찍힌 헤스터 프린의 삶을 그렸어요."
+    },
+    {
+      "id": "culture-ac4f4b9d",
+      "category": "culture",
+      "difficulty": 3,
+      "question": "희곡 『갈매기』와 『벚꽃 동산』을 쓴 러시아 작가는?",
+      "choices": [
+        "고골",
+        "톨스토이",
+        "투르게네프",
+        "안톤 체호프"
+      ],
+      "answerIndex": 3,
+      "explanation": "체호프는 러시아의 극작가이자 단편소설 작가예요. 『갈매기』, 『바냐 아저씨』, 『세 자매』, 『벚꽃 동산』이 4대 희곡이에요."
+    },
+    {
+      "id": "culture-b3929f77",
+      "category": "culture",
+      "difficulty": 3,
+      "question": "그리스 비극 『오이디푸스 왕』을 쓴 작가는?",
+      "choices": [
+        "아리스토파네스",
+        "아이스킬로스",
+        "소포클레스",
+        "에우리피데스"
+      ],
+      "answerIndex": 2,
+      "explanation": "『오이디푸스 왕』은 소포클레스의 비극이에요. 아리스토파네스는 비극이 아닌 희극 작가예요."
+    },
+    {
+      "id": "culture-a8164d31",
+      "category": "culture",
+      "difficulty": 3,
+      "question": "스페인 왕녀와 시녀들을 그린 '시녀들'의 화가는?",
+      "choices": [
+        "무리요",
+        "엘 그레코",
+        "고야",
+        "벨라스케스"
+      ],
+      "answerIndex": 3,
+      "explanation": "'시녀들'은 1656년 벨라스케스가 그린 작품이에요. 화가 자신도 그림 속에 등장해요.",
+      "funFact": "피카소는 이 그림을 연구해 58점의 변주 작품을 남겼어요."
+    },
+    {
+      "id": "culture-eeb3e358",
+      "category": "culture",
+      "difficulty": 3,
+      "question": "목판화 '가나가와 해변의 높은 파도'를 만든 일본 화가는?",
+      "choices": [
+        "가쓰시카 호쿠사이",
+        "우타가와 히로시게",
+        "오가타 고린",
+        "기타가와 우타마로"
+      ],
+      "answerIndex": 0,
+      "explanation": "이 작품은 호쿠사이의 연작 『후가쿠 36경』 중 하나예요. 멀리 작게 후지산이 보여요."
+    },
+    {
+      "id": "culture-5ea3be7d",
+      "category": "culture",
+      "difficulty": 3,
+      "question": "안평대군의 꿈을 그린 '몽유도원도'의 화가는?",
+      "choices": [
+        "김홍도",
+        "강희안",
+        "정선",
+        "안견"
+      ],
+      "answerIndex": 3,
+      "explanation": "'몽유도원도'는 1447년 안견이 안평대군의 꿈 이야기를 듣고 사흘 만에 그린 그림이에요.",
+      "funFact": "이 그림은 현재 일본 덴리대학 도서관에 있어요."
+    },
+    {
+      "id": "culture-ed13f81c",
+      "category": "culture",
+      "difficulty": 3,
+      "question": "같은 리듬이 끝까지 반복되는 관현악곡 '볼레로'의 작곡가는?",
+      "choices": [
+        "드뷔시",
+        "생상스",
+        "에릭 사티",
+        "모리스 라벨"
+      ],
+      "answerIndex": 3,
+      "explanation": "'볼레로'는 라벨이 1928년 발레 음악으로 작곡했어요. 작은 북의 같은 리듬 위에서 점점 소리가 커져요."
+    },
+    {
+      "id": "culture-3a0785ea",
+      "category": "culture",
+      "difficulty": 3,
+      "question": "'백조'가 실린 모음곡 '동물의 사육제'의 작곡가는?",
+      "choices": [
+        "라벨",
+        "포레",
+        "드뷔시",
+        "생상스"
+      ],
+      "answerIndex": 3,
+      "explanation": "'동물의 사육제'는 생상스가 동물을 음악으로 그린 14곡의 모음곡이에요. '백조'는 첼로 독주곡으로 유명해요.",
+      "funFact": "생상스는 가볍게 쓴 곡이라 여겨 '백조'만 빼고 살아 있는 동안 출판을 막았어요."
+    },
+    {
+      "id": "culture-fe0579d5",
+      "category": "culture",
+      "difficulty": 3,
+      "question": "4부작 악극 '니벨룽의 반지'를 작곡한 사람은?",
+      "choices": [
+        "바그너",
+        "리하르트 슈트라우스",
+        "말러",
+        "베르디"
+      ],
+      "answerIndex": 0,
+      "explanation": "'니벨룽의 반지'는 바그너가 26년에 걸쳐 완성한 4부작이에요. 모두 공연하는 데 15시간쯤 걸려요."
+    },
+    {
+      "id": "culture-2e1fc703",
+      "category": "culture",
+      "difficulty": 3,
+      "question": "영화 '시민 케인'을 감독하고 주연까지 맡은 사람은?",
+      "choices": [
+        "하워드 혹스",
+        "오슨 웰스",
+        "존 포드",
+        "빌리 와일더"
+      ],
+      "answerIndex": 1,
+      "explanation": "'시민 케인'은 1941년 오슨 웰스가 25살에 감독·각본·주연을 맡은 영화예요. 유언 '로즈버드'의 뜻을 쫓는 이야기예요."
+    }
+  ]
+}

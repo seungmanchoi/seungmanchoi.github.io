@@ -1,0 +1,1418 @@
+{
+  "version": 1,
+  "id": "bank-life",
+  "category": "life",
+  "questions": [
+    {
+      "id": "life-ab7a885f",
+      "category": "life",
+      "difficulty": 1,
+      "question": "세탁 기호에서 물통 안에 손 모양이 그려져 있으면 무슨 뜻일까요?",
+      "choices": [
+        "다림질 금지",
+        "손세탁",
+        "드라이클리닝",
+        "기계 건조"
+      ],
+      "answerIndex": 1,
+      "explanation": "물통에 손이 들어간 기호는 손으로 살살 빨라는 표시예요. 세탁기에 돌리면 옷감이 상하거나 모양이 변할 수 있어요."
+    },
+    {
+      "id": "life-c7f6b64b",
+      "category": "life",
+      "difficulty": 1,
+      "question": "우리나라 가정용 콘센트의 표준 전압은?",
+      "choices": [
+        "220V",
+        "100V",
+        "110V",
+        "380V"
+      ],
+      "answerIndex": 0,
+      "explanation": "우리나라 가정용 전기는 220V를 써요. 일본과 미국은 100~120V를 써서 여행 갈 때 변압기나 어댑터를 챙기기도 해요.",
+      "funFact": "380V는 공장 같은 곳에서 쓰는 삼상 전력에 주로 쓰여요."
+    },
+    {
+      "id": "life-d4bcb1c2",
+      "category": "life",
+      "difficulty": 1,
+      "question": "TV 크기 '65인치'는 화면의 어느 길이를 잰 걸까요?",
+      "choices": [
+        "가로 길이",
+        "세로 길이",
+        "테두리 둘레",
+        "대각선 길이"
+      ],
+      "answerIndex": 3,
+      "explanation": "TV와 모니터 크기는 화면 한쪽 모서리에서 반대쪽 모서리까지의 대각선 길이로 나타내요. 65인치는 대각선이 약 165cm라는 뜻이에요."
+    },
+    {
+      "id": "life-4acdf65b",
+      "category": "life",
+      "difficulty": 1,
+      "question": "면적 단위 1평은 약 몇 제곱미터(㎡)일까요?",
+      "choices": [
+        "약 1㎡",
+        "약 3.3㎡",
+        "약 6.6㎡",
+        "약 10㎡"
+      ],
+      "answerIndex": 1,
+      "explanation": "1평은 약 3.3㎡예요. 그래서 30평 아파트는 대략 99㎡ 정도로 계산해요.",
+      "funFact": "1평은 원래 사방 6자(약 1.8m)인 정사각형 넓이에서 나온 단위예요."
+    },
+    {
+      "id": "life-b93ac999",
+      "category": "life",
+      "difficulty": 1,
+      "question": "한국 신발 치수 '260'의 단위는 무엇일까요?",
+      "choices": [
+        "밀리미터(mm)",
+        "호",
+        "센티미터(cm)",
+        "인치"
+      ],
+      "answerIndex": 0,
+      "explanation": "우리나라 신발 치수는 발 길이를 밀리미터로 적어요. 260은 발 길이가 260mm, 즉 26cm라는 뜻이에요."
+    },
+    {
+      "id": "life-cb0dab3e",
+      "category": "life",
+      "difficulty": 1,
+      "question": "사과를 깎아 두면 표면이 갈색으로 변하는 현상은?",
+      "choices": [
+        "산패",
+        "갈변",
+        "숙성",
+        "발효"
+      ],
+      "answerIndex": 1,
+      "explanation": "사과 속 효소가 공기 중 산소와 만나 폴리페놀을 갈색 물질로 바꾸는 현상이 갈변이에요. 설탕물이나 소금물에 잠깐 담그면 늦출 수 있어요."
+    },
+    {
+      "id": "life-c063d45c",
+      "category": "life",
+      "difficulty": 1,
+      "question": "빵 반죽을 부풀게 하는 미생물은?",
+      "choices": [
+        "효모",
+        "대장균",
+        "누룩곰팡이",
+        "유산균"
+      ],
+      "answerIndex": 0,
+      "explanation": "효모가 반죽 속 당을 먹고 이산화탄소를 내뿜어 반죽이 부풀어요. 구울 때 그 기체가 빠져나가며 빵에 구멍이 숭숭 생겨요."
+    },
+    {
+      "id": "life-4bfeeb16",
+      "category": "life",
+      "difficulty": 1,
+      "question": "콩물을 두부로 굳힐 때 넣는 것은?",
+      "choices": [
+        "식초",
+        "간수",
+        "베이킹소다",
+        "설탕"
+      ],
+      "answerIndex": 1,
+      "explanation": "간수는 바닷물에서 소금을 만들고 남은 쓴 물로, 염화마그네슘이 많아요. 이 성분이 콩 단백질을 엉기게 해 두부가 돼요."
+    },
+    {
+      "id": "life-8fa0c0f4",
+      "category": "life",
+      "difficulty": 1,
+      "question": "고추의 매운맛을 내는 성분은?",
+      "choices": [
+        "캡사이신",
+        "카페인",
+        "카테킨",
+        "알리신"
+      ],
+      "answerIndex": 0,
+      "explanation": "고추의 매운맛은 캡사이신 때문이에요. 씨보다 씨가 붙은 하얀 태좌 부분에 특히 많이 들어 있어요."
+    },
+    {
+      "id": "life-1f4f6eff",
+      "category": "life",
+      "difficulty": 1,
+      "question": "커피에 들어 있어 잠을 깨우는 성분은?",
+      "choices": [
+        "멜라토닌",
+        "니코틴",
+        "캡사이신",
+        "카페인"
+      ],
+      "answerIndex": 3,
+      "explanation": "카페인은 졸음을 부르는 아데노신의 작용을 막아 정신을 맑게 해요. 녹차, 콜라, 초콜릿에도 들어 있어요."
+    },
+    {
+      "id": "life-51ce8ff1",
+      "category": "life",
+      "difficulty": 1,
+      "question": "벼에서 겉껍질인 왕겨만 벗겨 낸 쌀은?",
+      "choices": [
+        "찹쌀",
+        "흑미",
+        "백미",
+        "현미"
+      ],
+      "answerIndex": 3,
+      "explanation": "왕겨만 벗긴 쌀이 현미예요. 현미에서 쌀겨와 씨눈까지 깎아 내면 하얀 백미가 돼요."
+    },
+    {
+      "id": "life-3a1be12f",
+      "category": "life",
+      "difficulty": 1,
+      "question": "누룽지에 물을 붓고 끓여 만든 구수한 물은?",
+      "choices": [
+        "숭늉",
+        "미숫가루",
+        "수정과",
+        "식혜"
+      ],
+      "answerIndex": 0,
+      "explanation": "솥 바닥 누룽지에 물을 부어 끓인 것이 숭늉이에요. 밥을 먹은 뒤 입가심으로 마시던 우리 전통 음료예요."
+    },
+    {
+      "id": "life-9ef959ab",
+      "category": "life",
+      "difficulty": 1,
+      "question": "된장과 간장을 담글 때 바탕이 되는, 콩을 삶아 띄운 덩어리는?",
+      "choices": [
+        "메주",
+        "두부",
+        "비지",
+        "누룩"
+      ],
+      "answerIndex": 0,
+      "explanation": "삶은 콩을 찧어 덩어리로 빚고 띄운 것이 메주예요. 메주를 소금물에 담가 우려낸 국물은 간장, 건더기는 된장이 돼요."
+    },
+    {
+      "id": "life-84a40e1a",
+      "category": "life",
+      "difficulty": 1,
+      "question": "속까지 완전히 익힌 스테이크의 굽기 정도는?",
+      "choices": [
+        "레어",
+        "웰던",
+        "미디엄",
+        "미디엄 레어"
+      ],
+      "answerIndex": 1,
+      "explanation": "속까지 고루 익혀 붉은 기가 없으면 웰던이에요. 레어에서 미디엄, 웰던으로 갈수록 더 많이 익혀요."
+    },
+    {
+      "id": "life-19ffb58d",
+      "category": "life",
+      "difficulty": 1,
+      "question": "달걀흰자를 세게 휘저어 단단한 거품으로 만든 것은?",
+      "choices": [
+        "머랭",
+        "가나슈",
+        "커스터드",
+        "캐러멜"
+      ],
+      "answerIndex": 0,
+      "explanation": "흰자를 저으면 단백질이 공기를 감싸 거품이 돼요. 이 거품에 설탕을 넣어 단단하게 만든 것이 머랭이에요."
+    },
+    {
+      "id": "life-7f071489",
+      "category": "life",
+      "difficulty": 1,
+      "question": "울 스웨터를 뜨거운 물에 빨면 생기기 쉬운 일은?",
+      "choices": [
+        "옷이 늘어난다",
+        "옷이 줄어든다",
+        "색이 진해진다",
+        "더 부드러워진다"
+      ],
+      "answerIndex": 1,
+      "explanation": "양털 겉면의 비늘이 뜨거운 물과 마찰에 서로 엉겨 붙어 옷이 쪼그라들어요. 울은 찬물에 중성세제로 살살 빨아요."
+    },
+    {
+      "id": "life-4fac87ab",
+      "category": "life",
+      "difficulty": 1,
+      "question": "니트 옷을 말릴 때 늘어나지 않게 하는 방법은?",
+      "choices": [
+        "빨래집게로 집어 널기",
+        "젖은 채 털어 걸기",
+        "평평하게 뉘어 말리기",
+        "옷걸이에 걸어 말리기"
+      ],
+      "answerIndex": 2,
+      "explanation": "젖은 니트를 걸면 물 무게 때문에 아래로 축 늘어나요. 수건 위에 평평하게 펼쳐 그늘에서 말리는 게 좋아요."
+    },
+    {
+      "id": "life-0b9eafe4",
+      "category": "life",
+      "difficulty": 1,
+      "question": "청바지 물 빠짐을 줄이는 세탁 방법은?",
+      "choices": [
+        "뒤집어 찬물 세탁",
+        "표백제 넣어 세탁",
+        "뜨거운 물 세탁",
+        "오래 물에 불리기"
+      ],
+      "answerIndex": 0,
+      "explanation": "청바지 겉면 염료는 마찰과 뜨거운 물에 잘 빠져요. 뒤집어서 찬물로 짧게 빨면 색을 오래 지킬 수 있어요."
+    },
+    {
+      "id": "life-a9dcdf28",
+      "category": "life",
+      "difficulty": 1,
+      "question": "옷에 붙은 껌을 떼기 쉽게 하는 방법은?",
+      "choices": [
+        "다리미로 누르기",
+        "뜨거운 물 붓기",
+        "물에 오래 불리기",
+        "얼음으로 굳히기"
+      ],
+      "answerIndex": 3,
+      "explanation": "껌은 차가워지면 단단해져 잘 부서지고 덜 끈적여요. 얼음을 대거나 비닐에 넣어 냉동실에 두었다가 긁어내면 돼요."
+    },
+    {
+      "id": "life-25d14b5b",
+      "category": "life",
+      "difficulty": 1,
+      "question": "세탁 후 세탁기 속 곰팡이를 줄이는 습관은?",
+      "choices": [
+        "세제를 더 넣기",
+        "물을 채워 두기",
+        "문을 꼭 닫아 두기",
+        "문을 열어 말리기"
+      ],
+      "answerIndex": 3,
+      "explanation": "세탁이 끝난 세탁기 안은 습해서 곰팡이가 자라기 좋아요. 문과 세제통을 열어 두어 속을 말려 주세요."
+    },
+    {
+      "id": "life-9ee88146",
+      "category": "life",
+      "difficulty": 1,
+      "question": "겨울에 정전기가 잘 생기는 주된 이유는?",
+      "choices": [
+        "햇빛이 약해서",
+        "공기가 건조해서",
+        "옷이 두꺼워서",
+        "바람이 세서"
+      ],
+      "answerIndex": 1,
+      "explanation": "공기 중 수분은 몸에 쌓인 전기를 조금씩 흘려보내요. 겨울엔 습도가 낮아 전기가 쌓였다가 한 번에 '찌릿' 튀어요."
+    },
+    {
+      "id": "life-8850d206",
+      "category": "life",
+      "difficulty": 1,
+      "question": "겨울 창문 안쪽에 물방울이 맺히는 현상은?",
+      "choices": [
+        "결로",
+        "융해",
+        "승화",
+        "증발"
+      ],
+      "answerIndex": 0,
+      "explanation": "따뜻하고 습한 실내 공기가 차가운 유리에 닿아 식으면 수증기가 물방울로 변해요. 이것이 결로이고 자주 환기하면 줄일 수 있어요."
+    },
+    {
+      "id": "life-2f723d58",
+      "category": "life",
+      "difficulty": 1,
+      "question": "얼음이 물에 뜨는 이유는?",
+      "choices": [
+        "물보다 밀도가 작아서",
+        "물보다 무거워서",
+        "속에 소금이 없어서",
+        "온도가 낮아서"
+      ],
+      "answerIndex": 0,
+      "explanation": "물은 얼면서 분자 사이가 벌어져 부피가 약 9% 커져요. 같은 부피일 때 더 가벼워지니 물 위에 떠요.",
+      "funFact": "호수가 위부터 얼어 그 아래 물고기가 겨울을 날 수 있는 것도 이 덕분이에요."
+    },
+    {
+      "id": "life-fff1e9ba",
+      "category": "life",
+      "difficulty": 1,
+      "question": "햇볕 아래에서 가장 덜 뜨거워지는 옷 색은?",
+      "choices": [
+        "남색",
+        "진회색",
+        "흰색",
+        "검은색"
+      ],
+      "answerIndex": 2,
+      "explanation": "흰색은 빛을 대부분 반사하고 검은색은 대부분 흡수해요. 그래서 여름 햇볕 아래에선 밝은 색 옷이 덜 뜨거워요."
+    },
+    {
+      "id": "life-c8f4b3b3",
+      "category": "life",
+      "difficulty": 1,
+      "question": "아이스크림 포장에 넣는 드라이아이스의 정체는?",
+      "choices": [
+        "얼린 질소",
+        "특수 얼음",
+        "고체 이산화탄소",
+        "얼린 산소"
+      ],
+      "answerIndex": 2,
+      "explanation": "드라이아이스는 이산화탄소를 영하 약 79℃ 아래로 얼린 고체예요. 녹지 않고 바로 기체로 변해 '드라이'라는 이름이 붙었어요.",
+      "funFact": "밀폐된 병에 넣으면 기체가 차올라 터질 수 있어 위험해요."
+    },
+    {
+      "id": "life-20b9cd4f",
+      "category": "life",
+      "difficulty": 1,
+      "question": "김 봉지에 든 실리카겔 봉지가 하는 일은?",
+      "choices": [
+        "습기 흡수",
+        "향 내기",
+        "벌레 쫓기",
+        "산소 생성"
+      ],
+      "answerIndex": 0,
+      "explanation": "실리카겔은 아주 작은 구멍이 많아 습기를 빨아들여요. 김이나 과자가 눅눅해지지 않게 해 줘요."
+    },
+    {
+      "id": "life-5cf7c33e",
+      "category": "life",
+      "difficulty": 1,
+      "question": "정상 성인의 체온은 대략 몇 ℃일까요?",
+      "choices": [
+        "약 35.0℃",
+        "약 38.5℃",
+        "약 37.8℃",
+        "약 36.5℃"
+      ],
+      "answerIndex": 3,
+      "explanation": "건강한 사람의 체온은 보통 36.5℃ 안팎이에요. 재는 부위나 시간에 따라 조금씩 달라요."
+    },
+    {
+      "id": "life-118b87df",
+      "category": "life",
+      "difficulty": 1,
+      "question": "어두워지면 많이 나와 잠이 오게 하는 호르몬은?",
+      "choices": [
+        "인슐린",
+        "멜라토닌",
+        "아드레날린",
+        "엔도르핀"
+      ],
+      "answerIndex": 1,
+      "explanation": "멜라토닌은 뇌의 송과선에서 나오고 어두울 때 분비가 늘어요. 자기 전 밝은 화면을 오래 보면 분비가 줄 수 있어요."
+    },
+    {
+      "id": "life-1ce3fac2",
+      "category": "life",
+      "difficulty": 1,
+      "question": "전기가 새면 자동으로 전기를 끊어 주는 장치는?",
+      "choices": [
+        "누전 차단기",
+        "변압기",
+        "전력 계량기",
+        "멀티탭"
+      ],
+      "answerIndex": 0,
+      "explanation": "누전 차단기는 전류가 엉뚱한 곳으로 새는 것을 감지하면 바로 전기를 끊어요. 감전과 전기 화재를 막아 줘요."
+    },
+    {
+      "id": "life-ccac7754",
+      "category": "life",
+      "difficulty": 1,
+      "question": "멀티탭에 전기기구를 너무 많이 꽂으면 생기는 화재 원인은?",
+      "choices": [
+        "정전기",
+        "과부하",
+        "주파수 변화",
+        "저전압"
+      ],
+      "answerIndex": 1,
+      "explanation": "한 콘센트에 여러 기기를 몰아 꽂으면 허용량보다 많은 전류가 흘러요. 전선이 뜨거워져 불이 날 수 있어요."
+    },
+    {
+      "id": "life-cf85e3e2",
+      "category": "life",
+      "difficulty": 1,
+      "question": "원통형 건전지에서 볼록 튀어나온 쪽은?",
+      "choices": [
+        "접지 단자",
+        "중성 단자",
+        "마이너스(-) 극",
+        "플러스(+) 극"
+      ],
+      "answerIndex": 3,
+      "explanation": "원통형 건전지는 볼록한 쪽이 +극, 평평한 쪽이 -극이에요. 기기에 넣을 때 방향을 반대로 하면 작동하지 않아요."
+    },
+    {
+      "id": "life-cdb800ab",
+      "category": "life",
+      "difficulty": 1,
+      "question": "스마트폰 배터리가 부풀어 올랐을 때 알맞은 대처는?",
+      "choices": [
+        "눌러서 평평하게",
+        "사용 멈추고 교체",
+        "냉동실에 넣기",
+        "계속 충전하기"
+      ],
+      "answerIndex": 1,
+      "explanation": "배터리가 부푼 건 내부에 가스가 찼다는 신호예요. 누르거나 계속 쓰면 불이 날 수 있으니 바로 쓰지 말고 교체해야 해요."
+    },
+    {
+      "id": "life-5c4b5562",
+      "category": "life",
+      "difficulty": 1,
+      "question": "불이 났을 때 대피 수단으로 쓰면 안 되는 것은?",
+      "choices": [
+        "완강기",
+        "비상구",
+        "엘리베이터",
+        "계단"
+      ],
+      "answerIndex": 2,
+      "explanation": "불이 나면 정전으로 엘리베이터가 멈추거나 통로로 연기가 들어올 수 있어요. 대피는 계단과 비상구로 해요."
+    },
+    {
+      "id": "life-c1de48ca",
+      "category": "life",
+      "difficulty": 1,
+      "question": "옷에 불이 붙었을 때 알맞은 행동은?",
+      "choices": [
+        "팔을 크게 휘젓기",
+        "빨리 뛰어가기",
+        "바람 부는 곳에 서기",
+        "멈춰서 눕고 구르기"
+      ],
+      "answerIndex": 3,
+      "explanation": "뛰면 공기가 공급돼 불이 더 커져요. 그 자리에 멈춰 엎드린 뒤 얼굴을 가리고 굴러 불을 꺼요."
+    },
+    {
+      "id": "life-9f3339bf",
+      "category": "life",
+      "difficulty": 1,
+      "question": "비상구 표지판의 바탕색은?",
+      "choices": [
+        "노란색",
+        "파란색",
+        "빨간색",
+        "초록색"
+      ],
+      "answerIndex": 3,
+      "explanation": "비상구 유도등은 초록 바탕에 달려 나가는 사람 그림이 있어요. 연기 속에서도 잘 보이도록 눈에 띄는 녹색을 써요."
+    },
+    {
+      "id": "life-7f801cee",
+      "category": "life",
+      "difficulty": 1,
+      "question": "팔이 부러진 것 같을 때 알맞은 응급처치는?",
+      "choices": [
+        "뜨거운 찜질",
+        "주물러 풀기",
+        "뼈를 맞춰 넣기",
+        "부목으로 고정"
+      ],
+      "answerIndex": 3,
+      "explanation": "골절이 의심되면 다친 부위를 움직이지 않게 부목으로 고정해요. 억지로 맞추면 혈관이나 신경이 더 다칠 수 있어요."
+    },
+    {
+      "id": "life-9680f384",
+      "category": "life",
+      "difficulty": 1,
+      "question": "터널에 들어갈 때 켜야 하는 것은?",
+      "choices": [
+        "실내등",
+        "비상등",
+        "방향지시등",
+        "전조등"
+      ],
+      "answerIndex": 3,
+      "explanation": "터널 안은 어두워 다른 차가 내 차를 잘 보도록 전조등을 켜야 해요. 낮에도 마찬가지예요."
+    },
+    {
+      "id": "life-06eda810",
+      "category": "life",
+      "difficulty": 1,
+      "question": "한여름 차 안에 두면 터질 위험이 있는 물건은?",
+      "choices": [
+        "면 수건",
+        "종이 책",
+        "나무젓가락",
+        "일회용 라이터"
+      ],
+      "answerIndex": 3,
+      "explanation": "한여름 차 안은 70℃ 가까이 오르기도 해요. 라이터 속 가스가 팽창해 터지거나 불이 날 수 있어요."
+    },
+    {
+      "id": "life-395cdd63",
+      "category": "life",
+      "difficulty": 1,
+      "question": "어린이 카시트를 설치하기에 가장 안전한 자리는?",
+      "choices": [
+        "조수석",
+        "트렁크 공간",
+        "운전석",
+        "뒷좌석"
+      ],
+      "answerIndex": 3,
+      "explanation": "조수석은 에어백이 터질 때 아이가 크게 다칠 수 있어요. 카시트는 뒷좌석에 설치하는 것이 안전해요."
+    },
+    {
+      "id": "life-d2d14604",
+      "category": "life",
+      "difficulty": 1,
+      "question": "보행 신호가 깜빡이기 시작했을 때 올바른 행동은?",
+      "choices": [
+        "뛰어서 건너기",
+        "차를 세우며 건너기",
+        "새로 건너지 않기",
+        "천천히 건너기"
+      ],
+      "answerIndex": 2,
+      "explanation": "녹색 신호 점멸은 곧 신호가 바뀐다는 뜻이에요. 이미 건너는 중이면 빨리 건너고, 아직 안 건넜다면 다음 신호를 기다려요."
+    },
+    {
+      "id": "life-6a4d23f7",
+      "category": "life",
+      "difficulty": 1,
+      "question": "어린이 보호구역(스쿨존)의 기본 제한속도는?",
+      "choices": [
+        "시속 30km",
+        "시속 50km",
+        "시속 10km",
+        "시속 60km"
+      ],
+      "answerIndex": 0,
+      "explanation": "어린이 보호구역은 원칙적으로 시속 30km 이하로 달려야 해요. 시속 30km 이하에서는 사고가 나도 크게 다칠 위험이 확 줄어요."
+    },
+    {
+      "id": "life-f16a342d",
+      "category": "life",
+      "difficulty": 1,
+      "question": "도로 위에 얇고 투명하게 언 얼음을 뭐라 부를까요?",
+      "choices": [
+        "슬러시",
+        "화이트아웃",
+        "우박",
+        "블랙 아이스"
+      ],
+      "answerIndex": 3,
+      "explanation": "블랙 아이스는 투명한 얇은 얼음이라 검은 아스팔트 색이 그대로 비쳐 보여요. 눈에 잘 안 띄어 겨울철 교통사고의 원인이 돼요."
+    },
+    {
+      "id": "life-20704e70",
+      "category": "life",
+      "difficulty": 1,
+      "question": "스마트폰에 주로 쓰는 충전식 배터리는?",
+      "choices": [
+        "알칼리 건전지",
+        "납축전지",
+        "망간 건전지",
+        "리튬이온 배터리"
+      ],
+      "answerIndex": 3,
+      "explanation": "리튬이온 배터리는 가볍고 많이 담을 수 있어 휴대폰, 노트북에 쓰여요. 이 배터리를 개발한 과학자들은 2019년 노벨 화학상을 받았어요."
+    },
+    {
+      "id": "life-98cc0c0c",
+      "category": "life",
+      "difficulty": 2,
+      "question": "높은 산 위에서 밥을 지으면 설익기 쉬운 이유는?",
+      "choices": [
+        "산소가 많아서",
+        "물의 끓는점이 낮아서",
+        "쌀이 단단해져서",
+        "물이 빨리 식어서"
+      ],
+      "answerIndex": 1,
+      "explanation": "높은 곳은 기압이 낮아 물이 100℃보다 낮은 온도에서 끓어요. 온도가 충분히 오르지 않으니 밥이 덜 익어요.",
+      "funFact": "에베레스트 정상에서는 물이 약 70℃에서 끓어요."
+    },
+    {
+      "id": "life-c52bc5bf",
+      "category": "life",
+      "difficulty": 2,
+      "question": "양파를 썰 때 눈물이 나게 하는 것은?",
+      "choices": [
+        "비타민 C 증기",
+        "전분 가루",
+        "황 화합물 기체",
+        "소금 성분"
+      ],
+      "answerIndex": 2,
+      "explanation": "양파 세포가 잘리면 효소 작용으로 휘발성 황 화합물이 생겨요. 이 기체가 눈을 자극해 눈물이 나요.",
+      "funFact": "양파를 차게 해 두고 썰면 기체가 덜 퍼져요."
+    },
+    {
+      "id": "life-36656013",
+      "category": "life",
+      "difficulty": 2,
+      "question": "기름이 공기·빛과 만나 오래되면 냄새와 맛이 변하는 현상은?",
+      "choices": [
+        "산패",
+        "갈변",
+        "발효",
+        "호화"
+      ],
+      "answerIndex": 0,
+      "explanation": "기름 속 지방이 산소와 반응해 분해되면서 쩐내가 나는 것을 산패라고 해요. 기름은 뚜껑을 닫아 서늘하고 어두운 곳에 두어요."
+    },
+    {
+      "id": "life-57de0209",
+      "category": "life",
+      "difficulty": 2,
+      "question": "당근에 많고 몸에서 비타민 A로 바뀌는 성분은?",
+      "choices": [
+        "카페인",
+        "베타카로틴",
+        "라이코펜",
+        "캡사이신"
+      ],
+      "answerIndex": 1,
+      "explanation": "베타카로틴은 몸에서 비타민 A로 바뀌는 주황색 색소예요. 기름과 함께 먹으면 더 잘 흡수돼요."
+    },
+    {
+      "id": "life-4115a43c",
+      "category": "life",
+      "difficulty": 2,
+      "question": "키위나 파인애플을 넣으면 고기가 부드러워지는 이유는?",
+      "choices": [
+        "단백질 분해 효소",
+        "식이섬유",
+        "설탕 성분",
+        "비타민 C"
+      ],
+      "answerIndex": 0,
+      "explanation": "키위의 액티니딘, 파인애플의 브로멜라인은 단백질을 분해하는 효소예요. 고기 섬유를 끊어 연하게 해 줘요.",
+      "funFact": "너무 오래 재우면 고기가 흐물흐물해질 수 있어요."
+    },
+    {
+      "id": "life-3a8da8b9",
+      "category": "life",
+      "difficulty": 2,
+      "question": "사과 옆에 둔 바나나가 빨리 익게 만드는 기체는?",
+      "choices": [
+        "에틸렌",
+        "질소",
+        "이산화탄소",
+        "헬륨"
+      ],
+      "answerIndex": 0,
+      "explanation": "사과는 과일을 익게 하는 식물 호르몬인 에틸렌 기체를 많이 내뿜어요. 그래서 함께 두면 다른 과일이 빨리 익어요."
+    },
+    {
+      "id": "life-1db8824c",
+      "category": "life",
+      "difficulty": 2,
+      "question": "옷에 묻은 핏자국을 지울 때 알맞은 물은?",
+      "choices": [
+        "뜨거운 물",
+        "따뜻한 소금물",
+        "찬물",
+        "끓는 물"
+      ],
+      "answerIndex": 2,
+      "explanation": "피 속 단백질은 뜨거운 물을 만나면 굳어 섬유에 달라붙어요. 핏자국은 찬물로 먼저 빨아야 잘 빠져요."
+    },
+    {
+      "id": "life-977553a9",
+      "category": "life",
+      "difficulty": 2,
+      "question": "물과 기름을 섞이게 해 기름때를 빼는 세제 속 성분은?",
+      "choices": [
+        "표백제",
+        "연마제",
+        "계면활성제",
+        "방부제"
+      ],
+      "answerIndex": 2,
+      "explanation": "계면활성제는 물과 친한 부분과 기름과 친한 부분을 함께 가지고 있어요. 기름때를 감싸 물에 씻겨 나가게 해요."
+    },
+    {
+      "id": "life-6ba97684",
+      "category": "life",
+      "difficulty": 2,
+      "question": "전기포트 안쪽의 하얀 물때를 녹이기 좋은 것은?",
+      "choices": [
+        "소금",
+        "식용유",
+        "구연산",
+        "베이킹소다"
+      ],
+      "answerIndex": 2,
+      "explanation": "하얀 물때는 물속 칼슘 등이 쌓인 것이라 산에 잘 녹아요. 구연산을 푼 물을 끓였다가 헹구면 깨끗해져요."
+    },
+    {
+      "id": "life-2c488cc3",
+      "category": "life",
+      "difficulty": 2,
+      "question": "전자레인지가 음식을 데우는 원리는?",
+      "choices": [
+        "자외선 쪼이기",
+        "적외선 열선 가열",
+        "물 분자를 진동시킴",
+        "뜨거운 바람 순환"
+      ],
+      "answerIndex": 2,
+      "explanation": "전자레인지는 마이크로파로 음식 속 물 분자를 빠르게 흔들어요. 분자끼리 부딪히며 생긴 열로 음식이 데워져요."
+    },
+    {
+      "id": "life-33f65d01",
+      "category": "life",
+      "difficulty": 2,
+      "question": "요리할 때 계량스푼 1큰술은 몇 mL일까요?",
+      "choices": [
+        "15mL",
+        "30mL",
+        "10mL",
+        "5mL"
+      ],
+      "answerIndex": 0,
+      "explanation": "계량스푼 1큰술(1T)은 15mL, 1작은술(1t)은 5mL예요. 1큰술은 작은술 3개 분량이에요."
+    },
+    {
+      "id": "life-44f9fb0b",
+      "category": "life",
+      "difficulty": 2,
+      "question": "정육점에서 고기 한 근은 몇 g일까요?",
+      "choices": [
+        "1,000g",
+        "375g",
+        "400g",
+        "600g"
+      ],
+      "answerIndex": 3,
+      "explanation": "고기는 보통 한 근을 600g으로 쳐요. 채소나 과일은 한 근을 375g으로 쳐서 품목마다 달라요."
+    },
+    {
+      "id": "life-408efab1",
+      "category": "life",
+      "difficulty": 2,
+      "question": "고속도로에서 차가 고장 나 멈췄을 때 사람은 어디로 피해야 할까요?",
+      "choices": [
+        "갓길 위",
+        "차 바로 뒤",
+        "차 안",
+        "가드레일 바깥"
+      ],
+      "answerIndex": 3,
+      "explanation": "고장 난 차 안이나 주변에 있으면 뒤차에 치이는 2차 사고 위험이 커요. 비상등을 켜고 가드레일 밖 안전한 곳으로 피한 뒤 신고해요."
+    },
+    {
+      "id": "life-38750379",
+      "category": "life",
+      "difficulty": 2,
+      "question": "의식이 있는 저혈당 환자에게 먼저 줄 것은?",
+      "choices": [
+        "맹물",
+        "소금물",
+        "인슐린 주사",
+        "사탕이나 단 주스"
+      ],
+      "answerIndex": 3,
+      "explanation": "저혈당은 혈액 속 당이 너무 부족한 상태예요. 의식이 있고 삼킬 수 있다면 빨리 흡수되는 당분을 먹게 해요."
+    },
+    {
+      "id": "life-4e5a0c63",
+      "category": "life",
+      "difficulty": 2,
+      "question": "경련하는 사람 곁에서 하면 안 되는 행동은?",
+      "choices": [
+        "주변 물건 치우기",
+        "입에 물건 넣기",
+        "머리 밑 받쳐 주기",
+        "경련 시간 재기"
+      ],
+      "answerIndex": 1,
+      "explanation": "경련 중 입에 물건을 넣으면 이가 부러지거나 숨길이 막힐 수 있어요. 다치지 않게 주변을 치우고 지켜보며 시간을 재요."
+    },
+    {
+      "id": "life-388301bd",
+      "category": "life",
+      "difficulty": 2,
+      "question": "뱀에 물렸을 때 하면 안 되는 행동은?",
+      "choices": [
+        "119에 신고하기",
+        "입으로 독 빨아내기",
+        "움직임 줄이기",
+        "반지·시계 빼기"
+      ],
+      "answerIndex": 1,
+      "explanation": "입으로 빨면 독이 빠지지 않고 오히려 구조자도 위험해질 수 있어요. 움직임을 줄이고 부을 것에 대비해 장신구를 뺀 뒤 병원으로 가요."
+    },
+    {
+      "id": "life-b5536e9d",
+      "category": "life",
+      "difficulty": 2,
+      "question": "몸에 칼 같은 물체가 깊이 박혔을 때 알맞은 처치는?",
+      "choices": [
+        "알코올 붓기",
+        "즉시 뽑기",
+        "물로 씻어 내기",
+        "빼지 말고 고정"
+      ],
+      "answerIndex": 3,
+      "explanation": "박힌 물체가 혈관을 누르고 있을 수 있어 뽑으면 피가 심하게 날 수 있어요. 움직이지 않게 고정하고 119를 불러요."
+    },
+    {
+      "id": "life-f2e060df",
+      "category": "life",
+      "difficulty": 2,
+      "question": "사고로 빠진 영구치를 병원에 가져갈 때 담가 가면 좋은 것은?",
+      "choices": [
+        "우유",
+        "탄산음료",
+        "소독용 알코올",
+        "수돗물"
+      ],
+      "answerIndex": 0,
+      "explanation": "빠진 이는 뿌리 쪽 세포가 살아 있어야 다시 심을 수 있어요. 우유는 세포를 비교적 잘 지켜 주니 담가서 빨리 치과에 가요."
+    },
+    {
+      "id": "life-4303f296",
+      "category": "life",
+      "difficulty": 2,
+      "question": "실내 적정 습도로 흔히 권하는 범위는?",
+      "choices": [
+        "40~60%",
+        "20~30%",
+        "10~20%",
+        "70~90%"
+      ],
+      "answerIndex": 0,
+      "explanation": "실내 습도는 40~60%가 알맞아요. 너무 건조하면 호흡기가 마르고 너무 습하면 곰팡이와 진드기가 늘어요."
+    },
+    {
+      "id": "life-bde39ac1",
+      "category": "life",
+      "difficulty": 2,
+      "question": "저온 살균법을 개발한 과학자는?",
+      "choices": [
+        "알렉산더 플레밍",
+        "루이 파스퇴르",
+        "에드워드 제너",
+        "로베르트 코흐"
+      ],
+      "answerIndex": 1,
+      "explanation": "파스퇴르는 와인이 상하는 걸 막으려고 낮은 온도로 데우는 살균법을 개발했어요. 이 방법은 지금도 우유 살균에 쓰여요.",
+      "funFact": "저온 살균을 영어로 '파스퇴라이제이션'이라고 해요."
+    },
+    {
+      "id": "life-e21f5ff3",
+      "category": "life",
+      "difficulty": 2,
+      "question": "소금에 절인 음식이 잘 상하지 않는 원리는?",
+      "choices": [
+        "응고 작용",
+        "산화 작용",
+        "삼투 작용",
+        "중화 작용"
+      ],
+      "answerIndex": 2,
+      "explanation": "소금 농도가 높으면 삼투 작용으로 세균 몸속 물이 빠져나가요. 세균이 살기 어려워져 음식이 오래가요."
+    },
+    {
+      "id": "life-2db4f545",
+      "category": "life",
+      "difficulty": 2,
+      "question": "감칠맛을 내는 조미료 MSG는 무엇의 줄임말일까요?",
+      "choices": [
+        "염화나트륨",
+        "구연산나트륨",
+        "글루탐산나트륨",
+        "탄산수소나트륨"
+      ],
+      "answerIndex": 2,
+      "explanation": "MSG는 글루탐산나트륨(Monosodium Glutamate)의 줄임말이에요. 글루탐산은 다시마, 토마토, 치즈에도 많은 감칠맛 성분이에요."
+    },
+    {
+      "id": "life-f52bcc9c",
+      "category": "life",
+      "difficulty": 2,
+      "question": "매운맛은 혀가 느끼는 맛이 아니라 어떤 감각일까요?",
+      "choices": [
+        "미각",
+        "청각",
+        "후각",
+        "통각"
+      ],
+      "answerIndex": 3,
+      "explanation": "매운맛은 캡사이신 같은 성분이 통증과 열을 느끼는 신경을 자극해 생기는 통각이에요. 그래서 기본 맛에 들어가지 않아요."
+    },
+    {
+      "id": "life-057a8b74",
+      "category": "life",
+      "difficulty": 2,
+      "question": "달걀 껍데기 색을 결정하는 것은?",
+      "choices": [
+        "달걀의 영양가",
+        "사료의 종류",
+        "닭의 품종",
+        "달걀의 신선도"
+      ],
+      "answerIndex": 2,
+      "explanation": "갈색 달걀과 흰 달걀은 닭의 품종이 달라 색이 다를 뿐이에요. 영양가에는 큰 차이가 없어요."
+    },
+    {
+      "id": "life-627293b5",
+      "category": "life",
+      "difficulty": 2,
+      "question": "바나나를 냉장고에 넣으면 껍질은 어떻게 될까요?",
+      "choices": [
+        "검게 변한다",
+        "더 노래진다",
+        "단단해진다",
+        "초록색이 된다"
+      ],
+      "answerIndex": 0,
+      "explanation": "열대 과일인 바나나는 낮은 온도에서 세포가 손상돼 껍질이 검게 변해요. 속살은 대체로 먹을 수 있어요."
+    },
+    {
+      "id": "life-9b8c020e",
+      "category": "life",
+      "difficulty": 2,
+      "question": "술을 마신 뒤 간에서 생겨 숙취를 일으키는 물질은?",
+      "choices": [
+        "아세트알데히드",
+        "메탄올",
+        "요산",
+        "젖산"
+      ],
+      "answerIndex": 0,
+      "explanation": "알코올은 간에서 먼저 아세트알데히드로 바뀌어요. 이 물질이 두통, 메스꺼움, 얼굴 붉어짐을 일으켜요."
+    },
+    {
+      "id": "life-f9f23b78",
+      "category": "life",
+      "difficulty": 2,
+      "question": "겨울철 도로에 염화칼슘을 뿌리는 이유는?",
+      "choices": [
+        "눈을 하얗게 해서",
+        "노면을 매끄럽게 해서",
+        "빛을 반사해서",
+        "물의 어는점을 낮춰서"
+      ],
+      "answerIndex": 3,
+      "explanation": "물에 염화칼슘이 녹으면 어는점이 0℃보다 훨씬 내려가요. 그래서 눈이 녹고 다시 잘 얼지 않아요."
+    },
+    {
+      "id": "life-04731194",
+      "category": "life",
+      "difficulty": 2,
+      "question": "보온병이 온도를 오래 지키는 핵심 구조는?",
+      "choices": [
+        "안쪽 솜 단열재",
+        "뚜껑 속 자석",
+        "두꺼운 플라스틱",
+        "이중벽 속 진공층"
+      ],
+      "answerIndex": 3,
+      "explanation": "진공에는 열을 전할 물질이 없어 전도와 대류가 거의 일어나지 않아요. 그래서 두 벽 사이를 진공으로 만들면 열이 잘 안 빠져요."
+    },
+    {
+      "id": "life-85bdeff9",
+      "category": "life",
+      "difficulty": 2,
+      "question": "자외선 차단제의 PA 등급이 주로 막는 것은?",
+      "choices": [
+        "자외선 B(UVB)",
+        "적외선",
+        "자외선 A(UVA)",
+        "가시광선"
+      ],
+      "answerIndex": 2,
+      "explanation": "PA는 피부 깊이 들어와 피부를 검게 하고 노화를 일으키는 자외선 A 차단 정도를 나타내요. '+'가 많을수록 차단력이 높아요."
+    },
+    {
+      "id": "life-49328d1f",
+      "category": "life",
+      "difficulty": 2,
+      "question": "비타민 A가 부족하면 생기기 쉬운 증상은?",
+      "choices": [
+        "괴혈병",
+        "야맹증",
+        "각기병",
+        "구루병"
+      ],
+      "answerIndex": 1,
+      "explanation": "비타민 A는 어두운 곳에서 빛을 느끼는 눈 속 물질을 만드는 데 필요해요. 부족하면 밤에 잘 안 보이는 야맹증이 생겨요."
+    },
+    {
+      "id": "life-b0047be6",
+      "category": "life",
+      "difficulty": 2,
+      "question": "덜 익힌 달걀이나 닭고기로 걸리기 쉬운 식중독균은?",
+      "choices": [
+        "파상풍균",
+        "비브리오균",
+        "결핵균",
+        "살모넬라균"
+      ],
+      "answerIndex": 3,
+      "explanation": "살모넬라균은 닭이나 달걀 껍데기에 많아요. 충분히 익혀 먹고, 날달걀을 만진 뒤엔 손을 씻어요."
+    },
+    {
+      "id": "life-609f392d",
+      "category": "life",
+      "difficulty": 2,
+      "question": "겨울철 굴 같은 조개류를 날로 먹고 걸리기 쉬운 식중독 원인은?",
+      "choices": [
+        "결핵균",
+        "파상풍균",
+        "노로바이러스",
+        "독감 바이러스"
+      ],
+      "answerIndex": 2,
+      "explanation": "노로바이러스는 추운 겨울에도 오래 살아남고 적은 양으로도 감염돼요. 조개류는 속까지 충분히 익혀 먹는 게 안전해요."
+    },
+    {
+      "id": "life-55406847",
+      "category": "life",
+      "difficulty": 3,
+      "question": "달걀노른자의 노란색을 내는 색소 계열은?",
+      "choices": [
+        "안토시아닌",
+        "카로티노이드",
+        "클로로필",
+        "멜라닌"
+      ],
+      "answerIndex": 1,
+      "explanation": "노른자의 노란색은 닭이 먹은 사료 속 루테인 같은 카로티노이드 색소에서 와요. 사료에 따라 노른자 색이 진해지기도 해요."
+    },
+    {
+      "id": "life-e9cd5e38",
+      "category": "life",
+      "difficulty": 3,
+      "question": "지은 밥이 식으면서 딱딱해지는 현상은?",
+      "choices": [
+        "지방 산패",
+        "전분의 노화",
+        "전분의 호화",
+        "단백질 변성"
+      ],
+      "answerIndex": 1,
+      "explanation": "호화된 전분이 식으면 다시 단단한 구조로 돌아가요. 이것이 노화이며 냉장실 온도에서 가장 빨리 일어나요.",
+      "funFact": "그래서 남은 밥은 냉장보다 냉동 보관이 더 맛있게 유지돼요."
+    },
+    {
+      "id": "life-bd515b2d",
+      "category": "life",
+      "difficulty": 3,
+      "question": "생선 비린내의 주된 원인 물질은?",
+      "choices": [
+        "아세트산",
+        "카페인",
+        "트리메틸아민",
+        "에틸렌"
+      ],
+      "answerIndex": 2,
+      "explanation": "생선이 신선도가 떨어지면 트리메틸아민이 생겨 비린내가 나요. 염기성 물질이라 레몬즙이나 식초를 뿌리면 냄새가 줄어요."
+    },
+    {
+      "id": "life-7dde0cdc",
+      "category": "life",
+      "difficulty": 3,
+      "question": "락스의 주성분인 염소계 표백 성분은?",
+      "choices": [
+        "탄산수소나트륨",
+        "과탄산나트륨",
+        "차아염소산나트륨",
+        "구연산나트륨"
+      ],
+      "answerIndex": 2,
+      "explanation": "락스 같은 염소계 표백제의 주성분은 차아염소산나트륨이에요. 과탄산나트륨은 산소계 표백제 성분이에요."
+    },
+    {
+      "id": "life-6f0926e5",
+      "category": "life",
+      "difficulty": 3,
+      "question": "냉장고가 내부를 차갑게 하는 데 이용하는 현상은?",
+      "choices": [
+        "자석의 반발로 냉각",
+        "전기 저항으로 열 흡수",
+        "냉매가 증발하며 열 흡수",
+        "얼음이 녹으며 열 흡수"
+      ],
+      "answerIndex": 2,
+      "explanation": "액체 냉매가 냉장고 안쪽 관에서 증발하며 주변 열을 빼앗아요. 그 열은 압축기를 거쳐 냉장고 뒤쪽으로 내보내져요."
+    },
+    {
+      "id": "life-162c1b25",
+      "category": "life",
+      "difficulty": 3,
+      "question": "달걀을 오래 삶으면 노른자 겉이 초록빛이 되는 이유는?",
+      "choices": [
+        "비타민이 녹아서",
+        "곰팡이가 생겨서",
+        "황화철이 생겨서",
+        "엽록소가 생겨서"
+      ],
+      "answerIndex": 2,
+      "explanation": "흰자의 황 성분과 노른자의 철 성분이 오래 가열되면 만나서 황화철이 돼요. 먹어도 괜찮지만, 삶은 뒤 찬물에 식히면 줄일 수 있어요."
+    },
+    {
+      "id": "life-3fdbd82d",
+      "category": "life",
+      "difficulty": 3,
+      "question": "겨울에 꿀이 하얗게 굳는 주된 이유는?",
+      "choices": [
+        "단백질이 굳어서",
+        "포도당이 결정화돼서",
+        "꿀이 상해서",
+        "수분이 늘어서"
+      ],
+      "answerIndex": 1,
+      "explanation": "꿀의 주성분 중 포도당은 낮은 온도에서 결정이 잘 생겨요. 상한 게 아니라서 따뜻한 물에 중탕하면 다시 녹아요."
+    },
+    {
+      "id": "life-b0ad812e",
+      "category": "life",
+      "difficulty": 3,
+      "question": "설탕만 가열할 때 갈색으로 변하며 향이 생기는 반응은?",
+      "choices": [
+        "산패",
+        "캐러멜화",
+        "호화",
+        "마이야르 반응"
+      ],
+      "answerIndex": 1,
+      "explanation": "설탕을 높은 온도로 가열하면 분해되며 갈색과 고소한 향이 생겨요. 이것이 캐러멜화예요."
+    },
+    {
+      "id": "life-2abd809c",
+      "category": "life",
+      "difficulty": 3,
+      "question": "고기를 구울 때 겉이 갈색이 되며 풍미가 생기는 반응은?",
+      "choices": [
+        "마이야르 반응",
+        "중화 반응",
+        "발효",
+        "산패"
+      ],
+      "answerIndex": 0,
+      "explanation": "마이야르 반응은 아미노산과 당이 열을 받아 갈색 물질과 풍미를 만드는 반응이에요. 빵 껍질과 커피 향도 이 반응 덕분이에요.",
+      "funFact": "1912년 프랑스 화학자 루이 카미유 마이야르가 처음 보고해 이 이름이 붙었어요."
+    },
+    {
+      "id": "life-84a35551",
+      "category": "life",
+      "difficulty": 3,
+      "question": "젤리를 굳히는 데 쓰는 한천의 원료는?",
+      "choices": [
+        "돼지 껍질",
+        "옥수수",
+        "우뭇가사리",
+        "감귤 껍질"
+      ],
+      "answerIndex": 2,
+      "explanation": "한천은 우뭇가사리 같은 홍조류에서 뽑아요. 동물성 젤라틴과 달리 식물성이라 상온에서도 잘 굳어요."
+    },
+    {
+      "id": "life-5035c50e",
+      "category": "life",
+      "difficulty": 3,
+      "question": "과일잼이 걸쭉하게 굳게 하는 과일 속 성분은?",
+      "choices": [
+        "젤라틴",
+        "카제인",
+        "펙틴",
+        "글루텐"
+      ],
+      "answerIndex": 2,
+      "explanation": "펙틴은 과일 껍질과 세포벽에 많은 식이섬유예요. 설탕, 산과 함께 끓이면 젤처럼 굳어 잼이 돼요."
+    },
+    {
+      "id": "life-6cde00c5",
+      "category": "life",
+      "difficulty": 3,
+      "question": "공기보다 무거워 새면 바닥에 깔리는 가스는?",
+      "choices": [
+        "수소",
+        "LPG",
+        "LNG",
+        "헬륨"
+      ],
+      "answerIndex": 1,
+      "explanation": "프로판, 부탄이 주성분인 LPG는 공기보다 무거워 바닥에 고여요. 공기보다 가벼운 LNG(도시가스) 경보기는 천장 가까이 달아요."
+    },
+    {
+      "id": "life-ec60d1fd",
+      "category": "life",
+      "difficulty": 3,
+      "question": "다리미 온도를 가장 높게 해야 하는 옷감은?",
+      "choices": [
+        "실크",
+        "마(리넨)",
+        "폴리에스터",
+        "나일론"
+      ],
+      "answerIndex": 1,
+      "explanation": "마는 열에 강해 다리미 온도를 높게 해야 주름이 펴져요. 나일론, 폴리에스터, 실크는 열에 약해 낮은 온도로 다려요."
+    },
+    {
+      "id": "life-dcfea4de",
+      "category": "life",
+      "difficulty": 3,
+      "question": "빗길을 빠르게 달릴 때 타이어가 물 위에 뜨는 현상은?",
+      "choices": [
+        "베이퍼 록",
+        "수막 현상",
+        "페이드 현상",
+        "스탠딩 웨이브"
+      ],
+      "answerIndex": 1,
+      "explanation": "타이어와 노면 사이에 물막이 생겨 타이어가 뜨면 핸들과 브레이크가 잘 안 들어요. 빗길에선 속도를 줄이는 게 가장 좋은 예방법이에요."
+    },
+    {
+      "id": "life-61529657",
+      "category": "life",
+      "difficulty": 3,
+      "question": "자동차 타이어 홈 깊이의 법적 마모 한계는?",
+      "choices": [
+        "1.6mm",
+        "3.0mm",
+        "0.5mm",
+        "5.0mm"
+      ],
+      "answerIndex": 0,
+      "explanation": "타이어 홈 깊이가 1.6mm 아래로 닳으면 교체해야 해요. 홈이 얕으면 빗길에서 물이 잘 빠지지 않아 미끄러지기 쉬워요."
+    },
+    {
+      "id": "life-7398ac68",
+      "category": "life",
+      "difficulty": 3,
+      "question": "이안류에 휩쓸렸을 때 헤엄칠 방향은?",
+      "choices": [
+        "물속 깊이 잠수",
+        "먼바다 쪽으로",
+        "해변 쪽 정면으로",
+        "해변과 나란하게"
+      ],
+      "answerIndex": 3,
+      "explanation": "이안류는 해변에서 먼바다로 빠르게 빠져나가는 좁은 물살이에요. 거슬러 헤엄치면 지치니 해변과 나란히 헤엄쳐 물살을 벗어나요."
+    },
+    {
+      "id": "life-88c771fb",
+      "category": "life",
+      "difficulty": 3,
+      "question": "해파리에 쏘였을 때 쏘인 부위를 씻기 좋은 것은?",
+      "choices": [
+        "바닷물",
+        "수돗물",
+        "소주",
+        "탄산음료"
+      ],
+      "answerIndex": 0,
+      "explanation": "민물로 씻으면 피부에 남은 해파리 독침이 터져 독이 더 퍼질 수 있어요. 바닷물로 씻어 내고 촉수는 맨손으로 만지지 않아요."
+    },
+    {
+      "id": "life-82e1cec4",
+      "category": "life",
+      "difficulty": 3,
+      "question": "오래 비운 집 욕실 배수구에서 악취가 나는 주된 이유는?",
+      "choices": [
+        "수도관이 얼어서",
+        "수압이 낮아져서",
+        "트랩의 물이 말라서",
+        "전기가 끊겨서"
+      ],
+      "answerIndex": 2,
+      "explanation": "배수관의 꺾인 부분(트랩)에는 물이 고여 하수구 냄새를 막아요. 오래 물을 안 쓰면 이 물이 말라 냄새가 올라와요."
+    },
+    {
+      "id": "life-73895dd3",
+      "category": "life",
+      "difficulty": 3,
+      "question": "전자레인지로 데운 물이 꺼낼 때 갑자기 끓어 넘치는 현상은?",
+      "choices": [
+        "모세관 현상",
+        "돌비 현상",
+        "수막 현상",
+        "결로 현상"
+      ],
+      "answerIndex": 1,
+      "explanation": "매끈한 컵의 물을 전자레인지로 데우면 끓는점을 넘어도 기포가 안 생길 수 있어요. 이때 충격을 주면 한꺼번에 끓어올라 화상을 입을 수 있어요."
+    },
+    {
+      "id": "life-7fceb5e4",
+      "category": "life",
+      "difficulty": 3,
+      "question": "은수저가 거무스름하게 변하는 주된 원인은?",
+      "choices": [
+        "질소와의 반응",
+        "소금과의 반응",
+        "황 성분과의 반응",
+        "산소와의 반응"
+      ],
+      "answerIndex": 2,
+      "explanation": "은은 공기나 달걀, 파 같은 음식 속 황 성분과 만나 검은 황화은이 돼요. 치약이나 베이킹소다로 닦으면 다시 반짝여요."
+    },
+    {
+      "id": "life-1b8705ba",
+      "category": "life",
+      "difficulty": 3,
+      "question": "1kcal는 물 1kg의 온도를 몇 ℃ 올리는 열량일까요?",
+      "choices": [
+        "1℃",
+        "100℃",
+        "10℃",
+        "0.1℃"
+      ],
+      "answerIndex": 0,
+      "explanation": "1kcal는 물 1kg을 1℃ 올리는 데 드는 열량이에요. 1cal는 물 1g을 1℃ 올리는 열량이고요."
+    },
+    {
+      "id": "life-3c9631a1",
+      "category": "life",
+      "difficulty": 3,
+      "question": "알코올 1g이 내는 열량은 약 몇 kcal일까요?",
+      "choices": [
+        "0kcal",
+        "약 9kcal",
+        "약 7kcal",
+        "약 4kcal"
+      ],
+      "answerIndex": 2,
+      "explanation": "알코올은 1g에 약 7kcal를 내요. 영양소는 거의 없이 열량만 높아 '빈 열량'이라고도 불러요."
+    },
+    {
+      "id": "life-7de572ea",
+      "category": "life",
+      "difficulty": 3,
+      "question": "1파운드(lb)는 약 몇 kg일까요?",
+      "choices": [
+        "약 0.1kg",
+        "약 2.2kg",
+        "약 1kg",
+        "약 0.45kg"
+      ],
+      "answerIndex": 3,
+      "explanation": "1파운드는 약 0.45kg이에요. 거꾸로 1kg은 약 2.2파운드예요."
+    },
+    {
+      "id": "life-1e845f60",
+      "category": "life",
+      "difficulty": 3,
+      "question": "물이 끓는 온도를 화씨로 나타내면?",
+      "choices": [
+        "32℉",
+        "212℉",
+        "100℉",
+        "180℉"
+      ],
+      "answerIndex": 1,
+      "explanation": "1기압에서 물은 섭씨 100℃, 화씨 212℉에서 끓어요. 물이 어는 0℃는 화씨로 32℉예요."
+    },
+    {
+      "id": "life-de8efad4",
+      "category": "life",
+      "difficulty": 3,
+      "question": "보석 무게 단위 1캐럿은 몇 g일까요?",
+      "choices": [
+        "1g",
+        "2g",
+        "0.2g",
+        "0.5g"
+      ],
+      "answerIndex": 2,
+      "explanation": "보석의 1캐럿은 0.2g이에요. 금의 순도를 나타내는 '캐럿(K)'과는 다른 단위예요.",
+      "funFact": "캐럿은 무게가 고르다고 여겨진 캐럽나무 씨앗에서 이름이 왔어요."
+    }
+  ]
+}

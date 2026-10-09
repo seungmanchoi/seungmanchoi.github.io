@@ -1,0 +1,1424 @@
+{
+  "version": 1,
+  "id": "bank-economy",
+  "category": "economy",
+  "questions": [
+    {
+      "id": "economy-146a3935",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "주가가 계속 떨어지는 약세장을 상징하는 동물은?",
+      "choices": [
+        "황소",
+        "사자",
+        "늑대",
+        "곰"
+      ],
+      "answerIndex": 3,
+      "explanation": "곰이 앞발을 위에서 아래로 내리찍는 모습에 빗대 약세장을 '베어 마켓'이라고 해요. 반대로 강세장은 황소로 상징해요."
+    },
+    {
+      "id": "economy-f9cb0131",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "물건값을 여러 달에 나누어 갚는 결제 방식은?",
+      "choices": [
+        "현금 결제",
+        "할부",
+        "선불",
+        "일시불"
+      ],
+      "answerIndex": 1,
+      "explanation": "할부는 물건값을 몇 개월에 걸쳐 나누어 내는 방식이에요. 한 번에 다 내는 것은 일시불이라고 해요."
+    },
+    {
+      "id": "economy-4eb82f26",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "오만 원권 지폐 앞면에 그려진 인물은?",
+      "choices": [
+        "세종대왕",
+        "이황",
+        "유관순",
+        "신사임당"
+      ],
+      "answerIndex": 3,
+      "explanation": "오만 원권 앞면 인물은 조선 시대 예술가 신사임당이에요. 우리 지폐 최초의 여성 인물이에요.",
+      "funFact": "오천 원권의 율곡 이이가 신사임당의 아들이라, 어머니와 아들이 함께 지폐에 실려 있어요."
+    },
+    {
+      "id": "economy-fae359f4",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "일본의 화폐 단위는?",
+      "choices": [
+        "원",
+        "위안",
+        "바트",
+        "엔"
+      ],
+      "answerIndex": 3,
+      "explanation": "일본은 '엔(円)'을 화폐 단위로 써요. 위안은 중국, 바트는 태국의 화폐 단위예요."
+    },
+    {
+      "id": "economy-0c5886c5",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "유럽 여러 나라가 함께 쓰는 공동 화폐는?",
+      "choices": [
+        "마르크",
+        "프랑",
+        "파운드",
+        "유로"
+      ],
+      "answerIndex": 3,
+      "explanation": "유로는 유럽연합의 여러 회원국이 함께 쓰는 단일 통화예요. 1999년 도입되고 2002년부터 지폐와 동전이 쓰였어요.",
+      "funFact": "프랑스의 프랑, 독일의 마르크는 유로가 생기면서 사라진 화폐예요."
+    },
+    {
+      "id": "economy-a6ee04de",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "영국의 화폐 단위는?",
+      "choices": [
+        "파운드",
+        "유로",
+        "프랑",
+        "달러"
+      ],
+      "answerIndex": 0,
+      "explanation": "영국은 유럽연합에 속했을 때도 유로 대신 파운드를 썼어요. 정식 이름은 파운드 스털링이에요."
+    },
+    {
+      "id": "economy-b37c2976",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "돈을 빌릴 때 못 갚을 경우를 대비해 맡기는 재산은?",
+      "choices": [
+        "이자",
+        "담보",
+        "원금",
+        "계약금"
+      ],
+      "answerIndex": 1,
+      "explanation": "담보는 빚을 못 갚으면 대신 처분할 수 있도록 잡아 두는 재산이에요. 집을 담보로 받는 대출을 주택담보대출이라고 해요."
+    },
+    {
+      "id": "economy-e2673244",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "물건 하나를 만드는 데 실제로 드는 비용은?",
+      "choices": [
+        "정가",
+        "할인가",
+        "판매가",
+        "원가"
+      ],
+      "answerIndex": 3,
+      "explanation": "원가는 재료비, 인건비 등 물건을 만들거나 들여오는 데 든 비용이에요. 판매가에서 원가를 빼면 이윤이 남아요."
+    },
+    {
+      "id": "economy-8f278890",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "주식시장에서 '개미'는 누구를 뜻할까요?",
+      "choices": [
+        "개인 투자자",
+        "증권사 직원",
+        "외국인 투자자",
+        "기관 투자자"
+      ],
+      "answerIndex": 0,
+      "explanation": "규모가 작은 개인 투자자를 부지런한 개미에 빗대 '개미'라고 불러요. 은행·연기금 같은 곳은 기관 투자자라고 해요."
+    },
+    {
+      "id": "economy-094ff37c",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "미국 추수감사절 다음 날 열리는 대규모 할인 행사는?",
+      "choices": [
+        "광군제",
+        "박싱 데이",
+        "사이버 먼데이",
+        "블랙 프라이데이"
+      ],
+      "answerIndex": 3,
+      "explanation": "블랙 프라이데이는 11월 넷째 목요일인 추수감사절 다음 금요일이에요. 미국 연말 쇼핑 시즌의 시작을 알리는 날이에요."
+    },
+    {
+      "id": "economy-5dcde140",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "직장인이 한 해 낸 근로소득세를 다시 계산해 맞추는 것은?",
+      "choices": [
+        "원천징수",
+        "연말정산",
+        "종합소득세 신고",
+        "세무조사"
+      ],
+      "answerIndex": 1,
+      "explanation": "연말정산은 미리 떼어 낸 세금과 실제 내야 할 세금을 비교해 정산하는 절차예요. 더 냈으면 돌려받고 덜 냈으면 더 내요.",
+      "funFact": "그래서 연말정산은 흔히 '13월의 월급'이라고 불려요."
+    },
+    {
+      "id": "economy-8017d705",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "노동을 제공해 소득을 얻고 주로 소비를 맡는 경제 주체는?",
+      "choices": [
+        "가계",
+        "외국",
+        "기업",
+        "정부"
+      ],
+      "answerIndex": 0,
+      "explanation": "경제 주체는 가계, 기업, 정부로 나눠요. 가계는 노동 같은 생산 요소를 제공하고 그 소득으로 소비해요."
+    },
+    {
+      "id": "economy-97b65278",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "1929년 미국 주가 대폭락으로 시작된 세계적 경제 위기는?",
+      "choices": [
+        "닷컴 버블",
+        "석유 파동",
+        "대공황",
+        "외환위기"
+      ],
+      "answerIndex": 2,
+      "explanation": "1929년 10월 뉴욕 증시 폭락을 계기로 대공황이 시작됐어요. 1930년대 내내 실업과 기업 도산이 세계로 번졌어요."
+    },
+    {
+      "id": "economy-d44039c7",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "대공황 극복을 위해 미국 루스벨트 대통령이 펼친 정책은?",
+      "choices": [
+        "마셜 플랜",
+        "페어딜",
+        "신경제 정책",
+        "뉴딜 정책"
+      ],
+      "answerIndex": 3,
+      "explanation": "뉴딜은 프랭클린 루스벨트가 1930년대에 추진한 경기 회복 정책이에요. 대규모 공공사업과 사회보장 제도가 핵심이었어요.",
+      "funFact": "미국 테네시강 유역 개발 사업(TVA)이 뉴딜의 대표 공공사업이에요."
+    },
+    {
+      "id": "economy-f0091efd",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "한국이 1997년 외환위기 때 구제금융을 받은 국제기구는?",
+      "choices": [
+        "IMF",
+        "세계은행",
+        "WTO",
+        "OECD"
+      ],
+      "answerIndex": 0,
+      "explanation": "1997년 외환이 바닥나자 한국은 국제통화기금(IMF)의 구제금융을 받았어요. 그래서 이 시기를 흔히 'IMF 사태'라고 불러요.",
+      "funFact": "당시 많은 국민이 집에 있던 금을 내놓은 '금 모으기 운동'이 벌어졌어요."
+    },
+    {
+      "id": "economy-fa98f5a6",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "'자본론'을 쓴 사상가는?",
+      "choices": [
+        "리카도",
+        "카를 마르크스",
+        "케인스",
+        "애덤 스미스"
+      ],
+      "answerIndex": 1,
+      "explanation": "자본론은 카를 마르크스가 자본주의 구조를 분석한 책이에요. 1권이 1867년에 나왔어요."
+    },
+    {
+      "id": "economy-3f21d4e5",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "결과의 80%가 원인의 20%에서 나온다는 법칙은?",
+      "choices": [
+        "머피의 법칙",
+        "파레토 법칙",
+        "롱테일 법칙",
+        "하인리히 법칙"
+      ],
+      "answerIndex": 1,
+      "explanation": "이탈리아 경제학자 빌프레도 파레토의 이름을 딴 법칙이에요. '매출의 80%는 고객 20%가 만든다'처럼 쓰여요."
+    },
+    {
+      "id": "economy-af7b2fe0",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "미국에서 중앙은행 역할을 하는 기관은?",
+      "choices": [
+        "국제통화기금",
+        "뉴욕증권거래소",
+        "연방준비제도",
+        "미국 재무부"
+      ],
+      "answerIndex": 2,
+      "explanation": "연방준비제도(Fed)는 미국의 통화정책과 기준금리를 정하는 중앙은행 체계예요. 1913년에 만들어졌어요."
+    },
+    {
+      "id": "economy-d8622c37",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "은행이 위험하다는 소문에 예금자들이 한꺼번에 돈을 찾는 사태는?",
+      "choices": [
+        "모라토리엄",
+        "뱅크런",
+        "마진콜",
+        "디폴트"
+      ],
+      "answerIndex": 1,
+      "explanation": "뱅크런은 예금 인출이 한꺼번에 몰리는 현상이에요. 은행은 예금 일부만 현금으로 두기 때문에 버티기 어려워져요."
+    },
+    {
+      "id": "economy-40db0896",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "기업을 사들이거나 합치는 일을 뜻하는 영어 약자는?",
+      "choices": [
+        "R&D",
+        "CEO",
+        "M&A",
+        "IPO"
+      ],
+      "answerIndex": 2,
+      "explanation": "M&A는 합병(Mergers)과 인수(Acquisitions)를 합친 말이에요. 다른 회사를 사거나 두 회사를 하나로 합치는 것을 말해요."
+    },
+    {
+      "id": "economy-e520e0c5",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "기업가치 10억 달러 이상인 비상장 스타트업을 부르는 말은?",
+      "choices": [
+        "페가수스",
+        "유니콘",
+        "데카콘",
+        "헥토콘"
+      ],
+      "answerIndex": 1,
+      "explanation": "상상 속 동물 유니콘처럼 드물다는 뜻에서 붙은 이름이에요. 100억 달러 이상이면 데카콘이라고 불러요.",
+      "funFact": "2013년 미국 벤처투자자 에일린 리가 처음 이 표현을 썼어요."
+    },
+    {
+      "id": "economy-83db8648",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "더 큰 손실을 막으려고 손해를 감수하고 파는 것은?",
+      "choices": [
+        "공매도",
+        "익절",
+        "물타기",
+        "손절매"
+      ],
+      "answerIndex": 3,
+      "explanation": "손절매는 '손해를 끊고 판다'는 뜻으로 줄여서 손절이라고 해요. 이익을 보고 파는 것은 익절이라고 해요."
+    },
+    {
+      "id": "economy-05293ce6",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "주식시장이 마감할 때 마지막으로 거래된 가격은?",
+      "choices": [
+        "시가",
+        "종가",
+        "고가",
+        "호가"
+      ],
+      "answerIndex": 1,
+      "explanation": "종가는 그날 장을 마칠 때의 가격이에요. 시가는 장이 열릴 때 처음 거래된 가격이에요."
+    },
+    {
+      "id": "economy-d5f42fe4",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "정부가 나랏돈을 마련하려고 발행하는 채권은?",
+      "choices": [
+        "금융채",
+        "지방채",
+        "회사채",
+        "국채"
+      ],
+      "answerIndex": 3,
+      "explanation": "국채는 국가가 발행해 원리금 상환을 보장하는 채권이에요. 지방자치단체가 발행하면 지방채, 기업이 발행하면 회사채예요."
+    },
+    {
+      "id": "economy-c388f4af",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "갚기로 한 날짜를 넘겨 빚을 갚지 못한 상태는?",
+      "choices": [
+        "거치",
+        "만기",
+        "상환",
+        "연체"
+      ],
+      "answerIndex": 3,
+      "explanation": "연체는 약속한 날까지 돈을 내지 못한 상태예요. 연체가 이어지면 연체 이자가 붙고 신용점수도 떨어져요."
+    },
+    {
+      "id": "economy-8be4015a",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "목돈을 맡기고 매달 월세 없이 집을 빌리는 방식은?",
+      "choices": [
+        "전세",
+        "분양",
+        "매매",
+        "월세"
+      ],
+      "answerIndex": 0,
+      "explanation": "전세는 보증금을 맡기고 집을 쓴 뒤 계약이 끝나면 보증금을 돌려받는 방식이에요. 한국에서 특히 발달한 임대 제도예요."
+    },
+    {
+      "id": "economy-a1a2ed73",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "새 아파트 분양을 신청하려고 가입하는 통장은?",
+      "choices": [
+        "CMA",
+        "ISA",
+        "주택청약종합저축",
+        "연금저축"
+      ],
+      "answerIndex": 2,
+      "explanation": "아파트 청약에 참여하려면 주택청약종합저축에 가입해 두어야 해요. 납입 기간과 횟수가 당첨 순위에 영향을 줘요."
+    },
+    {
+      "id": "economy-c600840f",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "다음 중 4대 사회보험에 속하지 않는 것은?",
+      "choices": [
+        "고용보험",
+        "자동차보험",
+        "산재보험",
+        "국민연금"
+      ],
+      "answerIndex": 1,
+      "explanation": "4대 사회보험은 국민연금, 건강보험, 고용보험, 산재보험이에요. 자동차보험은 민간 보험사가 파는 손해보험이에요."
+    },
+    {
+      "id": "economy-5d5857e3",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "실직했을 때 실업급여를 받게 해 주는 사회보험은?",
+      "choices": [
+        "산재보험",
+        "국민연금",
+        "고용보험",
+        "건강보험"
+      ],
+      "answerIndex": 2,
+      "explanation": "고용보험은 일자리를 잃은 사람에게 실업급여를 주고 재취업을 도와요. 직장인은 월급에서 보험료가 빠져나가요."
+    },
+    {
+      "id": "economy-4cc2e262",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "기업들이 짜고 가격이나 생산량을 함께 정하는 행위는?",
+      "choices": [
+        "합병",
+        "독점",
+        "덤핑",
+        "담합"
+      ],
+      "answerIndex": 3,
+      "explanation": "담합은 경쟁해야 할 기업들이 몰래 가격 등을 맞추는 불공정 행위예요. 우리나라에서는 공정거래위원회가 적발하고 제재해요."
+    },
+    {
+      "id": "economy-cd5166c3",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "한쪽이 얻은 만큼 다른 쪽이 잃어 합이 0이 되는 상황은?",
+      "choices": [
+        "윈윈 게임",
+        "치킨 게임",
+        "제로섬 게임",
+        "포지티브섬 게임"
+      ],
+      "answerIndex": 2,
+      "explanation": "제로섬 게임은 참가자들의 이득과 손실을 더하면 0이 되는 상황이에요. 포커나 내기가 대표적인 예예요."
+    },
+    {
+      "id": "economy-7a300624",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "경쟁자가 거의 없는 새로운 시장을 뜻하는 말은?",
+      "choices": [
+        "퍼플오션",
+        "레드오션",
+        "블루오션",
+        "골드오션"
+      ],
+      "answerIndex": 2,
+      "explanation": "경쟁이 치열한 시장을 피 바다(레드오션)에, 새 시장을 푸른 바다에 빗댄 말이에요. 김위찬·르네 마보안 교수의 책에서 널리 알려졌어요."
+    },
+    {
+      "id": "economy-b0d5a6be",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "본사 상표와 운영 방식을 빌려 가맹점을 여는 사업 방식은?",
+      "choices": [
+        "프랜차이즈",
+        "리스",
+        "아웃소싱",
+        "협동조합"
+      ],
+      "answerIndex": 0,
+      "explanation": "프랜차이즈는 본사가 상표와 노하우를 주고 가맹점이 가맹비를 내는 방식이에요. 편의점과 치킨집이 대표적인 예예요."
+    },
+    {
+      "id": "economy-98bd1c21",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "살아 있는 사람에게 재산을 무상으로 받을 때 내는 세금은?",
+      "choices": [
+        "상속세",
+        "양도소득세",
+        "취득세",
+        "증여세"
+      ],
+      "answerIndex": 3,
+      "explanation": "증여세는 살아 있는 사람에게서 재산을 공짜로 받을 때 내요. 사망한 사람의 재산을 물려받으면 상속세를 내요."
+    },
+    {
+      "id": "economy-414de734",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "온라인으로 여러 사람에게 소액씩 자금을 모으는 방식은?",
+      "choices": [
+        "엔젤 투자",
+        "크라우드펀딩",
+        "사모펀드",
+        "벤처캐피털"
+      ],
+      "answerIndex": 1,
+      "explanation": "크라우드펀딩은 군중(crowd)과 자금 조달(funding)을 합친 말이에요. 아이디어나 신제품을 알리고 다수에게 돈을 모아요."
+    },
+    {
+      "id": "economy-36e03ef9",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "금융(Finance)과 기술(Technology)을 합친 말은?",
+      "choices": [
+        "프롭테크",
+        "핀테크",
+        "에듀테크",
+        "헬스테크"
+      ],
+      "answerIndex": 1,
+      "explanation": "핀테크는 간편결제, 인터넷은행처럼 IT 기술로 바꾼 금융 서비스를 말해요. 프롭테크는 부동산, 에듀테크는 교육 분야예요."
+    },
+    {
+      "id": "economy-c23e578b",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "다음 중 '서비스'에 해당하는 것은?",
+      "choices": [
+        "쌀",
+        "미용실 커트",
+        "자동차",
+        "스마트폰"
+      ],
+      "answerIndex": 1,
+      "explanation": "재화는 눈에 보이는 물건이고, 서비스는 사람의 행위로 만족을 주는 것이에요. 머리를 깎아 주는 일은 대표적인 서비스예요."
+    },
+    {
+      "id": "economy-d00b6655",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "이익을 조금 남기는 대신 많이 팔아 돈을 버는 전략은?",
+      "choices": [
+        "고가 전략",
+        "박리다매",
+        "독점 판매",
+        "매점매석"
+      ],
+      "answerIndex": 1,
+      "explanation": "박리다매는 '이익은 얇게, 판매는 많이'라는 뜻이에요. 낮은 가격으로 많이 팔아 전체 이익을 늘려요."
+    },
+    {
+      "id": "economy-9c2630af",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "가격이 오를 걸 노리고 물건을 몰아 사 두는 행위는?",
+      "choices": [
+        "덤핑",
+        "박리다매",
+        "담합",
+        "매점매석"
+      ],
+      "answerIndex": 3,
+      "explanation": "매점매석은 물건을 사재기한 뒤 값이 오르면 파는 행위예요. 생필품 매점매석은 법으로 금지될 수 있어요."
+    },
+    {
+      "id": "economy-30ae081f",
+      "category": "economy",
+      "difficulty": 2,
+      "question": "물가가 통제 불능으로 폭등하는 극심한 인플레이션은?",
+      "choices": [
+        "디스인플레이션",
+        "스태그플레이션",
+        "디플레이션",
+        "하이퍼인플레이션"
+      ],
+      "answerIndex": 3,
+      "explanation": "하이퍼인플레이션은 물가가 짧은 기간에 수십, 수백 배로 뛰는 현상이에요. 화폐가 사실상 가치를 잃게 돼요.",
+      "funFact": "짐바브웨는 2000년대 후반 초인플레이션 때 100조 짐바브웨 달러 지폐까지 찍었어요."
+    },
+    {
+      "id": "economy-c0089f7d",
+      "category": "economy",
+      "difficulty": 2,
+      "question": "커피와 녹차처럼 서로 대신 쓸 수 있는 재화는?",
+      "choices": [
+        "보완재",
+        "열등재",
+        "대체재",
+        "공공재"
+      ],
+      "answerIndex": 2,
+      "explanation": "대체재는 용도가 비슷해 서로 바꿔 쓸 수 있는 재화예요. 커피값이 오르면 녹차 수요가 늘 수 있어요."
+    },
+    {
+      "id": "economy-b586e382",
+      "category": "economy",
+      "difficulty": 2,
+      "question": "값이 비쌀수록 과시하려고 오히려 더 사려는 현상은?",
+      "choices": [
+        "스놉 효과",
+        "립스틱 효과",
+        "베블런 효과",
+        "밴드왜건 효과"
+      ],
+      "answerIndex": 2,
+      "explanation": "베블런 효과는 비싼 물건으로 지위를 드러내려는 과시 소비를 말해요. 경제학자 소스타인 베블런의 이름을 땄어요."
+    },
+    {
+      "id": "economy-10d1a0b4",
+      "category": "economy",
+      "difficulty": 2,
+      "question": "남들이 많이 사니까 나도 따라 사는 소비 현상은?",
+      "choices": [
+        "스놉 효과",
+        "베블런 효과",
+        "디드로 효과",
+        "밴드왜건 효과"
+      ],
+      "answerIndex": 3,
+      "explanation": "밴드왜건은 행렬 맨 앞에서 악대를 태우고 가는 마차예요. 사람들이 이 마차를 따라가듯 유행을 좇는 소비를 뜻해요.",
+      "funFact": "반대로 남들이 많이 사면 오히려 안 사려는 현상은 '스놉 효과'라고 해요."
+    },
+    {
+      "id": "economy-8de40c35",
+      "category": "economy",
+      "difficulty": 2,
+      "question": "이미 써 버려 다시 되찾을 수 없는 비용은?",
+      "choices": [
+        "변동비용",
+        "기회비용",
+        "한계비용",
+        "매몰비용"
+      ],
+      "answerIndex": 3,
+      "explanation": "매몰비용은 어떤 선택을 하든 돌려받을 수 없는 비용이에요. 합리적 판단을 하려면 매몰비용은 무시해야 해요.",
+      "funFact": "손해가 뻔한데도 투자한 돈이 아까워 사업을 계속한 사례에서 '콩코드 오류'라는 말이 나왔어요."
+    },
+    {
+      "id": "economy-7104e1c6",
+      "category": "economy",
+      "difficulty": 2,
+      "question": "생산 규모가 커질수록 단위당 생산비가 낮아지는 현상은?",
+      "choices": [
+        "범위의 경제",
+        "수확 체감",
+        "네트워크 효과",
+        "규모의 경제"
+      ],
+      "answerIndex": 3,
+      "explanation": "규모의 경제는 대량 생산으로 제품 하나당 비용이 떨어지는 현상이에요. 공장 설비 같은 고정비를 더 많은 제품이 나눠 지기 때문이에요."
+    },
+    {
+      "id": "economy-d5e82d05",
+      "category": "economy",
+      "difficulty": 2,
+      "question": "경제 이론으로 대공황 이후 정부 개입 정책에 큰 영향을 준 영국 학자는?",
+      "choices": [
+        "케인스",
+        "하이에크",
+        "프리드먼",
+        "마셜"
+      ],
+      "answerIndex": 0,
+      "explanation": "존 메이너드 케인스는 불황 때 정부가 지출을 늘려 수요를 살려야 한다고 했어요. 1936년 '일반이론'으로 거시경제학의 틀을 세웠어요."
+    },
+    {
+      "id": "economy-f1b0f6ac",
+      "category": "economy",
+      "difficulty": 2,
+      "question": "2차 대전 뒤 미국이 서유럽 재건을 위해 지원한 계획은?",
+      "choices": [
+        "뉴딜 정책",
+        "도스안",
+        "마셜 플랜",
+        "트루먼 독트린"
+      ],
+      "answerIndex": 2,
+      "explanation": "마셜 플랜은 미국 국무장관 조지 마셜이 1947년 제안한 유럽 부흥 계획이에요. 서유럽 경제 회복에 큰 역할을 했어요.",
+      "funFact": "조지 마셜은 이 공로로 1953년 노벨 평화상을 받았어요."
+    },
+    {
+      "id": "economy-67eb6b6c",
+      "category": "economy",
+      "difficulty": 2,
+      "question": "17세기 네덜란드에서 한 꽃 구근 값이 폭등 후 폭락한 사건은?",
+      "choices": [
+        "미시시피 거품",
+        "철도 광풍",
+        "튤립 파동",
+        "남해 거품"
+      ],
+      "answerIndex": 2,
+      "explanation": "1630년대 네덜란드에서 튤립 구근이 투기 대상이 되며 값이 치솟았다가 1637년 폭락했어요. 초기 투기 거품의 대표 사례로 꼽혀요."
+    },
+    {
+      "id": "economy-8c546120",
+      "category": "economy",
+      "difficulty": 2,
+      "question": "2008년 금융위기의 발단이 된 미국 저신용 주택담보대출은?",
+      "choices": [
+        "리버스 모기지",
+        "프라임 모기지",
+        "서브프라임 모기지",
+        "정크본드"
+      ],
+      "answerIndex": 2,
+      "explanation": "서브프라임 모기지는 신용이 낮은 사람에게 내준 주택담보대출이에요. 집값이 떨어지며 대출 부실이 터져 세계 금융위기로 번졌어요."
+    },
+    {
+      "id": "economy-f5856ed7",
+      "category": "economy",
+      "difficulty": 2,
+      "question": "1993년 도입된, 실제 이름으로만 금융거래를 하게 한 제도는?",
+      "choices": [
+        "금융실명제",
+        "예금자보호제도",
+        "부동산실명제",
+        "금융소득종합과세"
+      ],
+      "answerIndex": 0,
+      "explanation": "금융실명제는 차명·가명 계좌를 막아 금융거래를 투명하게 하려는 제도예요. 1993년 8월 대통령 긴급명령으로 전격 시행됐어요."
+    },
+    {
+      "id": "economy-595d52a6",
+      "category": "economy",
+      "difficulty": 2,
+      "question": "조선 후기 전국적으로 널리 쓰인 대표 동전은?",
+      "choices": [
+        "건원중보",
+        "상평통보",
+        "삼한통보",
+        "해동통보"
+      ],
+      "answerIndex": 1,
+      "explanation": "상평통보는 숙종 때인 1678년부터 전국에 유통된 동전이에요. 건원중보, 해동통보, 삼한통보는 고려 시대 화폐예요.",
+      "funFact": "가운데 네모난 구멍 덕분에 끈에 꿰어 들고 다녔고, 흔히 '엽전'이라 불렀어요."
+    },
+    {
+      "id": "economy-737d6fb9",
+      "category": "economy",
+      "difficulty": 2,
+      "question": "애덤 스미스가 1776년에 펴낸 경제학 고전은?",
+      "choices": [
+        "자본론",
+        "일반이론",
+        "인구론",
+        "국부론"
+      ],
+      "answerIndex": 3,
+      "explanation": "국부론은 분업과 시장의 역할을 체계적으로 설명한 책이에요. 근대 경제학의 출발점으로 평가받아요.",
+      "funFact": "국부론이 나온 1776년은 미국 독립선언이 발표된 해이기도 해요."
+    },
+    {
+      "id": "economy-805e68af",
+      "category": "economy",
+      "difficulty": 2,
+      "question": "각국 맥도날드 대표 버거 값으로 통화 가치를 비교한 지수는?",
+      "choices": [
+        "빅맥 지수",
+        "라테 지수",
+        "피자 지수",
+        "콜라 지수"
+      ],
+      "answerIndex": 0,
+      "explanation": "빅맥 지수는 같은 햄버거가 나라마다 얼마인지 비교해 환율이 적정한지 가늠해요. 영국 잡지 이코노미스트가 1986년부터 발표해요."
+    },
+    {
+      "id": "economy-75c9c7f9",
+      "category": "economy",
+      "difficulty": 2,
+      "question": "원/달러 환율이 오르면 원화의 가치는 어떻게 될까요?",
+      "choices": [
+        "떨어진다",
+        "변함없다",
+        "오른다",
+        "달러와 같아진다"
+      ],
+      "answerIndex": 0,
+      "explanation": "환율이 1달러에 1,000원에서 1,200원이 되면 같은 달러를 사는 데 원화가 더 들어요. 즉 원화 가치가 떨어진 거예요."
+    },
+    {
+      "id": "economy-46771df7",
+      "category": "economy",
+      "difficulty": 2,
+      "question": "한국은행에서 기준금리를 결정하는 기구는?",
+      "choices": [
+        "금융통화위원회",
+        "기획재정부",
+        "금융위원회",
+        "금융감독원"
+      ],
+      "answerIndex": 0,
+      "explanation": "금융통화위원회는 한국은행 총재를 포함한 위원들로 구성돼요. 이곳에서 기준금리 등 통화정책을 결정해요."
+    },
+    {
+      "id": "economy-5919af14",
+      "category": "economy",
+      "difficulty": 2,
+      "question": "중앙은행이 국채 등을 대량 매입해 시중에 돈을 푸는 정책은?",
+      "choices": [
+        "출구 전략",
+        "양적완화",
+        "테이퍼링",
+        "양적긴축"
+      ],
+      "answerIndex": 1,
+      "explanation": "양적완화는 금리를 더 낮추기 어려울 때 중앙은행이 자산을 사들여 돈을 공급하는 정책이에요. 2008년 금융위기 뒤 미국 등이 썼어요."
+    },
+    {
+      "id": "economy-c1939d56",
+      "category": "economy",
+      "difficulty": 2,
+      "question": "주식을 빌려 먼저 팔고 나중에 사서 갚는 투자 방식은?",
+      "choices": [
+        "물타기",
+        "공매도",
+        "미수거래",
+        "단타"
+      ],
+      "answerIndex": 1,
+      "explanation": "공매도는 주가가 떨어질 것으로 보고 빌린 주식을 판 뒤, 싸게 다시 사서 갚아 차익을 노려요. 주가가 오르면 손실을 봐요."
+    },
+    {
+      "id": "economy-cac8550c",
+      "category": "economy",
+      "difficulty": 3,
+      "question": "가격이 올라도 소득효과 때문에 수요량이 느는 특수한 열등재는?",
+      "choices": [
+        "기펜재",
+        "보완재",
+        "정상재",
+        "사치재"
+      ],
+      "answerIndex": 0,
+      "explanation": "기펜재는 가격이 오르면 실질 소득이 줄어 더 비싼 대안을 못 사고 오히려 그 재화를 더 사게 돼요. 경제학자 로버트 기펜의 이름을 땄어요."
+    },
+    {
+      "id": "economy-0493d397",
+      "category": "economy",
+      "difficulty": 3,
+      "question": "새 물건 하나를 사면 어울리는 물건까지 줄줄이 사는 현상은?",
+      "choices": [
+        "립스틱 효과",
+        "베블런 효과",
+        "디드로 효과",
+        "밴드왜건 효과"
+      ],
+      "answerIndex": 2,
+      "explanation": "프랑스 철학자 드니 디드로가 선물받은 새 가운에 맞춰 서재 가구를 바꾼 경험을 쓴 데서 나온 말이에요. 새 휴대폰에 맞춰 액세서리를 사는 것도 예예요."
+    },
+    {
+      "id": "economy-c38b3291",
+      "category": "economy",
+      "difficulty": 3,
+      "question": "정부 지출이 늘어 금리가 오르면서 민간 투자가 줄어드는 현상은?",
+      "choices": [
+        "기저 효과",
+        "낙수 효과",
+        "승수 효과",
+        "구축 효과"
+      ],
+      "answerIndex": 3,
+      "explanation": "정부가 돈을 빌려 쓰면 금리가 올라 기업 투자가 밀려나요. '구축'은 몰아낸다는 뜻이에요."
+    },
+    {
+      "id": "economy-dae1183c",
+      "category": "economy",
+      "difficulty": 3,
+      "question": "1944년 미국 달러를 중심으로 세운 국제 통화 체제는?",
+      "choices": [
+        "킹스턴 체제",
+        "스미스소니언 체제",
+        "브레턴우즈 체제",
+        "금은복본위제"
+      ],
+      "answerIndex": 2,
+      "explanation": "브레턴우즈 체제는 달러를 금에 고정하고 다른 통화를 달러에 고정한 체제예요. 이 회의에서 IMF와 세계은행도 탄생했어요.",
+      "funFact": "브레턴우즈는 회의가 열린 미국 뉴햄프셔주의 휴양지 이름이에요."
+    },
+    {
+      "id": "economy-63ccee15",
+      "category": "economy",
+      "difficulty": 3,
+      "question": "1971년 미국이 달러의 금 교환을 중단한 사건은?",
+      "choices": [
+        "플라자 합의",
+        "블랙 먼데이",
+        "오일 쇼크",
+        "닉슨 쇼크"
+      ],
+      "answerIndex": 3,
+      "explanation": "1971년 8월 닉슨 대통령이 달러를 금으로 바꿔 주지 않겠다고 발표했어요. 이로써 브레턴우즈 체제가 사실상 무너졌어요."
+    },
+    {
+      "id": "economy-37acc755",
+      "category": "economy",
+      "difficulty": 3,
+      "question": "1985년 주요 5개국이 달러 가치를 낮추기로 한 합의는?",
+      "choices": [
+        "브레턴우즈 협정",
+        "루브르 합의",
+        "플라자 합의",
+        "바젤 협약"
+      ],
+      "answerIndex": 2,
+      "explanation": "플라자 합의는 뉴욕 플라자 호텔에서 G5 재무장관들이 맺은 합의예요. 이후 일본 엔화 가치가 크게 올랐어요."
+    },
+    {
+      "id": "economy-3d544f83",
+      "category": "economy",
+      "difficulty": 3,
+      "question": "1987년 10월 미국 주가가 하루 만에 20% 넘게 폭락한 날은?",
+      "choices": [
+        "블랙 먼데이",
+        "블랙 스완",
+        "검은 화요일",
+        "검은 목요일"
+      ],
+      "answerIndex": 0,
+      "explanation": "1987년 10월 19일 월요일 다우 지수가 하루에 약 22.6% 떨어졌어요. 검은 목요일과 검은 화요일은 1929년 대폭락 때의 날이에요.",
+      "funFact": "이 폭락을 계기로 주가 급락 때 매매를 멈추는 서킷브레이커가 도입됐어요."
+    },
+    {
+      "id": "economy-376a3a21",
+      "category": "economy",
+      "difficulty": 3,
+      "question": "1720년 영국의 한 무역회사 주가가 폭등 후 폭락한 투기 사건은?",
+      "choices": [
+        "철도 광풍",
+        "튤립 파동",
+        "미시시피 거품",
+        "남해 거품 사건"
+      ],
+      "answerIndex": 3,
+      "explanation": "남해회사 주가가 치솟았다가 1720년 무너진 사건이에요. 같은 해 프랑스에서는 미시시피 거품이 터졌어요.",
+      "funFact": "과학자 아이작 뉴턴도 이 주식에 투자했다가 큰돈을 잃은 것으로 유명해요."
+    },
+    {
+      "id": "economy-6ac3ca01",
+      "category": "economy",
+      "difficulty": 3,
+      "question": "우리나라 제1차 경제개발 5개년 계획이 시작된 해는?",
+      "choices": [
+        "1953년",
+        "1962년",
+        "1972년",
+        "1960년"
+      ],
+      "answerIndex": 1,
+      "explanation": "제1차 경제개발 5개년 계획은 1962년부터 1966년까지 진행됐어요. 이후 7차까지 이어지며 고도성장의 바탕이 됐어요."
+    },
+    {
+      "id": "economy-b56df7e4",
+      "category": "economy",
+      "difficulty": 3,
+      "question": "한국이 경제협력개발기구(OECD)에 가입한 해는?",
+      "choices": [
+        "1993년",
+        "2000년",
+        "1996년",
+        "1988년"
+      ],
+      "answerIndex": 2,
+      "explanation": "한국은 1996년 OECD의 29번째 회원국이 됐어요. 이듬해인 1997년 외환위기를 맞았어요."
+    },
+    {
+      "id": "economy-3bcdf27c",
+      "category": "economy",
+      "difficulty": 3,
+      "question": "1962년 화폐개혁 직전까지 우리나라가 쓰던 화폐 단위는?",
+      "choices": [
+        "환",
+        "냥",
+        "원",
+        "전"
+      ],
+      "answerIndex": 0,
+      "explanation": "1953년 화폐개혁으로 '원'이 '환'으로 바뀌었고, 1962년 다시 10환을 1원으로 바꾸며 '원'이 됐어요. 지금의 원은 이때부터 쓰고 있어요."
+    },
+    {
+      "id": "economy-86edaa97",
+      "category": "economy",
+      "difficulty": 3,
+      "question": "흥선대원군이 경복궁 중건 비용을 마련하려 발행한 화폐는?",
+      "choices": [
+        "건원중보",
+        "상평통보",
+        "당백전",
+        "백동화"
+      ],
+      "answerIndex": 2,
+      "explanation": "당백전은 상평통보 100배의 가치로 1866년 발행됐어요. 실제 가치는 훨씬 낮아 물가가 크게 오르는 부작용을 낳았어요."
+    },
+    {
+      "id": "economy-b3f3c455",
+      "category": "economy",
+      "difficulty": 3,
+      "question": "'창조적 파괴'라는 말로 기업가의 혁신을 강조한 경제학자는?",
+      "choices": [
+        "프리드먼",
+        "슘페터",
+        "하이에크",
+        "케인스"
+      ],
+      "answerIndex": 1,
+      "explanation": "조지프 슘페터는 혁신이 낡은 것을 무너뜨리며 경제를 발전시킨다고 봤어요. 이를 '창조적 파괴'라고 불렀어요."
+    },
+    {
+      "id": "economy-dbc47bea",
+      "category": "economy",
+      "difficulty": 3,
+      "question": "세계에서 가장 오래된 현존 중앙은행은?",
+      "choices": [
+        "스웨덴 릭스방크",
+        "네덜란드은행",
+        "영란은행",
+        "프랑스은행"
+      ],
+      "answerIndex": 0,
+      "explanation": "스웨덴 릭스방크는 1668년 세워져 현존 중앙은행 가운데 가장 오래됐어요. 영국의 영란은행은 1694년에 세워졌어요."
+    },
+    {
+      "id": "economy-692c39c5",
+      "category": "economy",
+      "difficulty": 3,
+      "question": "양적완화로 풀던 자산 매입 규모를 점차 줄여 가는 것은?",
+      "choices": [
+        "양적완화",
+        "테이퍼링",
+        "리플레이션",
+        "디레버리징"
+      ],
+      "answerIndex": 1,
+      "explanation": "테이퍼링은 '점점 가늘어진다'는 뜻으로, 돈 푸는 속도를 서서히 줄이는 정책이에요. 긴축으로 가는 첫 단계로 여겨져요."
+    },
+    {
+      "id": "economy-808355ae",
+      "category": "economy",
+      "difficulty": 3,
+      "question": "주가를 주당순이익으로 나눈 투자 지표는?",
+      "choices": [
+        "PBR",
+        "EPS",
+        "PER",
+        "ROE"
+      ],
+      "answerIndex": 2,
+      "explanation": "PER(주가수익비율)은 주가가 이익의 몇 배인지 보여 줘요. 같은 업종에서 PER이 낮으면 이익에 비해 싸다고 보기도 해요."
+    },
+    {
+      "id": "economy-6b800bec",
+      "category": "economy",
+      "difficulty": 3,
+      "question": "시장 금리가 오르면 이미 발행된 채권 가격은 보통?",
+      "choices": [
+        "떨어진다",
+        "변함없다",
+        "액면가로 묶인다",
+        "오른다"
+      ],
+      "answerIndex": 0,
+      "explanation": "금리가 오르면 새 채권이 더 높은 이자를 주니 기존 채권 매력이 줄어요. 그래서 채권 가격과 금리는 반대로 움직여요."
+    },
+    {
+      "id": "economy-e568d2c3",
+      "category": "economy",
+      "difficulty": 3,
+      "question": "연 6% 복리로 굴리면 원금이 두 배 되는 데 대략 몇 년?",
+      "choices": [
+        "약 12년",
+        "약 6년",
+        "약 24년",
+        "약 17년"
+      ],
+      "answerIndex": 0,
+      "explanation": "72를 연 수익률로 나누면 원금이 두 배 되는 기간을 어림할 수 있어요. 72÷6=12, 실제 계산으로도 약 11.9년이에요."
+    },
+    {
+      "id": "economy-8285c007",
+      "category": "economy",
+      "difficulty": 3,
+      "question": "주택 가격 대비 대출 가능한 금액의 비율을 뜻하는 말은?",
+      "choices": [
+        "DSR",
+        "DTI",
+        "LTV",
+        "PBR"
+      ],
+      "answerIndex": 2,
+      "explanation": "LTV는 담보인정비율로, 집값의 몇 %까지 빌릴 수 있는지 정해요. DTI와 DSR은 소득 대비 빚 상환 부담을 따지는 지표예요."
+    },
+    {
+      "id": "economy-be5623a4",
+      "category": "economy",
+      "difficulty": 3,
+      "question": "소득이 낮을수록 소득 대비 세 부담이 커지는 세금의 성격은?",
+      "choices": [
+        "누진세",
+        "목적세",
+        "역진세",
+        "비례세"
+      ],
+      "answerIndex": 2,
+      "explanation": "부가가치세처럼 누구나 같은 세율을 내는 세금은 저소득층에게 소득 대비 부담이 더 커요. 이런 성격을 역진성이라고 해요."
+    },
+    {
+      "id": "economy-036d5854",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "손님을 끌려고 원가 수준이나 그보다 싸게 파는 상품은?",
+      "choices": [
+        "미끼상품",
+        "한정판",
+        "기획상품",
+        "명품"
+      ],
+      "answerIndex": 0,
+      "explanation": "미끼상품은 손해를 보더라도 손님을 매장으로 끌어들이려고 싸게 파는 상품이에요. 손님이 다른 물건도 함께 사 주기를 노려요."
+    },
+    {
+      "id": "economy-3d69e7c5",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "금융 거래 때 매번 새로 만들어지는 일회용 비밀번호는?",
+      "choices": [
+        "PIN",
+        "ATM",
+        "OTP",
+        "USB"
+      ],
+      "answerIndex": 2,
+      "explanation": "OTP는 One Time Password의 줄임말로, 한 번 쓰면 끝나는 비밀번호예요. 비밀번호가 새어도 다시 쓸 수 없어 보안이 강해요."
+    },
+    {
+      "id": "economy-7308d4e6",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "주식이 하루 동안 오를 수 있는 최고 가격은?",
+      "choices": [
+        "시가",
+        "종가",
+        "하한가",
+        "상한가"
+      ],
+      "answerIndex": 3,
+      "explanation": "우리 주식시장은 하루 가격 변동 폭을 제한해요. 그 한도까지 오른 가격이 상한가, 떨어진 가격이 하한가예요."
+    },
+    {
+      "id": "economy-e0306ce3",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "담합 같은 불공정 거래를 감시하고 제재하는 정부 기관은?",
+      "choices": [
+        "국세청",
+        "공정거래위원회",
+        "감사원",
+        "금융감독원"
+      ],
+      "answerIndex": 1,
+      "explanation": "공정거래위원회는 공정한 시장 경쟁을 지키는 기관이에요. 담합, 독과점 남용, 하도급 갑질 등을 조사해요."
+    },
+    {
+      "id": "economy-7ec9a21e",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "소비자가 사는 상품·서비스의 가격 변동을 보여 주는 지수는?",
+      "choices": [
+        "생산자물가지수",
+        "소비자물가지수",
+        "코스피 지수",
+        "경기선행지수"
+      ],
+      "answerIndex": 1,
+      "explanation": "소비자물가지수(CPI)는 가계가 자주 사는 품목의 가격 변화를 지수로 나타내요. 물가 상승률을 말할 때 주로 이 지수를 써요."
+    },
+    {
+      "id": "economy-860bf6cd",
+      "category": "economy",
+      "difficulty": 2,
+      "question": "벤처·중소기업이 주로 상장된 우리나라 주식시장은?",
+      "choices": [
+        "다우",
+        "코스닥",
+        "나스닥",
+        "코스피"
+      ],
+      "answerIndex": 1,
+      "explanation": "코스닥은 기술·벤처 기업 중심으로 1996년 문을 연 시장이에요. 대형 기업은 주로 유가증권시장(코스피)에 상장돼요."
+    },
+    {
+      "id": "economy-3ee8de6d",
+      "category": "economy",
+      "difficulty": 2,
+      "question": "금융사가 망해도 일정 한도까지 예금을 돌려주는 제도는?",
+      "choices": [
+        "지급결제제도",
+        "신용보증제도",
+        "예금자보호제도",
+        "금융실명제"
+      ],
+      "answerIndex": 2,
+      "explanation": "예금자보호제도는 금융회사가 예금을 돌려줄 수 없을 때 예금보험공사가 대신 지급하는 제도예요. 보호 한도와 대상 상품이 정해져 있어요."
+    },
+    {
+      "id": "economy-20613939",
+      "category": "economy",
+      "difficulty": 2,
+      "question": "주가 급락 시 주식 매매를 일시적으로 모두 멈추는 제도는?",
+      "choices": [
+        "상한가",
+        "서킷브레이커",
+        "숏커버링",
+        "마진콜"
+      ],
+      "answerIndex": 1,
+      "explanation": "서킷브레이커는 전기 회로 차단기처럼 시장의 과열을 끊는 장치예요. 지수가 크게 떨어지면 일정 시간 거래를 멈춰 투자자가 냉정해지게 해요."
+    },
+    {
+      "id": "economy-52f878a8",
+      "category": "economy",
+      "difficulty": 2,
+      "question": "다음 중 직접세에 해당하는 것은?",
+      "choices": [
+        "법인세",
+        "부가가치세",
+        "개별소비세",
+        "주세"
+      ],
+      "answerIndex": 0,
+      "explanation": "직접세는 세금을 내는 사람과 부담하는 사람이 같은 세금이에요. 부가가치세처럼 값에 붙어 소비자에게 넘어가는 세금은 간접세예요."
+    },
+    {
+      "id": "economy-938410d9",
+      "category": "economy",
+      "difficulty": 2,
+      "question": "상품을 국내 가격보다 훨씬 싸게 수출해 시장을 차지하는 것은?",
+      "choices": [
+        "덤핑",
+        "담합",
+        "쿼터",
+        "리베이트"
+      ],
+      "answerIndex": 0,
+      "explanation": "덤핑은 정상 가격보다 낮게 수출해 상대국 시장을 잠식하는 행위예요. 피해국은 반덤핑 관세를 매겨 대응해요."
+    },
+    {
+      "id": "economy-2f2abedd",
+      "category": "economy",
+      "difficulty": 2,
+      "question": "1995년 GATT를 이어 출범한 국제 무역 기구는?",
+      "choices": [
+        "세계은행",
+        "OECD",
+        "WTO",
+        "IMF"
+      ],
+      "answerIndex": 2,
+      "explanation": "세계무역기구(WTO)는 국제 무역 규칙을 정하고 무역 분쟁을 해결해요. 본부는 스위스 제네바에 있어요."
+    },
+    {
+      "id": "economy-0b51fd07",
+      "category": "economy",
+      "difficulty": 2,
+      "question": "국민이 국내외에서 벌어들인 소득의 합을 뜻하는 지표는?",
+      "choices": [
+        "CPI",
+        "GNI",
+        "GDP",
+        "PPI"
+      ],
+      "answerIndex": 1,
+      "explanation": "GNI는 국민총소득으로, 국적을 기준으로 국민이 번 소득을 모두 더해요. GDP는 국적과 관계없이 국내에서 생산된 가치예요."
+    },
+    {
+      "id": "economy-161fd633",
+      "category": "economy",
+      "difficulty": 2,
+      "question": "예측이 거의 불가능하지만 일어나면 충격이 큰 사건은?",
+      "choices": [
+        "회색 코뿔소",
+        "화이트 스완",
+        "방 안의 코끼리",
+        "블랙 스완"
+      ],
+      "answerIndex": 3,
+      "explanation": "검은 백조는 없다고 믿다가 실제로 발견된 데서 나온 말이에요. 나심 탈레브가 책으로 널리 알렸어요."
+    },
+    {
+      "id": "economy-b5217fb9",
+      "category": "economy",
+      "difficulty": 2,
+      "question": "보험에 든 뒤 오히려 조심성이 떨어지는 현상은?",
+      "choices": [
+        "도덕적 해이",
+        "무임승차",
+        "역선택",
+        "구성의 오류"
+      ],
+      "answerIndex": 0,
+      "explanation": "도덕적 해이는 위험을 남이 떠안게 되면 행동이 느슨해지는 현상이에요. 정보 비대칭 때문에 생기는 대표적인 문제예요."
+    },
+    {
+      "id": "economy-9230824b",
+      "category": "economy",
+      "difficulty": 2,
+      "question": "두 공범이 자백 여부를 고민하는 상황으로 설명하는 게임이론은?",
+      "choices": [
+        "최후통첩 게임",
+        "독재자 게임",
+        "치킨 게임",
+        "죄수의 딜레마"
+      ],
+      "answerIndex": 3,
+      "explanation": "둘 다 침묵하면 가장 좋지만 각자 자백이 유리해 결국 둘 다 손해를 봐요. 개인의 합리적 선택이 모두에게 나쁜 결과를 낳는 예예요."
+    },
+    {
+      "id": "economy-dcfb1c81",
+      "category": "economy",
+      "difficulty": 2,
+      "question": "주인 없는 공동 자원이 남용돼 결국 고갈되는 현상은?",
+      "choices": [
+        "구성의 오류",
+        "레몬 시장",
+        "공유지의 비극",
+        "죄수의 딜레마"
+      ],
+      "answerIndex": 2,
+      "explanation": "공동 목초지에 저마다 소를 더 풀면 풀밭이 망가지는 상황에 빗댄 말이에요. 생태학자 개릿 하딘이 1968년 논문으로 알렸어요."
+    },
+    {
+      "id": "economy-aca50b9e",
+      "category": "economy",
+      "difficulty": 2,
+      "question": "필요할 때마다 단기 계약으로 일하는 경제 형태는?",
+      "choices": [
+        "공유경제",
+        "긱 이코노미",
+        "구독경제",
+        "지하경제"
+      ],
+      "answerIndex": 1,
+      "explanation": "긱 이코노미는 기업이 정규직 대신 필요할 때마다 단기 계약으로 사람을 쓰는 경제 형태예요. 배달 라이더, 프리랜서가 대표적이에요."
+    },
+    {
+      "id": "economy-4a513e91",
+      "category": "economy",
+      "difficulty": 2,
+      "question": "비트코인을 만든 것으로 알려진 인물의 이름(가명)은?",
+      "choices": [
+        "사토시 나카모토",
+        "찰리 리",
+        "비탈릭 부테린",
+        "일론 머스크"
+      ],
+      "answerIndex": 0,
+      "explanation": "사토시 나카모토는 2008년 비트코인 백서를 발표한 인물의 가명이에요. 실제 정체는 아직 밝혀지지 않았어요.",
+      "funFact": "비트코인의 가장 작은 단위 1억분의 1 BTC를 그의 이름을 따 '사토시'라고 불러요."
+    },
+    {
+      "id": "economy-4cc96a81",
+      "category": "economy",
+      "difficulty": 2,
+      "question": "가격은 그대로 두고 제품 용량을 줄이는 것을 뜻하는 말은?",
+      "choices": [
+        "애그플레이션",
+        "스태그플레이션",
+        "디플레이션",
+        "슈링크플레이션"
+      ],
+      "answerIndex": 3,
+      "explanation": "줄어든다(shrink)와 인플레이션을 합친 말이에요. 값을 올리지 않은 척하지만 사실상 가격 인상 효과가 있어요."
+    },
+    {
+      "id": "economy-2f045ae1",
+      "category": "economy",
+      "difficulty": 2,
+      "question": "빚을 지렛대 삼아 투자 수익률을 키우는 것은?",
+      "choices": [
+        "레버리지",
+        "리밸런싱",
+        "헤지",
+        "디레버리징"
+      ],
+      "answerIndex": 0,
+      "explanation": "레버리지는 지렛대라는 뜻으로, 남의 돈을 빌려 투자 규모를 키우는 거예요. 수익도 커지지만 손실도 그만큼 커져요."
+    },
+    {
+      "id": "economy-bde31b3d",
+      "category": "economy",
+      "difficulty": 3,
+      "question": "충분히 예상되지만 사람들이 간과하는 큰 위험은?",
+      "choices": [
+        "회색 코뿔소",
+        "화이트 스완",
+        "데드캣 바운스",
+        "블랙 스완"
+      ],
+      "answerIndex": 0,
+      "explanation": "덩치 큰 코뿔소가 다가오는 게 보이는데도 무시하다 당하는 상황에 빗댄 말이에요. 예측 불가능한 위험인 블랙 스완과 대비돼요."
+    },
+    {
+      "id": "economy-85b4d572",
+      "category": "economy",
+      "difficulty": 3,
+      "question": "급락하던 주가가 잠깐 반등했다 다시 떨어지는 현상은?",
+      "choices": [
+        "데드캣 바운스",
+        "숏 스퀴즈",
+        "골든 크로스",
+        "산타 랠리"
+      ],
+      "answerIndex": 0,
+      "explanation": "'죽은 고양이도 높은 데서 떨어지면 튀어 오른다'는 월가 격언에서 나온 말이에요. 일시적 반등을 추세 전환으로 착각하지 말라는 뜻이에요."
+    },
+    {
+      "id": "economy-1a829784",
+      "category": "economy",
+      "difficulty": 3,
+      "question": "판매자만 품질을 알아 질 나쁜 상품만 남는 시장의 비유는?",
+      "choices": [
+        "블루오션",
+        "레드오션",
+        "레몬 시장",
+        "피치 시장"
+      ],
+      "answerIndex": 2,
+      "explanation": "미국 속어로 '레몬'은 겉만 멀쩡한 불량 중고차를 뜻해요. 경제학자 조지 애커로프가 정보 비대칭 문제를 설명하며 쓴 말이에요.",
+      "funFact": "애커로프는 이 연구로 2001년 노벨 경제학상을 받았어요."
+    }
+  ]
+}

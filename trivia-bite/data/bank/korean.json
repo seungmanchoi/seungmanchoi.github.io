@@ -1,0 +1,1412 @@
+{
+  "version": 1,
+  "id": "bank-korean",
+  "category": "korean",
+  "questions": [
+    {
+      "id": "korean-7bca26e7",
+      "category": "korean",
+      "difficulty": 1,
+      "question": "'밥을 ○ 먹었어요'의 빈칸에 알맞은 표기는?",
+      "choices": [
+        "안이",
+        "안",
+        "않",
+        "앉"
+      ],
+      "answerIndex": 1,
+      "explanation": "부정의 뜻으로 동사 앞에 쓸 때는 '아니'의 준말인 '안'을 써요. '않'은 '아니하'가 줄어든 말이라 '먹지 않았어요'처럼 써요."
+    },
+    {
+      "id": "korean-f22c3691",
+      "category": "korean",
+      "difficulty": 1,
+      "question": "'그러면 안 ○○'의 빈칸에 알맞은 표기는?",
+      "choices": [
+        "되여",
+        "되요",
+        "돼요",
+        "돼여"
+      ],
+      "answerIndex": 2,
+      "explanation": "'돼'는 '되어'의 준말이에요. '되요'는 '되어요'로 풀리지 않으니 틀린 표기이고, '되어요'를 줄인 '돼요'가 맞아요.",
+      "funFact": "헷갈리면 '되' 자리에 '하', '돼' 자리에 '해'를 넣어 보세요. '해요'가 자연스러우면 '돼요'예요."
+    },
+    {
+      "id": "korean-8c2f0617",
+      "category": "korean",
+      "difficulty": 1,
+      "question": "'물건값을 카드로 ○○했어요'의 빈칸에 알맞은 표기는?",
+      "choices": [
+        "결재",
+        "결체",
+        "결제",
+        "결쩨"
+      ],
+      "answerIndex": 2,
+      "explanation": "대금을 주고받아 거래를 끝내는 일은 '결제(決濟)'예요. '결재(決裁)'는 윗사람이 안건을 승인하는 일이에요."
+    },
+    {
+      "id": "korean-36ab538b",
+      "category": "korean",
+      "difficulty": 1,
+      "question": "'손가락으로 북쪽을 ○○○다'의 빈칸에 알맞은 표기는?",
+      "choices": [
+        "가르쳤",
+        "가르켰",
+        "가릇켰",
+        "가리켰"
+      ],
+      "answerIndex": 3,
+      "explanation": "손가락 등으로 방향이나 대상을 집어 보이는 건 '가리키다'예요. '가르치다'는 지식이나 기술을 알려 주는 일이에요."
+    },
+    {
+      "id": "korean-c05b1cc3",
+      "category": "korean",
+      "difficulty": 1,
+      "question": "'너와 나는 생각이 ○○'의 빈칸에 알맞은 표기는?",
+      "choices": [
+        "달라",
+        "달러",
+        "틀려",
+        "딸라"
+      ],
+      "answerIndex": 0,
+      "explanation": "서로 같지 않을 때는 '다르다'를 써요. '틀리다'는 셈이나 사실이 맞지 않을 때 쓰는 말이에요."
+    },
+    {
+      "id": "korean-7be1249e",
+      "category": "korean",
+      "difficulty": 1,
+      "question": "'지하철에 지갑을 ○○○○○'의 빈칸에 알맞은 표기는?",
+      "choices": [
+        "잊어벼렸어",
+        "잃어버렸어",
+        "잃어벼렸어",
+        "잊어버렸어"
+      ],
+      "answerIndex": 1,
+      "explanation": "가지고 있던 물건이 없어진 건 '잃어버리다'예요. '잊어버리다'는 기억하던 것을 기억하지 못할 때 써요."
+    },
+    {
+      "id": "korean-d6779c02",
+      "category": "korean",
+      "difficulty": 1,
+      "question": "'방을 ○○○ 치웠어요'의 빈칸에 알맞은 표기는?",
+      "choices": [
+        "깨끗히",
+        "깨끗이",
+        "깨긋이",
+        "깨끗시"
+      ],
+      "answerIndex": 1,
+      "explanation": "'ㅅ' 받침으로 끝나는 말 뒤에서는 '-이'로 적어요. 그래서 '깨끗이', '느긋이', '버젓이'처럼 써요."
+    },
+    {
+      "id": "korean-fd85d03c",
+      "category": "korean",
+      "difficulty": 1,
+      "question": "'제가 먼저 연락○○'의 빈칸에 알맞은 표기는?",
+      "choices": [
+        "할깨요",
+        "할개요",
+        "할게요",
+        "할께요"
+      ],
+      "answerIndex": 2,
+      "explanation": "'-ㄹ게'는 [께]로 소리 나도 '게'로 적어요. '-ㄹ까', '-ㄹ꼬'처럼 의문을 나타내는 어미만 된소리로 적어요."
+    },
+    {
+      "id": "korean-756afe43",
+      "category": "korean",
+      "difficulty": 1,
+      "question": "얼큰한 소고기 국물 요리의 올바른 표기는?",
+      "choices": [
+        "육계장",
+        "육개장",
+        "육개짱",
+        "육게장"
+      ],
+      "answerIndex": 1,
+      "explanation": "'육개장'은 쇠고기(육)를 넣어 개장국처럼 끓인 국이라는 뜻이에요. 닭을 뜻하는 '계(鷄)'와는 관계없어요."
+    },
+    {
+      "id": "korean-ae5b295d",
+      "category": "korean",
+      "difficulty": 1,
+      "question": "가래떡을 고추장에 볶은 음식의 올바른 표기는?",
+      "choices": [
+        "떡볶기",
+        "떡복이",
+        "떡뽁이",
+        "떡볶이"
+      ],
+      "answerIndex": 3,
+      "explanation": "'볶다'의 어간에 '-이'가 붙어 명사가 된 말이라 '떡볶이'로 적어요. 같은 원리로 '구두닦이', '물받이'도 '-이'를 써요."
+    },
+    {
+      "id": "korean-8435c675",
+      "category": "korean",
+      "difficulty": 1,
+      "question": "잘 때 머리를 괴는 물건의 올바른 표기는?",
+      "choices": [
+        "베게",
+        "배게",
+        "배개",
+        "베개"
+      ],
+      "answerIndex": 3,
+      "explanation": "'베다'에 '-개'가 붙은 말이라 '베개'로 적어요. '덮개', '지우개'처럼 도구를 뜻하는 '-개'예요."
+    },
+    {
+      "id": "korean-6f302047",
+      "category": "korean",
+      "difficulty": 1,
+      "question": "찌개나 탕을 끓이는 오지그릇의 올바른 표기는?",
+      "choices": [
+        "뚝빼기",
+        "뚝배기",
+        "뚝뻬기",
+        "뚝베기"
+      ],
+      "answerIndex": 1,
+      "explanation": "[뚝빼기]로 소리 나지만 '뚝배기'로 적어요. 한 형태소 안에서 'ㄱ' 받침 뒤에 나는 [빼기]는 '배기'로 적는다는 맞춤법 규정 때문이에요."
+    },
+    {
+      "id": "korean-52d66d8f",
+      "category": "korean",
+      "difficulty": 1,
+      "question": "카카오로 만든 달콤한 과자의 올바른 표기는?",
+      "choices": [
+        "초콜렛",
+        "초콜릿",
+        "쵸콜릿",
+        "쵸코렛"
+      ],
+      "answerIndex": 1,
+      "explanation": "외래어 표기법에 따르면 'chocolate'는 '초콜릿'이에요. 'ㅈ, ㅊ' 뒤에는 '쵸'처럼 이중 모음을 쓰지 않아요."
+    },
+    {
+      "id": "korean-1c186328",
+      "category": "korean",
+      "difficulty": 1,
+      "question": "과일을 짜낸 음료의 올바른 표기는?",
+      "choices": [
+        "쥬스",
+        "주우스",
+        "쥬우스",
+        "주스"
+      ],
+      "answerIndex": 3,
+      "explanation": "외래어 표기법에서는 'ㅈ' 뒤에 'ㅠ'를 쓰지 않아 '주스'로 적어요. 같은 원리로 '비전', '텔레비전'도 '전'으로 적어요."
+    },
+    {
+      "id": "korean-e83edef3",
+      "category": "korean",
+      "difficulty": 1,
+      "question": "휴대폰에 들어가는 전지의 올바른 표기는?",
+      "choices": [
+        "배터리",
+        "밧데리",
+        "배떠리",
+        "뱃터리"
+      ],
+      "answerIndex": 0,
+      "explanation": "'battery'의 올바른 외래어 표기는 '배터리'예요. '밧데리'는 일본식 발음에서 온 말이라 쓰지 않아요."
+    },
+    {
+      "id": "korean-d740ca4e",
+      "category": "korean",
+      "difficulty": 1,
+      "question": "'○○ 그렇게까지 할 필요는 없어'의 빈칸에 알맞은 표기는?",
+      "choices": [
+        "구지",
+        "궂이",
+        "굳이",
+        "굿이"
+      ],
+      "answerIndex": 2,
+      "explanation": "'단단히 굳다'에서 온 말이라 소리는 [구지]여도 '굳이'로 적어요. 원형을 밝혀 적는 맞춤법 원칙 때문이에요."
+    },
+    {
+      "id": "korean-3ea19013",
+      "category": "korean",
+      "difficulty": 1,
+      "question": "'○○○ 져 준 거야'의 빈칸에 알맞은 표기는?",
+      "choices": [
+        "일브러",
+        "일부러",
+        "일부로",
+        "일뿌러"
+      ],
+      "answerIndex": 1,
+      "explanation": "어떤 목적이나 생각을 가지고 마음먹고 하는 것은 '일부러'예요. '일부로'는 틀린 표기예요."
+    },
+    {
+      "id": "korean-ccd6427f",
+      "category": "korean",
+      "difficulty": 1,
+      "question": "지난해의 바로 전 해를 뜻하는 올바른 표기는?",
+      "choices": [
+        "제작년",
+        "재작년",
+        "재잭년",
+        "제잭년"
+      ],
+      "answerIndex": 1,
+      "explanation": "'재(再)'는 '다시, 거듭'을 뜻해 '재작년'은 작년의 작년이에요. '제'로 적으면 틀려요."
+    },
+    {
+      "id": "korean-7f34dd5a",
+      "category": "korean",
+      "difficulty": 1,
+      "question": "돌덩이보다 작은 돌을 뜻하는 올바른 표기는?",
+      "choices": [
+        "돌맨이",
+        "돌맹이",
+        "돌멩이",
+        "돌멍이"
+      ],
+      "answerIndex": 2,
+      "explanation": "'돌멩이'가 표준어이고 '돌맹이'는 틀린 표기예요. 'ㅔ'와 'ㅐ'를 헷갈리기 쉬운 단어예요."
+    },
+    {
+      "id": "korean-86860907",
+      "category": "korean",
+      "difficulty": 1,
+      "question": "무를 깍둑썰기해 담근 김치의 올바른 표기는?",
+      "choices": [
+        "깍두기",
+        "깍뚜기",
+        "깍뚝이",
+        "깎두기"
+      ],
+      "answerIndex": 0,
+      "explanation": "[깍뚜기]로 소리 나지만 '깍두기'로 적어요. 'ㄱ' 받침 뒤의 된소리는 같은 소리가 겹치는 게 아니면 적지 않아요."
+    },
+    {
+      "id": "korean-0cd09227",
+      "category": "korean",
+      "difficulty": 1,
+      "question": "'○○○ 오늘은 일찍 잘래요'의 빈칸에 알맞은 표기는?",
+      "choices": [
+        "아무튼",
+        "아뭏튼",
+        "아무뜬",
+        "아뭏든"
+      ],
+      "answerIndex": 0,
+      "explanation": "'아무튼'은 한글 맞춤법에서 소리대로 적기로 정한 부사예요. '하여튼', '요컨대'도 같은 경우예요."
+    },
+    {
+      "id": "korean-5a6a55d6",
+      "category": "korean",
+      "difficulty": 1,
+      "question": "잘못을 감추려고 둘러대는 말의 올바른 표기는?",
+      "choices": [
+        "핑게",
+        "핑계",
+        "핑개",
+        "삥계"
+      ],
+      "answerIndex": 1,
+      "explanation": "'핑계'는 '계'로 적어요. '게'와 '계'는 소리가 비슷해 자주 틀리는 단어예요."
+    },
+    {
+      "id": "korean-41a0b043",
+      "category": "korean",
+      "difficulty": 1,
+      "question": "속담 '빈 수레가 요란하다'의 뜻으로 알맞은 것은?",
+      "choices": [
+        "소문은 빨리 퍼진다",
+        "가난할수록 부지런하다",
+        "작은 일도 함께하면 쉽다",
+        "실속 없는 사람이 더 떠든다"
+      ],
+      "answerIndex": 3,
+      "explanation": "짐이 없는 빈 수레가 더 덜컹거리듯, 아는 것 없는 사람이 더 아는 체하고 떠든다는 뜻이에요. 겸손을 강조할 때 자주 써요."
+    },
+    {
+      "id": "korean-d7a59d55",
+      "category": "korean",
+      "difficulty": 1,
+      "question": "속담 '아니 땐 굴뚝에 ○○ 날까'의 빈칸에 들어갈 말은?",
+      "choices": [
+        "재",
+        "불꽃",
+        "김",
+        "연기"
+      ],
+      "answerIndex": 3,
+      "explanation": "불을 때지 않았는데 굴뚝에서 연기가 날 리 없다는 말이에요. 원인이 없으면 결과도 없다는 뜻으로 써요."
+    },
+    {
+      "id": "korean-6bd4da78",
+      "category": "korean",
+      "difficulty": 1,
+      "question": "속담 '믿는 도끼에 발등 찍힌다'의 뜻으로 알맞은 것은?",
+      "choices": [
+        "믿던 사람에게 배신당한다",
+        "연장은 늘 조심해야 한다",
+        "작은 실수가 큰 화를 부른다",
+        "노력은 배신하지 않는다"
+      ],
+      "answerIndex": 0,
+      "explanation": "잘 믿고 있던 사람이나 일이 뜻밖에 배신해 해를 입는다는 뜻이에요. 가까운 사람의 배신일수록 더 아프다는 뜻이 담겨 있어요."
+    },
+    {
+      "id": "korean-e1965d0c",
+      "category": "korean",
+      "difficulty": 1,
+      "question": "속담 '사공이 많으면 배가 ○으로 간다'의 빈칸에 들어갈 말은?",
+      "choices": [
+        "섬",
+        "강",
+        "산",
+        "들"
+      ],
+      "answerIndex": 2,
+      "explanation": "저마다 제 주장만 하면 일이 엉뚱하게 흘러간다는 뜻이에요. 배가 물이 아닌 산으로 간다는 과장이 재미있는 속담이에요."
+    },
+    {
+      "id": "korean-14da5c96",
+      "category": "korean",
+      "difficulty": 1,
+      "question": "속담 '돌다리도 두들겨 보고 건너라'의 뜻은?",
+      "choices": [
+        "모르는 길은 가지 마라",
+        "남을 함부로 믿지 마라",
+        "급할수록 서둘러라",
+        "잘 아는 일도 조심해야 한다"
+      ],
+      "answerIndex": 3,
+      "explanation": "튼튼한 돌다리도 두들겨 확인하라는 말이에요. 확실해 보이는 일도 한 번 더 살피라는 뜻이에요."
+    },
+    {
+      "id": "korean-19bb18a7",
+      "category": "korean",
+      "difficulty": 1,
+      "question": "속담 '하룻강아지 ○ 무서운 줄 모른다'의 빈칸에 들어갈 말은?",
+      "choices": [
+        "늑대",
+        "소",
+        "곰",
+        "범"
+      ],
+      "answerIndex": 3,
+      "explanation": "철없이 아무에게나 덤비는 경우를 이르는 말이에요. '범'은 호랑이를 뜻해요."
+    },
+    {
+      "id": "korean-12ab254d",
+      "category": "korean",
+      "difficulty": 1,
+      "question": "속담 '금강산도 ○○○'의 빈칸에 들어갈 말은?",
+      "choices": [
+        "구경거리",
+        "식후경",
+        "식전경",
+        "제일경"
+      ],
+      "answerIndex": 1,
+      "explanation": "아무리 좋은 구경도 배가 불러야 즐겁다는 뜻이에요. '식후경(食後景)'은 밥을 먹은 뒤의 구경이라는 말이에요."
+    },
+    {
+      "id": "korean-f60df48e",
+      "category": "korean",
+      "difficulty": 1,
+      "question": "속담 '꿩 대신 ○'의 빈칸에 들어갈 말은?",
+      "choices": [
+        "비둘기",
+        "참새",
+        "오리",
+        "닭"
+      ],
+      "answerIndex": 3,
+      "explanation": "꼭 맞는 것이 없으면 비슷한 것으로 대신한다는 뜻이에요. 원하던 것을 못 구했을 때 차선책을 고르는 상황에 써요."
+    },
+    {
+      "id": "korean-47fd4f76",
+      "category": "korean",
+      "difficulty": 1,
+      "question": "속담 '고양이 목에 방울 달기'의 뜻으로 알맞은 것은?",
+      "choices": [
+        "실행하기 어려운 의논",
+        "겉만 꾸미는 일",
+        "뻔히 보이는 거짓말",
+        "남의 일에 참견함"
+      ],
+      "answerIndex": 0,
+      "explanation": "쥐들이 고양이 목에 방울을 달자고 했지만 아무도 나서지 못했다는 이야기에서 나왔어요. 실행할 수 없는 헛된 의논을 뜻해요."
+    },
+    {
+      "id": "korean-3320d0c3",
+      "category": "korean",
+      "difficulty": 1,
+      "question": "사자성어 '어부지리'의 뜻으로 알맞은 것은?",
+      "choices": [
+        "작은 것을 모아 이룸",
+        "같은 처지끼리 도움",
+        "제3자가 이득을 봄",
+        "어부처럼 부지런함"
+      ],
+      "answerIndex": 2,
+      "explanation": "조개와 도요새가 싸우는 사이 어부가 둘 다 잡았다는 고사에서 나왔어요. 둘이 싸우는 틈에 엉뚱한 사람이 이익을 챙길 때 써요."
+    },
+    {
+      "id": "korean-255068fb",
+      "category": "korean",
+      "difficulty": 1,
+      "question": "사자성어 '역지사지'의 뜻으로 알맞은 것은?",
+      "choices": [
+        "지난 일을 깊이 뉘우침",
+        "옛것을 익혀 새것을 앎",
+        "땅을 바꾸어 농사지음",
+        "처지를 바꾸어 생각함"
+      ],
+      "answerIndex": 3,
+      "explanation": "'역지사지(易地思之)'는 상대와 처지를 바꾸어 생각해 본다는 뜻이에요. 남의 입장을 헤아려 보라는 말로 자주 써요."
+    },
+    {
+      "id": "korean-51f68bc9",
+      "category": "korean",
+      "difficulty": 1,
+      "question": "사자성어 '설상가상'의 뜻으로 알맞은 것은?",
+      "choices": [
+        "고생 끝에 낙이 옴",
+        "좋은 일에 좋은 일이 더함",
+        "눈 위에 집을 지음",
+        "어려운 일이 겹쳐 일어남"
+      ],
+      "answerIndex": 3,
+      "explanation": "눈 위에 서리가 덮인다는 뜻으로, 난처한 일이 연달아 생기는 상황이에요. 좋은 일이 겹치는 '금상첨화'와 반대예요."
+    },
+    {
+      "id": "korean-26a8711a",
+      "category": "korean",
+      "difficulty": 1,
+      "question": "사자성어 '십시일반'의 뜻으로 알맞은 것은?",
+      "choices": [
+        "열 번 시도하면 성공함",
+        "하나를 보면 열을 앎",
+        "밥은 적게 먹어야 함",
+        "여럿이 조금씩 힘을 모음"
+      ],
+      "answerIndex": 3,
+      "explanation": "밥 열 숟가락이면 한 그릇이 된다는 뜻이에요. 여럿이 힘을 보태면 한 사람쯤은 쉽게 도울 수 있다는 말이에요."
+    },
+    {
+      "id": "korean-3edd8eeb",
+      "category": "korean",
+      "difficulty": 1,
+      "question": "관용구 '발이 넓다'의 뜻으로 알맞은 것은?",
+      "choices": [
+        "여행을 자주 다닌다",
+        "욕심이 많다",
+        "걸음이 빠르다",
+        "아는 사람이 많다"
+      ],
+      "answerIndex": 3,
+      "explanation": "사귀어 아는 사람이 많아 활동 범위가 넓다는 뜻이에요. 실제 발 크기와는 상관없어요."
+    },
+    {
+      "id": "korean-43a0a244",
+      "category": "korean",
+      "difficulty": 1,
+      "question": "관용구 '귀가 얇다'의 뜻으로 알맞은 것은?",
+      "choices": [
+        "남의 말을 안 듣는다",
+        "소리를 잘 듣는다",
+        "남의 말을 쉽게 믿는다",
+        "비밀을 잘 지킨다"
+      ],
+      "answerIndex": 2,
+      "explanation": "남의 말을 쉽게 받아들여 이리저리 흔들린다는 뜻이에요. 광고나 남의 말에 쉽게 넘어가는 사람에게 써요."
+    },
+    {
+      "id": "korean-0206c225",
+      "category": "korean",
+      "difficulty": 1,
+      "question": "관용구 '미역국을 먹다'의 뜻으로 알맞은 것은?",
+      "choices": [
+        "시험에 떨어지다",
+        "몸보신을 하다",
+        "결혼식을 올리다",
+        "생일을 맞다"
+      ],
+      "answerIndex": 0,
+      "explanation": "미역이 미끄러워 시험에서 미끄러진다는 비유로 써요. 그래서 시험 날엔 미역국을 피하는 풍습도 있어요."
+    },
+    {
+      "id": "korean-25ee1563",
+      "category": "korean",
+      "difficulty": 1,
+      "question": "'언제 국수 먹여 줄 거야?'는 무엇을 묻는 말일까요?",
+      "choices": [
+        "이사는 언제 가는지",
+        "밥은 언제 사는지",
+        "결혼은 언제 하는지",
+        "생일이 언제인지"
+      ],
+      "answerIndex": 2,
+      "explanation": "'국수를 먹다'는 결혼식을 올린다는 관용구예요. 잔치에 국수를 대접하던 풍습에서 나왔어요."
+    },
+    {
+      "id": "korean-69c40c01",
+      "category": "korean",
+      "difficulty": 1,
+      "question": "관용구 '파리를 날리다'의 뜻으로 알맞은 것은?",
+      "choices": [
+        "위생이 나쁘다",
+        "장사가 안 되어 한가하다",
+        "쓸데없이 화를 내다",
+        "몹시 바쁘게 일하다"
+      ],
+      "answerIndex": 1,
+      "explanation": "손님이 없어 파리만 날린다는 데서 나온 말이에요. 영업이 잘되지 않아 한가한 상태를 뜻해요."
+    },
+    {
+      "id": "korean-b2a8b53f",
+      "category": "korean",
+      "difficulty": 1,
+      "question": "고유어 '진눈깨비'의 뜻으로 알맞은 것은?",
+      "choices": [
+        "비가 섞여 내리는 눈",
+        "굵고 탐스러운 눈",
+        "바람에 날리는 가루눈",
+        "밤새 몰래 내린 눈"
+      ],
+      "answerIndex": 0,
+      "explanation": "'진눈깨비'는 비와 눈이 섞여 내리는 것을 말해요. 땅에 닿으면 금세 질척해지는 눈이에요."
+    },
+    {
+      "id": "korean-0b867bed",
+      "category": "korean",
+      "difficulty": 1,
+      "question": "고유어 '손사래'의 뜻으로 알맞은 것은?",
+      "choices": [
+        "손뼉을 치는 일",
+        "손을 흔들어 인사함",
+        "손바닥을 비비는 일",
+        "거절하며 손을 내젓는 일"
+      ],
+      "answerIndex": 3,
+      "explanation": "어떤 말을 부인하거나 거절할 때 손을 펴서 휘젓는 몸짓을 '손사래'라고 해요. '손사래를 치다'로 많이 써요."
+    },
+    {
+      "id": "korean-a65ad65a",
+      "category": "korean",
+      "difficulty": 1,
+      "question": "고유어 '품앗이'의 뜻으로 알맞은 것은?",
+      "choices": [
+        "서로 일을 거들어 주는 일",
+        "혼자서 일을 끝내는 일",
+        "옷을 품에 안는 일",
+        "품삯을 미리 받는 일"
+      ],
+      "answerIndex": 0,
+      "explanation": "'품'은 일하는 데 드는 힘이나 수고예요. 남이 도와준 품을 나중에 일로 갚는 풍습이 '품앗이'예요."
+    },
+    {
+      "id": "korean-f0dd62eb",
+      "category": "korean",
+      "difficulty": 2,
+      "question": "'학생○○ 할 일을 하자'의 빈칸에 알맞은 표기는?",
+      "choices": [
+        "으로써",
+        "으로서",
+        "로써",
+        "로서"
+      ],
+      "answerIndex": 1,
+      "explanation": "자격이나 신분을 나타낼 때는 '(으)로서', 수단이나 도구일 때는 '(으)로써'를 써요. 받침 있는 '학생' 뒤라 '으로서'예요."
+    },
+    {
+      "id": "korean-b3bb47b5",
+      "category": "korean",
+      "difficulty": 2,
+      "question": "'퀴즈 정답을 모두 ○○○'의 빈칸에 알맞은 표기는?",
+      "choices": [
+        "맞쳤다",
+        "맞혔다",
+        "마쳤다",
+        "맞췄다"
+      ],
+      "answerIndex": 1,
+      "explanation": "문제의 답을 틀리지 않게 하는 건 '맞히다'예요. '맞추다'는 둘을 서로 대어 보며 비교할 때 써요."
+    },
+    {
+      "id": "korean-4f38831d",
+      "category": "korean",
+      "difficulty": 2,
+      "question": "'우체국에서 편지를 ○○○'의 빈칸에 알맞은 표기는?",
+      "choices": [
+        "부쳤다",
+        "붙였다",
+        "부첬다",
+        "붇였다"
+      ],
+      "answerIndex": 0,
+      "explanation": "편지나 물건을 보내는 건 '부치다'예요. '붙이다'는 맞닿아 떨어지지 않게 할 때 써요."
+    },
+    {
+      "id": "korean-4fe43229",
+      "category": "korean",
+      "difficulty": 2,
+      "question": "'건강이 나의 가장 큰 ○○이에요'의 빈칸에 알맞은 표기는?",
+      "choices": [
+        "바람",
+        "바래움",
+        "바램",
+        "바렘"
+      ],
+      "answerIndex": 0,
+      "explanation": "'바라다'의 명사형은 '바람'이에요. '바램'은 '색이 바래다'에서 나온 말이라 소망의 뜻으로는 틀려요."
+    },
+    {
+      "id": "korean-494db1db",
+      "category": "korean",
+      "difficulty": 2,
+      "question": "기존 글을 이것저것 짜 맞추는 일의 올바른 표기는?",
+      "choices": [
+        "짜깁기",
+        "짜집기",
+        "짜깊기",
+        "짜깁이"
+      ],
+      "answerIndex": 0,
+      "explanation": "해진 천을 짜서 깁는 일에서 나온 말이라 '깁다'를 살려 '짜깁기'로 적어요. 지금은 글이나 영상을 짜 맞추는 일에도 써요."
+    },
+    {
+      "id": "korean-c849a64c",
+      "category": "korean",
+      "difficulty": 2,
+      "question": "남을 몹시 다그치는 일을 뜻하는 올바른 표기는?",
+      "choices": [
+        "닦달",
+        "닥닭",
+        "닥달",
+        "닦닭"
+      ],
+      "answerIndex": 0,
+      "explanation": "'닦달'은 남을 단단히 윽박질러 혼내는 일이에요. 소리는 [닥딸]이지만 '닦달'로 적어요."
+    },
+    {
+      "id": "korean-82b889f9",
+      "category": "korean",
+      "difficulty": 2,
+      "question": "음식 두 그릇 양을 한 그릇에 담은 것의 올바른 표기는?",
+      "choices": [
+        "곱뻬기",
+        "곱배기",
+        "곱빼기",
+        "곱베기"
+      ],
+      "answerIndex": 2,
+      "explanation": "'곱' 뒤에 '-빼기'가 붙은 말이라 '곱빼기'로 적어요. '뚝배기'와 달리 다른 형태소 뒤에서 [빼기]로 소리 나면 '빼기'로 적어요."
+    },
+    {
+      "id": "korean-a493bd3f",
+      "category": "korean",
+      "difficulty": 2,
+      "question": "'실내에서는 흡연을 ○○ 주세요'의 빈칸에 알맞은 표기는?",
+      "choices": [
+        "삼가하여",
+        "삼갸",
+        "삼가",
+        "삼가해"
+      ],
+      "answerIndex": 2,
+      "explanation": "기본형이 '삼가다'라서 '삼가 주세요'가 맞아요. '삼가하다'라는 말은 없어요."
+    },
+    {
+      "id": "korean-e1d568e6",
+      "category": "korean",
+      "difficulty": 2,
+      "question": "'어제 중요한 시험을 ○○○'의 빈칸에 알맞은 표기는?",
+      "choices": [
+        "치렀다",
+        "치루었다",
+        "치뤗다",
+        "치뤘다"
+      ],
+      "answerIndex": 0,
+      "explanation": "기본형은 '치르다'예요. '치르-'에 '-었다'가 붙으면 '으'가 빠져 '치렀다'가 돼요."
+    },
+    {
+      "id": "korean-1981ddde",
+      "category": "korean",
+      "difficulty": 2,
+      "question": "'퇴근길에 편의점에 ○○○ 갔어요'의 빈칸에 알맞은 표기는?",
+      "choices": [
+        "들렀다",
+        "들렸다",
+        "들렷다",
+        "들럿다"
+      ],
+      "answerIndex": 0,
+      "explanation": "지나는 길에 잠깐 들어가는 건 '들르다'예요. '들리다'는 소리가 귀에 들어올 때 써요."
+    },
+    {
+      "id": "korean-c7698a2a",
+      "category": "korean",
+      "difficulty": 2,
+      "question": "장마 때 내리는 비의 올바른 표기는?",
+      "choices": [
+        "장마비",
+        "장맛비",
+        "장맞비",
+        "장맏비"
+      ],
+      "answerIndex": 1,
+      "explanation": "고유어 '장마'와 '비'가 만나 [장마삐]로 된소리가 나므로 사이시옷을 넣어 '장맛비'로 적어요. '햇볕', '나뭇잎'도 사이시옷을 넣어 적어요."
+    },
+    {
+      "id": "korean-1d4af39f",
+      "category": "korean",
+      "difficulty": 2,
+      "question": "뇌혈관이 막히거나 터지는 병의 올바른 표기는?",
+      "choices": [
+        "뇌줄중",
+        "뇌졸증",
+        "뇌졸종",
+        "뇌졸중"
+      ],
+      "answerIndex": 3,
+      "explanation": "'졸중(卒中)'은 '갑자기 (풍을) 맞다'는 뜻이에요. 병명이지만 '증(症)'이 아니라 '중(中)'을 써요."
+    },
+    {
+      "id": "korean-a77860a7",
+      "category": "korean",
+      "difficulty": 2,
+      "question": "문자나 전언을 뜻하는 외래어의 올바른 표기는?",
+      "choices": [
+        "멧세지",
+        "메세지",
+        "메시쥐",
+        "메시지"
+      ],
+      "answerIndex": 3,
+      "explanation": "'message'의 외래어 표기는 '메시지'예요. '메세지'는 흔히 틀리는 표기예요."
+    },
+    {
+      "id": "korean-98d1fde7",
+      "category": "korean",
+      "difficulty": 2,
+      "question": "귀걸이·목걸이 같은 장신구의 올바른 표기는?",
+      "choices": [
+        "액세사리",
+        "악세사리",
+        "악세서리",
+        "액세서리"
+      ],
+      "answerIndex": 3,
+      "explanation": "'accessory'의 외래어 표기는 '액세서리'예요. 첫소리 'ac'는 '액'으로 적어요."
+    },
+    {
+      "id": "korean-0292f5ef",
+      "category": "korean",
+      "difficulty": 2,
+      "question": "천에 글을 써서 거는 현수막의 외래어 표기는?",
+      "choices": [
+        "플래카드",
+        "프랭카드",
+        "플랜카드",
+        "플랑카드"
+      ],
+      "answerIndex": 0,
+      "explanation": "'placard'를 옮긴 말이라 'n' 소리가 없어요. 그래서 '플랜카드'가 아니라 '플래카드'예요."
+    },
+    {
+      "id": "korean-58092716",
+      "category": "korean",
+      "difficulty": 2,
+      "question": "여러 음식을 차려 놓고 골라 먹는 식당의 표기는?",
+      "choices": [
+        "뷔폐",
+        "부페",
+        "부폐",
+        "뷔페"
+      ],
+      "answerIndex": 3,
+      "explanation": "프랑스어 'buffet'에서 온 말로 '뷔페'로 적어요. 원어의 'u' 발음을 살려 '뷔'로 적는다고 기억하면 쉬워요."
+    },
+    {
+      "id": "korean-d1c33aa0",
+      "category": "korean",
+      "difficulty": 2,
+      "question": "속담 '서당 개 삼 년이면 ○○을 읊는다'의 빈칸은?",
+      "choices": [
+        "풍월",
+        "가락",
+        "천자문",
+        "시조"
+      ],
+      "answerIndex": 0,
+      "explanation": "서당 개도 삼 년이면 글 읊는 소리를 낸다는 뜻이에요. 무엇이든 오래 보고 들으면 자연히 할 줄 알게 된다는 말이에요."
+    },
+    {
+      "id": "korean-8641b5a3",
+      "category": "korean",
+      "difficulty": 2,
+      "question": "속담 '똥 묻은 개가 ○ 묻은 개 나무란다'의 빈칸은?",
+      "choices": [
+        "겨",
+        "흙",
+        "물",
+        "재"
+      ],
+      "answerIndex": 0,
+      "explanation": "더 큰 흠이 있는 사람이 작은 흠이 있는 남을 흉본다는 뜻이에요. '겨'는 곡식을 찧을 때 벗겨진 껍질이에요."
+    },
+    {
+      "id": "korean-ecf88d68",
+      "category": "korean",
+      "difficulty": 2,
+      "question": "속담 '언 발에 오줌 누기'의 뜻으로 알맞은 것은?",
+      "choices": [
+        "급할 때는 무엇이든 해야 함",
+        "잠깐 효과뿐 결국 더 나빠짐",
+        "작은 정성이 큰 감동을 줌",
+        "부끄러움을 모르는 행동"
+      ],
+      "answerIndex": 1,
+      "explanation": "언 발에 오줌을 누면 잠깐 따뜻하지만 곧 더 꽁꽁 얼어요. 임시변통이 오히려 사태를 악화시킨다는 뜻이에요."
+    },
+    {
+      "id": "korean-bdd2db57",
+      "category": "korean",
+      "difficulty": 2,
+      "question": "속담 '우물에 가 숭늉 찾는다'의 뜻으로 알맞은 것은?",
+      "choices": [
+        "성미가 몹시 급하다",
+        "엉뚱한 곳에서 찾는다",
+        "욕심이 지나치다",
+        "준비를 철저히 한다"
+      ],
+      "answerIndex": 0,
+      "explanation": "숭늉은 밥을 지은 솥에 물을 부어 데워야 생겨요. 우물에서 바로 숭늉을 찾을 만큼 서두른다는 뜻이에요."
+    },
+    {
+      "id": "korean-12166c75",
+      "category": "korean",
+      "difficulty": 2,
+      "question": "속담 '가랑비에 옷 젖는 줄 모른다'의 뜻은?",
+      "choices": [
+        "걱정이 지나치면 병이 된다",
+        "작은 것도 거듭되면 커진다",
+        "날씨를 잘 살펴야 한다",
+        "남의 일에 무관심하다"
+      ],
+      "answerIndex": 1,
+      "explanation": "가랑비처럼 사소해 보이는 것도 계속되면 큰 결과를 낸다는 뜻이에요. 작은 낭비를 경계할 때 자주 써요."
+    },
+    {
+      "id": "korean-4da7d14d",
+      "category": "korean",
+      "difficulty": 2,
+      "question": "사자성어 '와신상담'의 뜻으로 알맞은 것은?",
+      "choices": [
+        "목적을 위해 괴로움을 참음",
+        "편안히 누워 쉼",
+        "원수와 화해함",
+        "쓴소리를 달게 들음"
+      ],
+      "answerIndex": 0,
+      "explanation": "섶에 눕고 쓸개를 맛본다는 뜻이에요. 원수를 갚거나 뜻을 이루려고 온갖 괴로움을 참고 견디는 것을 말해요."
+    },
+    {
+      "id": "korean-6ca86961",
+      "category": "korean",
+      "difficulty": 2,
+      "question": "사자성어 '청출어람'의 뜻으로 알맞은 것은?",
+      "choices": [
+        "푸른 하늘처럼 맑은 마음",
+        "젊은이가 어른을 공경함",
+        "제자가 스승보다 나음",
+        "시작보다 끝이 좋음"
+      ],
+      "answerIndex": 2,
+      "explanation": "쪽에서 뽑은 푸른 물감이 쪽보다 더 푸르다는 뜻이에요. 제자나 후배가 스승이나 선배보다 뛰어날 때 써요."
+    },
+    {
+      "id": "korean-a93a4f7b",
+      "category": "korean",
+      "difficulty": 2,
+      "question": "사자성어 '과유불급'의 뜻으로 알맞은 것은?",
+      "choices": [
+        "과일은 덜 익어야 맛있음",
+        "지나침은 모자람과 같음",
+        "지난 일은 후회해도 소용없음",
+        "급할수록 돌아가야 함"
+      ],
+      "answerIndex": 1,
+      "explanation": "정도를 지나치면 미치지 못한 것과 같다는 공자의 말에서 나왔어요. 무엇이든 적당함이 중요하다는 뜻이에요."
+    },
+    {
+      "id": "korean-9e3610d5",
+      "category": "korean",
+      "difficulty": 2,
+      "question": "사자성어 '표리부동'의 뜻으로 알맞은 것은?",
+      "choices": [
+        "앞뒤가 꼭 맞음",
+        "겉과 속이 다름",
+        "속마음을 숨기지 않음",
+        "겉모습이 화려함"
+      ],
+      "answerIndex": 1,
+      "explanation": "'표(表)'는 겉, '리(裏)'는 속이에요. 겉으로 드러나는 언행과 속마음이 다르다는 뜻이에요."
+    },
+    {
+      "id": "korean-0043fe4c",
+      "category": "korean",
+      "difficulty": 2,
+      "question": "한 치의 흐트러짐도 없이 질서 정연함을 뜻하는 말은?",
+      "choices": [
+        "일사불란",
+        "일사분란",
+        "일사분난",
+        "일사불난"
+      ],
+      "answerIndex": 0,
+      "explanation": "'한 올의 실도 엉키지 않았다'는 뜻의 '일사불란(一絲不亂)'이에요. '분란'과 헷갈려 '일사분란'으로 잘못 쓰기 쉬워요."
+    },
+    {
+      "id": "korean-951ea5c5",
+      "category": "korean",
+      "difficulty": 2,
+      "question": "관용구 '시치미를 떼다'의 뜻으로 알맞은 것은?",
+      "choices": [
+        "남의 공을 가로채다",
+        "정을 끊고 멀리하다",
+        "약속을 어기다",
+        "알면서 모르는 체하다"
+      ],
+      "answerIndex": 3,
+      "explanation": "자기가 하고도 안 한 체하거나 알고도 모르는 체하는 태도를 말해요. 잘못을 하고도 딱 잡아뗄 때 자주 써요.",
+      "funFact": "'시치미'는 매의 주인을 밝히려고 매 꽁지에 단 이름표로, 이걸 떼어 내 남의 매를 제 것인 척한 데서 나왔어요."
+    },
+    {
+      "id": "korean-d8d1930d",
+      "category": "korean",
+      "difficulty": 2,
+      "question": "관용구 '입이 짧다'의 뜻으로 알맞은 것은?",
+      "choices": [
+        "비밀을 못 지킨다",
+        "음식을 가리거나 적게 먹는다",
+        "말수가 적다",
+        "말을 자꾸 바꾼다"
+      ],
+      "answerIndex": 1,
+      "explanation": "음식을 몹시 가리거나 아주 적게 먹는 사람을 두고 '입이 짧다'고 해요. 말수와는 관계없는 표현이에요."
+    },
+    {
+      "id": "korean-0f3756dc",
+      "category": "korean",
+      "difficulty": 2,
+      "question": "관용구 '눈에 밟히다'의 뜻으로 알맞은 것은?",
+      "choices": [
+        "눈치를 보며 조심하다",
+        "남에게 무시당하다",
+        "잊히지 않고 자꾸 떠오르다",
+        "한눈팔다 넘어지다"
+      ],
+      "answerIndex": 2,
+      "explanation": "두고 온 사람이나 물건이 잊히지 않고 자꾸 눈앞에 떠오를 때 쓰는 말이에요. 걱정되거나 그리운 마음이 담겨 있어요."
+    },
+    {
+      "id": "korean-5c3fcaa6",
+      "category": "korean",
+      "difficulty": 2,
+      "question": "고유어 '너스레'의 뜻으로 알맞은 것은?",
+      "choices": [
+        "천천히 걷는 걸음",
+        "남몰래 흘리는 눈물",
+        "수다스럽게 떠벌리는 짓",
+        "작은 일에 화내는 버릇"
+      ],
+      "answerIndex": 2,
+      "explanation": "'너스레를 떨다'처럼 써요. 남을 놀리려고 늘어놓는 너절한 말이나 짓도 '너스레'라고 해요."
+    },
+    {
+      "id": "korean-fe5a124b",
+      "category": "korean",
+      "difficulty": 2,
+      "question": "고유어 '데면데면하다'의 뜻으로 알맞은 것은?",
+      "choices": [
+        "몹시 반갑고 정답다",
+        "성격이 급하고 사납다",
+        "친밀감 없이 무덤덤하다",
+        "잘난 체하며 뽐내다"
+      ],
+      "answerIndex": 2,
+      "explanation": "사람을 대하는 태도가 친밀감이나 관심 없이 예사로울 때 '데면데면하다'고 해요. 성질이 꼼꼼하지 못할 때도 써요."
+    },
+    {
+      "id": "korean-9b638969",
+      "category": "korean",
+      "difficulty": 3,
+      "question": "천둥을 뜻하는 표준어는?",
+      "choices": [
+        "우래",
+        "우뢰",
+        "우레",
+        "우뢔"
+      ],
+      "answerIndex": 2,
+      "explanation": "'우레'는 '울다'에서 나온 고유어예요. 한자 '뢰(雷)'로 착각해 '우뢰'로 쓰기 쉽지만 '우레'만 표준어예요.",
+      "funFact": "'우레와 같은 박수'의 '우레'도 같은 말이에요."
+    },
+    {
+      "id": "korean-0a394c2f",
+      "category": "korean",
+      "difficulty": 3,
+      "question": "귀밑에서 턱까지 난 수염의 올바른 표기는?",
+      "choices": [
+        "구렛나루",
+        "구레나루",
+        "구레나룻",
+        "구렛나룻"
+      ],
+      "answerIndex": 2,
+      "explanation": "'구레'와 수염을 뜻하는 '나룻'이 합쳐진 말이에요. 그래서 '구레나룻'으로 적어요."
+    },
+    {
+      "id": "korean-f4031f39",
+      "category": "korean",
+      "difficulty": 3,
+      "question": "분수에 맞지 않아 같잖다는 뜻의 올바른 표기는?",
+      "choices": [
+        "어쭙잖다",
+        "어쭙짢다",
+        "어줍잖다",
+        "어줍짢다"
+      ],
+      "answerIndex": 0,
+      "explanation": "'어쭙잖다'가 표준어예요. 비슷한 '어줍다'는 '서투르다'는 뜻의 다른 말이라 섞어 쓰면 안 돼요."
+    },
+    {
+      "id": "korean-8cd4b562",
+      "category": "korean",
+      "difficulty": 3,
+      "question": "'○○○하는 기업들이 모였다'의 빈칸에 알맞은 표기는?",
+      "choices": [
+        "내놔라",
+        "내로라",
+        "내로라고",
+        "내노라"
+      ],
+      "answerIndex": 1,
+      "explanation": "어떤 분야를 대표할 만하다는 뜻의 '내로라하다'예요. '나+이로라'에서 온 말이라 '내노라'는 틀려요."
+    },
+    {
+      "id": "korean-8fef7ab9",
+      "category": "korean",
+      "difficulty": 3,
+      "question": "수컷을 나타내는 표기가 올바른 것은?",
+      "choices": [
+        "숫소",
+        "숫양",
+        "숫닭",
+        "숫돼지"
+      ],
+      "answerIndex": 1,
+      "explanation": "수컷은 '수-'로 통일해 '수소, 수탉, 수퇘지'로 적어요. 다만 '숫양, 숫염소, 숫쥐' 셋만 '숫-'을 써요."
+    },
+    {
+      "id": "korean-b7bbf5f2",
+      "category": "korean",
+      "difficulty": 3,
+      "question": "책 첫머리에 내용을 간략히 적은 글의 표기는?",
+      "choices": [
+        "머리글말",
+        "머릿말",
+        "머리말",
+        "머릿글"
+      ],
+      "answerIndex": 2,
+      "explanation": "[머리말]로 소리 나 된소리나 'ㄴ' 소리가 덧나지 않으므로 사이시옷을 넣지 않아요. 반면 '혼잣말'은 [혼잔말]로 소리 나 사이시옷을 써요."
+    },
+    {
+      "id": "korean-3a6292bf",
+      "category": "korean",
+      "difficulty": 3,
+      "question": "수학에서 가장 큰 값을 뜻하는 올바른 표기는?",
+      "choices": [
+        "최대값",
+        "최댓값",
+        "최댇값",
+        "최대갑"
+      ],
+      "answerIndex": 1,
+      "explanation": "한자어 '최대'와 고유어 '값'이 만나 [최대깝]으로 소리 나므로 사이시옷을 넣어요. '최솟값', '절댓값'도 같아요."
+    },
+    {
+      "id": "korean-c95860ea",
+      "category": "korean",
+      "difficulty": 3,
+      "question": "마음이 초조해 어쩔 줄 모르는 모양의 올바른 표현은?",
+      "choices": [
+        "안절부절못하다",
+        "안절부절다",
+        "안절부절하다",
+        "안절부절않다"
+      ],
+      "answerIndex": 0,
+      "explanation": "표준어 규정은 '안절부절못하다'만 표준어로 삼아요. 뜻이 비슷해 보여도 '안절부절하다'는 틀린 말이에요."
+    },
+    {
+      "id": "korean-5876db91",
+      "category": "korean",
+      "difficulty": 3,
+      "question": "'생각하건대'의 준말로 알맞은 것은?",
+      "choices": [
+        "생각껀대",
+        "생각컨대",
+        "생각근대",
+        "생각건대"
+      ],
+      "answerIndex": 3,
+      "explanation": "'하' 앞 받침이 'ㄱ, ㄷ, ㅂ'이면 '하'가 통째로 줄어요. 그래서 '생각하건대'는 '생각건대'가 돼요."
+    },
+    {
+      "id": "korean-3cb84b18",
+      "category": "korean",
+      "difficulty": 3,
+      "question": "다음 중 올바른 표기는?",
+      "choices": [
+        "백분률",
+        "이자률",
+        "합격률",
+        "출산률"
+      ],
+      "answerIndex": 2,
+      "explanation": "모음이나 'ㄴ' 받침 뒤에서는 '율', 나머지 받침 뒤에서는 '률'을 써요. 그래서 '출산율, 이자율, 백분율'이 맞아요."
+    },
+    {
+      "id": "korean-31c55918",
+      "category": "korean",
+      "difficulty": 3,
+      "question": "여럿이 모여 하는 연수회의 외래어 표기는?",
+      "choices": [
+        "웍샵",
+        "워크샵",
+        "워크쇼프",
+        "워크숍"
+      ],
+      "answerIndex": 3,
+      "explanation": "'workshop'의 'shop'은 외래어 표기법에 따라 '숍'으로 적어요. 그래서 '워크숍', '커피숍'이 맞아요."
+    },
+    {
+      "id": "korean-5ad213a6",
+      "category": "korean",
+      "difficulty": 3,
+      "question": "공연 끝에 다시 청하는 외침의 올바른 표기는?",
+      "choices": [
+        "앙콜",
+        "앙꼬르",
+        "앵콜",
+        "앙코르"
+      ],
+      "answerIndex": 3,
+      "explanation": "프랑스어 'encore'에서 온 말로 '앙코르'로 적어요. 흔히 쓰는 '앵콜', '앙콜'은 틀린 표기예요."
+    },
+    {
+      "id": "korean-e143b87b",
+      "category": "korean",
+      "difficulty": 3,
+      "question": "앞이 트인 털 스웨터의 올바른 외래어 표기는?",
+      "choices": [
+        "가디간",
+        "카디건",
+        "카디간",
+        "가디건"
+      ],
+      "answerIndex": 1,
+      "explanation": "영국 카디건 백작의 이름에서 온 'cardigan'이라 '카디건'으로 적어요. 첫소리 'c'를 '가'로 적는 '가디건'은 틀린 표기예요.",
+      "funFact": "크림 전쟁 때 카디건 백작이 즐겨 입던 옷에서 이름이 붙었다고 해요."
+    },
+    {
+      "id": "korean-f6cf1a57",
+      "category": "korean",
+      "difficulty": 3,
+      "question": "영상에 덧입히는 해설의 올바른 외래어 표기는?",
+      "choices": [
+        "나레이션",
+        "내레이션",
+        "나래이션",
+        "내래이션"
+      ],
+      "answerIndex": 1,
+      "explanation": "'narration'의 첫 모음은 '내'로 적어요. 같은 원리로 '내레이터'가 맞아요."
+    },
+    {
+      "id": "korean-5a5a3fcf",
+      "category": "korean",
+      "difficulty": 3,
+      "question": "속담 '감나무 밑에 누워도 삿갓 미사리를 대어라'의 뜻은?",
+      "choices": [
+        "기회가 와도 노력해야 얻는다",
+        "남의 것을 탐내지 마라",
+        "때를 기다리면 복이 온다",
+        "게으르면 굶는다"
+      ],
+      "answerIndex": 0,
+      "explanation": "감이 떨어지길 기다려도 받을 준비는 해야 한다는 말이에요. 좋은 기회도 노력해야 내 것이 된다는 뜻이에요."
+    },
+    {
+      "id": "korean-e5802c63",
+      "category": "korean",
+      "difficulty": 3,
+      "question": "속담 '개밥에 도토리'가 가리키는 사람은?",
+      "choices": [
+        "작은 것에 만족하는 사람",
+        "남의 것을 탐내는 사람",
+        "귀하게 대접받는 사람",
+        "무리에 끼지 못하는 사람"
+      ],
+      "answerIndex": 3,
+      "explanation": "개는 도토리를 먹지 않아 밥에 섞여도 남겨져요. 따돌림을 받아 여럿 축에 끼지 못하는 사람을 뜻해요."
+    },
+    {
+      "id": "korean-8a448ed1",
+      "category": "korean",
+      "difficulty": 3,
+      "question": "속담 '원님 덕에 나팔 분다'의 뜻으로 알맞은 것은?",
+      "choices": [
+        "작은 일을 크게 떠벌린다",
+        "공을 남에게 돌린다",
+        "남의 덕에 대접받는다",
+        "윗사람에게 아첨한다"
+      ],
+      "answerIndex": 2,
+      "explanation": "원님을 따라가다 덩달아 나팔 소리 속에 대접받는 상황이에요. 남의 덕으로 분에 넘치는 대접을 받을 때 써요."
+    },
+    {
+      "id": "korean-73ba8575",
+      "category": "korean",
+      "difficulty": 3,
+      "question": "속담 '쇠뿔도 단김에 빼랬다'의 뜻으로 알맞은 것은?",
+      "choices": [
+        "뜨거울 때 조심함",
+        "무리하면 탈이 남",
+        "망설이지 말고 곧 해치움",
+        "힘센 상대와 맞서지 않음"
+      ],
+      "answerIndex": 2,
+      "explanation": "쇠뿔은 불에 달군 김에 빼야 잘 빠진다는 말이에요. 하려던 일은 기회가 왔을 때 곧바로 하라는 뜻이에요."
+    },
+    {
+      "id": "korean-841510a5",
+      "category": "korean",
+      "difficulty": 3,
+      "question": "사자성어 '우공이산'의 뜻으로 알맞은 것은?",
+      "choices": [
+        "산을 옮길 만큼 힘이 셈",
+        "어리석은 사람은 실패함",
+        "꾸준히 하면 끝내 이룸",
+        "두 산 사이에 길을 냄"
+      ],
+      "answerIndex": 2,
+      "explanation": "우공이라는 노인이 산을 옮기려 대를 이어 흙을 나르자 하늘이 감동했다는 고사예요. 꾸준한 노력의 힘을 강조할 때 써요."
+    },
+    {
+      "id": "korean-454cd6f8",
+      "category": "korean",
+      "difficulty": 3,
+      "question": "사자성어 '호가호위'의 뜻으로 알맞은 것은?",
+      "choices": [
+        "호랑이처럼 용맹함",
+        "강한 자가 약한 자를 도움",
+        "남의 권세로 위세 부림",
+        "여우처럼 꾀가 많음"
+      ],
+      "answerIndex": 2,
+      "explanation": "여우가 호랑이 뒤에 서서 짐승들을 겁준 고사에서 나왔어요. 남의 힘을 믿고 으스대는 사람을 비꼬는 말이에요."
+    },
+    {
+      "id": "korean-058be549",
+      "category": "korean",
+      "difficulty": 3,
+      "question": "사자성어 '교각살우'의 뜻으로 알맞은 것은?",
+      "choices": [
+        "작은 은혜를 크게 갚음",
+        "힘을 모아 큰일을 이룸",
+        "작은 흠 고치다 일을 망침",
+        "다리를 놓아 소를 건넘"
+      ],
+      "answerIndex": 2,
+      "explanation": "소의 뿔을 바로잡으려다 소를 죽인다는 뜻이에요. 작은 결점을 고치려다 오히려 전체를 망치는 경우예요."
+    },
+    {
+      "id": "korean-f34491eb",
+      "category": "korean",
+      "difficulty": 3,
+      "question": "사자성어 '낭중지추'의 뜻으로 알맞은 것은?",
+      "choices": [
+        "가을에 곡식을 거둠",
+        "재능은 숨겨도 드러남",
+        "말을 아끼는 지혜",
+        "주머니 속 재물을 아낌"
+      ],
+      "answerIndex": 1,
+      "explanation": "주머니 속 송곳은 끝이 뚫고 나온다는 뜻이에요. 뛰어난 사람은 가만있어도 남의 눈에 띈다는 말이에요."
+    },
+    {
+      "id": "korean-937afce9",
+      "category": "korean",
+      "difficulty": 3,
+      "question": "의지할 곳 없는 홀몸을 뜻하는 사자성어 표기는?",
+      "choices": [
+        "홀홀단신",
+        "혈혈단심",
+        "홀홀단심",
+        "혈혈단신"
+      ],
+      "answerIndex": 3,
+      "explanation": "'혈혈(孑孑)'은 외롭게 홀로 선 모양이에요. '홀몸'에 이끌려 '홀홀단신'으로 쓰기 쉽지만 틀린 표기예요."
+    },
+    {
+      "id": "korean-e78fff7d",
+      "category": "korean",
+      "difficulty": 3,
+      "question": "관용구 '학을 떼다'의 뜻으로 알맞은 것은?",
+      "choices": [
+        "공부를 그만두다",
+        "남을 몹시 비웃다",
+        "괴로운 일에 질려 버리다",
+        "학처럼 우아하게 굴다"
+      ],
+      "answerIndex": 2,
+      "explanation": "'학'은 학질(말라리아)을 뜻해요. 지독한 학질을 떼어 내듯 진땀 빼거나 몹시 질렸을 때 써요."
+    },
+    {
+      "id": "korean-7f9723bd",
+      "category": "korean",
+      "difficulty": 3,
+      "question": "관용구 '산통을 깨다'의 뜻으로 알맞은 것은?",
+      "choices": [
+        "분위기를 띄우다",
+        "산모를 돕다",
+        "크게 웃음을 터뜨리다",
+        "잘되던 일을 망쳐 놓다"
+      ],
+      "answerIndex": 3,
+      "explanation": "다 되어 가던 일을 뒤틀어 이루지 못하게 할 때 써요. 출산의 '산통'과는 관계없어요.",
+      "funFact": "'산통'은 점칠 때 쓰는 산가지를 넣은 통으로, 이 통을 깨면 점을 칠 수 없어요."
+    },
+    {
+      "id": "korean-3f631d1d",
+      "category": "korean",
+      "difficulty": 3,
+      "question": "관용구 '변죽을 울리다'의 뜻으로 알맞은 것은?",
+      "choices": [
+        "바로 말 않고 둘러서 말하다",
+        "분위기를 썰렁하게 하다",
+        "큰 소리로 떠들다",
+        "남의 흉을 퍼뜨리다"
+      ],
+      "answerIndex": 0,
+      "explanation": "'변죽'은 그릇 따위의 가장자리예요. 한가운데 대신 가장자리를 쳐서 울리듯 넌지시 빗대어 말한다는 뜻이에요."
+    }
+  ]
+}
