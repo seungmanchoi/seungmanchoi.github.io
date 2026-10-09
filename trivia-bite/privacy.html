@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Trivia Bite - Privacy Policy</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      padding: 0 20px;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      color: #191f28;
+      background: #ffffff;
+      line-height: 1.7;
+    }
+    .container { width: min(760px, 100%); margin: 0 auto; padding: 40px 0 84px; }
+    .lang-switch { display: flex; flex-wrap: wrap; justify-content: flex-end; gap: 8px; margin-bottom: 24px; }
+    button {
+      min-height: 34px; padding: 6px 12px; border: 1px solid #e5e8eb; border-radius: 8px;
+      color: #4e5968; background: transparent; cursor: pointer; font-size: 14px;
+    }
+    button.active { color: #ffffff; border-color: #3182f6; background: #3182f6; }
+    .app-name { color: #3182f6; font-size: 14px; font-weight: 800; letter-spacing: 0.04em; }
+    h1 { margin-top: 6px; font-size: 30px; line-height: 1.2; }
+    .last-updated { margin: 8px 0 34px; color: #8b95a1; font-size: 13px; }
+    h2 { margin-top: 34px; padding-bottom: 8px; border-bottom: 1px solid #f2f4f6; font-size: 20px; }
+    p { margin-top: 12px; color: #333d4b; }
+    ul { margin: 12px 0 0 22px; color: #333d4b; }
+    li { margin: 6px 0; }
+    a { color: #3182f6; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    .highlight { margin: 18px 0; padding: 14px 16px; border-radius: 16px; background: #e8f3ff; }
+    .hidden { display: none; }
+    @media (prefers-color-scheme: dark) {
+      body { color: #ffffff; background: #17171c; }
+      p, ul { color: #c3c3c6; }
+      h2 { border-bottom-color: #2c2c35; }
+      button { color: #c3c3c6; border-color: #2c2c35; }
+      .highlight { background: #1b2a42; }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="lang-switch">
+      <button id="btn-en" class="active" onclick="switchLang('en')">English</button>
+      <button id="btn-ko" onclick="switchLang('ko')">한국어</button>
+      <button id="btn-ja" onclick="switchLang('ja')">日本語</button>
+      <button id="btn-zh" onclick="switchLang('zh')">中文</button>
+    </div>
+
+    <section id="lang-en">
+      <div class="app-name">Trivia Bite</div>
+      <h1>Privacy Policy</h1>
+      <p class="last-updated">Last Updated: October 9, 2026</p>
+      <div class="highlight">
+        <p><strong>Trivia Bite works without an account. Your quiz scores, streaks, and wrong-answer notes are stored only on your device. We do not collect your name, email address, contacts, photos, or location. The app shows ads through Google AdMob, which may use an advertising identifier as described below.</strong></p>
+      </div>
+      <h2>1. Overview</h2>
+      <p>Trivia Bite is a daily general-knowledge quiz app developed by Seungman Choi. Quiz questions are prepared in advance and downloaded as static files; the app has no user accounts and no server that stores your answers.</p>
+      <h2>2. Information Stored On Your Device</h2>
+      <ul>
+        <li><strong>Quiz progress</strong>: daily quiz results, scores, streaks, and category progress.</li>
+        <li><strong>Wrong-answer notes</strong>: questions you answered incorrectly, for review.</li>
+        <li><strong>Settings</strong>: theme, sound, and haptic preferences.</li>
+      </ul>
+      <p>This data never leaves your device. You can erase it by deleting the app.</p>
+      <h2>3. Quiz Content Downloads</h2>
+      <p>The app downloads quiz files from GitHub Pages (seungmanchoi.github.io). Like any web request, GitHub may receive your IP address and device information in its server logs. No quiz answers or personal data are sent with these requests. See the <a href="https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement" target="_blank" rel="noopener">GitHub Privacy Statement</a>.</p>
+      <h2>4. Analytics And Diagnostics</h2>
+      <p>The app uses <strong>Firebase Analytics</strong> to understand aggregate usage (such as app opens, screen views, and quizzes completed) and <strong>Firebase Crashlytics</strong> to receive crash diagnostics. This data is used to improve the app and does not include your name, email address, contacts, or location.</p>
+      <h2>5. Advertising</h2>
+      <p>Trivia Bite displays ads through <strong>Google AdMob</strong> (banner, interstitial, and rewarded formats). To serve ads, including personalized ads, AdMob may use a mobile advertising identifier (IDFA on iOS, Advertising ID on Android) and related ad-interaction data.</p>
+      <ul>
+        <li><strong>iOS App Tracking Transparency (ATT)</strong>: the advertising identifier is used for personalized ads only if you allow tracking; otherwise you see non-personalized ads.</li>
+        <li><strong>EEA, UK, and Switzerland (GDPR)</strong>: we show a Google-certified consent message before ads load and respect your choice.</li>
+        <li>You can change your choice anytime in the app settings or in iOS Settings &gt; Privacy &amp; Security &gt; Tracking.</li>
+      </ul>
+      <h2>6. Third-Party Services</h2>
+      <ul>
+        <li><strong>Google AdMob</strong>: advertising. See <a href="https://policies.google.com/privacy" target="_blank" rel="noopener">Google Privacy Policy</a> and <a href="https://policies.google.com/technologies/partner-sites" target="_blank" rel="noopener">how Google uses data</a>.</li>
+        <li><strong>Firebase Analytics &amp; Crashlytics</strong>: usage analytics and crash diagnostics.</li>
+        <li><strong>GitHub Pages</strong>: hosting of quiz content files.</li>
+      </ul>
+      <h2>7. Children</h2>
+      <p>Trivia Bite is a general-audience app and does not knowingly collect personal information from children.</p>
+      <h2>8. Contact</h2>
+      <p>For privacy or support questions, contact <a href="mailto:blueng.choi@gmail.com">blueng.choi@gmail.com</a>.</p>
+    </section>
+
+    <section id="lang-ko" class="hidden">
+      <div class="app-name">상식한입</div>
+      <h1>개인정보처리방침</h1>
+      <p class="last-updated">최종 업데이트: 2026년 10월 9일</p>
+      <div class="highlight">
+        <p><strong>상식한입은 계정 없이 사용할 수 있습니다. 퀴즈 점수, 연속 기록, 오답노트는 기기에만 저장됩니다. 이름, 이메일 주소, 연락처, 사진, 위치 정보는 수집하지 않습니다. 앱은 Google AdMob을 통해 광고를 표시하며, 아래 설명과 같이 광고 식별자를 사용할 수 있습니다.</strong></p>
+      </div>
+      <h2>1. 개요</h2>
+      <p>상식한입은 Seungman Choi가 개발한 매일 상식 퀴즈 앱입니다. 퀴즈 문제는 미리 준비되어 정적 파일로 내려받으며, 사용자 계정이나 답안을 저장하는 서버는 없습니다.</p>
+      <h2>2. 기기에 저장되는 정보</h2>
+      <ul>
+        <li><strong>퀴즈 진행</strong>: 오늘의 퀴즈 결과, 점수, 연속 기록, 카테고리별 진행도.</li>
+        <li><strong>오답노트</strong>: 다시 풀기 위해 틀린 문제.</li>
+        <li><strong>설정</strong>: 테마, 사운드, 햅틱 설정.</li>
+      </ul>
+      <p>이 데이터는 기기 밖으로 전송되지 않으며, 앱을 삭제하면 모두 지워집니다.</p>
+      <h2>3. 퀴즈 콘텐츠 다운로드</h2>
+      <p>앱은 GitHub Pages(seungmanchoi.github.io)에서 퀴즈 파일을 내려받습니다. 일반적인 웹 요청과 마찬가지로 GitHub 서버 로그에 IP 주소와 기기 정보가 남을 수 있습니다. 이 요청에는 퀴즈 답안이나 개인정보가 포함되지 않습니다. <a href="https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement" target="_blank" rel="noopener">GitHub 개인정보 보호정책</a>을 참고하세요.</p>
+      <h2>4. 분석 및 진단</h2>
+      <p>앱은 <strong>Firebase Analytics</strong>로 앱 실행, 화면 조회, 퀴즈 완료 같은 집계 이벤트를 파악하고, <strong>Firebase Crashlytics</strong>로 충돌 진단 정보를 받습니다. 이 데이터는 앱 개선에만 쓰이며 이름, 이메일 주소, 연락처, 위치 정보는 포함하지 않습니다.</p>
+      <h2>5. 광고</h2>
+      <p>상식한입은 <strong>Google AdMob</strong>을 통해 광고(배너, 전면, 보상형)를 표시합니다. 맞춤형 광고를 포함한 광고 게재를 위해 AdMob은 모바일 광고 식별자(iOS의 IDFA, Android의 광고 ID)와 관련 광고 상호작용 데이터를 사용할 수 있습니다.</p>
+      <ul>
+        <li><strong>iOS 앱 추적 투명성(ATT)</strong>: 추적을 허용한 경우에만 광고 식별자가 맞춤형 광고에 쓰이며, 허용하지 않으면 비맞춤형 광고가 표시됩니다.</li>
+        <li><strong>EEA, 영국, 스위스(GDPR)</strong>: 광고를 불러오기 전에 Google 인증 동의 메시지를 표시하고 선택을 따릅니다.</li>
+        <li>선택은 앱 설정이나 iOS 설정 &gt; 개인정보 보호 및 보안 &gt; 추적에서 언제든 바꿀 수 있습니다.</li>
+      </ul>
+      <h2>6. 제3자 서비스</h2>
+      <ul>
+        <li><strong>Google AdMob</strong>: 광고. <a href="https://policies.google.com/privacy" target="_blank" rel="noopener">Google 개인정보처리방침</a> 및 <a href="https://policies.google.com/technologies/partner-sites" target="_blank" rel="noopener">Google의 데이터 사용 방식</a>을 참고하세요.</li>
+        <li><strong>Firebase Analytics 및 Crashlytics</strong>: 사용 분석 및 충돌 진단.</li>
+        <li><strong>GitHub Pages</strong>: 퀴즈 콘텐츠 파일 호스팅.</li>
+      </ul>
+      <h2>7. 아동 개인정보</h2>
+      <p>상식한입은 일반 이용자 대상 앱이며 아동의 개인정보를 고의로 수집하지 않습니다.</p>
+      <h2>8. 문의</h2>
+      <p>개인정보 또는 지원 문의는 <a href="mailto:blueng.choi@gmail.com">blueng.choi@gmail.com</a>으로 연락해 주세요.</p>
+    </section>
+
+    <section id="lang-ja" class="hidden">
+      <div class="app-name">雑学ひとくち</div>
+      <h1>プライバシーポリシー</h1>
+      <p class="last-updated">最終更新日: 2026年10月9日</p>
+      <div class="highlight">
+        <p><strong>雑学ひとくちはアカウントなしで利用できます。クイズのスコア、連続記録、間違いノートは端末内にのみ保存されます。氏名、メールアドレス、連絡先、写真、位置情報は収集しません。本アプリは Google AdMob を通じて広告を表示し、以下のとおり広告識別子を使用する場合があります。</strong></p>
+      </div>
+      <h2>1. 概要</h2>
+      <p>雑学ひとくちは Seungman Choi が開発した毎日の雑学クイズアプリです。クイズ問題は事前に用意され、静的ファイルとしてダウンロードされます。ユーザーアカウントや回答を保存するサーバーはありません。</p>
+      <h2>2. 端末に保存される情報</h2>
+      <ul>
+        <li><strong>クイズの進行状況</strong>: 今日のクイズ結果、スコア、連続記録、カテゴリ別の進行状況。</li>
+        <li><strong>間違いノート</strong>: 復習のための不正解だった問題。</li>
+        <li><strong>設定</strong>: テーマ、サウンド、触覚フィードバックの設定。</li>
+      </ul>
+      <p>このデータは端末外へ送信されず、アプリを削除するとすべて消去されます。</p>
+      <h2>3. クイズコンテンツのダウンロード</h2>
+      <p>アプリは GitHub Pages(seungmanchoi.github.io)からクイズファイルをダウンロードします。一般的なウェブリクエストと同様に、GitHub のサーバーログに IP アドレスや端末情報が記録される場合があります。これらのリクエストに回答や個人情報は含まれません。<a href="https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement" target="_blank" rel="noopener">GitHub プライバシーステートメント</a>をご確認ください。</p>
+      <h2>4. 分析と診断</h2>
+      <p>本アプリは <strong>Firebase Analytics</strong> でアプリ起動、画面表示、クイズ完了などの集計イベントを把握し、<strong>Firebase Crashlytics</strong> でクラッシュ診断情報を受け取ります。このデータはアプリ改善にのみ使用され、氏名、メールアドレス、連絡先、位置情報は含みません。</p>
+      <h2>5. 広告</h2>
+      <p>雑学ひとくちは <strong>Google AdMob</strong> を通じて広告(バナー、インタースティシャル、リワード)を表示します。パーソナライズ広告を含む広告配信のため、AdMob はモバイル広告識別子(iOS の IDFA、Android の広告 ID)および関連する広告操作データを使用する場合があります。</p>
+      <ul>
+        <li><strong>iOS アプリのトラッキングの透明性(ATT)</strong>: トラッキングを許可した場合にのみ広告識別子がパーソナライズ広告に使用され、許可しない場合は非パーソナライズ広告が表示されます。</li>
+        <li><strong>EEA、英国、スイス(GDPR)</strong>: 広告の読み込み前に Google 認定の同意メッセージを表示し、選択を尊重します。</li>
+        <li>選択はアプリの設定、または iOS の設定 &gt; プライバシーとセキュリティ &gt; トラッキングからいつでも変更できます。</li>
+      </ul>
+      <h2>6. 第三者サービス</h2>
+      <ul>
+        <li><strong>Google AdMob</strong>: 広告。<a href="https://policies.google.com/privacy" target="_blank" rel="noopener">Google プライバシーポリシー</a>および <a href="https://policies.google.com/technologies/partner-sites" target="_blank" rel="noopener">Google のデータ使用方法</a>をご確認ください。</li>
+        <li><strong>Firebase Analytics・Crashlytics</strong>: 利用状況の分析およびクラッシュ診断。</li>
+        <li><strong>GitHub Pages</strong>: クイズコンテンツファイルのホスティング。</li>
+      </ul>
+      <h2>7. 子どものプライバシー</h2>
+      <p>雑学ひとくちは一般向けのアプリであり、子どもの個人情報を意図的に収集しません。</p>
+      <h2>8. お問い合わせ</h2>
+      <p>プライバシーまたはサポートに関するお問い合わせは <a href="mailto:blueng.choi@gmail.com">blueng.choi@gmail.com</a> までご連絡ください。</p>
+    </section>
+
+    <section id="lang-zh" class="hidden">
+      <div class="app-name">常识一口</div>
+      <h1>隐私政策</h1>
+      <p class="last-updated">最后更新: 2026年10月9日</p>
+      <div class="highlight">
+        <p><strong>常识一口无需账号即可使用。你的测验分数、连续记录和错题本仅存储在你的设备上。我们不会收集你的姓名、电子邮件地址、联系人、照片或位置信息。本应用通过 Google AdMob 展示广告，并可能按下文所述使用广告标识符。</strong></p>
+      </div>
+      <h2>1. 概述</h2>
+      <p>常识一口是由 Seungman Choi 开发的每日常识测验应用。测验题目预先准备好并以静态文件形式下载，没有用户账号，也没有存储你答案的服务器。</p>
+      <h2>2. 存储在设备上的信息</h2>
+      <ul>
+        <li><strong>测验进度</strong>: 每日测验结果、分数、连续记录和各类别进度。</li>
+        <li><strong>错题本</strong>: 用于复习的答错题目。</li>
+        <li><strong>设置</strong>: 主题、声音和触感反馈设置。</li>
+      </ul>
+      <p>这些数据不会离开你的设备，删除应用即可全部清除。</p>
+      <h2>3. 测验内容下载</h2>
+      <p>应用会从 GitHub Pages(seungmanchoi.github.io)下载测验文件。与任何网络请求一样，GitHub 的服务器日志可能会记录你的 IP 地址和设备信息。这些请求不包含你的答案或个人信息。请参阅 <a href="https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement" target="_blank" rel="noopener">GitHub 隐私声明</a>。</p>
+      <h2>4. 分析与诊断</h2>
+      <p>应用使用 <strong>Firebase Analytics</strong> 了解汇总的使用事件（例如应用打开、页面浏览和完成测验），并使用 <strong>Firebase Crashlytics</strong> 接收崩溃诊断信息。这些数据仅用于改进应用，不包含你的姓名、电子邮件地址、联系人或位置信息。</p>
+      <h2>5. 广告</h2>
+      <p>常识一口通过 <strong>Google AdMob</strong> 展示广告（横幅、插页和激励广告）。为投放广告（包括个性化广告），AdMob 可能使用移动广告标识符（iOS 的 IDFA、Android 的广告 ID）及相关广告交互数据。</p>
+      <ul>
+        <li><strong>iOS 应用跟踪透明度(ATT)</strong>: 仅在你允许跟踪时，广告标识符才会用于个性化广告；不允许时将展示非个性化广告。</li>
+        <li><strong>欧洲经济区、英国和瑞士(GDPR)</strong>: 我们会在广告加载前显示经 Google 认证的同意消息，并尊重你的选择。</li>
+        <li>你可以随时在应用设置或 iOS 设置 &gt; 隐私与安全 &gt; 跟踪中更改选择。</li>
+      </ul>
+      <h2>6. 第三方服务</h2>
+      <ul>
+        <li><strong>Google AdMob</strong>: 广告。请参阅 <a href="https://policies.google.com/privacy" target="_blank" rel="noopener">Google 隐私政策</a>和 <a href="https://policies.google.com/technologies/partner-sites" target="_blank" rel="noopener">Google 如何使用数据</a>。</li>
+        <li><strong>Firebase Analytics 与 Crashlytics</strong>: 使用分析和崩溃诊断。</li>
+        <li><strong>GitHub Pages</strong>: 测验内容文件托管。</li>
+      </ul>
+      <h2>7. 儿童隐私</h2>
+      <p>常识一口是一款面向普通用户的应用，不会有意收集儿童的个人信息。</p>
+      <h2>8. 联系我们</h2>
+      <p>如有隐私或支持问题，请联系 <a href="mailto:blueng.choi@gmail.com">blueng.choi@gmail.com</a>。</p>
+    </section>
+  </div>
+
+  <script>
+    function switchLang(lang) {
+      ["en", "ko", "ja", "zh"].forEach(function (code) {
+        document.getElementById("lang-" + code).classList.toggle("hidden", code !== lang);
+        document.getElementById("btn-" + code).classList.toggle("active", code === lang);
+      });
+      document.documentElement.lang = lang;
+    }
+  </script>
+</body>
+</html>
