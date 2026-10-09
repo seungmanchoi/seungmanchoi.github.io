@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "id": "daily-2027-02-26",
+  "date": "2027-02-26",
+  "questions": [
+    {
+      "id": "history-8bd8f166",
+      "category": "history",
+      "difficulty": 1,
+      "question": "중세 유럽 기독교도가 성지 예루살렘을 되찾겠다며 벌인 원정은?",
+      "choices": [
+        "십자군 전쟁",
+        "30년 전쟁",
+        "백년 전쟁",
+        "장미 전쟁"
+      ],
+      "answerIndex": 0,
+      "explanation": "11세기 말부터 약 200년 동안 여러 차례 십자군 원정이 이어졌어요. 이를 계기로 동서 교역이 활발해졌어요.",
+      "funFact": "1212년에는 어린이들이 모여 원정을 떠났다는 '소년 십자군' 이야기도 전해져요."
+    },
+    {
+      "id": "sports-cdb450d9",
+      "category": "sports",
+      "difficulty": 1,
+      "question": "2011년 유네스코 인류무형문화유산에 오른 한국 전통 무예는?",
+      "choices": [
+        "씨름",
+        "국궁",
+        "택견",
+        "태권도"
+      ],
+      "answerIndex": 2,
+      "explanation": "택견은 2011년 유네스코 인류무형문화유산에 올랐어요. 무예로는 처음으로 이 목록에 이름을 올렸어요.",
+      "funFact": "택견은 발을 리듬감 있게 움직여 춤처럼 보이지만 상대를 넘어뜨리는 기술이 많아요."
+    },
+    {
+      "id": "culture-915d3fa3",
+      "category": "culture",
+      "difficulty": 1,
+      "question": "미국 추수감사절 저녁 식탁의 대표 요리는?",
+      "choices": [
+        "칠면조 구이",
+        "연어 구이",
+        "양고기 구이",
+        "오리 구이"
+      ],
+      "answerIndex": 0,
+      "explanation": "미국 추수감사절에는 칠면조를 통째로 구워 가족과 함께 먹어요. 크랜베리 소스와 호박 파이를 곁들여요."
+    },
+    {
+      "id": "geography-a0f19a8b",
+      "category": "geography",
+      "difficulty": 1,
+      "question": "한라산 다음으로 남한에서 높은 산은?",
+      "choices": [
+        "오대산",
+        "설악산",
+        "덕유산",
+        "지리산"
+      ],
+      "answerIndex": 3,
+      "explanation": "지리산 천왕봉은 해발 1,915m로 한라산 다음으로 높아요.",
+      "funFact": "설악산 대청봉은 1,708m로 그다음이에요."
+    },
+    {
+      "id": "life-f85878cc",
+      "category": "life",
+      "difficulty": 2,
+      "question": "멀미가 나는 주된 원인으로 꼽히는 것은?",
+      "choices": [
+        "혈당 상승",
+        "위산 부족",
+        "눈과 귀의 정보 불일치",
+        "수면 과다"
+      ],
+      "answerIndex": 2,
+      "explanation": "눈으로 보는 움직임과 귓속 평형 기관이 느끼는 흔들림이 다르면 뇌가 혼란을 느껴 멀미가 나요. 그래서 차 안에서 책을 보면 심해져요.",
+      "funFact": "가상현실 기기를 쓸 때 어지러운 것도 비슷한 원리예요."
+    },
+    {
+      "id": "economy-84cca004",
+      "category": "economy",
+      "difficulty": 2,
+      "question": "집값이 떨어져 보증금을 못 돌려받을 위험이 큰 전세는?",
+      "choices": [
+        "월세전환",
+        "깡통전세",
+        "반전세",
+        "전대차"
+      ],
+      "answerIndex": 1,
+      "explanation": "깡통전세는 집값이 전세 보증금과 비슷하거나 낮아져 보증금을 돌려받기 어려운 전세를 말해요.",
+      "funFact": "이런 위험에 대비해 전세보증금반환보증 같은 보증보험에 가입하기도 해요."
+    },
+    {
+      "id": "korean-5ad7a6ec",
+      "category": "korean",
+      "difficulty": 2,
+      "question": "사자성어 '결초보은'의 뜻으로 알맞은 것은?",
+      "choices": [
+        "작은 것에 만족함",
+        "죽어서라도 은혜를 갚음",
+        "풀처럼 끈질기게 삶",
+        "은혜를 원수로 갚음"
+      ],
+      "answerIndex": 1,
+      "explanation": "풀을 묶어 은혜를 갚았다는 고사에서, 죽어서도 은혜를 잊지 않고 갚는 것을 뜻해요."
+    },
+    {
+      "id": "life-cfcbbec1",
+      "category": "life",
+      "difficulty": 3,
+      "question": "고구마를 천천히 구우면 더 달아지는 것은 무엇 때문일까요?",
+      "choices": [
+        "수분의 증가",
+        "단백질 응고",
+        "지방의 산화",
+        "녹말 분해 효소"
+      ],
+      "answerIndex": 3,
+      "explanation": "고구마 속 아밀레이스가 따뜻한 온도에서 녹말을 엿당으로 바꿔요. 낮은 불에서 오래 구울수록 효소가 일할 시간이 길어져 더 달아요."
+    },
+    {
+      "id": "korean-efc1facb",
+      "category": "korean",
+      "difficulty": 3,
+      "question": "고유어 '짬짜미'의 뜻으로 알맞은 것은?",
+      "choices": [
+        "남몰래 자기들끼리 한 약속",
+        "짧은 틈을 낸 휴식",
+        "짜고 매운 반찬",
+        "여러 음식을 섞은 것"
+      ],
+      "answerIndex": 0,
+      "explanation": "남모르게 자기들끼리만 짜고 하는 약속이나 수작을 '짬짜미'라고 해요."
+    },
+    {
+      "id": "korean-2fd85745",
+      "category": "korean",
+      "difficulty": 3,
+      "question": "관용구 '혀를 내두르다'의 뜻은?",
+      "choices": [
+        "거짓말을 함",
+        "남을 놀림",
+        "맛없어 얼굴을 찌푸림",
+        "몹시 놀라 말을 못 함"
+      ],
+      "answerIndex": 3,
+      "explanation": "몹시 놀라거나 어이가 없어 말을 못 하는 것을 말해요. 뛰어난 솜씨에 감탄할 때 많이 써요."
+    }
+  ]
+}

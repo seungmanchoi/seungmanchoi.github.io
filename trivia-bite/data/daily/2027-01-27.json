@@ -1,0 +1,154 @@
+{
+  "version": 1,
+  "id": "daily-2027-01-27",
+  "date": "2027-01-27",
+  "questions": [
+    {
+      "id": "korean-8fe26fdf",
+      "category": "korean",
+      "difficulty": 1,
+      "question": "윗사람이 아플 때 '아프다'를 높여 이르는 말은?",
+      "choices": [
+        "돌아가시다",
+        "잡수시다",
+        "편찮으시다",
+        "주무시다"
+      ],
+      "answerIndex": 2,
+      "explanation": "윗사람이 병을 앓을 때는 '편찮으시다'라고 높여 말해요.",
+      "funFact": "'편찮다'는 '편하지 아니하다'가 줄어든 말이에요."
+    },
+    {
+      "id": "economy-c2654a3e",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "보험에 든 사람이 보험사에 정기적으로 내는 돈은?",
+      "choices": [
+        "보험료",
+        "위약금",
+        "보험금",
+        "해지환급금"
+      ],
+      "answerIndex": 0,
+      "explanation": "보험료는 가입자가 내는 돈이고, 사고가 났을 때 받는 돈은 보험금이에요.",
+      "funFact": "보험료와 보험금은 이름이 비슷해 가장 많이 헷갈리는 금융 용어예요."
+    },
+    {
+      "id": "culture-03bcc7a3",
+      "category": "culture",
+      "difficulty": 1,
+      "question": "나폴레옹의 러시아 침공을 배경으로 한 소설 『전쟁과 평화』의 작가는?",
+      "choices": [
+        "도스토옙스키",
+        "체호프",
+        "푸시킨",
+        "톨스토이"
+      ],
+      "answerIndex": 3,
+      "explanation": "『전쟁과 평화』는 레프 톨스토이의 대표 장편이에요. 19세기 초 러시아 귀족 가문들의 삶을 방대하게 그렸어요."
+    },
+    {
+      "id": "geography-bdd778c8",
+      "category": "geography",
+      "difficulty": 1,
+      "question": "제주 동쪽 바다에 있는, 소가 누운 모양이라 이름 붙은 섬은?",
+      "choices": [
+        "비양도",
+        "가파도",
+        "우도",
+        "추자도"
+      ],
+      "answerIndex": 2,
+      "explanation": "섬 모양이 소가 머리를 들고 누운 것처럼 보여 '소 우(牛)' 자를 써 우도라 불러요.",
+      "funFact": "우도에는 홍조류가 굳어 생긴 하얀 '홍조단괴 해빈'이 있어요."
+    },
+    {
+      "id": "life-7e60695c",
+      "category": "life",
+      "difficulty": 2,
+      "question": "성인 심폐소생술에서 가슴압박의 알맞은 깊이는?",
+      "choices": [
+        "약 10cm",
+        "약 5cm",
+        "약 2cm",
+        "약 1cm"
+      ],
+      "answerIndex": 1,
+      "explanation": "성인은 가슴뼈가 약 5cm 눌릴 만큼 강하고 빠르게 압박해요. 압박 뒤에는 가슴이 완전히 올라오게 해요."
+    },
+    {
+      "id": "history-7779e7a0",
+      "category": "history",
+      "difficulty": 2,
+      "question": "1863년 링컨이 '국민의, 국민에 의한, 국민을 위한' 연설을 한 곳은?",
+      "choices": [
+        "필라델피아",
+        "게티즈버그",
+        "리치먼드",
+        "보스턴"
+      ],
+      "answerIndex": 1,
+      "explanation": "남북 전쟁의 격전지 게티즈버그에 국립묘지를 세우며 한 연설이에요. 3분 정도의 짧은 연설이었어요.",
+      "funFact": "이 연설은 272단어 정도로 아주 짧아요."
+    },
+    {
+      "id": "science-d0708749",
+      "category": "science",
+      "difficulty": 2,
+      "question": "지구 대기에서 산소가 차지하는 부피 비율은 약 얼마일까요?",
+      "choices": [
+        "약 78%",
+        "약 21%",
+        "약 50%",
+        "약 1%"
+      ],
+      "answerIndex": 1,
+      "explanation": "건조한 공기의 약 78%는 질소, 약 21%는 산소예요. 나머지는 아르곤과 이산화탄소 등이에요.",
+      "funFact": "약 3억 년 전 석탄기에는 대기 중 산소가 30% 가까이 돼서 거대한 곤충이 살았어요."
+    },
+    {
+      "id": "space-df1fe812",
+      "category": "space",
+      "difficulty": 3,
+      "question": "1963년 우주 비행에 성공한 세계 최초의 여성 우주인은?",
+      "choices": [
+        "발렌티나 테레시코바",
+        "크리스타 매콜리프",
+        "샐리 라이드",
+        "스베틀라나 사비츠카야"
+      ],
+      "answerIndex": 0,
+      "explanation": "소련의 발렌티나 테레시코바는 1963년 6월 보스토크 6호를 타고 약 3일 동안 혼자 지구를 돌았어요.",
+      "funFact": "테레시코바는 우주인이 되기 전 낙하산 강하를 즐기던 섬유 공장 노동자였어요."
+    },
+    {
+      "id": "sports-2441cacf",
+      "category": "sports",
+      "difficulty": 3,
+      "question": "농구에서 림보다 높은 곳에서 내려오는 슛을 쳐내는 반칙은?",
+      "choices": [
+        "차징",
+        "하킹",
+        "바스켓 인터피어런스",
+        "골텐딩"
+      ],
+      "answerIndex": 3,
+      "explanation": "슛이 정점을 지나 림으로 떨어지는 중일 때 건드리면 골텐딩이에요. 수비가 범하면 득점이 인정돼요.",
+      "funFact": "1940년대 키 큰 선수들이 골밑에서 슛을 계속 걷어내자 이 규칙이 생겼어요."
+    },
+    {
+      "id": "korean-2bc7d4ad",
+      "category": "korean",
+      "difficulty": 3,
+      "question": "'칠칠하다'의 본래 뜻으로 알맞은 것은?",
+      "choices": [
+        "말이 많고 수다스러움",
+        "느리고 굼뜸",
+        "깨끗하고 단정함",
+        "지저분하고 게으름"
+      ],
+      "answerIndex": 2,
+      "explanation": "'칠칠하다'는 깨끗하고 단정하다는 뜻이에요. 그래서 야무지지 못한 사람은 '칠칠하지 못하다'라고 해야 맞아요."
+    }
+  ]
+}

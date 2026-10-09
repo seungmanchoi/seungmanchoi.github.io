@@ -1,0 +1,3007 @@
+{
+  "version": 1,
+  "id": "bank-sports",
+  "category": "sports",
+  "questions": [
+    {
+      "id": "sports-8af8aedf",
+      "category": "sports",
+      "difficulty": 1,
+      "question": "축구에서 골이 인정되려면 공이 골라인을 어떻게 넘어야 할까요?",
+      "choices": [
+        "절반만 넘어도 된다",
+        "선에 닿기만 하면 된다",
+        "완전히 넘어야 한다",
+        "골대에 맞으면 된다"
+      ],
+      "answerIndex": 2,
+      "explanation": "축구에서는 공 전체가 골포스트 사이의 골라인을 완전히 넘어야 득점이 돼요. 공이 선에 조금이라도 걸쳐 있으면 골이 아니에요.",
+      "funFact": "이 판정을 돕기 위해 공의 위치를 자동으로 알려 주는 골라인 판독 기술이 도입됐어요."
+    },
+    {
+      "id": "sports-9e38e52e",
+      "category": "sports",
+      "difficulty": 1,
+      "question": "축구 심판이 선수를 즉시 퇴장시킬 때 꺼내는 카드 색은?",
+      "choices": [
+        "빨간색",
+        "노란색",
+        "흰색",
+        "파란색"
+      ],
+      "answerIndex": 0,
+      "explanation": "레드카드를 받은 선수는 바로 경기장을 떠나야 하고 팀은 한 명이 적은 채로 경기해요. 노란색 카드는 경고예요.",
+      "funFact": "옐로카드와 레드카드는 교통 신호등에서 아이디어를 얻었다고 알려져 있어요."
+    },
+    {
+      "id": "sports-af16d1aa",
+      "category": "sports",
+      "difficulty": 1,
+      "question": "한 경기에서 옐로카드를 두 번 받은 축구 선수는 어떻게 될까요?",
+      "choices": [
+        "퇴장당한다",
+        "첫 경고가 지워진다",
+        "10분간 쉬었다 돌아온다",
+        "벌금만 낸다"
+      ],
+      "answerIndex": 0,
+      "explanation": "같은 경기에서 경고를 두 번 받으면 레드카드가 나와 퇴장돼요. 그 선수의 자리는 교체 선수로 채울 수 없어요.",
+      "funFact": "이때 심판은 노란 카드를 먼저 보여 준 뒤 이어서 빨간 카드를 꺼내요."
+    },
+    {
+      "id": "sports-1baa7119",
+      "category": "sports",
+      "difficulty": 1,
+      "question": "야구에서 스트라이크 존을 벗어난 공을 네 개 받은 타자는?",
+      "choices": [
+        "삼진 아웃된다",
+        "1루로 걸어 나간다",
+        "2루까지 나간다",
+        "타석을 처음부터 다시 한다"
+      ],
+      "answerIndex": 1,
+      "explanation": "스트라이크 존을 벗어난 볼이 네 개가 되면 타자는 걸어서 1루로 나가요. 그래서 '포볼' 또는 '베이스 온 볼스'라고도 해요.",
+      "funFact": "'볼넷'은 일본식 영어 '포볼'을 우리말로 바꾼 말이에요."
+    },
+    {
+      "id": "sports-2835a5bb",
+      "category": "sports",
+      "difficulty": 1,
+      "question": "포수가 세 번째 스트라이크 공을 정상적으로 잡았을 때 타자에게 선언되는 것은?",
+      "choices": [
+        "볼넷 출루",
+        "삼진 아웃",
+        "희생 플라이",
+        "병살"
+      ],
+      "answerIndex": 1,
+      "explanation": "포수가 세 번째 스트라이크를 잡으면 타자는 삼진 아웃이에요. 공을 놓친 경우에는 주자와 아웃 수에 따라 타자가 1루로 뛸 수 있어요.",
+      "funFact": "기록지에는 삼진을 영어 알파벳 'K'로 적는 전통이 있어요."
+    },
+    {
+      "id": "sports-a8967a92",
+      "category": "sports",
+      "difficulty": 1,
+      "question": "프로야구 정규 경기는 보통 몇 회까지 치를까요?",
+      "choices": [
+        "10회",
+        "8회",
+        "9회",
+        "7회"
+      ],
+      "answerIndex": 2,
+      "explanation": "야구 정규 경기는 9이닝으로 치러요. 동점이면 연장전에 들어가요.",
+      "funFact": "9이닝 제도는 1850년대 미국에서 정해졌는데, 그 전에는 먼저 21점을 내면 이기는 방식이었어요."
+    },
+    {
+      "id": "sports-39e8d9f0",
+      "category": "sports",
+      "difficulty": 1,
+      "question": "농구에서 가장 바깥쪽 아치형 라인 밖에서 넣은 슛은 몇 점?",
+      "choices": [
+        "2점",
+        "1점",
+        "3점",
+        "4점"
+      ],
+      "answerIndex": 2,
+      "explanation": "3점 라인 밖에서 성공한 필드골은 3점, 안쪽에서 넣으면 2점이에요.",
+      "funFact": "3점 슛은 NBA에 1979년에야 도입됐어요."
+    },
+    {
+      "id": "sports-9355a8b5",
+      "category": "sports",
+      "difficulty": 1,
+      "question": "농구에서 자유투 하나를 성공하면 몇 점일까요?",
+      "choices": [
+        "3점",
+        "1점",
+        "2점",
+        "0.5점"
+      ],
+      "answerIndex": 1,
+      "explanation": "자유투는 반칙을 당한 뒤 방해 없이 던지는 슛으로, 한 개당 1점이에요.",
+      "funFact": "자유투 라인은 백보드에서 약 4.6m(15피트) 떨어져 있어요."
+    },
+    {
+      "id": "sports-b490a48c",
+      "category": "sports",
+      "difficulty": 1,
+      "question": "실내 배구에서 블로킹 접촉을 제외하고, 공을 상대 코트로 넘기기 전 팀이 쓸 수 있는 터치 수는?",
+      "choices": [
+        "제한 없음",
+        "최대 2번",
+        "최대 4번",
+        "최대 3번"
+      ],
+      "answerIndex": 3,
+      "explanation": "실내 배구는 블로킹 접촉을 제외하고 세 번 안에 공을 넘겨야 해요. 네 번째 팀 터치는 반칙이에요.",
+      "funFact": "그래서 배구의 기본 공격 흐름을 '리시브-토스-스파이크' 3단계로 설명해요."
+    },
+    {
+      "id": "sports-89e44f15",
+      "category": "sports",
+      "difficulty": 1,
+      "question": "테니스에서 서브를 두 번 연속 실패하는 것을 뭐라고 할까요?",
+      "choices": [
+        "더블 폴트",
+        "풋 폴트",
+        "렛",
+        "에이스"
+      ],
+      "answerIndex": 0,
+      "explanation": "테니스는 서브 기회가 두 번인데, 둘 다 실패하면 더블 폴트로 상대가 1점을 얻어요.",
+      "funFact": "그래서 선수들은 첫 서브를 강하게, 두 번째 서브는 안전하게 넣는 경우가 많아요."
+    },
+    {
+      "id": "sports-cd2f8301",
+      "category": "sports",
+      "difficulty": 1,
+      "question": "테니스 게임에서 40 대 40 동점이 된 상황을 부르는 말은?",
+      "choices": [
+        "듀스",
+        "세트 포인트",
+        "타이브레이크",
+        "러브"
+      ],
+      "answerIndex": 0,
+      "explanation": "40 대 40이 되면 듀스라고 하고, 이후 두 점을 연달아 따야 게임을 가져가요.",
+      "funFact": "듀스는 '둘 다 같다'는 뜻의 프랑스어 'à deux'에서 왔다는 설이 있어요."
+    },
+    {
+      "id": "sports-71dbba05",
+      "category": "sports",
+      "difficulty": 1,
+      "question": "골프에서 티샷 한 번으로 공을 홀에 넣는 것은?",
+      "choices": [
+        "홀인원",
+        "이글",
+        "파",
+        "버디"
+      ],
+      "answerIndex": 0,
+      "explanation": "티잉 구역에서 친 첫 타가 바로 홀컵에 들어가는 것을 홀인원이라고 해요. 주로 짧은 파3 홀에서 나와요.",
+      "funFact": "홀인원을 하면 동반자에게 한턱내는 관습이 있어서 홀인원 보험 상품까지 있어요."
+    },
+    {
+      "id": "sports-61a35413",
+      "category": "sports",
+      "difficulty": 1,
+      "question": "골프에서 한 홀을 기준 타수보다 1타 많게 마치는 것은?",
+      "choices": [
+        "버디",
+        "보기",
+        "이글",
+        "파"
+      ],
+      "answerIndex": 1,
+      "explanation": "기준 타수(파)보다 1타 많으면 보기, 2타 많으면 더블 보기예요.",
+      "funFact": "보기는 영국 민담에 나오는 도깨비 '보기맨(Bogey Man)'에서 이름이 왔다고 해요."
+    },
+    {
+      "id": "sports-57d02146",
+      "category": "sports",
+      "difficulty": 1,
+      "question": "볼링 한 프레임에서 세워 두는 핀은 몇 개일까요?",
+      "choices": [
+        "10개",
+        "8개",
+        "9개",
+        "12개"
+      ],
+      "answerIndex": 0,
+      "explanation": "볼링은 삼각형으로 세운 10개의 핀을 쓰러뜨리는 경기예요.",
+      "funFact": "예전 미국에서는 9핀 볼링이 도박에 쓰인다며 금지되자 핀을 하나 늘려 10핀 볼링이 퍼졌다는 이야기가 있어요."
+    },
+    {
+      "id": "sports-725e5cf6",
+      "category": "sports",
+      "difficulty": 1,
+      "question": "볼링에서 첫 투구 후 남은 핀을 두 번째 투구로 모두 쓰러뜨리는 것은?",
+      "choices": [
+        "거터",
+        "스플릿",
+        "스트라이크",
+        "스페어"
+      ],
+      "answerIndex": 3,
+      "explanation": "한 프레임의 두 번째 공으로 남은 핀을 모두 쓰러뜨리면 스페어예요. 점수표에는 '/'로 표시해요.",
+      "funFact": "스트라이크는 'X', 스페어는 '/'로 적어서 점수표만 봐도 경기 흐름을 알 수 있어요."
+    },
+    {
+      "id": "sports-b3fd7113",
+      "category": "sports",
+      "difficulty": 1,
+      "question": "배드민턴에서 공 대신 쳐서 주고받는 깃털 달린 물체는?",
+      "choices": [
+        "셔틀콕",
+        "볼",
+        "퍽",
+        "원반"
+      ],
+      "answerIndex": 0,
+      "explanation": "배드민턴은 코르크에 깃털을 꽂은 셔틀콕을 라켓으로 쳐서 주고받아요.",
+      "funFact": "강하게 친 스매시는 셔틀콕 속도가 시속 400km를 넘기도 해요."
+    },
+    {
+      "id": "sports-4f6ce4d6",
+      "category": "sports",
+      "difficulty": 1,
+      "question": "축구에서 필드 선수가 손이나 팔로 공을 건드리는 반칙은?",
+      "choices": [
+        "트리핑",
+        "오프사이드",
+        "차징",
+        "핸드볼"
+      ],
+      "answerIndex": 3,
+      "explanation": "필드 선수가 고의로 손·팔로 공을 다루거나 팔로 몸을 부자연스럽게 크게 만들어 공에 닿으면 핸드볼 반칙이 될 수 있어요. 손·팔에 닿는 모든 경우가 반칙은 아니에요.",
+      "funFact": "규칙상 팔의 경계는 겨드랑이 맨 아랫부분까지로 정해져 있어요."
+    },
+    {
+      "id": "sports-4df550d4",
+      "category": "sports",
+      "difficulty": 1,
+      "question": "농구에서 공을 바닥에 튀기면서 이동하는 기술은?",
+      "choices": [
+        "패스",
+        "드리블",
+        "피벗",
+        "리바운드"
+      ],
+      "answerIndex": 1,
+      "explanation": "농구에서는 공을 들고 걸을 수 없어서 바닥에 튀기는 드리블로 이동해요.",
+      "funFact": "농구가 처음 만들어졌을 때는 드리블이 없어서 패스로만 공을 옮겼어요."
+    },
+    {
+      "id": "sports-79406770",
+      "category": "sports",
+      "difficulty": 1,
+      "question": "축구에서 한 선수가 한 경기에 세 골을 넣는 것은?",
+      "choices": [
+        "클린시트",
+        "오프사이드",
+        "자책골",
+        "해트트릭"
+      ],
+      "answerIndex": 3,
+      "explanation": "한 경기에서 한 선수가 3골 이상 넣으면 해트트릭이라고 해요.",
+      "funFact": "원래 크리켓에서 세 타자를 연속 아웃시킨 투수에게 모자(hat)를 준 데서 나온 말이에요."
+    },
+    {
+      "id": "sports-8f991ebb",
+      "category": "sports",
+      "difficulty": 1,
+      "question": "축구 승부차기에서 각 팀이 기본으로 차는 킥은 몇 번일까요?",
+      "choices": [
+        "6번",
+        "5번",
+        "3번",
+        "4번"
+      ],
+      "answerIndex": 1,
+      "explanation": "승부차기는 양 팀이 번갈아 5번씩 차고, 그래도 같으면 한 번씩 더 차는 서든데스로 가요.",
+      "funFact": "승부차기에는 경기가 끝났을 때 경기장에 있던 선수만 키커로 나설 수 있어요."
+    },
+    {
+      "id": "sports-b482a584",
+      "category": "sports",
+      "difficulty": 2,
+      "question": "탁구에서 서브권은 보통 몇 점마다 상대에게 넘어갈까요?",
+      "choices": [
+        "1점",
+        "2점",
+        "3점",
+        "5점"
+      ],
+      "answerIndex": 1,
+      "explanation": "탁구에서는 2점마다 서브권이 바뀌어요. 다만 10 대 10 이후에는 1점마다 바뀌어요.",
+      "funFact": "21점제였던 2001년 이전에는 5점마다 서브가 바뀌었어요."
+    },
+    {
+      "id": "sports-069d5c05",
+      "category": "sports",
+      "difficulty": 2,
+      "question": "축구 페널티킥은 골라인에서 약 몇 m 떨어진 곳에서 찰까요?",
+      "choices": [
+        "약 9m",
+        "약 16.5m",
+        "약 11m",
+        "약 13m"
+      ],
+      "answerIndex": 2,
+      "explanation": "페널티 마크는 골라인 중앙에서 11m(12야드) 떨어진 곳에 있어요.",
+      "funFact": "16.5m는 페널티 박스의 깊이라서 페널티킥 거리와 자주 헷갈려요."
+    },
+    {
+      "id": "sports-1f88881a",
+      "category": "sports",
+      "difficulty": 2,
+      "question": "수영 자유형 경기에서 대부분의 선수가 쓰는 영법은?",
+      "choices": [
+        "평영",
+        "배영",
+        "크롤",
+        "접영"
+      ],
+      "answerIndex": 2,
+      "explanation": "자유형은 영법 제한이 없지만 가장 빠른 크롤을 거의 모든 선수가 써요. 그래서 크롤을 흔히 자유형이라고 불러요.",
+      "funFact": "규칙상 자유형에서 평영으로 헤엄쳐도 실격이 아니에요."
+    },
+    {
+      "id": "sports-d8f753a0",
+      "category": "sports",
+      "difficulty": 2,
+      "question": "수영 경기 중 출발대가 아닌 물속에서 출발하는 영법은?",
+      "choices": [
+        "평영",
+        "자유형",
+        "배영",
+        "접영"
+      ],
+      "answerIndex": 2,
+      "explanation": "배영은 누워서 헤엄치기 때문에 물속에서 출발대 손잡이를 잡고 출발해요.",
+      "funFact": "배영 출발 때 발이 미끄러지지 않도록 출발대에 발판을 다는 장치도 쓰여요."
+    },
+    {
+      "id": "sports-37439ff5",
+      "category": "sports",
+      "difficulty": 2,
+      "question": "농구 골대 링은 바닥에서 약 몇 m 높이에 있을까요?",
+      "choices": [
+        "약 3.6m",
+        "약 3.05m",
+        "약 3.35m",
+        "약 2.75m"
+      ],
+      "answerIndex": 1,
+      "explanation": "농구 링 높이는 10피트, 약 3.05m로 정해져 있어요.",
+      "funFact": "제임스 네이스미스가 복숭아 바구니를 체육관 난간에 건 높이가 그대로 규격이 됐어요."
+    },
+    {
+      "id": "sports-008ad6af",
+      "category": "sports",
+      "difficulty": 2,
+      "question": "3쿠션 당구에서 득점하려면 수구가 쿠션에 최소 몇 번 닿아야 할까요?",
+      "choices": [
+        "2번",
+        "1번",
+        "4번",
+        "3번"
+      ],
+      "answerIndex": 3,
+      "explanation": "수구가 두 번째 목적구를 맞히기 전까지 쿠션에 세 번 이상 닿아야 1점이에요.",
+      "funFact": "3쿠션은 공 세 개만 쓰는 캐롬 당구라서 포켓이 없는 테이블에서 해요."
+    },
+    {
+      "id": "sports-2bc6a21b",
+      "category": "sports",
+      "difficulty": 2,
+      "question": "9볼 포켓볼에서 큐볼이 가장 먼저 맞혀야 하는 공은?",
+      "choices": [
+        "남은 공 중 가장 낮은 번호",
+        "가장 가까운 공",
+        "아무 공이나",
+        "9번 공"
+      ],
+      "answerIndex": 0,
+      "explanation": "9볼은 테이블에 남은 공 가운데 가장 낮은 번호를 먼저 맞혀야 해요. 9번 공을 넣으면 이겨요.",
+      "funFact": "그래서 낮은 번호 공을 맞혀 9번을 넣는 '콤비네이션 샷'으로 한 번에 이기기도 해요."
+    },
+    {
+      "id": "sports-44c4c85e",
+      "category": "sports",
+      "difficulty": 2,
+      "question": "골프에서 한 홀을 기준 타수보다 3타 적게 마치는 것은?",
+      "choices": [
+        "이글",
+        "콘도르",
+        "버디",
+        "알바트로스"
+      ],
+      "answerIndex": 3,
+      "explanation": "기준 타수보다 3타 적으면 알바트로스로, 더블 이글이라고도 해요. 2타 적으면 이글이에요.",
+      "funFact": "4타 적은 기록은 콘도르라고 부르는데, 공식 대회에서 거의 나오지 않을 만큼 드물어요."
+    },
+    {
+      "id": "sports-22ea3923",
+      "category": "sports",
+      "difficulty": 2,
+      "question": "골프 규칙상 한 라운드에 가지고 다닐 수 있는 클럽은 최대 몇 개?",
+      "choices": [
+        "10개",
+        "18개",
+        "14개",
+        "12개"
+      ],
+      "answerIndex": 2,
+      "explanation": "골프 규칙은 한 라운드에 최대 14개의 클럽만 허용해요. 더 들고 있으면 벌타를 받아요.",
+      "funFact": "이 제한이 생기기 전에는 클럽을 20개 넘게 들고 다닌 선수도 있었어요."
+    },
+    {
+      "id": "sports-b15c7235",
+      "category": "sports",
+      "difficulty": 2,
+      "question": "골프장에서 '포어(Fore)!'라고 외치는 이유는?",
+      "choices": [
+        "네 번째 타를 칠 때",
+        "경기 시작을 알릴 때",
+        "공이 사람 쪽으로 날아갈 때 경고",
+        "홀인원을 축하할 때"
+      ],
+      "answerIndex": 2,
+      "explanation": "친 공이 다른 사람 쪽으로 날아가면 맞지 않도록 '포어'라고 크게 외쳐 알려요.",
+      "funFact": "앞쪽(fore)에 있는 사람에게 조심하라는 뜻에서 나온 말로 알려져 있어요."
+    },
+    {
+      "id": "sports-54c60548",
+      "category": "sports",
+      "difficulty": 2,
+      "question": "테니스에서 게임스코어 6 대 6일 때 세트를 가리는 방식은?",
+      "choices": [
+        "골든 포인트",
+        "타이브레이크",
+        "듀스",
+        "서든데스 서브"
+      ],
+      "answerIndex": 1,
+      "explanation": "게임스코어가 6 대 6이 되면 보통 7점을 먼저(2점 차 이상) 내는 타이브레이크로 세트를 결정해요.",
+      "funFact": "타이브레이크가 생기기 전에는 한 세트가 몇 시간씩 이어지기도 했어요."
+    },
+    {
+      "id": "sports-d2403017",
+      "category": "sports",
+      "difficulty": 2,
+      "question": "테니스 서브가 네트에 맞고 서비스 박스 안에 들어가면?",
+      "choices": [
+        "폴트가 된다",
+        "리시버가 1점을 얻는다",
+        "서버가 1점을 얻는다",
+        "렛으로 서브를 다시 넣는다"
+      ],
+      "answerIndex": 3,
+      "explanation": "서브가 네트에 닿은 뒤 올바른 구역에 떨어지면 렛이 선언되고 그 서브만 다시 해요.",
+      "funFact": "렛은 '방해하다'라는 뜻의 옛 영어 단어에서 왔어요."
+    },
+    {
+      "id": "sports-43c08363",
+      "category": "sports",
+      "difficulty": 2,
+      "question": "배구에서 마지막 5세트는 몇 점을 먼저 내면 이길까요?",
+      "choices": [
+        "21점",
+        "15점",
+        "11점",
+        "25점"
+      ],
+      "answerIndex": 1,
+      "explanation": "배구는 1~4세트를 25점, 마지막 5세트를 15점으로 치러요. 모두 2점 차 이상 나야 끝나요.",
+      "funFact": "랠리 포인트제 도입 전에는 서브권을 가진 팀만 점수를 얻을 수 있었어요."
+    },
+    {
+      "id": "sports-b697b593",
+      "category": "sports",
+      "difficulty": 2,
+      "question": "FIBA 농구에서 상대 공을 빼앗아 새 공격을 시작할 때 주어지는 공격 제한 시간은?",
+      "choices": [
+        "24초",
+        "30초",
+        "35초",
+        "14초"
+      ],
+      "answerIndex": 0,
+      "explanation": "FIBA 농구의 새 공격에는 기본 24초가 주어져요. 제한 시간 안에 공이 손을 떠나고 이후 링에 맞거나 득점해야 해요.",
+      "funFact": "24초 규칙은 지루한 시간 끌기를 막으려고 1954년 NBA에서 처음 도입됐어요."
+    },
+    {
+      "id": "sports-46e966f6",
+      "category": "sports",
+      "difficulty": 2,
+      "question": "농구에서 공격 선수가 제한구역에 연속으로 머물 수 있는 최대 시간은?",
+      "choices": [
+        "2초",
+        "8초",
+        "5초",
+        "3초"
+      ],
+      "answerIndex": 3,
+      "explanation": "공격 선수는 상대 골밑 제한구역에 3초를 넘게 머물 수 없어요. 어기면 3초 바이얼레이션이에요.",
+      "funFact": "제한구역은 색을 칠해 둔 경우가 많아 '페인트존'이라고도 불러요."
+    },
+    {
+      "id": "sports-40ddb468",
+      "category": "sports",
+      "difficulty": 3,
+      "question": "수영 개인혼영의 영법 순서로 옳은 것은?",
+      "choices": [
+        "자유형-접영-배영-평영",
+        "배영-평영-접영-자유형",
+        "평영-배영-접영-자유형",
+        "접영-배영-평영-자유형"
+      ],
+      "answerIndex": 3,
+      "explanation": "개인혼영은 한 선수가 접영, 배영, 평영, 자유형 순서로 헤엄쳐요.",
+      "funFact": "혼계영은 배영으로 출발해야 해서 순서가 배영-평영-접영-자유형으로 달라요."
+    },
+    {
+      "id": "sports-5f808111",
+      "category": "sports",
+      "difficulty": 3,
+      "question": "축구 골대 안쪽 너비는 몇 m일까요?",
+      "choices": [
+        "7.32m",
+        "7.62m",
+        "6.40m",
+        "8.24m"
+      ],
+      "answerIndex": 0,
+      "explanation": "축구 골대는 너비 7.32m(8야드), 높이 2.44m(8피트)로 정해져 있어요.",
+      "funFact": "영국식 단위로 정해진 규격이라 미터로 바꾸면 소수점이 붙어요."
+    },
+    {
+      "id": "sports-60cdacfa",
+      "category": "sports",
+      "difficulty": 3,
+      "question": "성인 남자 실내 배구의 네트 높이는?",
+      "choices": [
+        "2.24m",
+        "2.43m",
+        "2.35m",
+        "2.55m"
+      ],
+      "answerIndex": 1,
+      "explanation": "성인 남자 배구 네트는 2.43m, 여자는 2.24m 높이로 걸어요.",
+      "funFact": "남녀 네트 높이 차이는 19cm예요."
+    },
+    {
+      "id": "sports-310ed2d3",
+      "category": "sports",
+      "difficulty": 3,
+      "question": "테니스 네트의 가운데 높이는 약 몇 cm일까요?",
+      "choices": [
+        "약 76cm",
+        "약 91.4cm",
+        "약 120cm",
+        "약 107cm"
+      ],
+      "answerIndex": 1,
+      "explanation": "테니스 네트는 중앙에서 3피트(약 91.4cm)이고, 양 끝 기둥 쪽은 약 1.07m로 더 높아요.",
+      "funFact": "그래서 낮은 네트 가운데를 지나는 크로스 샷이 비교적 안전하다고들 해요."
+    },
+    {
+      "id": "sports-c0e7e531",
+      "category": "sports",
+      "difficulty": 3,
+      "question": "탁구대 윗면은 바닥에서 몇 cm 높이일까요?",
+      "choices": [
+        "70cm",
+        "76cm",
+        "82cm",
+        "90cm"
+      ],
+      "answerIndex": 1,
+      "explanation": "탁구대는 바닥에서 76cm 높이로, 길이 2.74m·너비 1.525m 규격이에요.",
+      "funFact": "탁구는 영국 상류층이 식탁 위에서 하던 놀이에서 시작돼 식탁 높이와 비슷해요."
+    },
+    {
+      "id": "sports-5f3a5c80",
+      "category": "sports",
+      "difficulty": 3,
+      "question": "골프 홀컵의 지름은 몇 mm일까요?",
+      "choices": [
+        "120mm",
+        "96mm",
+        "135mm",
+        "108mm"
+      ],
+      "answerIndex": 3,
+      "explanation": "골프 홀은 지름 108mm(4.25인치)로 정해져 있어요.",
+      "funFact": "이 크기는 19세기 스코틀랜드에서 홀을 팔 때 쓰던 배수관 지름에서 왔다는 이야기가 있어요."
+    },
+    {
+      "id": "sports-56126bac",
+      "category": "sports",
+      "difficulty": 3,
+      "question": "볼링 파울라인에서 맨 앞 헤드핀까지의 거리는?",
+      "choices": [
+        "60피트(약 18.3m)",
+        "72피트(약 21.9m)",
+        "50피트(약 15.2m)",
+        "66피트(약 20.1m)"
+      ],
+      "answerIndex": 0,
+      "explanation": "볼링 레인은 파울라인에서 1번 헤드핀까지 60피트, 약 18.29m예요.",
+      "funFact": "레인 바닥에는 오일을 발라 두는데, 그 패턴에 따라 공이 휘는 정도가 달라져요."
+    },
+    {
+      "id": "sports-bc8cb207",
+      "category": "sports",
+      "difficulty": 3,
+      "question": "야구 투수판 앞쪽에서 홈플레이트 끝까지 거리는?",
+      "choices": [
+        "약 16.5m",
+        "약 20.1m",
+        "약 27.4m",
+        "약 18.44m"
+      ],
+      "answerIndex": 3,
+      "explanation": "투수판에서 홈플레이트 뒤쪽 꼭짓점까지는 60피트 6인치, 약 18.44m예요.",
+      "funFact": "1893년 투수가 너무 유리하다며 거리를 늘리면서 6인치라는 애매한 숫자가 붙었어요."
+    },
+    {
+      "id": "sports-62c2b790",
+      "category": "sports",
+      "difficulty": 3,
+      "question": "야구장에서 베이스와 베이스 사이 거리는?",
+      "choices": [
+        "약 27.4m",
+        "약 36.6m",
+        "약 30.5m",
+        "약 18.4m"
+      ],
+      "answerIndex": 0,
+      "explanation": "베이스 사이 간격은 90피트, 약 27.43m예요. 그래서 내야는 한 변 약 27.4m의 정사각형이에요.",
+      "funFact": "이 거리는 땅볼 타구와 타자 주자의 1루 도착이 아슬아슬하게 맞서는 절묘한 거리로 평가받아요."
+    },
+    {
+      "id": "sports-e92dd1b9",
+      "category": "sports",
+      "difficulty": 3,
+      "question": "국제농구연맹(FIBA) 규칙에서 한 선수는 몇 번째 개인 파울에 퇴장할까요?",
+      "choices": [
+        "7번째",
+        "6번째",
+        "5번째",
+        "4번째"
+      ],
+      "answerIndex": 2,
+      "explanation": "FIBA 규칙은 개인 파울 5개에서 퇴장이에요. 경기 시간이 더 긴 NBA는 6개예요.",
+      "funFact": "이렇게 파울 한도로 경기에서 빠지는 것을 '파울 아웃'이라고 해요."
+    },
+    {
+      "id": "sports-859f1b55",
+      "category": "sports",
+      "difficulty": 3,
+      "question": "FIBA 농구에서 공격 팀이 백코트에서 프런트코트로 공을 넘겨야 하는 제한 시간은?",
+      "choices": [
+        "10초",
+        "5초",
+        "12초",
+        "8초"
+      ],
+      "answerIndex": 3,
+      "explanation": "공격 팀은 백코트에서 8초 안에 공을 하프라인 너머 프런트코트로 보내야 해요.",
+      "funFact": "이 규칙은 원래 10초였다가 2000년대에 8초로 줄었어요."
+    },
+    {
+      "id": "sports-d7ea4f0d",
+      "category": "sports",
+      "difficulty": 3,
+      "question": "축구에서 오프사이드 반칙이 적용되지 않는 상황은?",
+      "choices": [
+        "골키퍼가 던진 공을 받을 때",
+        "간접 프리킥을 받을 때",
+        "직접 프리킥을 받을 때",
+        "스로인을 바로 받을 때"
+      ],
+      "answerIndex": 3,
+      "explanation": "스로인, 골킥, 코너킥에서 바로 공을 받을 때는 오프사이드가 적용되지 않아요.",
+      "funFact": "그래서 스로인 상황에서는 공격수가 수비 라인 뒤에 미리 가 있어도 괜찮아요."
+    },
+    {
+      "id": "sports-72091710",
+      "category": "sports",
+      "difficulty": 3,
+      "question": "축구 프리킥 때 상대 선수는 공에서 최소 몇 m 떨어져야 할까요?",
+      "choices": [
+        "11m",
+        "10.5m",
+        "7.32m",
+        "9.15m"
+      ],
+      "answerIndex": 3,
+      "explanation": "프리킥이나 코너킥 때 상대 선수는 공에서 9.15m(10야드) 이상 떨어져야 해요.",
+      "funFact": "심판이 이 거리를 표시하려고 잠시 후 사라지는 스프레이를 뿌리기도 해요."
+    },
+    {
+      "id": "sports-0476ae10",
+      "category": "sports",
+      "difficulty": 3,
+      "question": "야구공을 꿰맨 실밥은 모두 몇 땀일까요?",
+      "choices": [
+        "124땀",
+        "100땀",
+        "108땀",
+        "88땀"
+      ],
+      "answerIndex": 2,
+      "explanation": "공식 야구공은 두 장의 가죽을 붉은 실로 108땀 꿰매 만들어요.",
+      "funFact": "불교의 108번뇌와 숫자가 같아 이야깃거리가 되기도 해요."
+    },
+    {
+      "id": "sports-690a957d",
+      "category": "sports",
+      "difficulty": 1,
+      "question": "1930년 첫 FIFA 월드컵이 열린 나라는?",
+      "choices": [
+        "우루과이",
+        "브라질",
+        "프랑스",
+        "이탈리아"
+      ],
+      "answerIndex": 0,
+      "explanation": "첫 월드컵은 1930년 우루과이에서 열렸어요. 개최국 우루과이가 결승에서 아르헨티나를 꺾고 첫 우승까지 차지했어요.",
+      "funFact": "유럽에서 배로 몇 주씩 걸리는 거리라 첫 대회에 참가한 유럽 팀은 4개뿐이었어요."
+    },
+    {
+      "id": "sports-ecf72db7",
+      "category": "sports",
+      "difficulty": 1,
+      "question": "2002년 FIFA 월드컵을 공동 개최한 두 나라는?",
+      "choices": [
+        "일본과 중국",
+        "한국과 호주",
+        "한국과 일본",
+        "한국과 중국"
+      ],
+      "answerIndex": 2,
+      "explanation": "2002년 월드컵은 한국과 일본이 함께 열었어요. 아시아에서 열린 첫 월드컵이기도 해요.",
+      "funFact": "두 나라가 월드컵을 공동 개최한 것은 2002년 대회가 처음이었어요."
+    },
+    {
+      "id": "sports-c317a6d3",
+      "category": "sports",
+      "difficulty": 1,
+      "question": "2002년 월드컵에서 한국 대표팀을 이끈 감독은?",
+      "choices": [
+        "딕 아드보카트",
+        "거스 히딩크",
+        "핌 베어벡",
+        "움베르투 코엘류"
+      ],
+      "answerIndex": 1,
+      "explanation": "네덜란드 출신 거스 히딩크 감독이 한국을 4강으로 이끌었어요. 체력 훈련과 실력 위주 선발로 팀을 바꿔 놓았어요.",
+      "funFact": "히딩크 감독은 2002년 월드컵 뒤 대한민국 명예국민증을 받았어요."
+    },
+    {
+      "id": "sports-5e3ec9a8",
+      "category": "sports",
+      "difficulty": 1,
+      "question": "2002년 월드컵에서 한국이 거둔 최종 순위는?",
+      "choices": [
+        "8강",
+        "16강",
+        "3위",
+        "4위"
+      ],
+      "answerIndex": 3,
+      "explanation": "한국은 4강에 올라 독일에 졌고, 3·4위전에서 터키에 져 4위로 마쳤어요.",
+      "funFact": "그 전까지 한국은 월드컵 본선에서 한 번도 이긴 적이 없었어요."
+    },
+    {
+      "id": "sports-e9610d96",
+      "category": "sports",
+      "difficulty": 1,
+      "question": "2002년 월드컵 16강 이탈리아전에서 골든골을 넣은 선수는?",
+      "choices": [
+        "설기현",
+        "안정환",
+        "황선홍",
+        "박지성"
+      ],
+      "answerIndex": 1,
+      "explanation": "연장전에서 안정환 선수가 헤딩 골든골을 넣어 한국이 2대1로 이겼어요. 동점골은 설기현 선수가 넣었어요.",
+      "funFact": "당시 안정환 선수는 이탈리아 리그 페루자 소속이었어요."
+    },
+    {
+      "id": "sports-88d07267",
+      "category": "sports",
+      "difficulty": 1,
+      "question": "2002년 한일 월드컵에서 우승한 나라는?",
+      "choices": [
+        "프랑스",
+        "독일",
+        "브라질",
+        "터키"
+      ],
+      "answerIndex": 2,
+      "explanation": "브라질이 결승에서 독일을 2대0으로 이기고 우승했어요. 브라질의 다섯 번째 월드컵 우승이었어요.",
+      "funFact": "결승 두 골은 모두 호나우두 선수가 넣었어요."
+    },
+    {
+      "id": "sports-590dcdfa",
+      "category": "sports",
+      "difficulty": 1,
+      "question": "1958·1962·1970년 월드컵 우승을 함께한 브라질의 '축구 황제'는?",
+      "choices": [
+        "가린샤",
+        "지쿠",
+        "펠레",
+        "호나우두"
+      ],
+      "answerIndex": 2,
+      "explanation": "펠레는 브라질 대표로 세 번이나 월드컵 우승을 맛봤어요. '축구 황제'라는 별명으로 불렸어요.",
+      "funFact": "펠레는 1958년 대회에 17살의 나이로 출전해 결승에서 두 골을 넣었어요."
+    },
+    {
+      "id": "sports-f96b5d54",
+      "category": "sports",
+      "difficulty": 1,
+      "question": "1998년 월드컵을 개최하고 우승까지 한 나라는?",
+      "choices": [
+        "브라질",
+        "독일",
+        "이탈리아",
+        "프랑스"
+      ],
+      "answerIndex": 3,
+      "explanation": "프랑스는 자국에서 열린 1998년 대회 결승에서 브라질을 3대0으로 꺾었어요. 프랑스의 첫 월드컵 우승이었어요.",
+      "funFact": "결승에서 지네딘 지단 선수가 헤딩으로만 두 골을 넣었어요."
+    },
+    {
+      "id": "sports-cbffda71",
+      "category": "sports",
+      "difficulty": 1,
+      "question": "2014년 브라질 월드컵에서 우승한 나라는?",
+      "choices": [
+        "아르헨티나",
+        "네덜란드",
+        "브라질",
+        "독일"
+      ],
+      "answerIndex": 3,
+      "explanation": "독일이 결승에서 아르헨티나를 연장 끝에 1대0으로 이겼어요. 통일 뒤 처음 거둔 월드컵 우승이었어요.",
+      "funFact": "결승골은 교체로 들어온 마리오 괴체 선수가 넣었어요."
+    },
+    {
+      "id": "sports-9148509e",
+      "category": "sports",
+      "difficulty": 1,
+      "question": "2022년 카타르 월드컵에서 우승한 나라는?",
+      "choices": [
+        "크로아티아",
+        "프랑스",
+        "모로코",
+        "아르헨티나"
+      ],
+      "answerIndex": 3,
+      "explanation": "아르헨티나가 결승에서 프랑스와 3대3으로 비긴 뒤 승부차기로 이겼어요. 1986년 이후 36년 만의 우승이었어요.",
+      "funFact": "이 결승에서 프랑스의 킬리안 음바페 선수는 해트트릭을 기록했어요."
+    },
+    {
+      "id": "sports-16e75c6c",
+      "category": "sports",
+      "difficulty": 1,
+      "question": "중동에서 처음 열려 11~12월에 치러진 월드컵의 개최국은?",
+      "choices": [
+        "카타르",
+        "아랍에미리트",
+        "사우디아라비아",
+        "러시아"
+      ],
+      "answerIndex": 0,
+      "explanation": "2022년 월드컵은 카타르에서 열렸어요. 여름 더위를 피하려고 처음으로 겨울철인 11~12월에 치러졌어요.",
+      "funFact": "카타르는 월드컵 개최국 가운데 면적이 가장 작은 편에 속하는 나라예요."
+    },
+    {
+      "id": "sports-6f9c2f86",
+      "category": "sports",
+      "difficulty": 1,
+      "question": "독일 분데스리가에서 '차붐'이라 불린 한국 축구 선수는?",
+      "choices": [
+        "차범근",
+        "이회택",
+        "허정무",
+        "홍명보"
+      ],
+      "answerIndex": 0,
+      "explanation": "차범근 선수는 1970~80년대 프랑크푸르트와 레버쿠젠에서 뛰며 '차붐'으로 불렸어요. 독일에서 지금도 존경받는 선수예요.",
+      "funFact": "차붐은 차범근의 이름에 있는 Bum과 강한 슛의 느낌을 연결한 별명이에요."
+    },
+    {
+      "id": "sports-8163220e",
+      "category": "sports",
+      "difficulty": 1,
+      "question": "1994년 LA 다저스에 입단한 한국인 첫 메이저리거는?",
+      "choices": [
+        "최희섭",
+        "서재응",
+        "박찬호",
+        "김병현"
+      ],
+      "answerIndex": 2,
+      "explanation": "박찬호 선수는 1994년 다저스 유니폼을 입으며 한국인 최초의 메이저리거가 됐어요.",
+      "funFact": "박찬호 선수는 공주고등학교와 한양대학교를 거쳐 미국으로 건너갔어요."
+    },
+    {
+      "id": "sports-03e44ec5",
+      "category": "sports",
+      "difficulty": 1,
+      "question": "'국민타자'라 불리며 2017년 은퇴한 삼성 라이온즈 타자는?",
+      "choices": [
+        "양준혁",
+        "장종훈",
+        "이승엽",
+        "이대호"
+      ],
+      "answerIndex": 2,
+      "explanation": "이승엽 선수는 삼성 라이온즈에서 데뷔해 일본 무대를 거쳐 2017년 삼성에서 은퇴했어요.",
+      "funFact": "삼성 라이온즈는 이승엽 선수의 등번호 36번을 영구 결번했어요."
+    },
+    {
+      "id": "sports-36a1d4a5",
+      "category": "sports",
+      "difficulty": 1,
+      "question": "한국 축구 국가대표팀 응원단의 이름은?",
+      "choices": [
+        "푸른 함성",
+        "붉은 악마",
+        "태극 물결",
+        "레드 드래곤"
+      ],
+      "answerIndex": 1,
+      "explanation": "붉은 악마는 1990년대 중반 PC통신 축구 동호회에서 시작된 응원단이에요. 2002년 거리 응원으로 널리 알려졌어요.",
+      "funFact": "이름은 1983년 세계청소년대회 4강 팀을 부르던 '붉은 악령'에서 따왔다고 해요."
+    },
+    {
+      "id": "sports-abe2b1cd",
+      "category": "sports",
+      "difficulty": 1,
+      "question": "1990년대 시카고 불스의 6차례 NBA 우승을 이끈 선수는?",
+      "choices": [
+        "매직 존슨",
+        "샤킬 오닐",
+        "래리 버드",
+        "마이클 조던"
+      ],
+      "answerIndex": 3,
+      "explanation": "마이클 조던은 1991~93년, 1996~98년 두 번의 3연패로 시카고 불스에 우승 6번을 안겼어요.",
+      "funFact": "조던은 여섯 번의 결승 시리즈에서 모두 결승 MVP에 뽑혔어요."
+    },
+    {
+      "id": "sports-180c7397",
+      "category": "sports",
+      "difficulty": 1,
+      "question": "1998년 US 여자오픈에서 '맨발 투혼'으로 우승한 골퍼는?",
+      "choices": [
+        "김미현",
+        "박세리",
+        "한희원",
+        "박지은"
+      ],
+      "answerIndex": 1,
+      "explanation": "박세리 선수는 연장전에서 공이 물가에 걸리자 양말을 벗고 물에 들어가 샷을 했어요. 결국 우승해 외환위기 시절 국민에게 큰 힘이 됐어요.",
+      "funFact": "이때 드러난 까만 다리와 하얀 발의 대비가 오래도록 회자됐어요."
+    },
+    {
+      "id": "sports-64976a1e",
+      "category": "sports",
+      "difficulty": 1,
+      "question": "2006년 월드컵 결승에서 박치기로 퇴장당한 프랑스 선수는?",
+      "choices": [
+        "다비드 트레제게",
+        "파트리크 비에라",
+        "지네딘 지단",
+        "티에리 앙리"
+      ],
+      "answerIndex": 2,
+      "explanation": "지단은 연장전에서 이탈리아의 마테라치 선수를 머리로 들이받아 퇴장당했어요. 이 경기는 그의 선수 생활 마지막 경기였어요.",
+      "funFact": "지단은 퇴장당하고도 그 대회 최우수 선수상인 골든볼을 받았어요."
+    },
+    {
+      "id": "sports-069d0eb4",
+      "category": "sports",
+      "difficulty": 1,
+      "question": "맨체스터 유나이티드에서 뛰며 '산소탱크'로 불린 한국 선수는?",
+      "choices": [
+        "김남일",
+        "설기현",
+        "이영표",
+        "박지성"
+      ],
+      "answerIndex": 3,
+      "explanation": "박지성 선수는 지치지 않는 활동량 덕분에 '산소탱크'로 불렸어요. 2014년에 은퇴했어요.",
+      "funFact": "박지성 선수는 아시아 선수로는 처음으로 UEFA 챔피언스리그 결승 무대를 밟았어요."
+    },
+    {
+      "id": "sports-7befd617",
+      "category": "sports",
+      "difficulty": 1,
+      "question": "1988 서울 올림픽 공식 주제가 '손에 손잡고'를 부른 그룹은?",
+      "choices": [
+        "송골매",
+        "들국화",
+        "코리아나",
+        "산울림"
+      ],
+      "answerIndex": 2,
+      "explanation": "'손에 손잡고(Hand in Hand)'는 그룹 코리아나가 불렀어요. 서울 올림픽의 상징 같은 노래가 됐어요.",
+      "funFact": "이 노래는 이탈리아 작곡가 조르조 모로더가 작곡했어요."
+    },
+    {
+      "id": "sports-a78dc264",
+      "category": "sports",
+      "difficulty": 2,
+      "question": "한국이 처음 출전한 1954년 월드컵의 개최국은?",
+      "choices": [
+        "멕시코",
+        "칠레",
+        "스위스",
+        "잉글랜드"
+      ],
+      "answerIndex": 2,
+      "explanation": "한국은 1954년 스위스 월드컵에 처음 나갔어요. 헝가리와 터키에 크게 지며 조별리그에서 탈락했어요.",
+      "funFact": "당시 대표팀은 비행기를 여러 번 갈아타고 경기 직전에야 겨우 도착했다고 해요."
+    },
+    {
+      "id": "sports-06992bca",
+      "category": "sports",
+      "difficulty": 2,
+      "question": "2002년 월드컵 4강전에서 한국을 1대0으로 이긴 나라는?",
+      "choices": [
+        "독일",
+        "브라질",
+        "이탈리아",
+        "스페인"
+      ],
+      "answerIndex": 0,
+      "explanation": "한국은 서울에서 열린 4강전에서 독일의 미하엘 발라크에게 골을 내줘 0대1로 졌어요.",
+      "funFact": "이 경기에서 독일 골키퍼 올리버 칸이 여러 차례 선방을 펼쳤어요."
+    },
+    {
+      "id": "sports-ea49c638",
+      "category": "sports",
+      "difficulty": 2,
+      "question": "2002년 월드컵 8강에서 한국이 승부차기로 이긴 나라는?",
+      "choices": [
+        "미국",
+        "포르투갈",
+        "이탈리아",
+        "스페인"
+      ],
+      "answerIndex": 3,
+      "explanation": "한국은 광주에서 스페인과 0대0으로 비긴 뒤 승부차기 5대3으로 이겼어요.",
+      "funFact": "이운재 골키퍼가 스페인 네 번째 키커 호아킨의 슛을 막아냈어요."
+    },
+    {
+      "id": "sports-f4d2113d",
+      "category": "sports",
+      "difficulty": 2,
+      "question": "2002년 한국이 월드컵 본선 첫 승을 거둔 상대는?",
+      "choices": [
+        "폴란드",
+        "이탈리아",
+        "포르투갈",
+        "미국"
+      ],
+      "answerIndex": 0,
+      "explanation": "한국은 부산에서 폴란드를 2대0으로 이기며 월드컵 본선 첫 승리를 거뒀어요. 황선홍, 유상철 선수가 골을 넣었어요.",
+      "funFact": "이 승리는 한국이 1954년 첫 출전 이후 48년 만에 거둔 월드컵 첫 승이었어요."
+    },
+    {
+      "id": "sports-d342778e",
+      "category": "sports",
+      "difficulty": 2,
+      "question": "2002년 월드컵 3·4위전에서 한국을 이긴 나라는?",
+      "choices": [
+        "세네갈",
+        "터키",
+        "독일",
+        "미국"
+      ],
+      "answerIndex": 1,
+      "explanation": "한국은 대구에서 열린 3·4위전에서 터키에 2대3으로 져 4위가 됐어요.",
+      "funFact": "경기가 끝난 뒤 두 나라 선수들이 어깨동무를 하고 관중에게 인사해 박수를 받았어요."
+    },
+    {
+      "id": "sports-4923400a",
+      "category": "sports",
+      "difficulty": 2,
+      "question": "한국이 원정 월드컵에서 처음 16강에 오른 대회의 개최국은?",
+      "choices": [
+        "독일",
+        "브라질",
+        "남아프리카공화국",
+        "러시아"
+      ],
+      "answerIndex": 2,
+      "explanation": "한국은 2010년 남아공 월드컵에서 조 2위로 원정 대회 첫 16강에 올랐어요. 16강에서는 우루과이에 1대2로 졌어요.",
+      "funFact": "이 대회 응원 도구인 부부젤라 소리가 중계방송에 크게 들려 화제가 됐어요."
+    },
+    {
+      "id": "sports-a16bae55",
+      "category": "sports",
+      "difficulty": 2,
+      "question": "마라도나가 1986년 '신의 손' 골을 넣은 상대 팀은?",
+      "choices": [
+        "잉글랜드",
+        "독일",
+        "벨기에",
+        "이탈리아"
+      ],
+      "answerIndex": 0,
+      "explanation": "마라도나는 1986년 멕시코 월드컵 8강 잉글랜드전에서 손으로 공을 넣었어요. 같은 경기에서 수비수 여럿을 제치는 '세기의 골'도 넣었어요.",
+      "funFact": "마라도나는 경기 뒤 '마라도나의 머리와 신의 손이 조금씩 넣은 골'이라고 말했어요."
+    },
+    {
+      "id": "sports-7f4be77a",
+      "category": "sports",
+      "difficulty": 2,
+      "question": "2014년 월드컵 4강에서 개최국 브라질을 7대1로 꺾은 나라는?",
+      "choices": [
+        "네덜란드",
+        "아르헨티나",
+        "스페인",
+        "독일"
+      ],
+      "answerIndex": 3,
+      "explanation": "독일은 벨루오리존치에서 열린 4강전에서 브라질을 7대1로 크게 이겼어요. 브라질에서는 '미네이랑의 비극'이라 불려요.",
+      "funFact": "독일은 전반 29분까지 다섯 골을 몰아넣었어요."
+    },
+    {
+      "id": "sports-0060cf92",
+      "category": "sports",
+      "difficulty": 2,
+      "question": "2018년 월드컵에서 한국이 2대0으로 이긴 직전 대회 우승국은?",
+      "choices": [
+        "스페인",
+        "브라질",
+        "독일",
+        "프랑스"
+      ],
+      "answerIndex": 2,
+      "explanation": "한국은 러시아 카잔에서 2014년 우승팀 독일을 2대0으로 꺾었어요. 김영권, 손흥민 선수가 추가 시간에 골을 넣었어요.",
+      "funFact": "독일은 이 패배로 2018년 월드컵 조별리그에서 탈락했어요. 1938년 탈락은 조별리그가 아닌 토너먼트 단계였어요."
+    },
+    {
+      "id": "sports-75c49057",
+      "category": "sports",
+      "difficulty": 2,
+      "question": "지금의 월드컵 트로피 이전에 쓰인 우승컵의 이름은?",
+      "choices": [
+        "앙리 들로네 컵",
+        "롬바르디 트로피",
+        "펠레 컵",
+        "쥘 리메 컵"
+      ],
+      "answerIndex": 3,
+      "explanation": "초기 월드컵 우승컵은 FIFA 회장 쥘 리메의 이름을 땄어요. 1974년부터 지금의 FIFA 월드컵 트로피를 써요.",
+      "funFact": "쥘 리메 컵은 1966년 잉글랜드 대회 직전 도둑맞았다가 '피클스'라는 개가 찾아냈어요."
+    },
+    {
+      "id": "sports-f3ce1586",
+      "category": "sports",
+      "difficulty": 2,
+      "question": "2002년 스페인전 승부차기에서 마지막 골을 넣은 선수는?",
+      "choices": [
+        "유상철",
+        "안정환",
+        "황선홍",
+        "홍명보"
+      ],
+      "answerIndex": 3,
+      "explanation": "주장 홍명보 선수가 다섯 번째 키커로 나서 골을 넣으며 4강 진출을 확정했어요.",
+      "funFact": "홍명보 선수는 1990년부터 2002년까지 월드컵 본선에 네 번 연속 출전했어요."
+    },
+    {
+      "id": "sports-546a5ad3",
+      "category": "sports",
+      "difficulty": 2,
+      "question": "한국 프로야구(KBO 리그)가 출범한 해는?",
+      "choices": [
+        "1982년",
+        "1985년",
+        "1988년",
+        "1979년"
+      ],
+      "answerIndex": 0,
+      "explanation": "한국 프로야구는 1982년 6개 구단으로 시작했어요. 개막전은 서울 동대문야구장에서 열렸어요.",
+      "funFact": "개막전에서 MBC 청룡의 이종도 선수가 연장 끝내기 만루 홈런을 쳤어요."
+    },
+    {
+      "id": "sports-9a6232dc",
+      "category": "sports",
+      "difficulty": 2,
+      "question": "2008 베이징 올림픽 야구에서 금메달을 딴 나라는?",
+      "choices": [
+        "일본",
+        "대한민국",
+        "미국",
+        "쿠바"
+      ],
+      "answerIndex": 1,
+      "explanation": "한국은 베이징 올림픽 야구에서 9전 전승을 거두고 결승에서 쿠바를 이겨 금메달을 땄어요.",
+      "funFact": "결승 9회 말 1사 만루에서 정대현 투수가 병살타를 이끌어내 경기를 끝냈어요."
+    },
+    {
+      "id": "sports-6a46cd11",
+      "category": "sports",
+      "difficulty": 2,
+      "question": "2012 런던 올림픽 남자 축구 동메달 결정전의 상대는?",
+      "choices": [
+        "멕시코",
+        "영국",
+        "브라질",
+        "일본"
+      ],
+      "answerIndex": 3,
+      "explanation": "한국은 동메달 결정전에서 일본을 2대0으로 이겼어요. 한국 축구의 첫 올림픽 메달이었어요.",
+      "funFact": "박주영, 구자철 선수가 이 경기에서 골을 넣었어요."
+    },
+    {
+      "id": "sports-e11dae2d",
+      "category": "sports",
+      "difficulty": 2,
+      "question": "2009년 PGA 챔피언십에서 타이거 우즈를 꺾은 한국 골퍼는?",
+      "choices": [
+        "최경주",
+        "김시우",
+        "양용은",
+        "배상문"
+      ],
+      "answerIndex": 2,
+      "explanation": "양용은 선수는 마지막 날 타이거 우즈를 역전해 우승했어요. 아시아 남자 선수의 첫 메이저 대회 우승이었어요.",
+      "funFact": "우즈는 그전까지 메이저 대회에서 3라운드 선두일 때 한 번도 우승을 놓친 적이 없었어요."
+    },
+    {
+      "id": "sports-eeae062d",
+      "category": "sports",
+      "difficulty": 3,
+      "question": "한국의 월드컵 본선 첫 골을 넣은 선수는(1986년)?",
+      "choices": [
+        "김종부",
+        "허정무",
+        "최순호",
+        "박창선"
+      ],
+      "answerIndex": 3,
+      "explanation": "박창선 선수는 1986년 멕시코 월드컵 아르헨티나전에서 중거리슛으로 한국의 첫 월드컵 골을 넣었어요.",
+      "funFact": "이 경기 상대 아르헨티나에는 그 대회 우승을 이끈 마라도나가 있었어요."
+    },
+    {
+      "id": "sports-fa715c21",
+      "category": "sports",
+      "difficulty": 3,
+      "question": "1966년 잉글랜드 월드컵에서 8강에 오른 아시아 팀은?",
+      "choices": [
+        "일본",
+        "이란",
+        "북한",
+        "대한민국"
+      ],
+      "answerIndex": 2,
+      "explanation": "북한은 1966년 대회에서 이탈리아를 1대0으로 꺾고 8강에 올랐어요. 8강에서는 포르투갈에 3대5로 역전패했어요.",
+      "funFact": "8강전에서 북한은 3대0으로 앞서다가 에우제비오에게 네 골을 내줬어요."
+    },
+    {
+      "id": "sports-a6ea8482",
+      "category": "sports",
+      "difficulty": 3,
+      "question": "1950년 월드컵 '마라카낭의 비극'에서 브라질을 꺾은 나라는?",
+      "choices": [
+        "이탈리아",
+        "스웨덴",
+        "우루과이",
+        "아르헨티나"
+      ],
+      "answerIndex": 2,
+      "explanation": "1950년 브라질 월드컵 마지막 경기에서 우루과이가 브라질을 2대1로 이기고 우승했어요. 브라질은 비기기만 해도 우승이었어요.",
+      "funFact": "이 경기는 20만 명 가까운 관중이 마라카낭 경기장을 채운 것으로 알려져 있어요."
+    },
+    {
+      "id": "sports-4f1cb2d4",
+      "category": "sports",
+      "difficulty": 3,
+      "question": "1970년 쥘 리메 컵을 영원히 갖게 된 나라는?",
+      "choices": [
+        "우루과이",
+        "독일",
+        "이탈리아",
+        "브라질"
+      ],
+      "answerIndex": 3,
+      "explanation": "브라질은 1970년 멕시코 대회에서 세 번째 우승을 거둬 규정에 따라 쥘 리메 컵을 영구히 보유하게 됐어요.",
+      "funFact": "이 컵은 1983년 리우데자네이루에서 다시 도둑맞아 끝내 찾지 못했어요."
+    },
+    {
+      "id": "sports-97f3d36f",
+      "category": "sports",
+      "difficulty": 3,
+      "question": "2002년 3·4위전 시작 11초 만에 골을 넣은 터키 선수는?",
+      "choices": [
+        "하칸 쉬퀴르",
+        "일한 만시즈",
+        "하산 샤슈",
+        "뤼슈트 레치베르"
+      ],
+      "answerIndex": 0,
+      "explanation": "하칸 쉬퀴르는 한국과의 3·4위전에서 킥오프 약 11초 만에 골을 넣었어요.",
+      "funFact": "한국 수비가 처음 공을 잡자마자 빼앗기면서 이 골이 나왔어요."
+    },
+    {
+      "id": "sports-34350eb3",
+      "category": "sports",
+      "difficulty": 3,
+      "question": "2002년 월드컵 결승전이 열린 일본 도시는?",
+      "choices": [
+        "도쿄",
+        "오사카",
+        "사이타마",
+        "요코하마"
+      ],
+      "answerIndex": 3,
+      "explanation": "2002년 결승은 요코하마 국제종합경기장에서 열렸어요. 개막전은 서울 월드컵경기장에서 열렸어요.",
+      "funFact": "개막전은 한국, 결승은 일본이 나눠 맡는 방식으로 정해졌어요."
+    },
+    {
+      "id": "sports-7a468dc8",
+      "category": "sports",
+      "difficulty": 3,
+      "question": "2002년 월드컵 개막전에서 프랑스를 1대0으로 꺾은 나라는?",
+      "choices": [
+        "세네갈",
+        "카메룬",
+        "우루과이",
+        "덴마크"
+      ],
+      "answerIndex": 0,
+      "explanation": "직전 대회 우승국 프랑스는 서울 개막전에서 첫 출전한 세네갈에 0대1로 졌어요.",
+      "funFact": "프랑스는 이 대회에서 한 골도 넣지 못하고 조별리그에서 탈락했어요."
+    },
+    {
+      "id": "sports-f7c7a8dd",
+      "category": "sports",
+      "difficulty": 3,
+      "question": "1983년 세계청소년축구 4강에 오른 한국 팀의 별명은?",
+      "choices": [
+        "아시아의 호랑이",
+        "붉은 악령",
+        "붉은 악마",
+        "태극 전사"
+      ],
+      "answerIndex": 1,
+      "explanation": "1983년 멕시코 세계청소년선수권에서 4강에 오른 한국 팀을 외신이 '붉은 악령(Red Furies)'이라 불렀어요.",
+      "funFact": "훗날 국가대표 응원단 '붉은 악마'라는 이름이 이 별명에서 나왔다고 해요."
+    },
+    {
+      "id": "sports-dae83d80",
+      "category": "sports",
+      "difficulty": 3,
+      "question": "1982년 한국 프로야구 원년 우승팀은?",
+      "choices": [
+        "OB 베어스",
+        "해태 타이거즈",
+        "삼성 라이온즈",
+        "MBC 청룡"
+      ],
+      "answerIndex": 0,
+      "explanation": "OB 베어스가 원년 한국시리즈에서 삼성 라이온즈를 꺾고 우승했어요.",
+      "funFact": "6차전에서 김유동 선수가 결승 만루 홈런을 쳐 우승을 결정지었어요."
+    },
+    {
+      "id": "sports-b1da4cc7",
+      "category": "sports",
+      "difficulty": 3,
+      "question": "1984년 한국시리즈에서 혼자 4승을 거둔 롯데 투수는?",
+      "choices": [
+        "장명부",
+        "김시진",
+        "선동열",
+        "최동원"
+      ],
+      "answerIndex": 3,
+      "explanation": "최동원 투수는 1984년 한국시리즈 7경기 중 5경기에 나와 4승을 거두며 롯데의 첫 우승을 이끌었어요.",
+      "funFact": "롯데 자이언츠는 최동원 투수의 등번호 11번을 영구 결번했어요."
+    },
+    {
+      "id": "sports-a917beb6",
+      "category": "sports",
+      "difficulty": 3,
+      "question": "2009년 WBC 결승에서 한국을 이긴 나라는?",
+      "choices": [
+        "베네수엘라",
+        "미국",
+        "일본",
+        "쿠바"
+      ],
+      "answerIndex": 2,
+      "explanation": "한국은 2009년 월드베이스볼클래식 결승에서 일본과 연장 10회까지 싸웠지만 3대5로 져 준우승했어요.",
+      "funFact": "한국은 2006년 첫 WBC에서도 4강에 올랐어요."
+    },
+    {
+      "id": "sports-a8aa4b93",
+      "category": "sports",
+      "difficulty": 3,
+      "question": "차범근이 1988년 레버쿠젠 소속으로 우승한 유럽 대회는?",
+      "choices": [
+        "인터토토컵",
+        "UEFA컵",
+        "컵위너스컵",
+        "유러피언컵"
+      ],
+      "answerIndex": 1,
+      "explanation": "차범근은 1980년 프랑크푸르트, 1988년 레버쿠젠에서 두 번 UEFA컵 우승을 차지했어요.",
+      "funFact": "1988년 결승 2차전에서 차범근이 헤딩 동점골을 넣어 승부차기까지 끌고 갔어요."
+    },
+    {
+      "id": "sports-8743cbf2",
+      "category": "sports",
+      "difficulty": 3,
+      "question": "2002년 월드컵에서 8골로 득점왕에 오른 브라질 선수는?",
+      "choices": [
+        "히바우두",
+        "호나우두",
+        "미로슬라프 클로제",
+        "호나우지뉴"
+      ],
+      "answerIndex": 1,
+      "explanation": "호나우두는 2002년 대회에서 8골을 넣어 득점왕에 올랐고 브라질의 우승을 이끌었어요.",
+      "funFact": "호나우두는 대회 중 앞머리만 남긴 독특한 머리 모양으로도 화제가 됐어요."
+    },
+    {
+      "id": "sports-b37497f6",
+      "category": "sports",
+      "difficulty": 3,
+      "question": "2010년 FIFA U-17 여자 월드컵에서 우승한 나라는?",
+      "choices": [
+        "대한민국",
+        "북한",
+        "스페인",
+        "일본"
+      ],
+      "answerIndex": 0,
+      "explanation": "한국은 트리니다드토바고에서 열린 이 대회 결승에서 일본을 승부차기로 꺾고 우승했어요. 한국 축구 사상 첫 FIFA 주관 대회 우승이에요.",
+      "funFact": "여민지 선수가 이 대회 득점왕과 최우수 선수상을 함께 받았어요."
+    },
+    {
+      "id": "sports-0edfc15d",
+      "category": "sports",
+      "difficulty": 3,
+      "question": "1970년대 네덜란드 '토털 풋볼'을 상징하는 선수는?",
+      "choices": [
+        "요한 크루이프",
+        "게르트 뮐러",
+        "프란츠 베켄바워",
+        "에우제비오"
+      ],
+      "answerIndex": 0,
+      "explanation": "요한 크루이프는 모든 선수가 자리를 바꿔 가며 공격과 수비를 함께하는 토털 풋볼의 중심이었어요. 1974년 월드컵 준우승을 이끌었어요.",
+      "funFact": "그가 선보인 방향 전환 기술은 '크루이프 턴'이라는 이름으로 불려요."
+    },
+    {
+      "id": "sports-36f89d78",
+      "category": "sports",
+      "difficulty": 1,
+      "question": "축구에서 영상을 돌려 보며 주심의 판정을 돕는 제도의 약칭은?",
+      "choices": [
+        "VAR",
+        "ABS",
+        "GPS",
+        "TMO"
+      ],
+      "answerIndex": 0,
+      "explanation": "VAR(Video Assistant Referee)은 득점, 페널티킥, 퇴장, 선수 착각처럼 결정적인 상황을 영상으로 다시 확인해 주심을 도와요.",
+      "funFact": "럭비에도 비슷한 영상 판독 심판이 있는데, 그쪽은 TMO라고 불러요."
+    },
+    {
+      "id": "sports-aa34d336",
+      "category": "sports",
+      "difficulty": 1,
+      "question": "야구에서 주자가 투구 틈을 노려 다음 베이스로 달리는 것은?",
+      "choices": [
+        "도루",
+        "견제",
+        "태그",
+        "번트"
+      ],
+      "answerIndex": 0,
+      "explanation": "수비의 허점을 틈타 주자가 다음 베이스를 훔치듯 달려가는 것을 도루라고 해요.",
+      "funFact": "도루는 영어로 '스틸(steal)', 말 그대로 베이스를 훔친다는 뜻이에요."
+    },
+    {
+      "id": "sports-e828f1dc",
+      "category": "sports",
+      "difficulty": 1,
+      "question": "야구에서 한 번의 플레이로 아웃 두 개를 잡는 것은?",
+      "choices": [
+        "삼중살",
+        "병살",
+        "희생타",
+        "삼진"
+      ],
+      "answerIndex": 1,
+      "explanation": "한 번의 플레이로 두 명을 아웃시키는 것을 병살, 영어로 더블 플레이라고 해요.",
+      "funFact": "한 번에 세 명을 잡는 삼중살은 프로 경기에서도 한 시즌에 몇 번 나오지 않을 만큼 드물어요."
+    },
+    {
+      "id": "sports-a9860676",
+      "category": "sports",
+      "difficulty": 1,
+      "question": "야구에서 주자가 모두 찬 상태로 홈런을 치면 몇 점을 얻을까요?",
+      "choices": [
+        "4점",
+        "5점",
+        "3점",
+        "2점"
+      ],
+      "answerIndex": 0,
+      "explanation": "만루 홈런은 세 주자와 타자까지 모두 홈에 들어와 한 번에 4점이 나요.",
+      "funFact": "만루 홈런은 영어로 '그랜드 슬램'이라고 불러요."
+    },
+    {
+      "id": "sports-f86ddb86",
+      "category": "sports",
+      "difficulty": 1,
+      "question": "볼링 한 게임은 모두 몇 프레임으로 이루어질까요?",
+      "choices": [
+        "8프레임",
+        "9프레임",
+        "12프레임",
+        "10프레임"
+      ],
+      "answerIndex": 3,
+      "explanation": "텐핀 볼링 한 게임은 10프레임이에요. 1~9프레임은 최대 두 번 던지고, 10프레임은 보너스를 포함해 최대 세 번 던져요.",
+      "funFact": "10프레임에서 첫 공이 스트라이크면 두 번, 스페어면 한 번의 보너스 투구를 받아요."
+    },
+    {
+      "id": "sports-c361b609",
+      "category": "sports",
+      "difficulty": 1,
+      "question": "볼링공이 레인 양옆의 홈통으로 빠지는 것을 뭐라고 할까요?",
+      "choices": [
+        "스플릿",
+        "스페어",
+        "파울",
+        "거터"
+      ],
+      "answerIndex": 3,
+      "explanation": "공이 레인 옆 홈으로 빠져 핀을 하나도 못 맞히는 것을 거터라고 해요.",
+      "funFact": "어린이용 볼링장에서는 거터를 막는 범퍼를 세워 주기도 해요."
+    },
+    {
+      "id": "sports-10629124",
+      "category": "sports",
+      "difficulty": 1,
+      "question": "테니스에서 보통 네트 가까이에서 공이 바닥에 튀기 전에 짧은 동작으로 받아 넘기는 타구는?",
+      "choices": [
+        "더블 폴트",
+        "발리",
+        "풋 폴트",
+        "타이브레이크"
+      ],
+      "answerIndex": 1,
+      "explanation": "공이 코트에 바운드되기 전에 공중에서 바로 쳐 넘기는 것을 발리라고 해요. 주로 네트 가까이에서 해요.",
+      "funFact": "배구를 영어로 '발리볼'이라고 부르는 것도 공을 떨어뜨리지 않고 치기 때문이에요."
+    },
+    {
+      "id": "sports-423edda8",
+      "category": "sports",
+      "difficulty": 1,
+      "question": "테니스에서 상대가 라켓도 대지 못한 서브 득점은?",
+      "choices": [
+        "에이스",
+        "렛",
+        "발리",
+        "폴트"
+      ],
+      "answerIndex": 0,
+      "explanation": "서브가 너무 빠르거나 정확해 상대가 건드리지도 못하고 점수가 나면 서브 에이스예요.",
+      "funFact": "배구에서도 서브로 바로 득점하면 똑같이 서브 에이스라고 해요."
+    },
+    {
+      "id": "sports-7f312541",
+      "category": "sports",
+      "difficulty": 1,
+      "question": "테니스에서 한 게임의 첫 득점을 부르는 점수는?",
+      "choices": [
+        "10",
+        "5",
+        "15",
+        "1"
+      ],
+      "answerIndex": 2,
+      "explanation": "테니스 점수는 0(러브), 15, 30, 40 순서로 불러요.",
+      "funFact": "이 숫자가 시계 문자판을 15분씩 나눈 데서 왔다는 설이 있어요."
+    },
+    {
+      "id": "sports-ee5264e7",
+      "category": "sports",
+      "difficulty": 1,
+      "question": "당구에서 미끄러지지 않도록 큐 끝 팁에 바르는 것은?",
+      "choices": [
+        "송진",
+        "왁스",
+        "파우더",
+        "초크"
+      ],
+      "answerIndex": 3,
+      "explanation": "큐 끝 가죽 팁에 초크를 발라 공을 칠 때 미끄러지는 미스큐를 막아요.",
+      "funFact": "당구 초크는 흔히 파란색인데, 분필처럼 생겨서 '초크'라는 이름이 붙었어요."
+    },
+    {
+      "id": "sports-6a4dd540",
+      "category": "sports",
+      "difficulty": 1,
+      "question": "8볼 포켓볼에서 가장 마지막에 넣어야 이기는 공은?",
+      "choices": [
+        "15번 공",
+        "8번 공",
+        "1번 공",
+        "9번 공"
+      ],
+      "answerIndex": 1,
+      "explanation": "8볼은 자기 그룹 공(단색 또는 줄무늬)을 모두 넣은 뒤 8번 공을 넣으면 이겨요.",
+      "funFact": "8번 공을 너무 일찍 넣어 버리면 그 자리에서 지는 경우가 많아요."
+    },
+    {
+      "id": "sports-6176f445",
+      "category": "sports",
+      "difficulty": 1,
+      "question": "포켓볼 당구대에 뚫린 공 구멍은 몇 개일까요?",
+      "choices": [
+        "6개",
+        "4개",
+        "5개",
+        "8개"
+      ],
+      "answerIndex": 0,
+      "explanation": "포켓볼 테이블에는 네 모서리와 긴 쪽 가운데 두 곳에 모두 6개의 포켓이 있어요.",
+      "funFact": "우리나라에서 흔한 4구·3쿠션 테이블에는 포켓이 아예 없어요."
+    },
+    {
+      "id": "sports-4b820b52",
+      "category": "sports",
+      "difficulty": 1,
+      "question": "골프 정규 라운드는 보통 몇 홀을 돌까요?",
+      "choices": [
+        "12홀",
+        "18홀",
+        "9홀",
+        "24홀"
+      ],
+      "answerIndex": 1,
+      "explanation": "골프 정규 한 라운드는 18홀이에요. 9홀 코스는 두 번 돌아 18홀을 채우기도 해요.",
+      "funFact": "골프의 고향 세인트앤드루스 올드 코스가 18홀로 정리되면서 표준이 됐어요."
+    },
+    {
+      "id": "sports-a9153c63",
+      "category": "sports",
+      "difficulty": 1,
+      "question": "골프에서 그린 위의 공을 굴려 홀에 넣을 때 주로 쓰는 클럽은?",
+      "choices": [
+        "아이언",
+        "웨지",
+        "드라이버",
+        "퍼터"
+      ],
+      "answerIndex": 3,
+      "explanation": "퍼터는 그린 위에서 공을 굴려 홀에 넣는 데 쓰는 클럽이에요.",
+      "funFact": "한 라운드 타수의 상당 부분이 퍼트에서 나와서 '드라이버는 쇼, 퍼트는 돈'이라는 말이 있어요."
+    },
+    {
+      "id": "sports-667a6013",
+      "category": "sports",
+      "difficulty": 1,
+      "question": "골프에서 홀의 첫 타를 칠 때 공을 올려놓는 작은 받침은?",
+      "choices": [
+        "디봇",
+        "티",
+        "마커",
+        "핀"
+      ],
+      "answerIndex": 1,
+      "explanation": "티잉 구역에서 첫 타를 칠 때 공을 티 위에 올려놓고 칠 수 있어요.",
+      "funFact": "나무 티가 나오기 전에는 젖은 모래를 쌓아 공을 올려놓았어요."
+    },
+    {
+      "id": "sports-39e90332",
+      "category": "sports",
+      "difficulty": 1,
+      "question": "골프 코스에서 모래로 채운 웅덩이 장애물은?",
+      "choices": [
+        "러프",
+        "페어웨이",
+        "벙커",
+        "그린"
+      ],
+      "answerIndex": 2,
+      "explanation": "벙커는 모래를 채운 움푹한 구역으로, 공이 빠지면 탈출하기가 까다로워요.",
+      "funFact": "벙커에서 연습 스윙을 하다 클럽이 모래에 닿으면 벌타를 받아요."
+    },
+    {
+      "id": "sports-3b891775",
+      "category": "sports",
+      "difficulty": 1,
+      "question": "배구에서 높이 뛰어올라 공을 상대 코트로 세게 내려치는 공격은?",
+      "choices": [
+        "디그",
+        "리시브",
+        "토스",
+        "스파이크"
+      ],
+      "answerIndex": 3,
+      "explanation": "공격수가 점프해서 네트 위의 공을 강하게 내려치는 것을 스파이크라고 해요.",
+      "funFact": "배구 '디그'는 상대 스파이크를 몸을 던져 받아 내는 수비를 말해요."
+    },
+    {
+      "id": "sports-389e23f1",
+      "category": "sports",
+      "difficulty": 1,
+      "question": "배구에서 공격수가 때리기 좋게 공을 올려 주는 선수는?",
+      "choices": [
+        "센터",
+        "세터",
+        "라이트",
+        "리베로"
+      ],
+      "answerIndex": 1,
+      "explanation": "세터는 두 번째 터치로 토스를 올려 공격을 조율해요. 그래서 '코트 위의 사령관'이라고 불려요.",
+      "funFact": "세터의 토스 방향을 읽히지 않으려고 등 뒤로 공을 올리는 '백토스'도 자주 써요."
+    },
+    {
+      "id": "sports-16e42e85",
+      "category": "sports",
+      "difficulty": 1,
+      "question": "비치발리볼은 한 팀이 몇 명으로 경기할까요?",
+      "choices": [
+        "3명",
+        "6명",
+        "4명",
+        "2명"
+      ],
+      "answerIndex": 3,
+      "explanation": "비치발리볼은 두 명이 한 팀이 되어 모래 코트에서 경기해요.",
+      "funFact": "선수 교체가 없어서 두 사람이 모든 수비와 공격을 맡아야 해요."
+    },
+    {
+      "id": "sports-033d7a0a",
+      "category": "sports",
+      "difficulty": 1,
+      "question": "아이스하키에서 공 대신 스틱으로 치는 고무 원반은?",
+      "choices": [
+        "퍽",
+        "셔틀",
+        "디스크볼",
+        "스톤"
+      ],
+      "answerIndex": 0,
+      "explanation": "아이스하키는 딱딱한 고무 원반인 퍽을 스틱으로 쳐서 골을 넣어요.",
+      "funFact": "경기 전에 퍽을 얼려 두는데, 그래야 얼음 위에서 덜 튀어요."
+    },
+    {
+      "id": "sports-0e089b81",
+      "category": "sports",
+      "difficulty": 2,
+      "question": "국제농구연맹(FIBA) 경기에서 한 쿼터는 몇 분일까요?",
+      "choices": [
+        "15분",
+        "12분",
+        "10분",
+        "8분"
+      ],
+      "answerIndex": 2,
+      "explanation": "FIBA 규칙은 10분씩 4쿼터, 모두 40분이에요. NBA는 12분씩 4쿼터로 48분이에요.",
+      "funFact": "우리나라 프로농구도 FIBA 규칙에 따라 10분 4쿼터로 경기해요."
+    },
+    {
+      "id": "sports-9bc04943",
+      "category": "sports",
+      "difficulty": 2,
+      "question": "농구에서 반칙을 당하면서 슛을 성공해 추가 자유투를 얻는 상황은?",
+      "choices": [
+        "원앤원",
+        "앤드원",
+        "더블 파울",
+        "바스켓 카운트 취소"
+      ],
+      "answerIndex": 1,
+      "explanation": "슛 동작 중 반칙을 당하고도 슛이 들어가면 득점이 인정되고 자유투 1개를 더 얻어요. 이를 앤드원이라고 해요.",
+      "funFact": "2점 슛에 앤드원이 성공하면 한 번의 공격으로 3점을 얻는 셈이에요."
+    },
+    {
+      "id": "sports-cf5552c3",
+      "category": "sports",
+      "difficulty": 2,
+      "question": "수비 팀 선수에 마지막으로 맞고 자기 골라인 밖으로 나가면 주어지는 킥은?",
+      "choices": [
+        "골킥",
+        "간접 프리킥",
+        "코너킥",
+        "스로인"
+      ],
+      "answerIndex": 2,
+      "explanation": "수비 팀이 마지막으로 건드린 공이 골문 밖 골라인을 넘으면 공격 팀이 코너킥을 얻어요. 공격 팀이 마지막이면 골킥이에요.",
+      "funFact": "코너킥을 직접 차서 넣은 골은 '올림픽 골'이라는 별명이 있어요."
+    },
+    {
+      "id": "sports-d79c72c5",
+      "category": "sports",
+      "difficulty": 2,
+      "question": "성인 축구 경기에서 쓰는 공식 공의 크기는?",
+      "choices": [
+        "5호",
+        "7호",
+        "3호",
+        "4호"
+      ],
+      "answerIndex": 0,
+      "explanation": "성인 정식 경기는 둘레 68~70cm의 5호 공을 써요. 어린이는 3호나 4호를 써요.",
+      "funFact": "농구에서는 성인 남자가 7호 공을 써서 '호수'의 기준이 종목마다 달라요."
+    },
+    {
+      "id": "sports-88c2d0fe",
+      "category": "sports",
+      "difficulty": 2,
+      "question": "축구에서 골키퍼나 팀이 한 골도 내주지 않은 경기를 이르는 말은?",
+      "choices": [
+        "해트트릭",
+        "멀티골",
+        "클린시트",
+        "자책골"
+      ],
+      "answerIndex": 2,
+      "explanation": "한 경기를 무실점으로 마치는 것을 클린시트라고 해요. 기록지에 실점이 없어 깨끗하다는 뜻이에요.",
+      "funFact": "야구에서는 상대를 무득점으로 막은 완투승을 '완봉'이라고 해요."
+    },
+    {
+      "id": "sports-66e58a37",
+      "category": "sports",
+      "difficulty": 2,
+      "question": "야구 투수의 평균자책점은 몇 이닝을 기준으로 계산할까요?",
+      "choices": [
+        "10이닝",
+        "9이닝",
+        "1이닝",
+        "5이닝"
+      ],
+      "answerIndex": 1,
+      "explanation": "평균자책점(ERA)은 자책점을 9이닝당 평균으로 환산한 값이에요. 낮을수록 좋은 투수예요.",
+      "funFact": "야구 정규 경기가 9이닝이라서 '한 경기를 다 던졌다면 몇 점 줬을까'를 뜻해요."
+    },
+    {
+      "id": "sports-f9868240",
+      "category": "sports",
+      "difficulty": 2,
+      "question": "야구에서 '타율 3할'은 몇 타수에 안타 3개꼴일까요?",
+      "choices": [
+        "30타수",
+        "10타수",
+        "3타수",
+        "100타수"
+      ],
+      "answerIndex": 1,
+      "explanation": "타율 3할은 0.300으로, 10타수에 안타 3개를 친 비율이에요. 볼넷 등은 타석 수에는 포함되지만 타수에서는 빠져요.",
+      "funFact": "이 말은 열 푼이 한 할이 되는 옛 비율 단위 '할·푼·리'에서 왔어요."
+    },
+    {
+      "id": "sports-6c35606a",
+      "category": "sports",
+      "difficulty": 2,
+      "question": "주자가 있을 때 투수가 규칙에 어긋난 투구 동작을 하는 반칙은?",
+      "choices": [
+        "폭투",
+        "낫아웃",
+        "보크",
+        "견제사"
+      ],
+      "answerIndex": 2,
+      "explanation": "보크가 선언되면 모든 주자가 한 베이스씩 자동으로 나아가요.",
+      "funFact": "주자를 속이려는 동작을 막기 위한 규칙이라 주자가 없을 때는 보크가 없어요."
+    },
+    {
+      "id": "sports-d977a927",
+      "category": "sports",
+      "difficulty": 2,
+      "question": "야구에서 상대 타자를 한 명도 출루시키지 않고 이긴 경기는?",
+      "choices": [
+        "완봉승",
+        "퍼펙트게임",
+        "콜드게임",
+        "노히트노런"
+      ],
+      "answerIndex": 1,
+      "explanation": "안타, 볼넷, 몸에 맞는 공, 실책 등 어떤 방법으로도 주자를 내보내지 않고 이기면 퍼펙트게임이에요.",
+      "funFact": "메이저리그에서도 한 시즌에 한 번 나오기 어려울 만큼 드문 기록이에요."
+    },
+    {
+      "id": "sports-e7058a3e",
+      "category": "sports",
+      "difficulty": 2,
+      "question": "야구에서 투수 대신 타석에만 들어서는 선수는?",
+      "choices": [
+        "유틸리티",
+        "대타",
+        "대주자",
+        "지명타자"
+      ],
+      "answerIndex": 3,
+      "explanation": "지명타자(DH)는 수비는 하지 않고 투수 대신 타격만 맡는 선수예요.",
+      "funFact": "야구에서는 한 번 교체돼 나간 선수가 그 경기에 다시 나설 수 없어요."
+    },
+    {
+      "id": "sports-f5cb60d8",
+      "category": "sports",
+      "difficulty": 2,
+      "question": "볼링에서 한 게임 내내 스트라이크만 쳤을 때의 점수는?",
+      "choices": [
+        "200점",
+        "120점",
+        "300점",
+        "360점"
+      ],
+      "answerIndex": 2,
+      "explanation": "12번 연속 스트라이크를 치면 각 프레임이 30점씩, 10프레임 합계 300점이 돼요. 이를 퍼펙트 게임이라고 해요.",
+      "funFact": "300점이 볼링에서 낼 수 있는 가장 높은 점수예요."
+    },
+    {
+      "id": "sports-f6423873",
+      "category": "sports",
+      "difficulty": 2,
+      "question": "볼링 10프레임에서 첫 공이 스트라이크면 최대 몇 번 던질까요?",
+      "choices": [
+        "5번",
+        "4번",
+        "3번",
+        "2번"
+      ],
+      "answerIndex": 2,
+      "explanation": "10프레임에서 스트라이크나 스페어를 하면 보너스 투구를 받아 최대 세 번까지 던질 수 있어요.",
+      "funFact": "그래서 퍼펙트 게임을 하려면 공을 모두 12번 던져야 해요."
+    },
+    {
+      "id": "sports-83874240",
+      "category": "sports",
+      "difficulty": 2,
+      "question": "볼링에서 남은 핀들이 서로 멀리 떨어져 있어 처리하기 어려운 상태는?",
+      "choices": [
+        "거터",
+        "더치맨",
+        "스플릿",
+        "포스"
+      ],
+      "answerIndex": 2,
+      "explanation": "헤드핀이 쓰러지고 남은 핀 사이가 벌어져 있으면 스플릿이에요. 스페어 처리가 어려워요.",
+      "funFact": "양쪽 끝 7번과 10번 핀만 남은 스플릿은 '골포스트'라고 불릴 만큼 처리하기 힘들어요."
+    },
+    {
+      "id": "sports-5d4a6e2d",
+      "category": "sports",
+      "difficulty": 2,
+      "question": "탁구에서 10 대 10 동점이 되면 게임을 이기는 조건은?",
+      "choices": [
+        "1점만 먼저 내면 된다",
+        "2점 차로 앞서야 한다",
+        "15점을 먼저 내야 한다",
+        "서브권을 가진 쪽이 이긴다"
+      ],
+      "answerIndex": 1,
+      "explanation": "탁구는 10 대 10 듀스가 되면 2점 차가 날 때까지 경기를 계속해요.",
+      "funFact": "그래서 11점 게임이라도 듀스가 길어지면 한 선수 점수가 20점을 넘기도 해요."
+    },
+    {
+      "id": "sports-9a408876",
+      "category": "sports",
+      "difficulty": 2,
+      "question": "탁구에서 라켓을 펜 쥐듯 잡는 그립은?",
+      "choices": [
+        "웨스턴",
+        "셰이크핸드",
+        "이스턴",
+        "펜홀더"
+      ],
+      "answerIndex": 3,
+      "explanation": "펜홀더는 펜을 잡듯 라켓을 쥐는 방식이고, 셰이크핸드는 악수하듯 쥐는 방식이에요.",
+      "funFact": "셰이크핸드는 악수하듯 라켓 손잡이를 감싸 쥐는 방식이에요."
+    },
+    {
+      "id": "sports-a9e35a66",
+      "category": "sports",
+      "difficulty": 3,
+      "question": "볼링 스트라이크의 보너스는 다음 몇 번의 투구 점수일까요?",
+      "choices": [
+        "3번",
+        "2번",
+        "보너스 없음",
+        "1번"
+      ],
+      "answerIndex": 1,
+      "explanation": "스트라이크는 10점에 다음 두 투구의 점수를, 스페어는 10점에 다음 한 투구의 점수를 더해요.",
+      "funFact": "그래서 연속 스트라이크가 이어질수록 점수가 빠르게 불어나요."
+    },
+    {
+      "id": "sports-ca699404",
+      "category": "sports",
+      "difficulty": 3,
+      "question": "탁구 서브 때 공을 손바닥에서 최소 몇 cm 이상 띄워야 할까요?",
+      "choices": [
+        "30cm",
+        "16cm",
+        "10cm",
+        "5cm"
+      ],
+      "answerIndex": 1,
+      "explanation": "탁구 서브는 펼친 손바닥 위의 공을 거의 수직으로 16cm 이상 띄운 뒤 쳐야 해요.",
+      "funFact": "이 규칙은 손에서 공을 바로 쳐서 회전을 숨기는 서브를 막으려고 생겼어요."
+    },
+    {
+      "id": "sports-7ffd75bc",
+      "category": "sports",
+      "difficulty": 3,
+      "question": "골프 샷을 할 때 클럽에 맞아 떨어져 나간 잔디 조각은?",
+      "choices": [
+        "에이프런",
+        "디봇",
+        "피치 마크",
+        "러프"
+      ],
+      "answerIndex": 1,
+      "explanation": "아이언 샷 등으로 공 아래 잔디가 함께 파여 나간 조각을 디봇이라고 해요.",
+      "funFact": "매너 있는 골퍼는 떨어진 디봇을 제자리에 다시 덮어 잔디가 회복되게 해요."
+    },
+    {
+      "id": "sports-010b826f",
+      "category": "sports",
+      "difficulty": 3,
+      "question": "골프 기본 규칙상 공이 OB 구역으로 나가면 어떻게 할까요?",
+      "choices": [
+        "2벌타 후 그린 근처에서 친다",
+        "그 홀을 포기하고 다음 홀로 간다",
+        "벌타 없이 나간 곳 근처에서 친다",
+        "1벌타 후 원래 친 곳에서 다시 친다"
+      ],
+      "answerIndex": 3,
+      "explanation": "OB가 나면 1벌타를 받고 직전에 친 곳에서 다시 쳐야 해요. 이를 '스트로크와 거리' 구제라고 해요.",
+      "funFact": "티샷이 OB가 나면 다시 치는 공이 세 번째 타가 돼요."
+    },
+    {
+      "id": "sports-82ec3e3b",
+      "category": "sports",
+      "difficulty": 3,
+      "question": "당구에서 큐를 거의 수직으로 세워 공이 크게 휘도록 치는 기술은?",
+      "choices": [
+        "팔로우",
+        "스탑샷",
+        "드로우",
+        "마세"
+      ],
+      "answerIndex": 3,
+      "explanation": "큐를 높이 세워 공의 옆 윗부분을 내리찍으면 강한 회전으로 공이 휘어 가요. 이를 마세라고 하고 흔히 '맛세이'라고도 불러요.",
+      "funFact": "마세는 프랑스어로 '망치'라는 뜻이에요."
+    },
+    {
+      "id": "sports-1012cebf",
+      "category": "sports",
+      "difficulty": 3,
+      "question": "배구에서 서브권을 되찾은 팀은 어느 방향으로 자리를 돌까요?",
+      "choices": [
+        "시계 방향",
+        "시계 반대 방향",
+        "앞뒤로 맞바꾼다",
+        "자유롭게 정한다"
+      ],
+      "answerIndex": 0,
+      "explanation": "서브권을 가져온 팀은 선수들이 시계 방향으로 한 칸씩 자리를 옮기는 로테이션을 해요.",
+      "funFact": "후위 선수도 공격선 뒤에서 뛰어올라 공격할 수 있어요. 전위 구역에서 도약해 네트보다 높은 공을 공격하면 반칙이에요."
+    },
+    {
+      "id": "sports-dc83380d",
+      "category": "sports",
+      "difficulty": 3,
+      "question": "실내 6인제 배구에서 팀 터치 횟수에 포함되지 않는 터치는?",
+      "choices": [
+        "블로킹 터치",
+        "토스 터치",
+        "리시브 터치",
+        "디그 터치"
+      ],
+      "answerIndex": 0,
+      "explanation": "블로킹으로 공을 건드린 것은 팀의 3번 터치에 세지 않아요. 그래서 블로킹 뒤에도 세 번 더 칠 수 있어요.",
+      "funFact": "블로킹한 선수는 이어서 바로 다시 공을 건드려도 반칙이 아니에요."
+    },
+    {
+      "id": "sports-d1d3c117",
+      "category": "sports",
+      "difficulty": 3,
+      "question": "럭비 유니언에서 한 팀은 경기장에 몇 명이 나설까요?",
+      "choices": [
+        "13명",
+        "11명",
+        "18명",
+        "15명"
+      ],
+      "answerIndex": 3,
+      "explanation": "럭비 유니언은 한 팀 15명, 럭비 리그는 13명, 7인제 럭비는 7명이 경기해요.",
+      "funFact": "럭비는 영국 럭비 스쿨에서 한 학생이 축구공을 들고 뛴 데서 시작됐다는 전설이 있어요."
+    },
+    {
+      "id": "sports-01e90fe2",
+      "category": "sports",
+      "difficulty": 3,
+      "question": "펜싱 세 종목 중 찌르기와 베기를 모두 득점으로 인정하는 것은?",
+      "choices": [
+        "에페",
+        "플뢰레",
+        "사브르",
+        "레이피어"
+      ],
+      "answerIndex": 2,
+      "explanation": "사브르는 허리 위 상체, 팔, 머리를 찌르거나 베어도 득점이에요. 플뢰레와 에페는 찌르기만 인정해요.",
+      "funFact": "사브르는 말을 탄 기병의 칼싸움에서 비롯돼 말 위로 드러난 상체만 노린다고 해요."
+    },
+    {
+      "id": "sports-bca51f95",
+      "category": "sports",
+      "difficulty": 3,
+      "question": "육상 세단뛰기의 동작 순서로 옳은 것은?",
+      "choices": [
+        "스텝-홉-점프",
+        "홉-스텝-점프",
+        "점프-스텝-홉",
+        "홉-점프-스텝"
+      ],
+      "answerIndex": 1,
+      "explanation": "세단뛰기는 한 발로 뛰어 같은 발로 딛고(홉), 반대 발로 딛고(스텝), 마지막에 두 발로 착지(점프)해요.",
+      "funFact": "그래서 영어 이름도 '홉, 스텝 앤 점프'로 불리곤 했어요."
+    },
+    {
+      "id": "sports-cfb040de",
+      "category": "sports",
+      "difficulty": 3,
+      "question": "남자 육상 10종 경기는 며칠에 걸쳐 치를까요?",
+      "choices": [
+        "4일",
+        "2일",
+        "1일",
+        "3일"
+      ],
+      "answerIndex": 1,
+      "explanation": "남자 10종 경기는 이틀 동안 하루 다섯 종목씩 치르고 종목별 점수를 더해 순위를 가려요.",
+      "funFact": "마지막 종목은 1500m 달리기여서 체력이 바닥난 상태로 뛰어야 해요."
+    },
+    {
+      "id": "sports-ffbfbda6",
+      "category": "sports",
+      "difficulty": 3,
+      "question": "세계육상 규칙에서 트랙 단거리 선수는 몇 번째 부정 출발에 실격일까요?",
+      "choices": [
+        "경고 후 두 번째",
+        "세 번째",
+        "첫 번째",
+        "두 번째"
+      ],
+      "answerIndex": 2,
+      "explanation": "현재 규칙은 부정 출발을 한 번만 해도 그 선수를 바로 실격시켜요.",
+      "funFact": "출발 신호 뒤 0.1초 안에 반응하면 소리를 듣기 전에 움직인 것으로 보고 부정 출발로 판정해요."
+    },
+    {
+      "id": "sports-ca3ba695",
+      "category": "sports",
+      "difficulty": 3,
+      "question": "알파인 스키에서 기문 간격이 가장 좁아 방향을 가장 자주 바꾸는 종목은?",
+      "choices": [
+        "슈퍼대회전",
+        "대회전",
+        "회전",
+        "활강"
+      ],
+      "answerIndex": 2,
+      "explanation": "회전(슬라롬)은 기문 사이가 가장 좁아 짧고 빠른 방향 전환을 반복해요. 활강은 반대로 속도가 가장 빠른 종목이에요.",
+      "funFact": "회전 선수들은 기문 폴을 쳐 넘기며 내려가서 정강이와 손에 보호대를 차요."
+    },
+    {
+      "id": "sports-fd96fcbc",
+      "category": "sports",
+      "difficulty": 3,
+      "question": "컬링 스톤 한 개의 무게는 약 얼마일까요?",
+      "choices": [
+        "약 10kg",
+        "약 5kg",
+        "약 35kg",
+        "약 20kg"
+      ],
+      "answerIndex": 3,
+      "explanation": "컬링 스톤은 최대 약 19.96kg(44파운드)까지 허용되는 화강암 돌이에요.",
+      "funFact": "공식 대회 스톤의 상당수가 스코틀랜드의 작은 섬 에일사 크레이그의 화강암으로 만들어져요."
+    },
+    {
+      "id": "sports-9b162f77",
+      "category": "sports",
+      "difficulty": 3,
+      "question": "피겨스케이팅 점프 중 유일하게 앞을 보며 뛰어오르는 점프는?",
+      "choices": [
+        "악셀",
+        "러츠",
+        "살코",
+        "토루프"
+      ],
+      "answerIndex": 0,
+      "explanation": "악셀은 앞으로 도약해 뒤로 착지하므로 같은 회전수라도 반 바퀴를 더 돌아요.",
+      "funFact": "이 점프는 1882년 처음 선보인 노르웨이 선수 악셀 파울센의 이름을 땄어요."
+    },
+    {
+      "id": "sports-29d3b5e7",
+      "category": "sports",
+      "difficulty": 1,
+      "question": "1896년 첫 근대 올림픽이 열린 도시는?",
+      "choices": [
+        "런던",
+        "아테네",
+        "로마",
+        "파리"
+      ],
+      "answerIndex": 1,
+      "explanation": "첫 근대 올림픽은 1896년 그리스 아테네에서 열렸어요. 고대 올림픽의 고향을 기리는 뜻이 담겼어요.",
+      "funFact": "첫 대회에는 남자 선수만 참가했고 여자 선수는 1900년 파리 대회부터 나왔어요."
+    },
+    {
+      "id": "sports-a3f932b9",
+      "category": "sports",
+      "difficulty": 1,
+      "question": "1988 서울 올림픽의 마스코트는?",
+      "choices": [
+        "수호랑",
+        "꿈돌이",
+        "반다비",
+        "호돌이"
+      ],
+      "answerIndex": 3,
+      "explanation": "서울 올림픽 마스코트는 상모를 쓴 아기 호랑이 호돌이예요. 한국 호랑이를 친근하게 표현했어요.",
+      "funFact": "여자 마스코트 '호순이'도 있었지만 실제로는 호돌이만 주로 쓰였어요."
+    },
+    {
+      "id": "sports-9ae30be6",
+      "category": "sports",
+      "difficulty": 1,
+      "question": "2018 평창 동계 올림픽의 백호 마스코트 이름은?",
+      "choices": [
+        "수호랑",
+        "반다비",
+        "꿈돌이",
+        "호돌이"
+      ],
+      "answerIndex": 0,
+      "explanation": "평창 올림픽 마스코트는 백호 수호랑이에요. 선수와 관중을 '수호'한다는 뜻이 담겼어요.",
+      "funFact": "평창 패럴림픽 마스코트는 반달가슴곰 반다비였어요."
+    },
+    {
+      "id": "sports-bc81966f",
+      "category": "sports",
+      "difficulty": 1,
+      "question": "아시아에서 처음으로 하계 올림픽이 열린 도시는?",
+      "choices": [
+        "베이징",
+        "서울",
+        "도쿄",
+        "방콕"
+      ],
+      "answerIndex": 2,
+      "explanation": "1964년 도쿄 올림픽이 아시아 최초의 하계 올림픽이에요. 일본은 이 대회에 맞춰 신칸센을 개통했어요.",
+      "funFact": "1964년 도쿄 올림픽의 성화 최종 주자는 원폭이 떨어진 날 히로시마에서 태어난 청년이었어요."
+    },
+    {
+      "id": "sports-9b31a518",
+      "category": "sports",
+      "difficulty": 1,
+      "question": "1936 베를린 올림픽 마라톤에서 금메달을 딴 한국인은?",
+      "choices": [
+        "손기정",
+        "황영조",
+        "서윤복",
+        "남승룡"
+      ],
+      "answerIndex": 0,
+      "explanation": "손기정 선수는 베를린 올림픽 마라톤에서 우승했지만 일제강점기라 일본 대표로 뛰어야 했어요.",
+      "funFact": "손기정 선수는 시상대에서 부상으로 받은 나무 화분으로 가슴의 일장기를 가렸어요."
+    },
+    {
+      "id": "sports-2ddbf991",
+      "category": "sports",
+      "difficulty": 1,
+      "question": "1992 바르셀로나 올림픽 마라톤 금메달리스트는?",
+      "choices": [
+        "손기정",
+        "김완기",
+        "황영조",
+        "이봉주"
+      ],
+      "answerIndex": 2,
+      "explanation": "황영조 선수는 바르셀로나 올림픽 마라톤에서 우승했어요. 손기정 선수 이후 56년 만의 한국인 마라톤 금메달이었어요.",
+      "funFact": "황영조 선수가 우승한 8월 9일은 손기정 선수가 베를린에서 우승한 날짜와 같았어요."
+    },
+    {
+      "id": "sports-c3b637c1",
+      "category": "sports",
+      "difficulty": 1,
+      "question": "2008 베이징 올림픽에서 금메달 8개를 딴 미국 수영 선수는?",
+      "choices": [
+        "마이클 펠프스",
+        "라이언 록티",
+        "마크 스피츠",
+        "이언 소프"
+      ],
+      "answerIndex": 0,
+      "explanation": "마이클 펠프스는 베이징 올림픽에서 출전한 8개 종목 모두 금메달을 땄어요.",
+      "funFact": "남자 100m 접영에서는 2위와 단 0.01초 차이로 이겼어요."
+    },
+    {
+      "id": "sports-372b5b16",
+      "category": "sports",
+      "difficulty": 1,
+      "question": "2008·2012·2016 올림픽 남자 100m를 3연패한 자메이카 선수는?",
+      "choices": [
+        "요한 블레이크",
+        "칼 루이스",
+        "아사파 파월",
+        "우사인 볼트"
+      ],
+      "answerIndex": 3,
+      "explanation": "우사인 볼트는 세 대회 연속 남자 100m와 200m 금메달을 땄어요. 2017년에 은퇴했어요.",
+      "funFact": "볼트는 우승 뒤 하늘을 향해 활을 쏘는 듯한 '번개 세리머니'로 유명했어요."
+    },
+    {
+      "id": "sports-cfe4fc97",
+      "category": "sports",
+      "difficulty": 1,
+      "question": "2010 밴쿠버 올림픽 피겨 여자 싱글 금메달리스트는?",
+      "choices": [
+        "최다빈",
+        "박소연",
+        "김연아",
+        "곽민정"
+      ],
+      "answerIndex": 2,
+      "explanation": "김연아 선수는 밴쿠버 올림픽에서 당시 세계 기록 점수로 금메달을 땄어요. 한국 피겨 첫 올림픽 메달이었어요.",
+      "funFact": "김연아 선수의 밴쿠버 프리스케이팅 곡은 거슈윈의 '피아노 협주곡 F장조'였어요."
+    },
+    {
+      "id": "sports-14329a42",
+      "category": "sports",
+      "difficulty": 1,
+      "question": "평창 올림픽에서 '영미~' 유행어를 낳은 종목은?",
+      "choices": [
+        "봅슬레이",
+        "스켈레톤",
+        "아이스하키",
+        "컬링"
+      ],
+      "answerIndex": 3,
+      "explanation": "평창 올림픽 여자 컬링 대표팀 김은정 선수가 동료 김영미 선수를 부르던 말이 유행어가 됐어요. 팀은 은메달을 땄어요.",
+      "funFact": "선수들의 성이 모두 김씨라 외신은 이 팀을 '팀 킴'이라 불렀어요."
+    },
+    {
+      "id": "sports-0ff9b716",
+      "category": "sports",
+      "difficulty": 1,
+      "question": "평창 올림픽 남자 스켈레톤에서 금메달을 딴 선수는?",
+      "choices": [
+        "윤성빈",
+        "원윤종",
+        "이상화",
+        "강광배"
+      ],
+      "answerIndex": 0,
+      "explanation": "윤성빈 선수는 평창 올림픽 스켈레톤에서 금메달을 땄어요. 아시아 선수 최초의 썰매 종목 금메달이었어요.",
+      "funFact": "윤성빈 선수는 고등학교 3학년 때 체육 선생님의 권유로 스켈레톤을 시작했어요."
+    },
+    {
+      "id": "sports-57c2d95f",
+      "category": "sports",
+      "difficulty": 1,
+      "question": "2008 베이징 올림픽 여자 역도에서 금메달을 딴 선수는?",
+      "choices": [
+        "전병관",
+        "장미란",
+        "윤진희",
+        "사재혁"
+      ],
+      "answerIndex": 1,
+      "explanation": "장미란 선수는 베이징 올림픽 여자 75kg 이상급에서 금메달을 땄어요.",
+      "funFact": "장미란 선수는 은퇴 후 2023년 문화체육관광부 제2차관이 됐어요."
+    },
+    {
+      "id": "sports-4b09bb57",
+      "category": "sports",
+      "difficulty": 1,
+      "question": "2008 베이징 올림픽 수영 자유형 400m 금메달리스트는?",
+      "choices": [
+        "최윤희",
+        "박태환",
+        "정다래",
+        "조오련"
+      ],
+      "answerIndex": 1,
+      "explanation": "박태환 선수는 베이징 올림픽 남자 자유형 400m에서 우승했어요. 한국 수영의 첫 올림픽 금메달이에요.",
+      "funFact": "박태환 선수는 같은 대회 자유형 200m에서도 은메달을 땄어요."
+    },
+    {
+      "id": "sports-bb978067",
+      "category": "sports",
+      "difficulty": 1,
+      "question": "2016 리우 올림픽에서 '할 수 있다'를 되뇌며 역전승한 펜싱 선수는?",
+      "choices": [
+        "남현희",
+        "김정환",
+        "박상영",
+        "구본길"
+      ],
+      "answerIndex": 2,
+      "explanation": "박상영 선수는 남자 에페 결승에서 10대14로 뒤지다 내리 5점을 따 금메달을 땄어요.",
+      "funFact": "쉬는 시간에 '할 수 있다'를 혼잣말하는 장면이 중계 화면에 잡혀 화제가 됐어요."
+    },
+    {
+      "id": "sports-03710236",
+      "category": "sports",
+      "difficulty": 1,
+      "question": "평창 올림픽 개막식 방송의 사전 촬영 영상에서 밤하늘에 오륜기를 그린 것은?",
+      "choices": [
+        "드론",
+        "열기구",
+        "풍선",
+        "불꽃놀이"
+      ],
+      "answerIndex": 0,
+      "explanation": "평창 올림픽 개막식 방송에는 1,218대 드론이 오륜기를 그리는 사전 촬영 영상이 나왔어요.",
+      "funFact": "이 드론 쇼는 가장 많은 드론을 동시에 띄운 기록으로 기네스북에 올랐어요."
+    },
+    {
+      "id": "sports-9cdceea2",
+      "category": "sports",
+      "difficulty": 1,
+      "question": "2018 동계 올림픽 개최지 평창은 어느 도에 있을까요?",
+      "choices": [
+        "강원도",
+        "전라북도",
+        "경기도",
+        "충청북도"
+      ],
+      "answerIndex": 0,
+      "explanation": "평창은 강원도에 있어요. 설상 경기는 평창과 정선, 빙상 경기는 강릉에서 주로 열렸어요.",
+      "funFact": "평창 올림픽에 맞춰 서울과 강릉을 잇는 KTX 경강선이 개통됐어요."
+    },
+    {
+      "id": "sports-5f6766bc",
+      "category": "sports",
+      "difficulty": 1,
+      "question": "2014년 아시안게임이 열린 한국 도시는?",
+      "choices": [
+        "광주",
+        "부산",
+        "인천",
+        "대구"
+      ],
+      "answerIndex": 2,
+      "explanation": "2014년 제17회 아시안게임은 인천에서 열렸어요. 한국에서 열린 세 번째 하계 아시안게임이었어요.",
+      "funFact": "한국에서는 1986년 서울, 2002년 부산에 이어 인천에서 하계 아시안게임이 열렸어요."
+    },
+    {
+      "id": "sports-a147b4e4",
+      "category": "sports",
+      "difficulty": 1,
+      "question": "한일 월드컵과 같은 해인 2002년 아시안게임 개최 도시는?",
+      "choices": [
+        "서울",
+        "대구",
+        "인천",
+        "부산"
+      ],
+      "answerIndex": 3,
+      "explanation": "2002년 제14회 아시안게임은 부산에서 열렸어요. 북한 선수단도 참가했어요.",
+      "funFact": "이 대회에는 북한 응원단이 와서 큰 관심을 받았어요."
+    },
+    {
+      "id": "sports-474810df",
+      "category": "sports",
+      "difficulty": 1,
+      "question": "1992 바르셀로나 올림픽 '드림팀'이 출전한 종목은?",
+      "choices": [
+        "농구",
+        "축구",
+        "야구",
+        "배구"
+      ],
+      "answerIndex": 0,
+      "explanation": "1992년 바르셀로나 올림픽부터 NBA 선수의 출전이 허용되면서 미국 농구 '드림팀'이 꾸려졌어요.",
+      "funFact": "드림팀에는 마이클 조던, 매직 존슨, 래리 버드가 함께 뛰었어요."
+    },
+    {
+      "id": "sports-be26acda",
+      "category": "sports",
+      "difficulty": 1,
+      "question": "1988 서울 올림픽 개막식에서 한 소년이 빈 운동장을 가로지르며 굴린 것은?",
+      "choices": [
+        "팽이",
+        "제기",
+        "굴렁쇠",
+        "공"
+      ],
+      "answerIndex": 2,
+      "explanation": "개막식에서 흰 옷을 입은 소년이 고요한 경기장을 혼자 굴렁쇠를 굴리며 가로질렀어요. 서울 올림픽의 명장면으로 꼽혀요.",
+      "funFact": "굴렁쇠 소년 윤태웅은 서울 올림픽 개최가 결정된 1981년 9월 30일에 태어났어요."
+    },
+    {
+      "id": "sports-b0c332c1",
+      "category": "sports",
+      "difficulty": 2,
+      "question": "1924년 첫 동계 올림픽이 열린 프랑스 도시는?",
+      "choices": [
+        "오슬로",
+        "생모리츠",
+        "샤모니",
+        "인스브루크"
+      ],
+      "answerIndex": 2,
+      "explanation": "첫 동계 올림픽은 1924년 프랑스 샤모니에서 열렸어요. 처음엔 '국제 동계 스포츠 주간'으로 불렸다가 나중에 올림픽으로 인정됐어요.",
+      "funFact": "샤모니는 알프스 최고봉 몽블랑 아래에 있는 마을이에요."
+    },
+    {
+      "id": "sports-176d6ffd",
+      "category": "sports",
+      "difficulty": 2,
+      "question": "1980 모스크바 올림픽 보이콧을 주도한 나라는?",
+      "choices": [
+        "영국",
+        "이탈리아",
+        "미국",
+        "프랑스"
+      ],
+      "answerIndex": 2,
+      "explanation": "미국은 소련의 아프가니스탄 침공에 항의해 모스크바 올림픽 보이콧을 이끌었어요. 한국도 불참했어요.",
+      "funFact": "영국과 프랑스 등 일부 나라는 국기 대신 올림픽기를 들고 참가했어요."
+    },
+    {
+      "id": "sports-8b5d4a77",
+      "category": "sports",
+      "difficulty": 2,
+      "question": "1984 LA 올림픽 보이콧을 주도한 나라는?",
+      "choices": [
+        "영국",
+        "루마니아",
+        "중국",
+        "소련"
+      ],
+      "answerIndex": 3,
+      "explanation": "소련은 1980년 보이콧에 맞서 1984년 LA 올림픽에 불참했고 동구권 여러 나라가 뒤따랐어요.",
+      "funFact": "루마니아는 동구권이면서도 LA 올림픽에 참가해 많은 메달을 땄어요."
+    },
+    {
+      "id": "sports-bc3ee57e",
+      "category": "sports",
+      "difficulty": 2,
+      "question": "'검은 9월' 테러 사건이 일어난 1972년 올림픽 개최 도시는?",
+      "choices": [
+        "멕시코시티",
+        "로마",
+        "몬트리올",
+        "뮌헨"
+      ],
+      "answerIndex": 3,
+      "explanation": "1972년 뮌헨 올림픽 때 팔레스타인 무장 단체 '검은 9월'이 이스라엘 선수단을 인질로 잡았어요. 인질 11명이 모두 숨졌어요.",
+      "funFact": "사건 다음 날 경기는 하루 중단되고 추도식이 열렸어요."
+    },
+    {
+      "id": "sports-d1509ad6",
+      "category": "sports",
+      "difficulty": 2,
+      "question": "성화 봉송이 처음 도입된 올림픽은?",
+      "choices": [
+        "1936 베를린",
+        "1928 암스테르담",
+        "1948 런던",
+        "1932 로스앤젤레스"
+      ],
+      "answerIndex": 0,
+      "explanation": "그리스 올림피아에서 채화한 불을 주자들이 이어 달려 개최지까지 옮기는 성화 봉송은 1936년 베를린 대회에서 시작됐어요.",
+      "funFact": "경기장에 성화대를 켜 둔 것은 1928년 암스테르담 대회가 먼저였어요."
+    },
+    {
+      "id": "sports-2a0b9e42",
+      "category": "sports",
+      "difficulty": 2,
+      "question": "1976 몬트리올 올림픽에서 체조 첫 10점 만점을 받은 선수는?",
+      "choices": [
+        "나디아 코마네치",
+        "베라 차슬라프스카",
+        "라리사 라티니나",
+        "올가 코르부트"
+      ],
+      "answerIndex": 0,
+      "explanation": "루마니아의 14살 소녀 나디아 코마네치가 이단평행봉에서 올림픽 체조 첫 10점 만점을 받았어요.",
+      "funFact": "전광판이 10.00을 표시할 수 없어 점수가 '1.00'으로 떴어요."
+    },
+    {
+      "id": "sports-dbacbb68",
+      "category": "sports",
+      "difficulty": 2,
+      "question": "1936 베를린 올림픽 육상에서 4관왕에 오른 미국 선수는?",
+      "choices": [
+        "제시 오언스",
+        "짐 소프",
+        "랠프 메트커프",
+        "칼 루이스"
+      ],
+      "answerIndex": 0,
+      "explanation": "흑인 선수 제시 오언스는 100m, 200m, 멀리뛰기, 400m 계주에서 금메달을 땄어요. 나치의 인종 우월주의 선전을 무색하게 했어요.",
+      "funFact": "멀리뛰기 경쟁자였던 독일의 루츠 롱과 오언스는 경기 뒤 깊은 우정을 나눴어요."
+    },
+    {
+      "id": "sports-dcf9faac",
+      "category": "sports",
+      "difficulty": 2,
+      "question": "1988 서울 올림픽 100m에서 약물로 금메달을 박탈당한 선수는?",
+      "choices": [
+        "칼 루이스",
+        "도너번 베일리",
+        "린퍼드 크리스티",
+        "벤 존슨"
+      ],
+      "answerIndex": 3,
+      "explanation": "캐나다의 벤 존슨은 100m에서 우승했지만 금지 약물이 검출돼 금메달을 빼앗겼어요. 금메달은 2위 칼 루이스에게 돌아갔어요.",
+      "funFact": "이 결승은 출전 선수 여럿이 나중에 약물 문제에 얽혀 '역사상 가장 더러운 경주'로도 불려요."
+    },
+    {
+      "id": "sports-9c0728d1",
+      "category": "sports",
+      "difficulty": 2,
+      "question": "1988 서울 올림픽 개막식에서 성화를 들고 주경기장에 처음 들어선 주자는?",
+      "choices": [
+        "손기정",
+        "이봉주",
+        "황영조",
+        "임춘애"
+      ],
+      "answerIndex": 0,
+      "explanation": "76세의 손기정 선수가 성화를 들고 주경기장에 들어와 임춘애 선수에게 건넸어요.",
+      "funFact": "손기정 선수는 기쁨에 겨워 껑충껑충 뛰며 트랙을 달렸어요."
+    },
+    {
+      "id": "sports-2878d245",
+      "category": "sports",
+      "difficulty": 2,
+      "question": "대한민국이 처음 태극기를 달고 참가한 하계 올림픽은?",
+      "choices": [
+        "1936 베를린",
+        "1948 런던",
+        "1952 헬싱키",
+        "1956 멜버른"
+      ],
+      "answerIndex": 1,
+      "explanation": "한국은 1948년 런던 올림픽에 'KOREA'라는 이름으로 처음 참가했어요. 역도와 복싱에서 동메달 2개를 땄어요.",
+      "funFact": "선수단은 배와 기차를 갈아타며 약 20일 만에 런던에 도착했어요."
+    },
+    {
+      "id": "sports-6e46cf97",
+      "category": "sports",
+      "difficulty": 2,
+      "question": "대한민국 첫 올림픽 금메달(1976, 양정모)이 나온 종목은?",
+      "choices": [
+        "레슬링",
+        "역도",
+        "유도",
+        "복싱"
+      ],
+      "answerIndex": 0,
+      "explanation": "양정모 선수는 1976년 몬트리올 올림픽 레슬링 자유형 62kg급에서 우승했어요. 광복 후 첫 올림픽 금메달이었어요.",
+      "funFact": "양정모 선수는 귀국 후 김포공항에서 서울 시내까지 카퍼레이드를 했어요."
+    },
+    {
+      "id": "sports-2587d32e",
+      "category": "sports",
+      "difficulty": 2,
+      "question": "1992년 김기훈이 한국 첫 동계 올림픽 금메달을 딴 종목은?",
+      "choices": [
+        "스피드스케이팅",
+        "쇼트트랙",
+        "피겨스케이팅",
+        "알파인 스키"
+      ],
+      "answerIndex": 1,
+      "explanation": "김기훈 선수는 1992년 알베르빌 올림픽 쇼트트랙 남자 1000m에서 우승했어요. 쇼트트랙이 정식 종목이 된 첫 대회였어요.",
+      "funFact": "김기훈 선수는 같은 대회 남자 5000m 계주에서도 금메달을 땄어요."
+    },
+    {
+      "id": "sports-4cb09a81",
+      "category": "sports",
+      "difficulty": 2,
+      "question": "평창 올림픽에서 남북 단일팀이 출전한 종목은?",
+      "choices": [
+        "쇼트트랙",
+        "여자 아이스하키",
+        "봅슬레이",
+        "컬링"
+      ],
+      "answerIndex": 1,
+      "explanation": "평창 올림픽 여자 아이스하키에는 남북 단일팀 '코리아'가 출전했어요. 올림픽 사상 첫 남북 단일팀이었어요.",
+      "funFact": "단일팀의 일본전 골은 랜디 희수 그리핀 선수가 넣었어요."
+    },
+    {
+      "id": "sports-6e0c5902",
+      "category": "sports",
+      "difficulty": 2,
+      "question": "평창은 몇 번째 도전 끝에 동계 올림픽 유치에 성공했을까요?",
+      "choices": [
+        "네 번째",
+        "첫 번째",
+        "두 번째",
+        "세 번째"
+      ],
+      "answerIndex": 3,
+      "explanation": "평창은 2010년, 2014년 대회 유치에 실패한 뒤 세 번째 도전에서 2018년 대회를 따냈어요.",
+      "funFact": "앞선 두 번은 각각 밴쿠버와 소치에 결선 투표에서 근소하게 졌어요."
+    },
+    {
+      "id": "sports-9a6870ad",
+      "category": "sports",
+      "difficulty": 2,
+      "question": "남북한이 올림픽 개막식에서 처음 공동 입장한 대회는?",
+      "choices": [
+        "2004 아테네",
+        "1988 서울",
+        "2000 시드니",
+        "1996 애틀랜타"
+      ],
+      "answerIndex": 2,
+      "explanation": "2000년 시드니 올림픽 개막식에서 남북한 선수단이 한반도기를 들고 처음 함께 입장했어요.",
+      "funFact": "이때 남북 선수단은 'KOREA'라는 이름으로 함께 걸었어요."
+    },
+    {
+      "id": "sports-82ac1c9d",
+      "category": "sports",
+      "difficulty": 3,
+      "question": "1988 올림픽 개최권을 두고 서울과 경쟁한 일본 도시는?",
+      "choices": [
+        "삿포로",
+        "요코하마",
+        "나고야",
+        "오사카"
+      ],
+      "answerIndex": 2,
+      "explanation": "서울은 1981년 IOC 총회 투표에서 나고야를 52대27로 이기고 1988년 올림픽을 따냈어요.",
+      "funFact": "당시에는 나고야가 유리하다는 전망이 많아 서울의 승리는 이변으로 받아들여졌어요."
+    },
+    {
+      "id": "sports-dd15398a",
+      "category": "sports",
+      "difficulty": 3,
+      "question": "1981년 서울의 올림픽 유치가 결정된 서독 도시는?",
+      "choices": [
+        "프랑크푸르트",
+        "뮌헨",
+        "바덴바덴",
+        "본"
+      ],
+      "answerIndex": 2,
+      "explanation": "1981년 9월 30일 서독 바덴바덴 IOC 총회에서 사마란치 위원장이 '쎄울, 코리아'를 발표했어요.",
+      "funFact": "'바덴바덴의 기적'이라는 말이 이때 생겼어요."
+    },
+    {
+      "id": "sports-957acd97",
+      "category": "sports",
+      "difficulty": 3,
+      "question": "1988 서울 올림픽의 공식 표어는?",
+      "choices": [
+        "꿈은 이루어진다",
+        "하나 된 열정",
+        "화합과 전진",
+        "평화와 번영"
+      ],
+      "answerIndex": 2,
+      "explanation": "서울 올림픽의 표어는 '화합과 전진(Harmony and Progress)'이었어요. '하나 된 열정'은 평창 올림픽의 표어예요.",
+      "funFact": "서울 올림픽은 1976년 이후 처음으로 동서 양 진영이 대부분 함께 참가한 대회였어요."
+    },
+    {
+      "id": "sports-794b920a",
+      "category": "sports",
+      "difficulty": 3,
+      "question": "2011년 평창의 유치가 확정된 IOC 총회가 열린 도시는?",
+      "choices": [
+        "코펜하겐",
+        "더반",
+        "프라하",
+        "과테말라시티"
+      ],
+      "answerIndex": 1,
+      "explanation": "평창은 2011년 남아공 더반 IOC 총회 1차 투표에서 과반을 얻어 2018년 대회를 따냈어요.",
+      "funFact": "과테말라시티와 프라하는 평창이 앞선 두 번의 유치전에서 고배를 마신 총회 개최지예요."
+    },
+    {
+      "id": "sports-59c951a9",
+      "category": "sports",
+      "difficulty": 3,
+      "question": "2018 동계 올림픽 유치전에서 평창과 경쟁한 독일 도시는?",
+      "choices": [
+        "뮌헨",
+        "슈투트가르트",
+        "베를린",
+        "함부르크"
+      ],
+      "answerIndex": 0,
+      "explanation": "2018년 대회 유치전에는 평창, 독일 뮌헨, 프랑스 안시가 나섰어요. 평창이 63표를 얻어 뮌헨(25표)을 크게 앞섰어요.",
+      "funFact": "뮌헨은 1972년 하계 올림픽을 개최한 도시예요."
+    },
+    {
+      "id": "sports-3dbc241f",
+      "category": "sports",
+      "difficulty": 3,
+      "question": "1936 베를린 올림픽 마라톤에서 동메달을 딴 한국인은?",
+      "choices": [
+        "서윤복",
+        "남승룡",
+        "김은배",
+        "권태하"
+      ],
+      "answerIndex": 1,
+      "explanation": "남승룡 선수는 손기정 선수와 함께 베를린 올림픽 마라톤에 나가 3위를 했어요.",
+      "funFact": "김은배와 권태하는 1932년 LA 올림픽 마라톤에 나선 조선인 선수들이에요."
+    },
+    {
+      "id": "sports-8349d696",
+      "category": "sports",
+      "difficulty": 3,
+      "question": "1984 LA 올림픽에서 한국 양궁 첫 금메달을 딴 선수는?",
+      "choices": [
+        "이은경",
+        "서향순",
+        "김수녕",
+        "김진호"
+      ],
+      "answerIndex": 1,
+      "explanation": "서향순 선수는 1984년 LA 올림픽 여자 개인전에서 우승해 한국 양궁 첫 올림픽 금메달을 땄어요.",
+      "funFact": "서향순 선수는 당시 고등학생이었어요."
+    },
+    {
+      "id": "sports-1c18d462",
+      "category": "sports",
+      "difficulty": 3,
+      "question": "1896년 첫 근대 올림픽 마라톤에서 우승한 그리스 선수는?",
+      "choices": [
+        "하릴라오스 바실라코스",
+        "스피리돈 루이스",
+        "아베베 비킬라",
+        "에밀 자토펙"
+      ],
+      "answerIndex": 1,
+      "explanation": "그리스의 물 배달꾼 출신 스피리돈 루이스가 첫 올림픽 마라톤에서 우승해 국민 영웅이 됐어요.",
+      "funFact": "아테네 올림픽 주경기장의 공식 이름에 그의 이름이 붙어 있어요."
+    },
+    {
+      "id": "sports-e57c0009",
+      "category": "sports",
+      "difficulty": 3,
+      "question": "1960 로마 올림픽 마라톤을 맨발로 달려 우승한 선수는?",
+      "choices": [
+        "에밀 자토펙",
+        "아베베 비킬라",
+        "프랭크 쇼터",
+        "마모 월데"
+      ],
+      "answerIndex": 1,
+      "explanation": "에티오피아의 아베베 비킬라는 로마 올림픽 마라톤을 맨발로 달려 우승했어요. 아프리카 흑인 선수 첫 올림픽 금메달이었어요.",
+      "funFact": "그는 4년 뒤 도쿄 올림픽에서는 신발을 신고 달려 마라톤 2연패를 이뤘어요."
+    },
+    {
+      "id": "sports-288861b3",
+      "category": "sports",
+      "difficulty": 3,
+      "question": "1968년 등을 바 쪽으로 돌려 넘는 높이뛰기로 우승한 선수는?",
+      "choices": [
+        "딕 포스베리",
+        "하비에르 소토마요르",
+        "밥 비먼",
+        "발레리 브루멜"
+      ],
+      "answerIndex": 0,
+      "explanation": "미국의 딕 포스베리는 1968년 멕시코시티 올림픽에서 배면뛰기로 금메달을 땄어요. 이 기술은 '포스베리 플롭'이라 불려요.",
+      "funFact": "푹신한 착지 매트가 보급되면서 등으로 떨어지는 이 기술이 가능해졌어요."
+    },
+    {
+      "id": "sports-4a3cd4c2",
+      "category": "sports",
+      "difficulty": 3,
+      "question": "마라톤 경주가 처음 42.195km 코스로 치러진 올림픽은?",
+      "choices": [
+        "1900 파리",
+        "1908 런던",
+        "1896 아테네",
+        "1912 스톡홀름"
+      ],
+      "answerIndex": 1,
+      "explanation": "1908년 런던 올림픽 마라톤이 윈저성에서 출발해 경기장 왕실 관람석 앞에서 끝나도록 짜이면서 42.195km가 됐어요. 이 거리는 1921년 공식 표준이 됐어요.",
+      "funFact": "이 대회 마라톤에서 결승선 앞에서 쓰러진 이탈리아의 도란도 피에트리는 부축을 받아 실격됐어요."
+    },
+    {
+      "id": "sports-38858fc7",
+      "category": "sports",
+      "difficulty": 3,
+      "question": "2021년 IOC가 올림픽 표어에 새로 더한 말은?",
+      "choices": [
+        "더 아름답게",
+        "더 공정하게",
+        "더 멀리",
+        "다 함께"
+      ],
+      "answerIndex": 3,
+      "explanation": "IOC는 2021년 '더 빨리, 더 높이, 더 힘차게' 뒤에 '다 함께(Together)'를 덧붙였어요.",
+      "funFact": "원래 표어는 쿠베르탱의 친구였던 앙리 디동 신부가 처음 쓴 말이에요."
+    },
+    {
+      "id": "sports-707bdc2d",
+      "category": "sports",
+      "difficulty": 3,
+      "question": "2014 소치 올림픽 피겨 여자 싱글 금메달리스트는?",
+      "choices": [
+        "카롤리나 코스트너",
+        "예브게니야 메드베데바",
+        "아델리나 소트니코바",
+        "율리야 리프니츠카야"
+      ],
+      "answerIndex": 2,
+      "explanation": "러시아의 아델리나 소트니코바가 금메달을 땄고 김연아 선수는 은메달을 받았어요. 판정을 두고 큰 논란이 일었어요.",
+      "funFact": "김연아 선수는 소치 올림픽을 끝으로 현역에서 은퇴했어요."
+    },
+    {
+      "id": "sports-4d224a16",
+      "category": "sports",
+      "difficulty": 3,
+      "question": "1912~1948년 올림픽에서 메달을 준 스포츠가 아닌 분야는?",
+      "choices": [
+        "예술 경연",
+        "웅변",
+        "요리",
+        "체스"
+      ],
+      "answerIndex": 0,
+      "explanation": "이 시기 올림픽에는 스포츠를 주제로 한 건축, 문학, 음악, 회화, 조각 경연이 있었어요.",
+      "funFact": "쿠베르탱도 가명으로 시를 출품해 1912년 문학 부문 금메달을 받았어요."
+    },
+    {
+      "id": "sports-a7569513",
+      "category": "sports",
+      "difficulty": 3,
+      "question": "1972 뮌헨 올림픽 수영에서 금메달 7개를 딴 미국 선수는?",
+      "choices": [
+        "돈 쇼랜더",
+        "맷 비온디",
+        "마크 스피츠",
+        "이언 소프"
+      ],
+      "answerIndex": 2,
+      "explanation": "마크 스피츠는 뮌헨 올림픽에서 출전한 7개 종목 모두 세계 기록으로 금메달을 땄어요.",
+      "funFact": "스피츠는 콧수염을 기르고 경기에 나서 '콧수염이 물의 저항을 줄여 준다'는 농담을 했어요."
+    },
+    {
+      "id": "sports-31be3324",
+      "category": "sports",
+      "difficulty": 1,
+      "question": "양궁 과녁의 가장 안쪽 원에 맞히면 몇 점일까요?",
+      "choices": [
+        "5점",
+        "9점",
+        "10점",
+        "100점"
+      ],
+      "answerIndex": 2,
+      "explanation": "양궁 과녁은 바깥 1점부터 가장 안쪽 10점까지 10개의 고리로 나뉘어 있어요.",
+      "funFact": "과녁 중심에는 더 작은 X 원이 있어요. 동점 처리 방식은 예선과 토너먼트 등 경기 방식에 따라 달라요."
+    }
+  ]
+}

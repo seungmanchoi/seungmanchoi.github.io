@@ -4,49 +4,6 @@
   "date": "2026-12-12",
   "questions": [
     {
-      "id": "history-056960dc",
-      "category": "history",
-      "difficulty": 1,
-      "question": "훈민정음을 창제한 조선의 왕은?",
-      "choices": [
-        "세조",
-        "태종",
-        "정조",
-        "세종대왕"
-      ],
-      "answerIndex": 3,
-      "explanation": "세종대왕은 1443년에 훈민정음을 만들고 1446년에 반포했어요. 백성이 쉽게 글을 익혀 쓰도록 하려는 뜻이었어요.",
-      "funFact": "훈민정음은 '백성을 가르치는 바른 소리'라는 뜻이에요."
-    },
-    {
-      "id": "science-5992bea7",
-      "category": "science",
-      "difficulty": 1,
-      "question": "식물이 광합성을 할 때 공기 중에서 흡수하는 기체는?",
-      "choices": [
-        "이산화탄소",
-        "산소",
-        "질소",
-        "수소"
-      ],
-      "answerIndex": 0,
-      "explanation": "식물은 잎의 기공으로 이산화탄소를 흡수해요. 이것과 물, 빛으로 양분을 만들고 산소를 내보내요."
-    },
-    {
-      "id": "korean-757131ce",
-      "category": "korean",
-      "difficulty": 1,
-      "question": "속담 '낮말은 새가 듣고 밤말은 쥐가 듣는다'의 교훈은?",
-      "choices": [
-        "말을 조심해야 한다",
-        "부지런히 일해야 한다",
-        "남의 일에 나서지 마라",
-        "친구를 많이 사귀어라"
-      ],
-      "answerIndex": 0,
-      "explanation": "아무도 없는 것 같아도 말은 어디선가 새어 나갈 수 있어요. 그래서 항상 말을 조심하라는 뜻이에요."
-    },
-    {
       "id": "economy-2f2a80c7",
       "category": "economy",
       "difficulty": 1,
@@ -59,6 +16,49 @@
       ],
       "answerIndex": 3,
       "explanation": "경제 주체 중 기업은 상품과 서비스를 생산해 판매하고 이윤을 얻어요. 가계는 소비하고 노동을 제공하는 주체예요."
+    },
+    {
+      "id": "science-b5173785",
+      "category": "science",
+      "difficulty": 1,
+      "question": "고구마에서 우리가 먹는 부분은 식물의 어느 기관일까요?",
+      "choices": [
+        "잎",
+        "뿌리",
+        "줄기",
+        "열매"
+      ],
+      "answerIndex": 1,
+      "explanation": "고구마는 뿌리에 양분이 쌓여 굵어진 덩이뿌리예요. 줄기가 변한 감자와는 다른 기관이에요.",
+      "funFact": "고구마는 메꽃과 식물이라 나팔꽃과 비슷한 꽃이 피어요."
+    },
+    {
+      "id": "life-d3edfba2",
+      "category": "life",
+      "difficulty": 1,
+      "question": "한파 때 수도관이 얼어 터지지 않게 하는 방법은?",
+      "choices": [
+        "물을 조금 틀어 두기",
+        "창문 열어 두기",
+        "보일러 끄기",
+        "계량기 보온재 빼기"
+      ],
+      "answerIndex": 0,
+      "explanation": "물이 계속 흐르면 쉽게 얼지 않아요. 계량기함은 헌 옷 등으로 채워 보온하는 게 좋아요."
+    },
+    {
+      "id": "korean-9ddbb1bb",
+      "category": "korean",
+      "difficulty": 1,
+      "question": "여자가 언니의 남편을 부르는 말은?",
+      "choices": [
+        "매형",
+        "제부",
+        "아주버님",
+        "형부"
+      ],
+      "answerIndex": 3,
+      "explanation": "언니의 남편은 '형부'라고 불러요. 남자는 누나의 남편을 '매형'이라고 해요."
     },
     {
       "id": "history-a4a34482",
@@ -75,32 +75,34 @@
       "explanation": "독립신문은 1896년 서재필이 만든 우리나라 최초의 민간 신문이에요. 한글판과 영문판을 함께 펴냈어요."
     },
     {
-      "id": "korean-4eeb4032",
-      "category": "korean",
+      "id": "sports-0a44f183",
+      "category": "sports",
       "difficulty": 2,
-      "question": "'저녁을 먹고 ○○○를 했어요'의 빈칸에 알맞은 표기는?",
+      "question": "쿠베르탱이 고안해 1912년 올림픽에 처음 도입한 종목은?",
       "choices": [
-        "설겆이",
-        "설것이",
-        "설거지",
-        "설거찌"
+        "트라이애슬론",
+        "7종 경기",
+        "근대5종",
+        "바이애슬론"
       ],
       "answerIndex": 2,
-      "explanation": "그릇을 씻는 일은 '설거지'가 표준어예요. '설겆이'는 옛 표기라서 지금은 쓰지 않아요."
+      "explanation": "근대5종은 쿠베르탱이 군인이 갖춰야 할 능력을 바탕으로 만든 종목이에요. 1912년 스톡홀름 올림픽에서 처음 열렸어요.",
+      "funFact": "적진을 넘어 소식을 전하는 기병 장교의 이야기를 바탕으로 펜싱, 수영, 승마, 사격, 달리기를 묶었어요."
     },
     {
-      "id": "economy-858a9523",
-      "category": "economy",
+      "id": "space-a3a21a28",
+      "category": "space",
       "difficulty": 2,
-      "question": "주식회사가 이익의 일부를 주주에게 나눠 주는 돈은?",
+      "question": "1889년 창업한 닌텐도가 처음 만든 상품은?",
       "choices": [
-        "퇴직금",
-        "배당금",
-        "월급",
-        "이자"
+        "화투(하나후다)",
+        "자전거",
+        "라디오",
+        "장난감 로봇"
       ],
-      "answerIndex": 1,
-      "explanation": "회사가 번 이익 가운데 일부를 주식을 가진 주주에게 지분에 따라 나눠 주는 돈을 배당금이라고 해요."
+      "answerIndex": 0,
+      "explanation": "닌텐도는 1889년 일본 교토에서 화투의 일종인 하나후다를 만드는 회사로 시작했어요.",
+      "funFact": "닌텐도는 게임기로 유명해진 뒤에도 일본에서 화투와 트럼프 카드를 계속 팔고 있어요."
     },
     {
       "id": "geography-8b68b31e",
@@ -118,20 +120,6 @@
       "funFact": "현지에서는 '천둥 치는 연기'라는 뜻의 이름으로 불러요."
     },
     {
-      "id": "life-4691b77f",
-      "category": "life",
-      "difficulty": 3,
-      "question": "돌 전 아기에게 꿀을 먹이면 안 되는 이유는?",
-      "choices": [
-        "당분이 너무 높아서",
-        "알코올이 들어 있어서",
-        "보툴리눔균 포자 때문",
-        "철분 흡수를 막아서"
-      ],
-      "answerIndex": 2,
-      "explanation": "꿀에는 보툴리눔균 포자가 들어 있을 수 있어요. 만 1세 미만 아기는 장이 미숙해 영아 보툴리누스증에 걸릴 위험이 있어요."
-    },
-    {
       "id": "culture-1facc1f4",
       "category": "culture",
       "difficulty": 3,
@@ -144,6 +132,21 @@
       ],
       "answerIndex": 1,
       "explanation": "『데카메론』은 보카치오가 쓴 이야기 모음집이에요. 흑사병을 피해 교외로 간 열 사람이 백 편의 이야기를 나누는 구성이에요."
+    },
+    {
+      "id": "nature-ae4aa141",
+      "category": "nature",
+      "difficulty": 3,
+      "question": "따뜻한 해류와 차가운 해류가 만나 좋은 어장이 형성되는 곳은?",
+      "choices": [
+        "해령",
+        "무풍대",
+        "환류 중심",
+        "조경 수역"
+      ],
+      "answerIndex": 3,
+      "explanation": "난류와 한류가 만나는 조경 수역은 영양분과 플랑크톤이 풍부해 물고기가 많이 모여요.",
+      "funFact": "우리나라 동해도 북쪽에서 내려오는 한류와 남쪽에서 올라오는 난류가 만나 어종이 풍부해요."
     }
   ]
 }

@@ -1,0 +1,151 @@
+{
+  "version": 1,
+  "id": "daily-2027-03-04",
+  "date": "2027-03-04",
+  "questions": [
+    {
+      "id": "history-961ec4f4",
+      "category": "history",
+      "difficulty": 1,
+      "question": "1940년 영국 총리에 취임해 나치 독일에 대한 항전을 이끈 정치가는?",
+      "choices": [
+        "글래드스턴",
+        "애틀리",
+        "처칠",
+        "디즈레일리"
+      ],
+      "answerIndex": 2,
+      "explanation": "윈스턴 처칠은 1940년 총리가 되어 끝까지 독일에 맞서자고 국민을 이끌었어요. 회고록으로 노벨 문학상도 받았어요."
+    },
+    {
+      "id": "economy-807665bf",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "경기 순환에서 생산과 소비가 가장 활발한 국면은?",
+      "choices": [
+        "후퇴",
+        "불황",
+        "회복",
+        "호황"
+      ],
+      "answerIndex": 3,
+      "explanation": "호황은 생산·소비·고용이 모두 활발한 시기예요. 경기는 보통 회복, 호황, 후퇴, 불황을 되풀이해요.",
+      "funFact": "호황이 지나치게 달아오르면 물가가 오르는 과열이 나타나기도 해요."
+    },
+    {
+      "id": "korean-e1757be6",
+      "category": "korean",
+      "difficulty": 1,
+      "question": "사자성어 '적반하장'의 뜻으로 알맞은 것은?",
+      "choices": [
+        "잘못한 쪽이 도리어 큰소리침",
+        "적을 반갑게 맞음",
+        "힘을 합쳐 적을 물리침",
+        "잘못을 깨끗이 인정함"
+      ],
+      "answerIndex": 0,
+      "explanation": "도둑이 도리어 매를 든다는 뜻으로, 잘못한 사람이 오히려 화를 내는 것을 말해요."
+    },
+    {
+      "id": "life-9ea3c85a",
+      "category": "life",
+      "difficulty": 1,
+      "question": "화상으로 생긴 물집은 어떻게 하는 게 좋을까요?",
+      "choices": [
+        "바늘로 터뜨리기",
+        "된장 바르기",
+        "터뜨리지 않기",
+        "치약 바르기"
+      ],
+      "answerIndex": 2,
+      "explanation": "물집은 상처를 세균으로부터 지켜 주는 막 역할을 해요. 일부러 터뜨리면 감염 위험이 커지니 그대로 두고 진료를 받아요."
+    },
+    {
+      "id": "science-d85cb91f",
+      "category": "science",
+      "difficulty": 2,
+      "question": "삼엽충이 번성해 대표 표준 화석이 되는 지질 시대는?",
+      "choices": [
+        "중생대",
+        "선캄브리아대",
+        "신생대",
+        "고생대"
+      ],
+      "answerIndex": 3,
+      "explanation": "삼엽충은 고생대 바다에 번성하다 고생대 말에 멸종했어요. 그래서 삼엽충 화석이 나오면 고생대 지층임을 알 수 있어요."
+    },
+    {
+      "id": "space-414a4805",
+      "category": "space",
+      "difficulty": 2,
+      "question": "운영체제 리눅스의 마스코트 동물은?",
+      "choices": [
+        "여우",
+        "고래",
+        "펭귄",
+        "코끼리"
+      ],
+      "answerIndex": 2,
+      "explanation": "리눅스의 마스코트는 '턱스(Tux)'라는 이름의 통통한 펭귄이에요.",
+      "funFact": "리눅스를 만든 리누스 토르발스가 여행 중 펭귄에게 물린 뒤 펭귄을 좋아하게 됐다는 농담 섞인 일화가 있어요."
+    },
+    {
+      "id": "culture-bf2aed30",
+      "category": "culture",
+      "difficulty": 2,
+      "question": "봄을 맞아 서로 색 가루와 물감을 뿌리는 인도의 축제는?",
+      "choices": [
+        "디왈리",
+        "홀리",
+        "나담",
+        "라마단"
+      ],
+      "answerIndex": 1,
+      "explanation": "홀리는 봄의 시작을 축하하며 사람들이 서로 색 가루를 던지는 힌두교 축제예요.",
+      "funFact": "디왈리는 등불을 밝히는 인도의 '빛의 축제'예요."
+    },
+    {
+      "id": "geography-d158e8d1",
+      "category": "geography",
+      "difficulty": 3,
+      "question": "스페인 왕 펠리페 2세의 이름에서 나라 이름이 온 아시아 나라는?",
+      "choices": [
+        "필리핀",
+        "인도네시아",
+        "말레이시아",
+        "브루나이"
+      ],
+      "answerIndex": 0,
+      "explanation": "필리핀이라는 이름은 16세기 스페인 왕 펠리페 2세에게서 따왔어요. 300년 넘게 스페인의 지배를 받았어요."
+    },
+    {
+      "id": "korean-dedfcd4f",
+      "category": "korean",
+      "difficulty": 3,
+      "question": "오징어 '한 축'은 몇 마리일까요?",
+      "choices": [
+        "24마리",
+        "20마리",
+        "10마리",
+        "100마리"
+      ],
+      "answerIndex": 1,
+      "explanation": "오징어를 셀 때 한 축은 스무 마리를 말해요.",
+      "funFact": "김은 100장을 '한 톳'이라고 세어요."
+    },
+    {
+      "id": "history-e8338511",
+      "category": "history",
+      "difficulty": 3,
+      "question": "14세기 아프리카와 아시아를 두루 여행한 모로코 출신 여행가는?",
+      "choices": [
+        "정화",
+        "이븐 시나",
+        "마르코 폴로",
+        "이븐 바투타"
+      ],
+      "answerIndex": 3,
+      "explanation": "이븐 바투타는 약 30년 동안 아프리카, 서아시아, 인도, 중국까지 여행했어요. 그의 이야기는 여행기로 정리되었어요."
+    }
+  ]
+}

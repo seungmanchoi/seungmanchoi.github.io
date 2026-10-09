@@ -1,0 +1,154 @@
+{
+  "version": 1,
+  "id": "daily-2027-01-23",
+  "date": "2027-01-23",
+  "questions": [
+    {
+      "id": "geography-1fdcd9b9",
+      "category": "geography",
+      "difficulty": 1,
+      "question": "한반도 육지의 남쪽 끝 '땅끝마을'이 있는 전남의 군은?",
+      "choices": [
+        "진도군",
+        "완도군",
+        "고흥군",
+        "해남군"
+      ],
+      "answerIndex": 3,
+      "explanation": "땅끝마을은 전남 해남군 송지면에 있어 한반도 육지의 남쪽 끝으로 알려져 있어요.",
+      "funFact": "땅끝마을에는 땅끝임을 알리는 탑과 전망대가 세워져 있어요."
+    },
+    {
+      "id": "history-1a7dc81e",
+      "category": "history",
+      "difficulty": 1,
+      "question": "6·25 전쟁의 정전 협정이 맺어진 해는?",
+      "choices": [
+        "1953년",
+        "1951년",
+        "1950년",
+        "1955년"
+      ],
+      "answerIndex": 0,
+      "explanation": "1953년 7월 27일 판문점에서 정전 협정이 맺어지며 전투가 멈췄어요. 전쟁이 끝난 것이 아니라 잠시 멈춘 상태예요.",
+      "funFact": "정전 협정에 우리 정부 대표는 서명하지 않았어요."
+    },
+    {
+      "id": "space-cdb86b5e",
+      "category": "space",
+      "difficulty": 1,
+      "question": "이메일 보내기 화면의 'CC' 칸은 무슨 뜻일까요?",
+      "choices": [
+        "회신",
+        "첨부",
+        "참조",
+        "전달"
+      ],
+      "answerIndex": 2,
+      "explanation": "CC에 넣은 사람도 같은 메일을 받아 볼 수 있어요. 받는 사람들끼리 서로 누가 받았는지 보여요.",
+      "funFact": "CC는 'Carbon Copy'의 약자로, 먹지를 대고 똑같은 사본을 만들던 시절에서 온 말이에요."
+    },
+    {
+      "id": "life-fd885760",
+      "category": "life",
+      "difficulty": 1,
+      "question": "다 쓴 건전지는 어디에 버려야 할까요?",
+      "choices": [
+        "종량제 봉투",
+        "음식물 쓰레기통",
+        "폐건전지 수거함",
+        "플라스틱 재활용함"
+      ],
+      "answerIndex": 2,
+      "explanation": "건전지에는 중금속이 들어 있어 땅이나 물을 오염시킬 수 있어요. 주민센터나 아파트의 폐건전지 수거함에 따로 모아요.",
+      "funFact": "모은 폐건전지에서는 아연, 망간 같은 금속을 다시 뽑아 써요."
+    },
+    {
+      "id": "culture-a1daa8ff",
+      "category": "culture",
+      "difficulty": 2,
+      "question": "『베니스의 상인』에서 빚 대신 살 1파운드를 요구한 고리대금업자는?",
+      "choices": [
+        "이아고",
+        "바사니오",
+        "샤일록",
+        "안토니오"
+      ],
+      "answerIndex": 2,
+      "explanation": "샤일록은 안토니오에게 돈을 빌려주며 갚지 못하면 살 1파운드를 받겠다고 해요. 포샤가 '피는 한 방울도 안 된다'는 판결로 맞서요."
+    },
+    {
+      "id": "korean-9c1942e2",
+      "category": "korean",
+      "difficulty": 2,
+      "question": "사자성어 '화룡점정'의 뜻으로 알맞은 것은?",
+      "choices": [
+        "그림을 잘 그림",
+        "가장 중요한 곳을 마무리함",
+        "처음부터 다시 함",
+        "쓸데없는 것을 덧붙임"
+      ],
+      "answerIndex": 1,
+      "explanation": "용 그림에 마지막으로 눈동자를 그려 넣었다는 데서, 일을 완성하는 결정적인 마무리를 뜻해요.",
+      "funFact": "쓸데없는 것을 덧붙여 망친다는 말은 '사족(蛇足)'이에요."
+    },
+    {
+      "id": "economy-b60cefc0",
+      "category": "economy",
+      "difficulty": 2,
+      "question": "정해진 조건에 따라 주식으로 바꿀 수 있는 회사채는?",
+      "choices": [
+        "전환사채",
+        "후순위채",
+        "신주인수권부사채",
+        "영구채"
+      ],
+      "answerIndex": 0,
+      "explanation": "전환사채(CB)는 채권처럼 이자를 받다가 주가가 오르면 주식으로 바꿀 수 있어요. 그 대신 금리는 일반 회사채보다 낮은 편이에요."
+    },
+    {
+      "id": "science-ea0975bc",
+      "category": "science",
+      "difficulty": 3,
+      "question": "심장이 피를 온몸에 순환시킨다는 것을 1628년에 밝힌 영국 의사는?",
+      "choices": [
+        "히포크라테스",
+        "베살리우스",
+        "갈레노스",
+        "윌리엄 하비"
+      ],
+      "answerIndex": 3,
+      "explanation": "하비는 실험과 계산으로 혈액이 심장에서 나가 몸을 돌고 다시 돌아온다는 것을 증명했어요.",
+      "funFact": "그전까지는 피가 간에서 계속 새로 만들어져 몸에서 소모된다는 생각이 널리 퍼져 있었어요."
+    },
+    {
+      "id": "sports-68a55db3",
+      "category": "sports",
+      "difficulty": 3,
+      "question": "하프마라톤의 공식 경기 거리는?",
+      "choices": [
+        "21.5km",
+        "21.0975km",
+        "25km",
+        "20km"
+      ],
+      "answerIndex": 1,
+      "explanation": "하프마라톤은 풀코스 42.195km의 정확히 절반인 21.0975km를 달려요.",
+      "funFact": "풀코스보다 부담이 적어 처음 장거리에 도전하는 사람들이 많이 찾는 종목이에요."
+    },
+    {
+      "id": "economy-13bfb497",
+      "category": "economy",
+      "difficulty": 3,
+      "question": "S&P500 옵션 가격으로 계산해 '공포지수'로 불리는 지표는?",
+      "choices": [
+        "PMI",
+        "BSI",
+        "CPI",
+        "VIX"
+      ],
+      "answerIndex": 3,
+      "explanation": "VIX는 시장이 예상하는 앞으로의 변동성을 보여 줘요. 증시가 불안할수록 값이 크게 올라 공포지수라 불려요."
+    }
+  ]
+}

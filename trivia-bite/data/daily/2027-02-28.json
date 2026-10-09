@@ -1,0 +1,150 @@
+{
+  "version": 1,
+  "id": "daily-2027-02-28",
+  "date": "2027-02-28",
+  "questions": [
+    {
+      "id": "history-dfbef0f2",
+      "category": "history",
+      "difficulty": 1,
+      "question": "1773년 식민지 주민들이 영국 차를 바다에 던진 사건은?",
+      "choices": [
+        "렉싱턴 전투",
+        "보스턴 차 사건",
+        "타운센드법",
+        "보스턴 학살"
+      ],
+      "answerIndex": 1,
+      "explanation": "보스턴 차 사건은 영국 동인도 회사의 차 독점 판매에 반발해 일어났어요. 이 사건이 미국 독립 전쟁의 도화선이 되었어요."
+    },
+    {
+      "id": "space-1a8f424d",
+      "category": "space",
+      "difficulty": 1,
+      "question": "윈도우, macOS처럼 컴퓨터 자원을 관리하는 기본 소프트웨어는?",
+      "choices": [
+        "펌웨어",
+        "백신",
+        "웹 브라우저",
+        "운영체제"
+      ],
+      "answerIndex": 3,
+      "explanation": "운영체제(OS)는 하드웨어를 관리하고 다른 프로그램이 돌아갈 수 있는 환경을 만들어 줘요. 스마트폰의 안드로이드와 iOS도 운영체제예요.",
+      "funFact": "OS는 'Operating System'의 약자예요."
+    },
+    {
+      "id": "economy-0ea8e9a1",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "한쪽을 규제하면 문제가 다른 쪽으로 옮겨 가는 현상은?",
+      "choices": [
+        "풍선효과",
+        "나비효과",
+        "메기효과",
+        "낙수효과"
+      ],
+      "answerIndex": 0,
+      "explanation": "풍선의 한쪽을 누르면 다른 쪽이 부풀듯 규제를 피해 수요가 옮겨 가는 거예요. 한 지역 집값을 잡으니 옆 지역이 오르는 것이 예예요."
+    },
+    {
+      "id": "life-51e8eb87",
+      "category": "life",
+      "difficulty": 1,
+      "question": "밀가루 반죽을 쫄깃하게 만드는 단백질은?",
+      "choices": [
+        "카제인",
+        "케라틴",
+        "글루텐",
+        "콜라겐"
+      ],
+      "answerIndex": 2,
+      "explanation": "밀가루에 물을 넣고 치대면 글루테닌과 글리아딘이 엉켜 글루텐이 돼요. 그물 구조가 쫄깃함과 탄력을 만들어요."
+    },
+    {
+      "id": "culture-4f3106bd",
+      "category": "culture",
+      "difficulty": 2,
+      "question": "『아라비안나이트』에서 왕에게 밤마다 이야기를 들려준 왕비는?",
+      "choices": [
+        "시바의 여왕",
+        "셰에라자드",
+        "자스민",
+        "클레오파트라"
+      ],
+      "answerIndex": 1,
+      "explanation": "셰에라자드는 이야기를 끝내지 않고 다음 날로 넘기며 왕의 마음을 돌려요. 그래서 『천일야화』라고도 불러요."
+    },
+    {
+      "id": "science-9a1f1747",
+      "category": "science",
+      "difficulty": 2,
+      "question": "원자핵 속에서 전하를 띠지 않는 입자는?",
+      "choices": [
+        "광자",
+        "양성자",
+        "중성자",
+        "전자"
+      ],
+      "answerIndex": 2,
+      "explanation": "원자핵은 양(+)전하를 띤 양성자와 전하가 없는 중성자로 이루어져요. 전자는 핵 바깥에 있어요.",
+      "funFact": "중성자는 1932년 영국의 채드윅이 발견했어요."
+    },
+    {
+      "id": "korean-6004f285",
+      "category": "korean",
+      "difficulty": 2,
+      "question": "속담 '쥐구멍에도 볕 들 날 있다'의 뜻은?",
+      "choices": [
+        "고생해도 좋은 날이 옴",
+        "숨은 잘못도 드러남",
+        "약한 자도 대들 때가 있음",
+        "작은 틈도 조심해야 함"
+      ],
+      "answerIndex": 0,
+      "explanation": "몹시 고생하는 사람에게도 언젠가 좋은 운이 찾아온다는 뜻이에요."
+    },
+    {
+      "id": "geography-7a44287e",
+      "category": "geography",
+      "difficulty": 3,
+      "question": "인도 국기 한가운데 그려진 남색 문양은?",
+      "choices": [
+        "코끼리",
+        "바퀴(법륜)",
+        "공작",
+        "연꽃"
+      ],
+      "answerIndex": 1,
+      "explanation": "인도 국기 가운데에는 바큇살 24개가 있는 남색 법륜이 그려져 있어요. 아소카 왕의 차크라에서 따왔어요."
+    },
+    {
+      "id": "korean-74f55b76",
+      "category": "korean",
+      "difficulty": 3,
+      "question": "고유어 '비설거지'의 뜻으로 알맞은 것은?",
+      "choices": [
+        "비 올 때 물건을 치우는 일",
+        "우산을 말리는 일",
+        "비 온 뒤 마당을 쓰는 일",
+        "빗물로 그릇을 씻는 일"
+      ],
+      "answerIndex": 0,
+      "explanation": "비가 오려 하거나 올 때 비 맞으면 안 될 물건을 치우거나 덮는 일을 말해요."
+    },
+    {
+      "id": "culture-fe39243e",
+      "category": "culture",
+      "difficulty": 3,
+      "question": "프랑스 롱샹의 '노트르담 뒤 오' 예배당을 설계한 건축가는?",
+      "choices": [
+        "미스 반 데어 로에",
+        "알바 알토",
+        "발터 그로피우스",
+        "르 코르뷔지에"
+      ],
+      "answerIndex": 3,
+      "explanation": "롱샹 성당은 근대 건축의 거장 르 코르뷔지에가 1955년에 완성한 곡선형 예배당이에요.",
+      "funFact": "르 코르뷔지에의 건축물 17곳은 함께 유네스코 세계유산에 올랐어요."
+    }
+  ]
+}

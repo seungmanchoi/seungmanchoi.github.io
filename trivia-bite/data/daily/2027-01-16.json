@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "id": "daily-2027-01-16",
+  "date": "2027-01-16",
+  "questions": [
+    {
+      "id": "life-c8c55454",
+      "category": "life",
+      "difficulty": 1,
+      "question": "귀에서 실제 소리가 없는데 소리가 들리는 증상은?",
+      "choices": [
+        "중이염",
+        "난청",
+        "이명",
+        "현기증"
+      ],
+      "answerIndex": 2,
+      "explanation": "이명은 외부 소리 없이 '삐' 같은 소리를 느끼는 증상이에요. 피로나 소음 노출 뒤에 생기기도 해요."
+    },
+    {
+      "id": "korean-cc2f6286",
+      "category": "korean",
+      "difficulty": 1,
+      "question": "관용구 '손이 크다'의 뜻은?",
+      "choices": [
+        "힘이 아주 셈",
+        "도둑질을 잘함",
+        "일 솜씨가 좋음",
+        "씀씀이가 후하고 큼"
+      ],
+      "answerIndex": 3,
+      "explanation": "음식을 넉넉히 장만하거나 돈을 시원하게 쓰는 등 씀씀이가 큰 것을 말해요."
+    },
+    {
+      "id": "culture-05e7bdaf",
+      "category": "culture",
+      "difficulty": 1,
+      "question": "허리가 잘록하고 양쪽 가죽면을 두드리는 국악 타악기는?",
+      "choices": [
+        "꽹과리",
+        "징",
+        "장구",
+        "소고"
+      ],
+      "answerIndex": 2,
+      "explanation": "장구는 오른쪽은 채로, 왼쪽은 손이나 궁굴채로 쳐서 소리를 내요.",
+      "funFact": "한자로는 허리가 가는 북이라는 뜻의 '세요고'라고도 불렀어요."
+    },
+    {
+      "id": "history-24601c78",
+      "category": "history",
+      "difficulty": 1,
+      "question": "1950년 9월 인천 상륙 작전을 지휘해 전세를 뒤집은 유엔군 사령관은?",
+      "choices": [
+        "아이젠하워",
+        "패튼",
+        "맥아더",
+        "리지웨이"
+      ],
+      "answerIndex": 2,
+      "explanation": "맥아더는 1950년 9월 15일 인천 상륙 작전을 이끌었어요. 이 작전으로 국군과 유엔군은 서울을 되찾았어요.",
+      "funFact": "인천 앞바다는 밀물과 썰물 차이가 커서 상륙이 매우 어려운 곳으로 꼽혔어요."
+    },
+    {
+      "id": "sports-01f66afd",
+      "category": "sports",
+      "difficulty": 2,
+      "question": "단거리 달리기에서 손은 지면에 짚고 발은 스타팅 블록에 대며 웅크려 출발하는 방식은?",
+      "choices": [
+        "플라잉 스타트",
+        "크라우칭 스타트",
+        "롤링 스타트",
+        "스탠딩 스타트"
+      ],
+      "answerIndex": 1,
+      "explanation": "크라우칭 스타트는 몸을 낮춰 앞으로 튀어 나가는 힘을 크게 만드는 단거리 출발 방식이에요.",
+      "funFact": "400m가 넘는 중장거리 경주는 선 채로 출발하는 스탠딩 스타트를 써요."
+    },
+    {
+      "id": "economy-455b3ec2",
+      "category": "economy",
+      "difficulty": 2,
+      "question": "은행이 대출 금리와 예금 금리 차이로 얻는 이익은?",
+      "choices": [
+        "시뇨리지",
+        "영업권",
+        "가산금리",
+        "예대마진"
+      ],
+      "answerIndex": 3,
+      "explanation": "예대마진은 대출로 받는 이자에서 예금에 주는 이자를 뺀 차익이에요. 은행의 핵심 수익원이에요.",
+      "funFact": "금리가 오를 때 은행 실적이 좋아지는 것도 예대마진이 커지기 때문인 경우가 많아요."
+    },
+    {
+      "id": "science-c7a762d7",
+      "category": "science",
+      "difficulty": 2,
+      "question": "한여름 우리나라에 무덥고 습한 날씨를 가져오는 고기압은?",
+      "choices": [
+        "시베리아 고기압",
+        "오호츠크해 고기압",
+        "이동성 고기압",
+        "북태평양 고기압"
+      ],
+      "answerIndex": 3,
+      "explanation": "북태평양 고기압은 따뜻한 바다에서 생겨 고온 다습해요. 한여름 무더위와 열대야의 주된 원인이에요."
+    },
+    {
+      "id": "geography-be1e47bf",
+      "category": "geography",
+      "difficulty": 3,
+      "question": "우리나라에서 처음 람사르 습지로 등록된 곳은?",
+      "choices": [
+        "대암산 용늪",
+        "무제치늪",
+        "우포늪",
+        "순천만"
+      ],
+      "answerIndex": 0,
+      "explanation": "강원도 인제의 대암산 용늪은 1997년 우리나라 첫 람사르 습지로 등록됐어요. 높은 산 위에 있는 습지예요."
+    },
+    {
+      "id": "space-56ef1f9a",
+      "category": "space",
+      "difficulty": 3,
+      "question": "1972년 아폴로 계획의 마지막 유인 달 착륙 임무는?",
+      "choices": [
+        "아폴로 17호",
+        "아폴로 18호",
+        "아폴로 15호",
+        "아폴로 20호"
+      ],
+      "answerIndex": 0,
+      "explanation": "아폴로 17호는 1972년 12월 달에 착륙한 아폴로 계획의 마지막 유인 착륙 임무예요. 18호부터 20호는 계획만 있다가 취소되었어요.",
+      "funFact": "아폴로 17호 승무원에는 지질학자 출신 우주인 해리슨 슈미트가 있었어요."
+    },
+    {
+      "id": "korean-29bac28d",
+      "category": "korean",
+      "difficulty": 3,
+      "question": "사자성어 '수주대토'의 뜻으로 알맞은 것은?",
+      "choices": [
+        "덫을 놓아 기다림",
+        "융통성 없이 요행만 바람",
+        "토끼처럼 재빠름",
+        "작은 것을 지켜 큰 것 얻음"
+      ],
+      "answerIndex": 1,
+      "explanation": "그루터기에 부딪혀 죽은 토끼를 또 기다렸다는 농부 이야기에서, 융통성 없이 요행을 바라는 것을 뜻해요."
+    }
+  ]
+}

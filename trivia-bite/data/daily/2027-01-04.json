@@ -1,0 +1,153 @@
+{
+  "version": 1,
+  "id": "daily-2027-01-04",
+  "date": "2027-01-04",
+  "questions": [
+    {
+      "id": "history-dd2eb598",
+      "category": "history",
+      "difficulty": 1,
+      "question": "'에밀레종'이라는 별명으로 알려진 신라의 범종은?",
+      "choices": [
+        "황룡사 대종",
+        "상원사 동종",
+        "성덕대왕신종",
+        "보신각종"
+      ],
+      "answerIndex": 2,
+      "explanation": "성덕대왕신종은 경덕왕이 아버지 성덕왕을 기리려 만들기 시작해 혜공왕 때인 771년 완성했어요. 국립경주박물관에 있어요."
+    },
+    {
+      "id": "life-c0941736",
+      "category": "life",
+      "difficulty": 1,
+      "question": "풀밭에서 진드기 물림을 줄이는 옷차림은?",
+      "choices": [
+        "샌들",
+        "긴소매·긴바지",
+        "반소매·반바지",
+        "맨발"
+      ],
+      "answerIndex": 1,
+      "explanation": "풀밭에서는 피부 노출을 줄이는 긴 옷이 진드기 예방에 좋아요. 다녀온 뒤엔 옷을 털고 바로 씻어요."
+    },
+    {
+      "id": "sports-4caf67b2",
+      "category": "sports",
+      "difficulty": 1,
+      "question": "농구에서 뛰어올라 공을 림 위에서 내리꽂아 넣는 슛은?",
+      "choices": [
+        "덩크슛",
+        "점프슛",
+        "레이업",
+        "훅슛"
+      ],
+      "answerIndex": 0,
+      "explanation": "덩크슛은 림보다 높이 뛰어 공을 바스켓 안으로 직접 내리꽂는 슛이에요.",
+      "funFact": "'덩크'는 빵을 우유에 푹 담그는 동작을 뜻하는 영어에서 왔어요."
+    },
+    {
+      "id": "korean-4e1e57b5",
+      "category": "korean",
+      "difficulty": 1,
+      "question": "속담 '울며 ○○ 먹기'의 빈칸에 들어갈 말은?",
+      "choices": [
+        "고추",
+        "겨자",
+        "마늘",
+        "생강"
+      ],
+      "answerIndex": 1,
+      "explanation": "'울며 겨자 먹기'는 싫은 일을 마지못해 억지로 한다는 뜻이에요.",
+      "funFact": "겨자는 겨자씨를 갈아 만든 노란 양념으로 코끝이 찡할 만큼 매워요."
+    },
+    {
+      "id": "culture-c62e4a02",
+      "category": "culture",
+      "difficulty": 2,
+      "question": "종이·천·사진 조각을 화면에 붙여 작품을 만드는 미술 기법은?",
+      "choices": [
+        "마블링",
+        "데칼코마니",
+        "프로타주",
+        "콜라주"
+      ],
+      "answerIndex": 3,
+      "explanation": "콜라주는 프랑스어로 '풀로 붙이기'라는 뜻으로, 여러 재료를 붙여 화면을 구성해요.",
+      "funFact": "피카소와 브라크가 입체주의 작품에 신문지를 붙이면서 널리 퍼졌어요."
+    },
+    {
+      "id": "science-944739f4",
+      "category": "science",
+      "difficulty": 2,
+      "question": "북극성은 어느 별자리에 속하는 별일까요?",
+      "choices": [
+        "큰곰자리",
+        "오리온자리",
+        "작은곰자리",
+        "카시오페이아자리"
+      ],
+      "answerIndex": 2,
+      "explanation": "북극성은 작은곰자리의 꼬리 끝에 있는 별이에요. 큰곰자리의 북두칠성을 이용해 찾을 수 있어요.",
+      "funFact": "지구 자전축이 천천히 돌기 때문에 약 1만 2천 년 뒤에는 직녀성이 북극성 자리에 가까워져요."
+    },
+    {
+      "id": "economy-1ba64afe",
+      "category": "economy",
+      "difficulty": 2,
+      "question": "회사가 시장에서 자기 회사 주식을 사들이는 것은?",
+      "choices": [
+        "액면분할",
+        "공매도",
+        "자사주 매입",
+        "유상증자"
+      ],
+      "answerIndex": 2,
+      "explanation": "자사주 매입은 유통 주식 수를 줄여 주당 가치를 높이는 효과가 있어요. 주주에게 이익을 돌려주는 방법으로 쓰여요."
+    },
+    {
+      "id": "geography-c5b21e36",
+      "category": "geography",
+      "difficulty": 3,
+      "question": "알제리의 수도는 어디일까요?",
+      "choices": [
+        "오랑",
+        "알제",
+        "라바트",
+        "튀니스"
+      ],
+      "answerIndex": 1,
+      "explanation": "알제리의 수도는 지중해에 면한 알제예요. 나라 이름도 이 도시 이름에서 왔어요."
+    },
+    {
+      "id": "space-d02407de",
+      "category": "space",
+      "difficulty": 3,
+      "question": "'192.168.0.1' 같은 IPv4 주소는 모두 몇 비트로 이루어져 있을까요?",
+      "choices": [
+        "128비트",
+        "16비트",
+        "64비트",
+        "32비트"
+      ],
+      "answerIndex": 3,
+      "explanation": "IPv4 주소는 8비트 숫자 네 개, 모두 32비트로 이루어져 있어요. 그래서 각 칸의 숫자는 0부터 255까지예요.",
+      "funFact": "IPv4로 만들 수 있는 주소가 약 43억 개뿐이라 부족해지자 128비트를 쓰는 IPv6가 나왔어요."
+    },
+    {
+      "id": "nature-f4638c08",
+      "category": "nature",
+      "difficulty": 3,
+      "question": "꼬리가 아주 짧거나 없는 경주의 천연기념물 토종개는?",
+      "choices": [
+        "동경이",
+        "제주개",
+        "삽살개",
+        "진돗개"
+      ],
+      "answerIndex": 0,
+      "explanation": "동경이는 경주 지역의 토종개로, 꼬리가 짧거나 없는 것이 가장 큰 특징이에요.",
+      "funFact": "'동경'은 고려 시대 경주를 부르던 이름이에요."
+    }
+  ]
+}

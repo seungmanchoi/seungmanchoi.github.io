@@ -1,0 +1,151 @@
+{
+  "version": 1,
+  "id": "daily-2027-03-07",
+  "date": "2027-03-07",
+  "questions": [
+    {
+      "id": "history-cbe600fa",
+      "category": "history",
+      "difficulty": 1,
+      "question": "고대 중국과 서방을 이은 교역로를 흔히 뭐라고 부를까요?",
+      "choices": [
+        "향신료길",
+        "차마고도",
+        "비단길",
+        "호박길"
+      ],
+      "answerIndex": 2,
+      "explanation": "비단길은 중국의 비단이 서쪽으로 많이 팔려 나가서 붙은 이름이에요. 실크로드라고도 하며 종교와 기술도 이 길로 오갔어요."
+    },
+    {
+      "id": "life-fe0f5ebc",
+      "category": "life",
+      "difficulty": 1,
+      "question": "눈의 수정체가 뿌옇게 흐려지는 질환은?",
+      "choices": [
+        "안구건조증",
+        "녹내장",
+        "결막염",
+        "백내장"
+      ],
+      "answerIndex": 3,
+      "explanation": "백내장은 수정체가 혼탁해져 앞이 안개 낀 듯 보이는 병이에요. 흐려진 수정체를 인공수정체로 바꾸는 수술로 치료해요."
+    },
+    {
+      "id": "space-05569c96",
+      "category": "space",
+      "difficulty": 1,
+      "question": "1960~70년대 사람을 달에 보낸 미국의 유인 달 탐사 계획은?",
+      "choices": [
+        "보스토크 계획",
+        "아폴로 계획",
+        "제미니 계획",
+        "머큐리 계획"
+      ],
+      "answerIndex": 1,
+      "explanation": "아폴로 계획은 1969년부터 1972년까지 여섯 차례 사람을 달에 착륙시켰어요. 이름은 그리스 신화의 태양신 아폴론에서 따왔어요.",
+      "funFact": "아폴로 우주인들이 지구로 가져온 달 암석과 흙은 모두 약 382kg이에요."
+    },
+    {
+      "id": "economy-fee71146",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "물가가 크게 오르면 같은 돈의 가치는?",
+      "choices": [
+        "떨어진다",
+        "두 배가 된다",
+        "그대로다",
+        "오른다"
+      ],
+      "answerIndex": 0,
+      "explanation": "물가가 오르면 같은 돈으로 살 수 있는 물건이 줄어요. 그래서 인플레이션은 현금 가치를 떨어뜨려요."
+    },
+    {
+      "id": "korean-9fb7508c",
+      "category": "korean",
+      "difficulty": 2,
+      "question": "'김장하려고 배추를 소금에 ○○○'의 빈칸에 알맞은 표기는?",
+      "choices": [
+        "절였다",
+        "절렸다",
+        "저였다",
+        "저렸다"
+      ],
+      "answerIndex": 0,
+      "explanation": "채소에 소금기를 배어들게 하는 것은 '절이다'예요.",
+      "funFact": "'다리가 저리다'처럼 감각이 둔해질 때는 '저리다'를 써요."
+    },
+    {
+      "id": "culture-dde0677e",
+      "category": "culture",
+      "difficulty": 2,
+      "question": "영화 '사운드 오브 뮤직'에서 폰 트라프 가족이 사는 나라는?",
+      "choices": [
+        "체코",
+        "독일",
+        "오스트리아",
+        "스위스"
+      ],
+      "answerIndex": 2,
+      "explanation": "'사운드 오브 뮤직'은 오스트리아 잘츠부르크를 배경으로 해요. 가정교사 마리아와 트라프 대령 가족의 실화를 바탕으로 했어요."
+    },
+    {
+      "id": "nature-e56b8a87",
+      "category": "nature",
+      "difficulty": 2,
+      "question": "산호초가 하얗게 변해 죽어 가는 '백화 현상'의 주된 원인은?",
+      "choices": [
+        "상어가 많아져서",
+        "수온이 올라 공생 조류가 빠져나가서",
+        "바닷물이 너무 맑아서",
+        "밀물 썰물이 멈춰서"
+      ],
+      "answerIndex": 1,
+      "explanation": "수온이 지나치게 오르면 산호가 몸속 공생 조류를 내보내 색을 잃고, 양분을 못 얻어 죽어 가요.",
+      "funFact": "산호는 식물처럼 보이지만 해파리와 같은 자포동물에 속하는 동물이에요."
+    },
+    {
+      "id": "geography-01f20996",
+      "category": "geography",
+      "difficulty": 3,
+      "question": "시베리아에 넓게 펼쳐진 침엽수림을 부르는 말은?",
+      "choices": [
+        "팜파스",
+        "툰드라",
+        "셀바스",
+        "타이가"
+      ],
+      "answerIndex": 3,
+      "explanation": "타이가는 냉대 기후 지역의 넓은 침엽수림이에요. 시베리아와 캐나다에 넓게 펼쳐져 있어요."
+    },
+    {
+      "id": "life-c53fe27f",
+      "category": "life",
+      "difficulty": 3,
+      "question": "연필 등을 12다스 묶은 144개를 부르는 단위는?",
+      "choices": [
+        "그로스",
+        "타스",
+        "두름",
+        "쌈"
+      ],
+      "answerIndex": 0,
+      "explanation": "1그로스는 12다스, 즉 144개예요. 단추나 문구류를 대량으로 거래할 때 쓰였어요."
+    },
+    {
+      "id": "korean-5bc10212",
+      "category": "korean",
+      "difficulty": 3,
+      "question": "1908년 잡지 『소년』에 실린 신체시 「해에게서 소년에게」의 작가는?",
+      "choices": [
+        "김억",
+        "주요한",
+        "이광수",
+        "최남선"
+      ],
+      "answerIndex": 3,
+      "explanation": "「해에게서 소년에게」는 최남선의 작품으로 우리나라 최초의 신체시로 꼽혀요.",
+      "funFact": "최남선은 3·1 운동 때 「기미독립선언서」를 쓴 인물이기도 해요."
+    }
+  ]
+}

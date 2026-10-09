@@ -1,0 +1,151 @@
+{
+  "version": 1,
+  "id": "daily-2027-02-17",
+  "date": "2027-02-17",
+  "questions": [
+    {
+      "id": "economy-a77fee2e",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "기업이 일반 소비자에게 직접 파는 거래를 뜻하는 약자는?",
+      "choices": [
+        "B2G",
+        "C2C",
+        "B2C",
+        "B2B"
+      ],
+      "answerIndex": 2,
+      "explanation": "B2C는 Business to Consumer의 줄임말이에요. 기업끼리의 거래는 B2B라고 해요."
+    },
+    {
+      "id": "culture-8eba275a",
+      "category": "culture",
+      "difficulty": 1,
+      "question": "동화 『신데렐라』에서 요정 할머니의 마법이 풀리는 시각은?",
+      "choices": [
+        "밤 12시",
+        "밤 9시",
+        "밤 10시",
+        "새벽 3시"
+      ],
+      "answerIndex": 0,
+      "explanation": "신데렐라는 자정이 되면 마법이 풀린다는 말에 서둘러 무도회장을 떠나요. 그때 유리 구두 한 짝을 남겨요."
+    },
+    {
+      "id": "nature-8213b09b",
+      "category": "nature",
+      "difficulty": 1,
+      "question": "우리나라 서해에서 밀물과 썰물은 하루에 보통 각각 몇 번씩 일어날까요?",
+      "choices": [
+        "한 번",
+        "네 번",
+        "여섯 번",
+        "약 두 번"
+      ],
+      "answerIndex": 3,
+      "explanation": "지구에서 바닷물이 부푼 곳이 두 군데 생기기 때문에 하루에 밀물과 썰물이 약 두 번씩 일어나요.",
+      "funFact": "밀물 시각은 하루 약 50분씩 늦어지는데, 달이 매일 약 50분씩 늦게 뜨기 때문이에요."
+    },
+    {
+      "id": "space-214f96f5",
+      "category": "space",
+      "difficulty": 1,
+      "question": "우주선 안에서 몸과 물건이 둥둥 떠다니는 상태를 뭐라고 할까요?",
+      "choices": [
+        "고기압 상태",
+        "진공 상태",
+        "초전도 상태",
+        "무중력 상태"
+      ],
+      "answerIndex": 3,
+      "explanation": "우주선 안에서 무게를 느끼지 못하고 떠다니는 상태를 무중력 상태라고 해요. 정확히는 미세 중력 상태라고도 해요.",
+      "funFact": "무중력 상태에서 지내면 척추가 늘어나 키가 몇cm 커지기도 해요."
+    },
+    {
+      "id": "life-e67152a9",
+      "category": "life",
+      "difficulty": 2,
+      "question": "아이가 삼키면 식도에 화상을 입힐 수 있어 특히 위험한 것은?",
+      "choices": [
+        "유리구슬",
+        "지우개",
+        "플라스틱 단추",
+        "동전형 건전지"
+      ],
+      "answerIndex": 3,
+      "explanation": "동전형 리튬 건전지는 식도에 걸리면 전류가 흘러 몇 시간 만에 조직을 손상시킬 수 있어요. 삼켰다면 바로 응급실로 가요."
+    },
+    {
+      "id": "korean-7bc11f0a",
+      "category": "korean",
+      "difficulty": 2,
+      "question": "속담 '부부 싸움은 ○○ ○ ○○'의 빈칸에 들어갈 말은?",
+      "choices": [
+        "칼로 물 베기",
+        "손바닥 뒤집기",
+        "누워서 떡 먹기",
+        "비 온 뒤 땅"
+      ],
+      "answerIndex": 0,
+      "explanation": "칼로 물을 베어도 금방 다시 합쳐지듯, 부부는 다퉈도 곧 화해한다는 뜻이에요."
+    },
+    {
+      "id": "history-5521a853",
+      "category": "history",
+      "difficulty": 2,
+      "question": "1883년 박문국에서 펴낸 우리나라 최초의 근대 신문은?",
+      "choices": [
+        "독립신문",
+        "한성순보",
+        "대한매일신보",
+        "황성신문"
+      ],
+      "answerIndex": 1,
+      "explanation": "한성순보는 열흘마다 한문으로 발행된 관보 성격의 신문이에요. 갑신정변 때 박문국이 불타 발행이 중단되었어요."
+    },
+    {
+      "id": "geography-ba9676b3",
+      "category": "geography",
+      "difficulty": 3,
+      "question": "유럽 대륙의 가장 서쪽 끝인 포르투갈의 곶은?",
+      "choices": [
+        "희망봉",
+        "피니스테레곶",
+        "호카곶",
+        "노르카프"
+      ],
+      "answerIndex": 2,
+      "explanation": "호카곶은 포르투갈 리스본 서쪽에 있는 유럽 대륙 최서단이에요. '여기서 땅이 끝나고 바다가 시작된다'는 시구가 새겨져 있어요."
+    },
+    {
+      "id": "economy-26b7b016",
+      "category": "economy",
+      "difficulty": 3,
+      "question": "국제결제은행(BIS)의 본부가 있는 도시는?",
+      "choices": [
+        "제네바",
+        "바젤",
+        "브뤼셀",
+        "취리히"
+      ],
+      "answerIndex": 1,
+      "explanation": "BIS는 1930년 스위스 바젤에 세워졌어요. 각국 중앙은행 간 협력을 돕는 곳이라 '중앙은행의 중앙은행'이라고도 해요.",
+      "funFact": "은행 자본 규제 기준을 '바젤 협약'이라 부르는 것도 이 도시 이름에서 왔어요."
+    },
+    {
+      "id": "korean-bf589d85",
+      "category": "korean",
+      "difficulty": 3,
+      "question": "관용구 '직성이 풀리다'의 뜻은?",
+      "choices": [
+        "제 뜻대로 되어 흡족함",
+        "오해가 풀림",
+        "화가 가라앉음",
+        "몸이 개운해짐"
+      ],
+      "answerIndex": 0,
+      "explanation": "제 성미대로 되어 마음이 흡족한 것을 말해요.",
+      "funFact": "'직성'은 사람의 운명을 맡은 별을 뜻하던 말이에요."
+    }
+  ]
+}

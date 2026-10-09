@@ -1,0 +1,151 @@
+{
+  "version": 1,
+  "id": "daily-2027-03-26",
+  "date": "2027-03-26",
+  "questions": [
+    {
+      "id": "culture-961aaa0e",
+      "category": "culture",
+      "difficulty": 1,
+      "question": "동화 『인어공주』와 『미운 오리 새끼』를 쓴 덴마크 작가는?",
+      "choices": [
+        "이솝",
+        "그림 형제",
+        "안데르센",
+        "샤를 페로"
+      ],
+      "answerIndex": 2,
+      "explanation": "한스 크리스티안 안데르센은 덴마크의 동화 작가예요. 『성냥팔이 소녀』, 『벌거벗은 임금님』도 그의 작품이에요.",
+      "funFact": "코펜하겐 항구에는 그의 동화를 기념한 작은 인어공주 동상이 있어요."
+    },
+    {
+      "id": "space-f1461fb4",
+      "category": "space",
+      "difficulty": 1,
+      "question": "반도체 칩의 주재료로, 모래에서 얻는 원소는?",
+      "choices": [
+        "탄소",
+        "규소(실리콘)",
+        "알루미늄",
+        "구리"
+      ],
+      "answerIndex": 1,
+      "explanation": "반도체 웨이퍼는 모래 속 이산화규소에서 뽑아낸 아주 순수한 규소로 만들어요.",
+      "funFact": "반도체용 규소는 순도가 99.999999999%에 이를 만큼 깨끗해야 해요."
+    },
+    {
+      "id": "history-844d440e",
+      "category": "history",
+      "difficulty": 1,
+      "question": "1517년 95개조 반박문으로 종교 개혁을 시작한 인물은?",
+      "choices": [
+        "에라스뮈스",
+        "츠빙글리",
+        "칼뱅",
+        "마르틴 루터"
+      ],
+      "answerIndex": 3,
+      "explanation": "루터는 면벌부 판매를 비판하는 95개조 반박문을 발표했어요. 그가 독일어로 옮긴 성경은 독일어 발전에도 큰 영향을 주었어요."
+    },
+    {
+      "id": "sports-d7bc712c",
+      "category": "sports",
+      "difficulty": 1,
+      "question": "홍수환의 '4전 5기' 신화가 나온 종목은?",
+      "choices": [
+        "복싱",
+        "유도",
+        "레슬링",
+        "씨름"
+      ],
+      "answerIndex": 0,
+      "explanation": "홍수환은 1977년 파나마에서 열린 세계 타이틀전에서 네 번 다운되고도 일어나 상대를 KO로 이겼어요.",
+      "funFact": "홍수환은 1974년 첫 챔피언에 오른 뒤 '엄마, 나 챔피언 먹었어!'라는 말로도 유명해졌어요."
+    },
+    {
+      "id": "life-0f7a6f14",
+      "category": "life",
+      "difficulty": 2,
+      "question": "식물성 기름을 부분 경화할 때 생기는 해로운 지방은?",
+      "choices": [
+        "오메가-3 지방산",
+        "트랜스지방",
+        "리놀렌산",
+        "DHA"
+      ],
+      "answerIndex": 1,
+      "explanation": "액체 기름에 수소를 일부 더해 굳히는 과정에서 트랜스지방이 생겨요. 나쁜 콜레스테롤을 높여 섭취를 줄이라고 권해요."
+    },
+    {
+      "id": "korean-d27f2dc2",
+      "category": "korean",
+      "difficulty": 2,
+      "question": "속담 '아닌 밤중에 홍두깨'의 뜻은?",
+      "choices": [
+        "엉뚱한 사람을 탓함",
+        "밤늦게까지 일함",
+        "뜻밖의 언행을 불쑥 함",
+        "몰래 나쁜 일을 꾸밈"
+      ],
+      "answerIndex": 2,
+      "explanation": "생각지도 않은 때에 뜻밖의 말이나 행동을 불쑥 내미는 것을 이르는 말이에요.",
+      "funFact": "'홍두깨'는 다듬이질할 때 옷감을 감는 굵은 방망이예요."
+    },
+    {
+      "id": "economy-0cd1a332",
+      "category": "economy",
+      "difficulty": 2,
+      "question": "산업 구조가 바뀌어 기존 기술이 쓸모없어져 생기는 실업은?",
+      "choices": [
+        "경기적 실업",
+        "마찰적 실업",
+        "자발적 실업",
+        "구조적 실업"
+      ],
+      "answerIndex": 3,
+      "explanation": "구조적 실업은 산업이 바뀌면서 일자리가 요구하는 기술과 구직자의 기술이 맞지 않아 생겨요. 재교육이 주요 해법으로 꼽혀요."
+    },
+    {
+      "id": "geography-14935ceb",
+      "category": "geography",
+      "difficulty": 3,
+      "question": "이탈리아 반도와 발칸반도 사이의 길쭉한 바다는?",
+      "choices": [
+        "티레니아해",
+        "에게해",
+        "아드리아해",
+        "이오니아해"
+      ],
+      "answerIndex": 2,
+      "explanation": "아드리아해는 이탈리아 동쪽 해안과 크로아티아 등 발칸반도 사이의 바다예요. 베네치아가 이 바다 북쪽 끝에 있어요."
+    },
+    {
+      "id": "economy-04a4f096",
+      "category": "economy",
+      "difficulty": 3,
+      "question": "정해진 날에 정해진 값으로 팔 수 있는 권리는?",
+      "choices": [
+        "풋옵션",
+        "스왑",
+        "선물",
+        "콜옵션"
+      ],
+      "answerIndex": 0,
+      "explanation": "풋옵션은 파는 권리라 기초자산 값이 떨어질수록 가치가 커져요. 주가 하락에 대비하는 보험처럼 쓰여요."
+    },
+    {
+      "id": "life-4b40b967",
+      "category": "life",
+      "difficulty": 3,
+      "question": "한약 '한 제'는 보통 몇 첩일까요?",
+      "choices": [
+        "10첩",
+        "100첩",
+        "5첩",
+        "20첩"
+      ],
+      "answerIndex": 3,
+      "explanation": "한약 한 제는 스무 첩을 말해요. 한 첩은 한 번 달여 먹을 만큼의 약 묶음이에요."
+    }
+  ]
+}

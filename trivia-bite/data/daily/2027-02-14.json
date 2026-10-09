@@ -1,0 +1,151 @@
+{
+  "version": 1,
+  "id": "daily-2027-02-14",
+  "date": "2027-02-14",
+  "questions": [
+    {
+      "id": "economy-ea04317b",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "시중의 통화량이 크게 늘면 일반적으로 물가는?",
+      "choices": [
+        "내린다",
+        "오른다",
+        "0이 된다",
+        "변하지 않는다"
+      ],
+      "answerIndex": 1,
+      "explanation": "물건 양에 비해 돈이 많아지면 돈의 가치가 떨어져 물가가 올라요. 그래서 중앙은행이 통화량을 관리해요."
+    },
+    {
+      "id": "korean-4b9392b7",
+      "category": "korean",
+      "difficulty": 1,
+      "question": "남편이 아내의 남자 형제를 이르는 말은?",
+      "choices": [
+        "처제",
+        "시동생",
+        "매형",
+        "처남"
+      ],
+      "answerIndex": 3,
+      "explanation": "아내의 남자 형제는 '처남'이라고 해요. '시동생'은 남편의 남동생이에요."
+    },
+    {
+      "id": "science-2132a67a",
+      "category": "science",
+      "difficulty": 1,
+      "question": "높은 곳에 있는 물체가 높이 때문에 가진 에너지는?",
+      "choices": [
+        "화학 에너지",
+        "위치 에너지",
+        "열에너지",
+        "운동 에너지"
+      ],
+      "answerIndex": 1,
+      "explanation": "높은 곳의 물체는 떨어지며 일을 할 수 있어 위치 에너지를 가져요. 수력 발전은 높은 곳 물의 위치 에너지를 이용해요."
+    },
+    {
+      "id": "culture-2c9cc414",
+      "category": "culture",
+      "difficulty": 1,
+      "question": "국회의사당 옆 시계탑 '빅벤'이 있는 도시는?",
+      "choices": [
+        "런던",
+        "파리",
+        "베를린",
+        "로마"
+      ],
+      "answerIndex": 0,
+      "explanation": "빅벤은 영국 런던 웨스트민스터 궁전의 시계탑과 그 안의 큰 종을 함께 부르는 이름이에요.",
+      "funFact": "원래 '빅벤'은 탑이 아니라 탑 안에 매달린 큰 종의 별명이었어요."
+    },
+    {
+      "id": "life-acbc3ba3",
+      "category": "life",
+      "difficulty": 2,
+      "question": "자동차 번호판 가운데 글자가 '하·허·호'인 차는?",
+      "choices": [
+        "경찰차",
+        "화물차",
+        "렌터카",
+        "택시"
+      ],
+      "answerIndex": 2,
+      "explanation": "번호판 가운데 '하·허·호' 글자는 대여 사업용 차, 곧 렌터카에 붙어요. 일반 택시는 '아·바·사·자'를 써요.",
+      "funFact": "택배 화물차는 '배'라는 글자를 쓰기도 해요."
+    },
+    {
+      "id": "geography-a289b779",
+      "category": "geography",
+      "difficulty": 2,
+      "question": "겨울철 극지방에서 하루 종일 해가 뜨지 않는 현상은?",
+      "choices": [
+        "일식",
+        "오로라",
+        "백야",
+        "극야"
+      ],
+      "answerIndex": 3,
+      "explanation": "극야는 고위도 지역에서 겨울에 해가 지평선 위로 떠오르지 않는 현상이에요.",
+      "funFact": "극야가 있는 곳은 반대로 여름에 백야를 겪어요."
+    },
+    {
+      "id": "space-7c8f9df0",
+      "category": "space",
+      "difficulty": 2,
+      "question": "키보드의 F와 J 키에 작은 돌기가 있는 이유는?",
+      "choices": [
+        "자주 닳는 키를 보호하려고",
+        "제조 회사를 표시하려고",
+        "키 고장을 막으려고",
+        "손가락 기본 위치를 찾기 위해"
+      ],
+      "answerIndex": 3,
+      "explanation": "F와 J는 양손 검지를 올려 두는 기본 자리예요. 돌기 덕분에 화면을 보면서도 손 위치를 쉽게 찾을 수 있어요.",
+      "funFact": "전화기 숫자 패드에서는 가운데 숫자 5에 같은 역할을 하는 돌기가 있어요."
+    },
+    {
+      "id": "history-14460886",
+      "category": "history",
+      "difficulty": 3,
+      "question": "1853년 흑선을 이끌고 와 일본의 개항을 요구한 미국 제독은?",
+      "choices": [
+        "니미츠",
+        "듀이",
+        "페리",
+        "맥아더"
+      ],
+      "answerIndex": 2,
+      "explanation": "페리 제독의 함대가 도쿄만 우라가에 나타나 개항을 요구했어요. 이듬해 미일 화친 조약이 맺어져 일본의 쇄국이 끝났어요."
+    },
+    {
+      "id": "life-a369e60d",
+      "category": "life",
+      "difficulty": 3,
+      "question": "공복 혈당이 몇 mg/dL 이상이면 당뇨병으로 진단할까요?",
+      "choices": [
+        "126",
+        "100",
+        "150",
+        "90"
+      ],
+      "answerIndex": 0,
+      "explanation": "8시간 이상 금식 후 공복혈당 126mg/dL 이상은 당뇨병 진단 기준 중 하나예요. 명백한 고혈당 증상이 없는 경우 반복 검사 등으로 확인해요. 100~125mg/dL는 공복혈당장애 범위예요."
+    },
+    {
+      "id": "korean-82cfc6ac",
+      "category": "korean",
+      "difficulty": 3,
+      "question": "옷이나 가방에 다는 표장의 올바른 외래어 표기는?",
+      "choices": [
+        "뱃지",
+        "배찌",
+        "배지",
+        "벳지"
+      ],
+      "answerIndex": 2,
+      "explanation": "영어 'badge'는 '배지'로 적어요. 받침 'ㅅ'을 넣은 '뱃지'는 흔한 오기예요."
+    }
+  ]
+}

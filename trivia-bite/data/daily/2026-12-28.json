@@ -4,21 +4,6 @@
   "date": "2026-12-28",
   "questions": [
     {
-      "id": "science-51ae1f4d",
-      "category": "science",
-      "difficulty": 1,
-      "question": "지구에서 가장 가까운 별은?",
-      "choices": [
-        "태양",
-        "베텔게우스",
-        "시리우스",
-        "북극성"
-      ],
-      "answerIndex": 0,
-      "explanation": "태양은 지구에서 약 1억 5천만 km 떨어진 가장 가까운 별이에요. 스스로 빛을 내는 천체를 별(항성)이라고 해요.",
-      "funFact": "태양을 제외하면 가장 가까운 별까지는 빛의 속도로도 4년 넘게 걸려요."
-    },
-    {
       "id": "korean-287c2d68",
       "category": "korean",
       "difficulty": 1,
@@ -61,6 +46,21 @@
       "explanation": "심장이 멈춘 사람에게는 119에 신고한 뒤 가슴 가운데를 강하고 빠르게 눌러 주는 심폐소생술을 해요. 분당 100~120회 속도로 눌러 주면 돼요."
     },
     {
+      "id": "nature-a231d4ba",
+      "category": "nature",
+      "difficulty": 1,
+      "question": "바다 표면에 이는 보통의 파도를 만드는 가장 큰 원인은?",
+      "choices": [
+        "바닷물의 소금",
+        "달의 인력",
+        "물고기의 움직임",
+        "바람"
+      ],
+      "answerIndex": 3,
+      "explanation": "바람이 바다 표면을 스치며 에너지를 전해 물결이 일고, 이것이 커져 파도가 돼요.",
+      "funFact": "먼 바다의 폭풍에서 생긴 파도가 바람 없는 해안까지 밀려오는 것을 '너울'이라고 해요."
+    },
+    {
       "id": "history-de21303f",
       "category": "history",
       "difficulty": 2,
@@ -76,32 +76,33 @@
       "funFact": "동학이라는 이름은 서쪽의 학문인 서학에 대응해 '동쪽 나라의 학문'이라는 뜻으로 지었어요."
     },
     {
-      "id": "geography-953eb17a",
+      "id": "geography-428e7bdc",
       "category": "geography",
       "difficulty": 2,
-      "question": "우리나라 국토 최남단에 있는 섬은?",
+      "question": "빈, 부다페스트, 베오그라드를 모두 지나는 유럽의 강은?",
       "choices": [
-        "백령도",
-        "거제도",
-        "울릉도",
-        "마라도"
+        "도나우강",
+        "라인강",
+        "볼가강",
+        "엘베강"
       ],
-      "answerIndex": 3,
-      "explanation": "마라도는 제주도 남쪽에 있는 우리 국토 최남단의 섬이에요. 작지만 관광지로 잘 알려져 있어요."
+      "answerIndex": 0,
+      "explanation": "도나우강은 독일에서 시작해 여러 나라 수도를 지나 흑해로 흘러요. 영어로는 다뉴브강이라 불러요."
     },
     {
-      "id": "science-2ff0ad15",
-      "category": "science",
+      "id": "sports-e5b48ec4",
+      "category": "sports",
       "difficulty": 2,
-      "question": "밀물과 썰물이 생기는 주된 원인은?",
+      "question": "무하마드 알리가 이름을 바꾸기 전의 본명은?",
       "choices": [
-        "지구 자기장",
-        "달과 태양의 인력",
-        "강물 유입량",
-        "바람의 세기"
+        "소니 리스턴",
+        "슈거 레이 로빈슨",
+        "캐시어스 클레이",
+        "조 루이스"
       ],
-      "answerIndex": 1,
-      "explanation": "바닷물이 달과 태양의 인력에 끌려 높아졌다 낮아지는 현상이 밀물과 썰물이에요. 태양보다 훨씬 가까운 달의 영향이 더 커요."
+      "answerIndex": 2,
+      "explanation": "알리는 1964년 이슬람교로 개종하며 캐시어스 클레이라는 이름을 무하마드 알리로 바꿨어요.",
+      "funFact": "알리는 캐시어스 클레이라는 이름으로 1960년 로마 올림픽 라이트헤비급 금메달을 땄어요."
     },
     {
       "id": "culture-6c09e46a",
@@ -119,20 +120,6 @@
       "funFact": "미켈란젤로는 스스로를 화가보다 조각가라고 여겼다고 해요."
     },
     {
-      "id": "history-c7288b91",
-      "category": "history",
-      "difficulty": 3,
-      "question": "『경국대전』을 완성해 반포한 조선의 왕은?",
-      "choices": [
-        "세조",
-        "세종",
-        "성종",
-        "영조"
-      ],
-      "answerIndex": 2,
-      "explanation": "경국대전은 세조 때 편찬을 시작해 성종 16년(1485)에 반포된 조선의 기본 법전이에요. 이후 조선 통치의 바탕이 됐어요."
-    },
-    {
       "id": "science-cf228e65",
       "category": "science",
       "difficulty": 3,
@@ -146,6 +133,21 @@
       "answerIndex": 0,
       "explanation": "원소의 종류는 양성자 수로 정해져요. 양성자 수는 같지만 중성자 수가 달라 질량이 다른 원자를 동위원소라고 해요.",
       "funFact": "탄소-14라는 동위원소의 성질을 이용해 유물의 나이를 알아내요."
+    },
+    {
+      "id": "space-e2c2b171",
+      "category": "space",
+      "difficulty": 3,
+      "question": "2019년 인류 최초로 달 뒷면에 착륙한 중국의 탐사선은?",
+      "choices": [
+        "창어 3호",
+        "창어 4호",
+        "루나 9호",
+        "찬드라얀 2호"
+      ],
+      "answerIndex": 1,
+      "explanation": "창어 4호는 2019년 1월 달 뒷면의 폰 카르만 분화구에 착륙했어요. 지구와 직접 통신이 안 돼 중계 위성을 따로 띄웠어요.",
+      "funFact": "창어 4호가 내려놓은 로버의 이름은 옥토끼를 뜻하는 '위투 2호'예요."
     }
   ]
 }

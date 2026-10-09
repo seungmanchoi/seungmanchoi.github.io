@@ -4,49 +4,6 @@
   "date": "2026-12-29",
   "questions": [
     {
-      "id": "history-93e858aa",
-      "category": "history",
-      "difficulty": 1,
-      "question": "서울 도성의 남쪽 정문으로 '남대문'이라고도 부르는 문은?",
-      "choices": [
-        "숭례문",
-        "돈의문",
-        "숙정문",
-        "흥인지문"
-      ],
-      "answerIndex": 0,
-      "explanation": "숭례문은 조선 한양도성의 4대문 가운데 남쪽 문이에요. 동쪽은 흥인지문, 서쪽은 돈의문, 북쪽은 숙정문이에요.",
-      "funFact": "숭례문은 2008년 화재로 크게 손상됐다가 2013년에 복구를 마쳤어요."
-    },
-    {
-      "id": "economy-377014f2",
-      "category": "economy",
-      "difficulty": 1,
-      "question": "다른 조건이 같을 때, 물건 값이 오르면 일반적으로 수요량은?",
-      "choices": [
-        "변하지 않는다",
-        "두 배가 된다",
-        "늘어난다",
-        "줄어든다"
-      ],
-      "answerIndex": 3,
-      "explanation": "가격이 오르면 사려는 양이 줄어드는 것을 수요의 법칙이라고 해요. 값이 비싸지면 덜 사거나 다른 물건으로 바꾸기 때문이에요."
-    },
-    {
-      "id": "life-f1c41ab1",
-      "category": "life",
-      "difficulty": 1,
-      "question": "가벼운 화상을 입었을 때 가장 먼저 할 응급처치는?",
-      "choices": [
-        "흐르는 찬물에 식히기",
-        "얼음을 바로 대기",
-        "치약을 바르기",
-        "된장을 바르기"
-      ],
-      "answerIndex": 0,
-      "explanation": "화상 부위를 흐르는 찬물에 10~20분쯤 식혀 열기를 빼 주세요. 얼음이나 된장, 치약은 상처를 더 나쁘게 할 수 있어요."
-    },
-    {
       "id": "culture-017894e1",
       "category": "culture",
       "difficulty": 1,
@@ -59,6 +16,50 @@
       ],
       "answerIndex": 1,
       "explanation": "실내 배구는 한 팀 6명이 코트에서 경기해요. 서브 순서에 맞춰 선수들이 위치를 돌아가며 뛰어요."
+    },
+    {
+      "id": "life-bf78d5da",
+      "category": "life",
+      "difficulty": 1,
+      "question": "고속도로 요금소를 멈추지 않고 지나며 통행료를 내는 시스템은?",
+      "choices": [
+        "하이패스",
+        "블랙박스",
+        "티머니",
+        "내비게이션"
+      ],
+      "answerIndex": 0,
+      "explanation": "하이패스 단말기를 단 차는 전용 차로를 지나기만 하면 통행료가 자동으로 결제돼요. 요금소 정체를 줄여 줘요.",
+      "funFact": "요금소 없이 달리면서 결제하는 '스마트톨링'도 도입되고 있어요."
+    },
+    {
+      "id": "space-aa0c907c",
+      "category": "space",
+      "difficulty": 1,
+      "question": "가전제품 같은 사물을 인터넷에 연결하는 기술을 뜻하는 약어는?",
+      "choices": [
+        "OTT",
+        "IoT",
+        "NFT",
+        "VR"
+      ],
+      "answerIndex": 1,
+      "explanation": "IoT는 '사물인터넷(Internet of Things)'의 약자예요. 밖에서 스마트폰으로 에어컨을 켜는 것도 IoT 기술이에요.",
+      "funFact": "사물인터넷이라는 말은 1999년 영국의 한 연구자가 처음 썼다고 알려져 있어요."
+    },
+    {
+      "id": "economy-52b9cf9f",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "주식처럼 거래소에서 사고팔 수 있는 펀드는?",
+      "choices": [
+        "ELS",
+        "MMF",
+        "ETF",
+        "CMA"
+      ],
+      "answerIndex": 2,
+      "explanation": "ETF는 상장지수펀드예요. 특정 지수를 따라가도록 만들어 주식처럼 실시간으로 거래할 수 있어요."
     },
     {
       "id": "science-45472ee1",
@@ -75,33 +76,34 @@
       "explanation": "식물 세포는 세포막 바깥에 단단한 세포벽이 있어서 모양을 유지해요. 핵, 미토콘드리아, 리보솜은 동물 세포에도 있어요."
     },
     {
-      "id": "history-3b199459",
-      "category": "history",
+      "id": "sports-a15ab92a",
+      "category": "sports",
       "difficulty": 2,
-      "question": "세종 때 우리 풍토에 맞는 농법을 정리해 펴낸 농서는?",
+      "question": "태권도 수련·체험 시설인 태권도원이 있는 지역은?",
       "choices": [
-        "임원경제지",
-        "농사직설",
-        "산림경제",
-        "구황촬요"
+        "경북 안동",
+        "강원 춘천",
+        "충남 공주",
+        "전북 무주"
       ],
-      "answerIndex": 1,
-      "explanation": "『농사직설』은 세종의 명으로 정초 등이 편찬한 농서예요. 중국 농법이 아닌 우리 땅에 맞는 농사 방법을 담았어요.",
-      "funFact": "각 지방 농부들의 경험을 직접 물어 모아 만들었어요."
+      "answerIndex": 3,
+      "explanation": "태권도원은 전북 무주군에 있는 태권도 수련·체험 시설로, 2014년에 문을 열었어요.",
+      "funFact": "태권도원 안에는 태권도 경기를 위한 전용 경기장 'T1 경기장'이 있어요."
     },
     {
-      "id": "economy-27089e0d",
-      "category": "economy",
+      "id": "nature-f2f04cc3",
+      "category": "nature",
       "difficulty": 2,
-      "question": "사람의 욕구에 비해 자원이 부족한 상태를 뜻하는 말은?",
+      "question": "수컷이 긴 '노래'를 불러 유명해진 고래는?",
       "choices": [
-        "외부효과",
-        "희소성",
-        "한계효용",
-        "규모의 경제"
+        "귀신고래",
+        "혹등고래",
+        "향유고래",
+        "범고래"
       ],
       "answerIndex": 1,
-      "explanation": "자원은 한정돼 있는데 원하는 것은 많아서 선택이 필요하다는 개념이 희소성이에요. 경제 문제가 생기는 근본 이유예요."
+      "explanation": "혹등고래 수컷은 일정한 소리 단위를 반복하는 긴 노래를 불러요. 같은 해역 수컷들은 비슷한 노래를 불러요.",
+      "funFact": "혹등고래 노래는 해마다 조금씩 바뀌며 무리 사이에 퍼져 나가요."
     },
     {
       "id": "geography-7b1a740c",

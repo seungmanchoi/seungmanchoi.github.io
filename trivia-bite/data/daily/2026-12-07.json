@@ -4,21 +4,6 @@
   "date": "2026-12-07",
   "questions": [
     {
-      "id": "science-148e06dd",
-      "category": "science",
-      "difficulty": 1,
-      "question": "태양계 행성 중 태양에 가장 가까운 행성은?",
-      "choices": [
-        "화성",
-        "지구",
-        "금성",
-        "수성"
-      ],
-      "answerIndex": 3,
-      "explanation": "수성은 태양에서 가장 가까운 행성이에요. 크기는 태양계 행성 중 가장 작아요.",
-      "funFact": "수성이 태양과 가장 가깝지만, 가장 뜨거운 행성은 두꺼운 대기를 가진 금성이에요."
-    },
-    {
       "id": "korean-ec4c9746",
       "category": "korean",
       "difficulty": 1,
@@ -59,6 +44,20 @@
       ],
       "answerIndex": 3,
       "explanation": "안전벨트는 충돌할 때 몸이 앞으로 튕겨 나가는 것을 막아 줘요. 뒷좌석을 포함해 모든 좌석에서 매는 것이 안전해요."
+    },
+    {
+      "id": "geography-cb0db0ee",
+      "category": "geography",
+      "difficulty": 1,
+      "question": "다음 중 우리나라와 시차가 없는 나라는?",
+      "choices": [
+        "중국",
+        "필리핀",
+        "태국",
+        "일본"
+      ],
+      "answerIndex": 3,
+      "explanation": "우리나라와 일본은 모두 동경 135도를 기준으로 한 같은 표준시를 써요. 중국과 필리핀은 1시간 늦어요."
     },
     {
       "id": "history-76da7b67",

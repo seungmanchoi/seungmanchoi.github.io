@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "id": "daily-2027-03-03",
+  "date": "2027-03-03",
+  "questions": [
+    {
+      "id": "history-f4cee513",
+      "category": "history",
+      "difficulty": 1,
+      "question": "인도와 중앙아시아를 여행하고 『왕오천축국전』을 쓴 신라 승려는?",
+      "choices": [
+        "의상",
+        "혜초",
+        "자장",
+        "원효"
+      ],
+      "answerIndex": 1,
+      "explanation": "혜초는 8세기 바닷길로 인도에 가서 여러 나라를 돌고 육로로 돌아왔어요. 『왕오천축국전』은 1908년 프랑스 학자 펠리오가 둔황에서 찾아냈어요."
+    },
+    {
+      "id": "life-9009e45c",
+      "category": "life",
+      "difficulty": 1,
+      "question": "바닥의 무거운 짐을 들 때 허리를 지키는 자세는?",
+      "choices": [
+        "팔 뻗어 들기",
+        "무릎 굽혀 들기",
+        "한 손으로 들기",
+        "허리 숙여 들기"
+      ],
+      "answerIndex": 1,
+      "explanation": "무릎을 굽혀 짐을 몸에 붙이고 다리 힘으로 일어나야 허리 부담이 줄어요. 허리만 숙이면 허리 근육과 디스크에 무리가 가요.",
+      "funFact": "짐을 몸에서 멀리 들수록 허리가 받는 힘이 훨씬 커져요."
+    },
+    {
+      "id": "science-1f9c015e",
+      "category": "science",
+      "difficulty": 1,
+      "question": "물이 어는 온도를 0, 끓는 온도를 100으로 정한 온도 단위는?",
+      "choices": [
+        "랭킨 온도(°R)",
+        "절대 온도(K)",
+        "화씨온도(℉)",
+        "섭씨온도(℃)"
+      ],
+      "answerIndex": 3,
+      "explanation": "섭씨온도는 1기압에서 물의 어는점을 0℃, 끓는점을 100℃로 정해 그 사이를 100등분했어요. 스웨덴 학자 셀시우스가 제안했어요."
+    },
+    {
+      "id": "economy-5bf1e73e",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "물건값보다 돈을 더 냈을 때 되돌려 받는 돈은?",
+      "choices": [
+        "위약금",
+        "보증금",
+        "거스름돈",
+        "계약금"
+      ],
+      "answerIndex": 2,
+      "explanation": "거스름돈은 낸 돈에서 물건값을 빼고 남은 만큼 돌려받는 돈이에요.",
+      "funFact": "카드와 간편결제가 늘면서 거스름돈을 받을 일이 많이 줄었어요."
+    },
+    {
+      "id": "space-b13ab320",
+      "category": "space",
+      "difficulty": 2,
+      "question": "1979년 소니가 내놓아 걸으며 음악 듣는 문화를 만든 휴대용 카세트 플레이어는?",
+      "choices": [
+        "아이팟",
+        "MP3 플레이어",
+        "디스크맨",
+        "워크맨"
+      ],
+      "answerIndex": 3,
+      "explanation": "워크맨은 들고 다니며 이어폰으로 카세트테이프를 듣게 해 준 소니의 기기예요. 이후 개인 음악 감상 문화를 크게 바꿨어요.",
+      "funFact": "첫 워크맨에는 이어폰 단자가 두 개 있어 두 사람이 함께 들을 수 있었어요."
+    },
+    {
+      "id": "geography-e957a504",
+      "category": "geography",
+      "difficulty": 2,
+      "question": "국내 최대의 자연 내륙 습지로 꼽히는 경남 창녕의 늪은?",
+      "choices": [
+        "순천만",
+        "주남저수지",
+        "우포늪",
+        "대암산 용늪"
+      ],
+      "answerIndex": 2,
+      "explanation": "우포늪은 경남 창녕에 있는 내륙 습지로, 1998년 람사르 습지로 등록됐어요.",
+      "funFact": "우포늪은 따오기를 복원해 다시 자연으로 돌려보내는 곳이기도 해요."
+    },
+    {
+      "id": "nature-46f76abb",
+      "category": "nature",
+      "difficulty": 2,
+      "question": "지진이 처음 일어난 땅속 지점(진원)의 바로 위 지표 지점은?",
+      "choices": [
+        "진앙",
+        "단층",
+        "진원",
+        "해구"
+      ],
+      "answerIndex": 0,
+      "explanation": "땅속에서 지진이 시작된 곳이 진원, 그 바로 위 땅 표면의 지점이 진앙이에요.",
+      "funFact": "진앙에서 멀어질수록 대체로 흔들림이 약해지지만, 땅이 무른 곳은 멀리 있어도 크게 흔들릴 수 있어요."
+    },
+    {
+      "id": "korean-60c3ebf8",
+      "category": "korean",
+      "difficulty": 3,
+      "question": "관용구 '깡통을 차다'의 뜻은?",
+      "choices": [
+        "크게 실수함",
+        "일을 망쳐 버림",
+        "시끄럽게 떠듦",
+        "빌어먹는 신세가 됨"
+      ],
+      "answerIndex": 3,
+      "explanation": "재산을 다 잃고 빌어먹는 처지가 되는 것을 말해요."
+    },
+    {
+      "id": "culture-25ca8f4d",
+      "category": "culture",
+      "difficulty": 3,
+      "question": "활대로 줄을 문질러 낮고 굵은 소리를 내는 국악 현악기는?",
+      "choices": [
+        "아쟁",
+        "해금",
+        "가야금",
+        "양금"
+      ],
+      "answerIndex": 0,
+      "explanation": "아쟁은 개나리 나무 등으로 만든 막대에 송진을 칠해 줄을 문질러 소리 내요. 국악 현악기 중 낮은 음을 맡아요."
+    },
+    {
+      "id": "life-51ea7277",
+      "category": "life",
+      "difficulty": 3,
+      "question": "찹쌀이 멥쌀보다 훨씬 찰진 이유와 관련된 녹말 성분은?",
+      "choices": [
+        "아밀로펙틴",
+        "셀룰로스",
+        "글리코겐",
+        "아밀로스"
+      ],
+      "answerIndex": 0,
+      "explanation": "찹쌀 녹말은 거의 전부 가지가 많은 아밀로펙틴이라 끈기가 강해요. 멥쌀은 곧은 사슬인 아밀로스가 20% 안팎 섞여 있어요."
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "id": "daily-2027-03-06",
+  "date": "2027-03-06",
+  "questions": [
+    {
+      "id": "history-a1cacb17",
+      "category": "history",
+      "difficulty": 1,
+      "question": "1949년 베이징 톈안먼에서 중화인민공화국 수립을 선포한 인물은?",
+      "choices": [
+        "마오쩌둥",
+        "장제스",
+        "저우언라이",
+        "덩샤오핑"
+      ],
+      "answerIndex": 0,
+      "explanation": "마오쩌둥이 이끈 공산당은 국공 내전에서 이겨 1949년 10월 1일 새 나라를 선포했어요. 장제스의 국민당은 타이완으로 옮겨 갔어요.",
+      "funFact": "지금도 톈안먼 성루에는 마오쩌둥의 초상화가 걸려 있어요."
+    },
+    {
+      "id": "life-98a5248e",
+      "category": "life",
+      "difficulty": 1,
+      "question": "밥이 끓은 뒤 불을 줄이고 한동안 두어 속까지 익히는 일은?",
+      "choices": [
+        "눌리기",
+        "불리기",
+        "데치기",
+        "뜸 들이기"
+      ],
+      "answerIndex": 3,
+      "explanation": "끓고 난 뒤 약한 불로 잠시 두면 남은 열과 김으로 쌀알 속까지 고루 익어요. 이 과정을 뜸 들인다고 해요.",
+      "funFact": "'뜸을 들이다'는 일을 바로 하지 않고 머뭇거린다는 뜻으로도 써요."
+    },
+    {
+      "id": "korean-04292984",
+      "category": "korean",
+      "difficulty": 1,
+      "question": "아내가 남편의 누나나 여동생을 이르는 말은?",
+      "choices": [
+        "동서",
+        "시누이",
+        "올케",
+        "처제"
+      ],
+      "answerIndex": 1,
+      "explanation": "남편의 누나나 여동생은 '시누이'라고 해요. '처제'는 아내의 여동생이에요."
+    },
+    {
+      "id": "nature-01d60b27",
+      "category": "nature",
+      "difficulty": 1,
+      "question": "먹이사슬에서 식물을 먹는 초식 동물은 어떤 단계일까요?",
+      "choices": [
+        "분해자",
+        "2차 소비자",
+        "1차 소비자",
+        "생산자"
+      ],
+      "answerIndex": 2,
+      "explanation": "생산자인 식물을 먹는 초식 동물이 1차 소비자, 그 초식 동물을 먹는 동물이 2차 소비자예요.",
+      "funFact": "같은 동물이라도 무엇을 먹느냐에 따라 1차 소비자도, 2차 소비자도 될 수 있어요."
+    },
+    {
+      "id": "economy-bd8ae5a4",
+      "category": "economy",
+      "difficulty": 2,
+      "question": "주식 1주를 여러 주로 쪼개 주당 가격을 낮추는 것은?",
+      "choices": [
+        "액면분할",
+        "무상증자",
+        "유상증자",
+        "감자"
+      ],
+      "answerIndex": 0,
+      "explanation": "액면분할을 하면 주식 수는 늘고 주가는 그만큼 낮아져요. 회사 가치는 그대로지만 소액 투자자가 사기 쉬워져요."
+    },
+    {
+      "id": "culture-3f028829",
+      "category": "culture",
+      "difficulty": 2,
+      "question": "전통 혼례 뒤 신부가 시부모님께 처음 큰절을 올리는 예식은?",
+      "choices": [
+        "폐백",
+        "사주단자",
+        "납폐",
+        "함 들이기"
+      ],
+      "answerIndex": 0,
+      "explanation": "폐백은 신부가 시댁 어른들께 인사를 드리는 예식이에요. 시부모가 자식 많이 낳으라며 대추와 밤을 던져 줘요."
+    },
+    {
+      "id": "sports-5e030a98",
+      "category": "sports",
+      "difficulty": 2,
+      "question": "태권도가 처음 올림픽 정식 종목으로 열린 대회는?",
+      "choices": [
+        "2004 아테네",
+        "1988 서울",
+        "2000 시드니",
+        "1996 애틀랜타"
+      ],
+      "answerIndex": 2,
+      "explanation": "태권도는 서울과 바르셀로나에서 시범 종목을 거쳐 2000년 시드니 올림픽에서 정식 종목이 됐어요.",
+      "funFact": "태권도 정식 종목 채택은 1994년 파리 IOC 총회에서 결정됐어요."
+    },
+    {
+      "id": "geography-10f5b01a",
+      "category": "geography",
+      "difficulty": 3,
+      "question": "자메이카의 수도는 어디일까요?",
+      "choices": [
+        "나소",
+        "아바나",
+        "몬테고베이",
+        "킹스턴"
+      ],
+      "answerIndex": 3,
+      "explanation": "자메이카의 수도는 킹스턴이에요. 레게 음악의 고향이자 블루마운틴 커피로도 유명해요."
+    },
+    {
+      "id": "korean-f434d5fa",
+      "category": "korean",
+      "difficulty": 3,
+      "question": "사자성어 '당랑거철'의 뜻으로 알맞은 것은?",
+      "choices": [
+        "수레를 잘 다룸",
+        "작은 힘을 모아 이김",
+        "약한 자를 보살핌",
+        "제 힘도 모르고 강자에 덤빔"
+      ],
+      "answerIndex": 3,
+      "explanation": "사마귀가 앞발을 들어 수레를 막는다는 뜻으로, 분수도 모르고 강한 상대에게 맞서는 것을 말해요."
+    },
+    {
+      "id": "history-2ecf2809",
+      "category": "history",
+      "difficulty": 3,
+      "question": "2차 대전 뒤 나치 독일의 주요 전범을 심판한 독일 도시의 재판은?",
+      "choices": [
+        "헤이그 재판",
+        "뉘른베르크 재판",
+        "도쿄 재판",
+        "베를린 재판"
+      ],
+      "answerIndex": 1,
+      "explanation": "1945년부터 열린 이 재판에서 나치 지도자들이 '평화에 대한 죄', '인도에 반한 죄' 등으로 처벌받았어요.",
+      "funFact": "뉘른베르크는 나치가 대규모 전당 대회를 열던 도시였어요."
+    }
+  ]
+}

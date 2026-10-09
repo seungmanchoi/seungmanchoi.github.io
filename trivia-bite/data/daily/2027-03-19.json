@@ -1,0 +1,154 @@
+{
+  "version": 1,
+  "id": "daily-2027-03-19",
+  "date": "2027-03-19",
+  "questions": [
+    {
+      "id": "korean-28790d83",
+      "category": "korean",
+      "difficulty": 1,
+      "question": "순우리말 '보름'은 며칠 동안을 뜻할까요?",
+      "choices": [
+        "15일",
+        "10일",
+        "30일",
+        "20일"
+      ],
+      "answerIndex": 0,
+      "explanation": "'보름'은 열닷새 동안을 뜻하고, 음력 15일을 가리키기도 해요.",
+      "funFact": "음력 1월 15일을 '정월 대보름'이라고 해요."
+    },
+    {
+      "id": "culture-344c44a5",
+      "category": "culture",
+      "difficulty": 1,
+      "question": "디즈니 애니메이션 '겨울왕국'에서 여름을 꿈꾸는 눈사람은?",
+      "choices": [
+        "크리스토프",
+        "한스",
+        "올라프",
+        "스벤"
+      ],
+      "answerIndex": 2,
+      "explanation": "올라프는 엘사의 마법으로 생겨난 눈사람으로 따뜻한 포옹을 좋아해요.",
+      "funFact": "스벤은 크리스토프와 함께 다니는 순록이에요."
+    },
+    {
+      "id": "economy-47e35bb8",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "집이나 땅을 샀을 때 내는 지방세는?",
+      "choices": [
+        "종합부동산세",
+        "증여세",
+        "양도소득세",
+        "취득세"
+      ],
+      "answerIndex": 3,
+      "explanation": "취득세는 부동산이나 자동차 등을 취득할 때 내는 지방세예요. 팔아서 남긴 차익에는 양도소득세를 내요."
+    },
+    {
+      "id": "history-feb37f5d",
+      "category": "history",
+      "difficulty": 1,
+      "question": "루이 16세의 왕비로, 프랑스 혁명 중 처형된 오스트리아 출신 왕비는?",
+      "choices": [
+        "마리 테레지아",
+        "조제핀",
+        "안 불린",
+        "마리 앙투아네트"
+      ],
+      "answerIndex": 3,
+      "explanation": "마리 앙투아네트는 사치스러운 생활로 미움을 받았고 1793년 단두대에서 처형됐어요.",
+      "funFact": "\"빵이 없으면 케이크를 먹으라\"는 말은 실제로 그녀가 했다는 증거가 없어요."
+    },
+    {
+      "id": "life-4729e736",
+      "category": "life",
+      "difficulty": 2,
+      "question": "혈액 응고에 꼭 필요한 비타민은?",
+      "choices": [
+        "비타민 C",
+        "비타민 B12",
+        "비타민 A",
+        "비타민 K"
+      ],
+      "answerIndex": 3,
+      "explanation": "비타민 K는 피를 굳게 하는 응고 인자를 만드는 데 필요해요. 녹색 잎채소에 많아요.",
+      "funFact": "K는 독일어로 응고를 뜻하는 'Koagulation'에서 따왔어요."
+    },
+    {
+      "id": "science-7b28d3f2",
+      "category": "science",
+      "difficulty": 2,
+      "question": "귓속에서 소리 진동을 느껴 청각 신경으로 전하는 기관은?",
+      "choices": [
+        "고막",
+        "달팽이관",
+        "반고리관",
+        "귓바퀴"
+      ],
+      "answerIndex": 1,
+      "explanation": "달팽이관 안의 털세포가 진동을 전기 신호로 바꿔 뇌로 보내요. 그래서 우리가 소리를 들을 수 있어요.",
+      "funFact": "이름처럼 달팽이 껍데기 모양으로 약 두 바퀴 반 감겨 있어요."
+    },
+    {
+      "id": "space-4cc59d17",
+      "category": "space",
+      "difficulty": 2,
+      "question": "보이저 탐사선에 실린, 지구의 소리와 음악을 담은 레코드는?",
+      "choices": [
+        "실버 디스크",
+        "골든 레코드",
+        "블랙박스",
+        "타임캡슐 CD"
+      ],
+      "answerIndex": 1,
+      "explanation": "골든 레코드에는 여러 언어의 인사말, 자연의 소리, 세계 각국의 음악이 담겼어요. 외계 지적 생명체에게 보내는 지구의 편지예요.",
+      "funFact": "골든 레코드의 보호 덮개에는 재생 방법을 알려 주는 그림이 새겨져 있어요."
+    },
+    {
+      "id": "geography-1485fa78",
+      "category": "geography",
+      "difficulty": 3,
+      "question": "북아메리카 중부에 펼쳐진 넓은 온대 초원은?",
+      "choices": [
+        "프레리",
+        "스텝",
+        "팜파스",
+        "사바나"
+      ],
+      "answerIndex": 0,
+      "explanation": "프레리는 미국과 캐나다 중부에 펼쳐진 온대 초원으로, 지금은 큰 곡창 지대예요.",
+      "funFact": "프레리는 프랑스어로 '풀밭'이라는 뜻이에요."
+    },
+    {
+      "id": "life-c60f21ce",
+      "category": "life",
+      "difficulty": 3,
+      "question": "아파트 발코니에서 부수고 옆집으로 피할 수 있는 얇은 벽은?",
+      "choices": [
+        "경량칸막이",
+        "커튼월",
+        "방화벽",
+        "내력벽"
+      ],
+      "answerIndex": 0,
+      "explanation": "경량칸막이는 석고보드 등으로 만든 얇은 벽이라 발로 차서 부술 수 있어요. 불이 났을 때 옆집으로 대피하는 통로가 돼요."
+    },
+    {
+      "id": "korean-adffa957",
+      "category": "korean",
+      "difficulty": 3,
+      "question": "속담 '닭 쫓던 개 지붕 쳐다보듯'의 뜻은?",
+      "choices": [
+        "남을 끝까지 괴롭힘",
+        "서로 사이가 나쁨",
+        "일이 틀어져 맥이 빠짐",
+        "높은 꿈을 품음"
+      ],
+      "answerIndex": 2,
+      "explanation": "애써 하던 일이 실패하거나 남에게 뒤처져 어찌할 도리 없이 맥이 빠진 모습을 이르는 말이에요."
+    }
+  ]
+}

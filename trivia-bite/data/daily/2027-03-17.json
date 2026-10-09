@@ -1,0 +1,153 @@
+{
+  "version": 1,
+  "id": "daily-2027-03-17",
+  "date": "2027-03-17",
+  "questions": [
+    {
+      "id": "korean-16002e41",
+      "category": "korean",
+      "difficulty": 1,
+      "question": "속담 '꼬리가 길면 ○○○'의 빈칸에 들어갈 말은?",
+      "choices": [
+        "잡힌다",
+        "밟힌다",
+        "잘린다",
+        "걸린다"
+      ],
+      "answerIndex": 1,
+      "explanation": "나쁜 일을 오래 계속하면 결국 들키게 된다는 뜻이에요.",
+      "funFact": "'꼬리를 밟히다'는 행적을 들킨다는 관용구로도 쓰여요."
+    },
+    {
+      "id": "history-4438702a",
+      "category": "history",
+      "difficulty": 1,
+      "question": "조선이 에도 막부에 파견한 외교 사절단은?",
+      "choices": [
+        "보빙사",
+        "연행사",
+        "조선 통신사",
+        "영선사"
+      ],
+      "answerIndex": 2,
+      "explanation": "조선 통신사는 임진왜란 뒤 1607년부터 1811년까지 12차례 일본에 파견되었어요. 학문과 예술 교류에도 큰 역할을 했어요."
+    },
+    {
+      "id": "culture-41bbfec7",
+      "category": "culture",
+      "difficulty": 1,
+      "question": "그리스 신화에서 손에 닿는 것마다 황금으로 변한 왕은?",
+      "choices": [
+        "크로이소스",
+        "아가멤논",
+        "탄탈로스",
+        "미다스"
+      ],
+      "answerIndex": 3,
+      "explanation": "미다스 왕은 디오니소스에게 받은 소원으로 손대는 것을 황금으로 만들었어요. 음식까지 금이 되자 결국 능력을 거두어 달라고 빌었어요."
+    },
+    {
+      "id": "nature-0a9aee6d",
+      "category": "nature",
+      "difficulty": 1,
+      "question": "바람에 날린 모래가 쌓여 생긴 언덕은?",
+      "choices": [
+        "분지",
+        "해구",
+        "곶",
+        "사구"
+      ],
+      "answerIndex": 3,
+      "explanation": "사막이나 바닷가에서 바람이 모래를 실어 날라 쌓은 언덕을 사구라고 해요.",
+      "funFact": "충남 태안의 신두리 해안사구는 천연기념물로 지정된 우리나라의 대표 사구예요."
+    },
+    {
+      "id": "life-2f51fb92",
+      "category": "life",
+      "difficulty": 2,
+      "question": "분말 소화기 압력계 바늘이 어디 있어야 정상일까요?",
+      "choices": [
+        "초록색 범위",
+        "빨간색 범위",
+        "0 눈금",
+        "노란색 범위"
+      ],
+      "answerIndex": 0,
+      "explanation": "압력계 바늘이 초록색에 있어야 정상 압력이에요. 바늘이 벗어나 있으면 점검이나 교체가 필요해요."
+    },
+    {
+      "id": "economy-3d974f8a",
+      "category": "economy",
+      "difficulty": 2,
+      "question": "물가 변동 효과를 빼고 계산한 국내총생산은?",
+      "choices": [
+        "잠재 GDP",
+        "명목 GDP",
+        "GNI",
+        "실질 GDP"
+      ],
+      "answerIndex": 3,
+      "explanation": "실질 GDP는 기준 연도 가격으로 계산해 생산량이 실제로 얼마나 늘었는지 보여 줘요.",
+      "funFact": "경제성장률은 보통 실질 GDP의 증가율로 발표해요."
+    },
+    {
+      "id": "sports-dc4523bf",
+      "category": "sports",
+      "difficulty": 2,
+      "question": "배드민턴이라는 이름의 유래가 된 것은?",
+      "choices": [
+        "영국 귀족의 저택",
+        "발명가의 이름",
+        "인도의 도시",
+        "새의 이름"
+      ],
+      "answerIndex": 0,
+      "explanation": "배드민턴은 영국 뷰포트 공작의 저택 '배드민턴 하우스'에서 이름을 땄어요. 인도에서 들여온 놀이가 이곳에서 유행했다고 해요.",
+      "funFact": "배드민턴 셔틀콕은 전통적으로 거위 깃털 16개로 만들어요."
+    },
+    {
+      "id": "geography-866e7d2b",
+      "category": "geography",
+      "difficulty": 3,
+      "question": "사해로 흘러드는 강은?",
+      "choices": [
+        "티그리스강",
+        "요르단강",
+        "유프라테스강",
+        "나일강"
+      ],
+      "answerIndex": 1,
+      "explanation": "요르단강은 갈릴리 호수를 거쳐 사해로 흘러들어요. 사해는 바다로 나가는 물길이 없어 물이 증발하며 짠물이 됐어요."
+    },
+    {
+      "id": "life-fd5b1fd4",
+      "category": "life",
+      "difficulty": 3,
+      "question": "귤껍질을 벗기면 알맹이에 붙어 있는 하얀 실 같은 부분은?",
+      "choices": [
+        "귤락",
+        "진피",
+        "귤피",
+        "과심"
+      ],
+      "answerIndex": 0,
+      "explanation": "귤 알맹이를 감싼 하얀 그물 모양 부분을 귤락이라고 해요. 식이섬유가 많아 떼지 않고 먹어도 좋아요.",
+      "funFact": "말린 귤껍질은 진피라고 부르며 한약재로 써요."
+    },
+    {
+      "id": "economy-f5461754",
+      "category": "economy",
+      "difficulty": 3,
+      "question": "인구는 기하급수, 식량은 산술급수로 는다고 본 학자는?",
+      "choices": [
+        "존 스튜어트 밀",
+        "데이비드 흄",
+        "맬서스",
+        "앨프리드 마셜"
+      ],
+      "answerIndex": 2,
+      "explanation": "맬서스는 1798년 『인구론』에서 인구 증가가 식량 생산을 앞질러 빈곤이 생긴다고 주장했어요.",
+      "funFact": "찰스 다윈은 맬서스의 『인구론』을 읽고 자연선택설의 실마리를 얻었다고 해요."
+    }
+  ]
+}

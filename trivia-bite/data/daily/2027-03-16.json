@@ -1,0 +1,150 @@
+{
+  "version": 1,
+  "id": "daily-2027-03-16",
+  "date": "2027-03-16",
+  "questions": [
+    {
+      "id": "korean-a90476ea",
+      "category": "korean",
+      "difficulty": 1,
+      "question": "속담 '도토리 키 재기'의 뜻은?",
+      "choices": [
+        "작은 차이가 크게 벌어짐",
+        "작은 것부터 아껴야 함",
+        "어린아이가 빨리 자람",
+        "고만고만한 이들끼리 다툼"
+      ],
+      "answerIndex": 3,
+      "explanation": "정도가 비슷비슷한 사람끼리 서로 낫다고 다투는 모습을 이르는 말이에요."
+    },
+    {
+      "id": "culture-0001e66b",
+      "category": "culture",
+      "difficulty": 1,
+      "question": "기타 연주와 손뼉, 구두 굽 소리가 어우러지는 스페인 남부의 춤은?",
+      "choices": [
+        "왈츠",
+        "탱고",
+        "폴카",
+        "플라멩코"
+      ],
+      "answerIndex": 3,
+      "explanation": "플라멩코는 스페인 안달루시아 지방에서 발전한 춤과 음악이에요. 노래·기타·춤이 함께 어우러져요."
+    },
+    {
+      "id": "economy-4662e662",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "정기적으로 요금을 내고 상품·서비스를 이용하는 경제 방식은?",
+      "choices": [
+        "공유경제",
+        "플랫폼경제",
+        "긱 경제",
+        "구독경제"
+      ],
+      "answerIndex": 3,
+      "explanation": "구독경제는 음악, 영상, 생활용품 등을 매달 일정 금액을 내고 이용하는 방식이에요. 기업은 꾸준한 매출을 얻을 수 있어요."
+    },
+    {
+      "id": "life-26ec5816",
+      "category": "life",
+      "difficulty": 1,
+      "question": "굴비는 어떤 생선을 소금에 절여 말린 것일까요?",
+      "choices": [
+        "갈치",
+        "명태",
+        "조기",
+        "고등어"
+      ],
+      "answerIndex": 2,
+      "explanation": "굴비는 참조기를 소금에 절여 말린 것으로 전남 영광 법성포가 유명해요. 엮어서 말리는 모습이 특징이에요."
+    },
+    {
+      "id": "history-1326d6d4",
+      "category": "history",
+      "difficulty": 2,
+      "question": "2차 대전 때 나치가 폴란드에 세운 최대 규모의 강제 수용소는?",
+      "choices": [
+        "다하우",
+        "트레블링카",
+        "아우슈비츠",
+        "부헨발트"
+      ],
+      "answerIndex": 2,
+      "explanation": "아우슈비츠에서는 유대인을 비롯해 100만 명이 넘는 사람이 희생됐어요. 홀로코스트를 상징하는 장소예요.",
+      "funFact": "아우슈비츠는 1979년 유네스코 세계유산에 올랐어요."
+    },
+    {
+      "id": "nature-6eb706bc",
+      "category": "nature",
+      "difficulty": 2,
+      "question": "열대 바닷가 갯벌에서 짠물에 뿌리를 담그고 자라는 숲은?",
+      "choices": [
+        "타이가",
+        "맹그로브",
+        "대나무숲",
+        "침엽수림"
+      ],
+      "answerIndex": 1,
+      "explanation": "맹그로브는 짠물을 견디는 나무들로, 물 위로 드러난 뿌리로 숨을 쉬며 바닷가에 숲을 이뤄요.",
+      "funFact": "맹그로브 숲은 파도를 약하게 해 해일과 해안 침식을 막는 천연 방파제 역할을 해요."
+    },
+    {
+      "id": "science-381fefc9",
+      "category": "science",
+      "difficulty": 2,
+      "question": "가장 높은 곳에 생기는 새털 모양의 얇은 구름은?",
+      "choices": [
+        "권운",
+        "난층운",
+        "층운",
+        "적운"
+      ],
+      "answerIndex": 0,
+      "explanation": "권운은 높은 하늘에 얼음 알갱이로 생기는 하얀 실 같은 구름이에요. 새털구름이라고도 해요."
+    },
+    {
+      "id": "geography-76a00053",
+      "category": "geography",
+      "difficulty": 3,
+      "question": "폴란드와 리투아니아 사이 발트해에 떨어져 있는 러시아 땅은?",
+      "choices": [
+        "상트페테르부르크",
+        "볼고그라드",
+        "칼리닌그라드",
+        "무르만스크"
+      ],
+      "answerIndex": 2,
+      "explanation": "칼리닌그라드는 러시아 본토와 떨어진 월경지로, 폴란드와 리투아니아 사이에 있어요.",
+      "funFact": "철학자 칸트가 태어난 옛 쾨니히스베르크가 바로 이 도시예요."
+    },
+    {
+      "id": "economy-b296c112",
+      "category": "economy",
+      "difficulty": 3,
+      "question": "외부 감사인이 재무제표에 문제가 없다고 볼 때 내는 의견은?",
+      "choices": [
+        "부적정의견",
+        "적정의견",
+        "한정의견",
+        "의견거절"
+      ],
+      "answerIndex": 1,
+      "explanation": "감사의견은 적정, 한정, 부적정, 의견거절로 나뉘어요. 적정이 아닌 의견을 받으면 투자자 신뢰가 크게 떨어져요."
+    },
+    {
+      "id": "life-33ef8642",
+      "category": "life",
+      "difficulty": 3,
+      "question": "바삭한 튀김을 위해 반죽에 찬물을 쓰는 이유는?",
+      "choices": [
+        "글루텐을 덜 만들려고",
+        "색을 진하게 하려고",
+        "기름 흡수를 늘리려고",
+        "단맛을 높이려고"
+      ],
+      "answerIndex": 0,
+      "explanation": "찬물로 반죽하면 밀가루의 글루텐이 덜 생겨 튀김옷이 질기지 않고 바삭해져요. 반죽을 너무 치대지 않는 것도 같은 이유예요."
+    }
+  ]
+}

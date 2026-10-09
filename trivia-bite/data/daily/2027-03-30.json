@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "id": "daily-2027-03-30",
+  "date": "2027-03-30",
+  "questions": [
+    {
+      "id": "science-e6d9bae6",
+      "category": "science",
+      "difficulty": 1,
+      "question": "원소 기호 'C'가 나타내는 원소는?",
+      "choices": [
+        "칼슘",
+        "염소",
+        "구리",
+        "탄소"
+      ],
+      "answerIndex": 3,
+      "explanation": "C는 탄소를 뜻하는 라틴어 carbo에서 왔어요. 칼슘은 Ca, 염소는 Cl, 구리는 Cu예요.",
+      "funFact": "생물의 몸을 이루는 유기물은 모두 탄소를 뼈대로 하고 있어요."
+    },
+    {
+      "id": "culture-03ece017",
+      "category": "culture",
+      "difficulty": 1,
+      "question": "전래동화 『해와 달이 된 오누이』에서 '떡 하나 주면 안 잡아먹지' 하는 동물은?",
+      "choices": [
+        "늑대",
+        "호랑이",
+        "곰",
+        "여우"
+      ],
+      "answerIndex": 1,
+      "explanation": "호랑이는 엄마를 해치고 오누이까지 노려요. 하늘에서 내려온 동아줄을 탄 오누이는 해와 달이 되었어요.",
+      "funFact": "썩은 동아줄을 탄 호랑이가 수수밭에 떨어져 수숫대가 붉어졌다는 이야기가 덧붙어요."
+    },
+    {
+      "id": "korean-40a861c5",
+      "category": "korean",
+      "difficulty": 1,
+      "question": "토마토로 만든 새콤달콤한 소스의 올바른 표기는?",
+      "choices": [
+        "케찹",
+        "케첩",
+        "캐찹",
+        "캐첩"
+      ],
+      "answerIndex": 1,
+      "explanation": "'ketchup'은 외래어 표기법에 따라 '케첩'으로 적어요.",
+      "funFact": "케첩은 원래 생선을 절인 아시아 소스에서 유래했다는 설이 있어요."
+    },
+    {
+      "id": "economy-fe71aed4",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "특정 기업 상품을 함께 사지 않기로 하는 행동은?",
+      "choices": [
+        "사재기",
+        "공동구매",
+        "불매운동",
+        "담합"
+      ],
+      "answerIndex": 2,
+      "explanation": "불매운동은 소비자가 뜻을 모아 특정 상품을 사지 않으며 압력을 넣는 행동이에요.",
+      "funFact": "영어로는 보이콧이라 하는데, 아일랜드의 토지 관리인 보이콧의 이름에서 나왔어요."
+    },
+    {
+      "id": "life-a561a658",
+      "category": "life",
+      "difficulty": 2,
+      "question": "토마토의 빨간색을 내는 색소는?",
+      "choices": [
+        "라이코펜",
+        "클로로필",
+        "커큐민",
+        "안토시아닌"
+      ],
+      "answerIndex": 0,
+      "explanation": "라이코펜은 카로티노이드 계열의 붉은 색소예요. 기름에 녹는 성질이라 기름에 볶아 먹으면 흡수가 잘돼요."
+    },
+    {
+      "id": "history-f92050e8",
+      "category": "history",
+      "difficulty": 2,
+      "question": "1993년 부여 능산리 절터에서 발굴된 백제의 대표 공예품은?",
+      "choices": [
+        "천마도",
+        "성덕대왕신종",
+        "금동반가사유상",
+        "백제 금동대향로"
+      ],
+      "answerIndex": 3,
+      "explanation": "백제 금동대향로는 용이 받친 몸체 위에 산과 신선, 봉황을 새긴 향로예요. 진흙 속에 묻혀 있어 1,400년 넘게 원형이 잘 남았어요."
+    },
+    {
+      "id": "korean-52568e3e",
+      "category": "korean",
+      "difficulty": 2,
+      "question": "여순 사건과 한국전쟁 전후를 다룬 대하소설 『태백산맥』의 작가는?",
+      "choices": [
+        "박경리",
+        "이문열",
+        "조정래",
+        "황석영"
+      ],
+      "answerIndex": 2,
+      "explanation": "『태백산맥』은 조정래가 1980년대에 발표한 10권짜리 대하소설이에요.",
+      "funFact": "조정래는 『아리랑』, 『한강』 같은 대하소설도 썼어요."
+    },
+    {
+      "id": "geography-f165d93f",
+      "category": "geography",
+      "difficulty": 3,
+      "question": "레바논 국기 한가운데 그려진 나무는?",
+      "choices": [
+        "야자나무",
+        "올리브나무",
+        "소나무",
+        "백향목"
+      ],
+      "answerIndex": 3,
+      "explanation": "레바논 국기에는 초록색 백향목(레바논삼나무)이 그려져 있어요. 성경에도 자주 나오는 나무예요."
+    },
+    {
+      "id": "life-4a4d7c5c",
+      "category": "life",
+      "difficulty": 3,
+      "question": "끓여도 독소가 잘 파괴되지 않아 손 상처로 옮기 쉬운 식중독균은?",
+      "choices": [
+        "장염비브리오",
+        "노로바이러스",
+        "황색포도상구균",
+        "살모넬라균"
+      ],
+      "answerIndex": 2,
+      "explanation": "황색포도상구균이 만든 독소는 열에 강해 다시 끓여도 남아요. 손에 상처가 있으면 장갑을 끼고 조리해야 해요."
+    },
+    {
+      "id": "korean-17d946cd",
+      "category": "korean",
+      "difficulty": 3,
+      "question": "훈민정음 28자 가운데 지금 쓰지 않는 글자는 몇 개?",
+      "choices": [
+        "4개",
+        "5개",
+        "2개",
+        "3개"
+      ],
+      "answerIndex": 0,
+      "explanation": "아래아(ㆍ), 반치음(ㅿ), 여린히읗(ㆆ), 옛이응(ㆁ) 네 글자가 사라져 지금은 24자를 써요."
+    }
+  ]
+}

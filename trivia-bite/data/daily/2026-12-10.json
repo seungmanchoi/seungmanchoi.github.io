@@ -19,21 +19,6 @@
       "funFact": "영국은 면직물 산업이 크게 성장하면서 '세계의 공장'이라고 불렸어요."
     },
     {
-      "id": "geography-53d27f81",
-      "category": "geography",
-      "difficulty": 1,
-      "question": "현재 일본의 수도는 어디일까요?",
-      "choices": [
-        "도쿄",
-        "오사카",
-        "요코하마",
-        "교토"
-      ],
-      "answerIndex": 0,
-      "explanation": "일본의 수도는 도쿄예요. 오사카는 서쪽의 대도시이고, 교토는 옛 수도였던 도시예요.",
-      "funFact": "교토는 794년부터 천 년 넘게 일본의 수도였어요."
-    },
-    {
       "id": "korean-16db926d",
       "category": "korean",
       "difficulty": 1,
@@ -48,19 +33,32 @@
       "explanation": "뜨겁지 않은 죽은 후루룩 먹을 수 있듯이, 하기가 매우 쉬운 일을 뜻해요. '누워서 떡 먹기'와 비슷한 말이에요."
     },
     {
-      "id": "economy-7f378e5f",
+      "id": "economy-bc1a7247",
       "category": "economy",
       "difficulty": 1,
-      "question": "주식회사에 투자해 그 회사의 주식을 가진 사람은?",
+      "question": "높은 수익을 노릴수록 위험도 커진다는 투자 격언은?",
       "choices": [
-        "채무자",
-        "중개인",
-        "주주",
-        "납세자"
+        "로리스크 하이리턴",
+        "박리다매",
+        "선택과 집중",
+        "하이리스크 하이리턴"
       ],
-      "answerIndex": 2,
-      "explanation": "주주는 회사의 주식을 가진 사람이에요. 회사 이익의 일부를 배당으로 받고, 주주총회에서 의결권도 행사할 수 있어요.",
-      "funFact": "주식회사의 시초로 흔히 1602년 네덜란드 동인도회사를 꼽아요."
+      "answerIndex": 3,
+      "explanation": "수익이 클 수 있는 투자일수록 손실 위험도 커요. 위험 없이 큰 수익을 약속하는 상품은 의심해 봐야 해요."
+    },
+    {
+      "id": "geography-edde979e",
+      "category": "geography",
+      "difficulty": 1,
+      "question": "쿠바·자메이카 등 섬들이 떠 있는 중앙아메리카 동쪽 바다는?",
+      "choices": [
+        "홍해",
+        "카리브해",
+        "사르가소해",
+        "지중해"
+      ],
+      "answerIndex": 1,
+      "explanation": "카리브해는 중앙아메리카와 서인도 제도 사이의 바다예요. 영화 '캐리비안의 해적'의 그 '캐리비안'이에요."
     },
     {
       "id": "science-77c01180",
@@ -93,19 +91,19 @@
       "funFact": "염소 가스는 제1차 세계대전에서 독가스로 쓰인 적이 있어요."
     },
     {
-      "id": "history-e0c69c66",
-      "category": "history",
+      "id": "space-570dda21",
+      "category": "space",
       "difficulty": 2,
-      "question": "1145년 고려 인종의 명으로 『삼국사기』를 편찬한 인물은?",
+      "question": "TV와 게임기를 영상·음성 함께 디지털로 연결하는 단자는?",
       "choices": [
-        "정도전",
-        "김부식",
-        "이규보",
-        "일연"
+        "HDMI",
+        "AUX",
+        "VGA",
+        "LAN"
       ],
-      "answerIndex": 1,
-      "explanation": "김부식이 왕명을 받아 쓴 『삼국사기』는 현재 전하는 우리나라에서 가장 오래된 역사서로 알려져 있어요. 일연은 『삼국유사』를 쓴 승려예요.",
-      "funFact": "일연이 쓴 『삼국유사』에는 단군 이야기가 실려 있어요."
+      "answerIndex": 0,
+      "explanation": "HDMI는 케이블 하나로 고화질 영상과 소리를 함께 보내는 디지털 단자예요. 아날로그 영상만 보내는 VGA를 대체했어요.",
+      "funFact": "HDMI는 'High-Definition Multimedia Interface'의 약자예요."
     },
     {
       "id": "culture-a7bf0db5",
@@ -123,21 +121,6 @@
       "funFact": "쿠베르탱의 심장은 그리스 올림피아에 묻혀 있어요."
     },
     {
-      "id": "geography-cfa7cb2d",
-      "category": "geography",
-      "difficulty": 3,
-      "question": "한반도에서 가장 긴 강은 무엇일까요?",
-      "choices": [
-        "한강",
-        "압록강",
-        "두만강",
-        "낙동강"
-      ],
-      "answerIndex": 1,
-      "explanation": "압록강은 길이가 약 800km로 한반도에서 가장 긴 강이에요. 남한 안에서만 따지면 낙동강이 가장 길어요.",
-      "funFact": "압록강은 백두산에서 시작해 서해로 흘러가요."
-    },
-    {
       "id": "korean-7d6add6b",
       "category": "korean",
       "difficulty": 3,
@@ -150,6 +133,21 @@
       ],
       "answerIndex": 3,
       "explanation": "'시나브로'는 모르는 사이에 조금씩 조금씩이라는 뜻의 부사예요. 예를 들면 '날이 시나브로 어두워졌어요'처럼 써요."
+    },
+    {
+      "id": "sports-1906b812",
+      "category": "sports",
+      "difficulty": 3,
+      "question": "크리켓에서 타자를 향해 공을 던지는 선수는?",
+      "choices": [
+        "위켓키퍼",
+        "피처",
+        "볼러",
+        "배츠맨"
+      ],
+      "answerIndex": 2,
+      "explanation": "크리켓에서는 투수 역할을 볼러, 타자를 배츠맨이라고 해요. 볼러는 팔꿈치를 굽혔다 펴며 던지면 반칙이에요.",
+      "funFact": "볼러는 공을 한 번 땅에 튀겨 타자에게 보내는 경우가 대부분이에요."
     }
   ]
 }

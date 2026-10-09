@@ -1,0 +1,148 @@
+{
+  "version": 1,
+  "id": "daily-2027-02-07",
+  "date": "2027-02-07",
+  "questions": [
+    {
+      "id": "korean-5852dd60",
+      "category": "korean",
+      "difficulty": 1,
+      "question": "속담 '다 된 밥에 재 뿌리기'의 뜻은?",
+      "choices": [
+        "쓸데없이 참견함",
+        "남의 공을 가로챔",
+        "뒤늦게 후회함",
+        "거의 된 일을 망쳐 버림"
+      ],
+      "answerIndex": 3,
+      "explanation": "거의 다 이룬 일을 마지막에 망쳐 버리는 짓을 이르는 말이에요."
+    },
+    {
+      "id": "culture-7b09895e",
+      "category": "culture",
+      "difficulty": 1,
+      "question": "힘찬 '황소' 그림과 은지화로 유명한 근대 화가는?",
+      "choices": [
+        "박수근",
+        "이중섭",
+        "천경자",
+        "김환기"
+      ],
+      "answerIndex": 1,
+      "explanation": "이중섭은 소를 즐겨 그린 한국 근대 화가예요. 가난한 피란 시절에는 담뱃갑 은박지에 그림을 새긴 은지화를 남겼어요."
+    },
+    {
+      "id": "history-3234135d",
+      "category": "history",
+      "difficulty": 1,
+      "question": "중국 삼국 시대에 유비가 세운 나라는?",
+      "choices": [
+        "촉",
+        "위",
+        "오",
+        "진"
+      ],
+      "answerIndex": 0,
+      "explanation": "유비는 221년 촉한을 세우고 황제가 되었어요. 조비가 세운 위, 손권의 오와 함께 삼국을 이루었어요."
+    },
+    {
+      "id": "space-f19d58df",
+      "category": "space",
+      "difficulty": 1,
+      "question": "2022년 6월 대부분의 Windows 10에서 데스크톱 앱 지원이 종료된 마이크로소프트 웹 브라우저는?",
+      "choices": [
+        "파이어폭스",
+        "크롬",
+        "인터넷 익스플로러",
+        "사파리"
+      ],
+      "answerIndex": 2,
+      "explanation": "인터넷 익스플로러 11 데스크톱 앱은 대부분의 Windows 10 환경에서 2022년 6월 지원이 종료되었어요. 일부 환경과 엣지의 IE 모드는 별도 지원 일정이 적용돼요.",
+      "funFact": "지원 종료 날 한국의 한 개발자가 인터넷 익스플로러 모양의 묘비를 만들어 해외에서도 화제가 됐어요."
+    },
+    {
+      "id": "life-24f482df",
+      "category": "life",
+      "difficulty": 2,
+      "question": "꿈을 주로 꾸는 수면 단계는?",
+      "choices": [
+        "깊은 비렘수면",
+        "서파 수면",
+        "렘(REM)수면",
+        "입면기"
+      ],
+      "answerIndex": 2,
+      "explanation": "렘수면 때는 눈동자가 빠르게 움직이고 뇌가 활발해 생생한 꿈을 많이 꿔요. REM은 '빠른 안구 운동'의 줄임말이에요."
+    },
+    {
+      "id": "economy-517f93d5",
+      "category": "economy",
+      "difficulty": 2,
+      "question": "임직원이 정해진 값에 회사 주식을 살 수 있는 권리는?",
+      "choices": [
+        "콜옵션",
+        "스톡옵션",
+        "공모주",
+        "우리사주"
+      ],
+      "answerIndex": 1,
+      "explanation": "스톡옵션은 나중에 주가가 오르면 정해진 싼 값에 사서 차익을 볼 수 있어요. 회사 성장에 임직원의 이해를 맞추려는 보상이에요."
+    },
+    {
+      "id": "science-2fcfcaf9",
+      "category": "science",
+      "difficulty": 2,
+      "question": "북반구에서 태풍의 바람은 중심을 어느 방향으로 돌까요?",
+      "choices": [
+        "시계 반대 방향",
+        "시계 방향",
+        "바깥쪽 직선",
+        "일정하지 않음"
+      ],
+      "answerIndex": 0,
+      "explanation": "지구 자전에 따른 전향력 때문에 북반구 태풍은 시계 반대 방향으로 돌며 중심으로 불어 들어가요. 남반구는 반대예요."
+    },
+    {
+      "id": "geography-0af1d4d8",
+      "category": "geography",
+      "difficulty": 3,
+      "question": "제주도의 '삼무(三無)'에 해당하지 않는 것은?",
+      "choices": [
+        "도둑",
+        "대문",
+        "거지",
+        "바람"
+      ],
+      "answerIndex": 3,
+      "explanation": "제주의 삼무는 도둑, 거지, 대문이 없다는 뜻이에요. 바람은 오히려 많은 것, 곧 삼다에 들어가요."
+    },
+    {
+      "id": "korean-e2535df3",
+      "category": "korean",
+      "difficulty": 3,
+      "question": "사자성어 '지록위마'의 뜻으로 알맞은 것은?",
+      "choices": [
+        "동물을 아낌",
+        "윗사람 속이고 권세 부림",
+        "재능을 알아봄",
+        "말과 사슴을 잘 구별함"
+      ],
+      "answerIndex": 1,
+      "explanation": "진나라 조고가 사슴을 말이라 우겼다는 고사에서, 억지로 윗사람을 속이고 권세를 부리는 것을 뜻해요."
+    },
+    {
+      "id": "culture-c9be861b",
+      "category": "culture",
+      "difficulty": 3,
+      "question": "'살어리 살어리랏다 청산애 살어리랏다'로 시작하는 고려가요는?",
+      "choices": [
+        "동동",
+        "서경별곡",
+        "청산별곡",
+        "가시리"
+      ],
+      "answerIndex": 2,
+      "explanation": "「청산별곡」은 작자 미상의 고려가요예요. 삶의 괴로움을 피해 청산과 바다로 가고 싶은 마음을 노래했어요."
+    }
+  ]
+}

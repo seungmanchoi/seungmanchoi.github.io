@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "id": "daily-2027-02-23",
+  "date": "2027-02-23",
+  "questions": [
+    {
+      "id": "culture-04a106bb",
+      "category": "culture",
+      "difficulty": 1,
+      "question": "설날 아침 웃어른께 새해 인사로 올리는 큰절은?",
+      "choices": [
+        "폐백",
+        "문안",
+        "성묘",
+        "세배"
+      ],
+      "answerIndex": 3,
+      "explanation": "설날에 웃어른께 큰절로 새해 인사를 드리는 것을 세배라고 해요.",
+      "funFact": "세배를 하면 어른들이 덕담과 함께 세뱃돈을 주기도 해요."
+    },
+    {
+      "id": "life-2dc210aa",
+      "category": "life",
+      "difficulty": 1,
+      "question": "디젤 엔진 자동차에 넣는 연료는?",
+      "choices": [
+        "휘발유",
+        "LPG",
+        "등유",
+        "경유"
+      ],
+      "answerIndex": 3,
+      "explanation": "디젤 엔진은 공기를 압축해 온도를 높인 뒤 경유를 분사해 스스로 불붙게 해요. 휘발유를 잘못 넣으면 엔진이 크게 고장 날 수 있어요."
+    },
+    {
+      "id": "space-fc50b392",
+      "category": "space",
+      "difficulty": 1,
+      "question": "우주선이 귀환하면서 지구 대기권으로 돌아 들어오는 과정은?",
+      "choices": [
+        "재진입",
+        "궤도 진입",
+        "도킹",
+        "랑데부"
+      ],
+      "answerIndex": 0,
+      "explanation": "재진입 때 우주선은 엄청난 속도로 공기와 부딪혀 바깥 온도가 수천℃까지 올라가요. 그래서 열 차폐막으로 보호해요.",
+      "funFact": "재진입하는 동안에는 뜨거운 플라스마에 둘러싸여 잠시 지상과 통신이 끊기기도 해요."
+    },
+    {
+      "id": "history-68b77dd4",
+      "category": "history",
+      "difficulty": 1,
+      "question": "1970년대 '잘살아 보세'를 외치며 펼친 농촌 근대화 운동은?",
+      "choices": [
+        "브나로드 운동",
+        "물산 장려 운동",
+        "새마을 운동",
+        "국채 보상 운동"
+      ],
+      "answerIndex": 2,
+      "explanation": "새마을 운동은 1970년 시작돼 마을 길 넓히기, 지붕 개량 등 농촌 환경을 바꿨어요.",
+      "funFact": "새마을 운동 기록물은 2013년 유네스코 세계기록유산이 됐어요."
+    },
+    {
+      "id": "korean-c90d1c02",
+      "category": "korean",
+      "difficulty": 2,
+      "question": "관용구 '한술 더 뜨다'의 뜻은?",
+      "choices": [
+        "남보다 먼저 시작함",
+        "남을 많이 도움",
+        "한층 더 엉뚱한 짓을 함",
+        "밥을 더 먹음"
+      ],
+      "answerIndex": 2,
+      "explanation": "이미 지나친 일에서 한 단계 더 나아가 더 엉뚱한 짓을 하는 것을 말해요."
+    },
+    {
+      "id": "economy-50928a18",
+      "category": "economy",
+      "difficulty": 2,
+      "question": "떨어진 주식을 더 사서 평균 매수 단가를 낮추는 것을 속칭?",
+      "choices": [
+        "손절매",
+        "불타기",
+        "익절",
+        "물타기"
+      ],
+      "answerIndex": 3,
+      "explanation": "물타기는 주가가 내렸을 때 추가로 사서 평균 단가를 낮추는 거예요. 계속 떨어지면 손실이 더 커질 수 있어요."
+    },
+    {
+      "id": "geography-3eb47685",
+      "category": "geography",
+      "difficulty": 2,
+      "question": "'충청도'라는 이름은 어느 두 도시 이름에서 따왔을까요?",
+      "choices": [
+        "충주·청주",
+        "공주·청주",
+        "충주·천안",
+        "천안·청양"
+      ],
+      "answerIndex": 0,
+      "explanation": "충청도는 고려·조선 때 큰 고을이던 충주와 청주의 첫 글자를 따서 지었어요.",
+      "funFact": "경상도, 전라도 같은 다른 도 이름도 큰 고을 두 곳의 첫 글자를 땄어요."
+    },
+    {
+      "id": "life-5774bea4",
+      "category": "life",
+      "difficulty": 3,
+      "question": "도시가스(LNG) 누출 경보기는 어디에 다는 게 맞을까요?",
+      "choices": [
+        "바닥 가까이",
+        "천장 가까이",
+        "가스레인지 안",
+        "창문 밖"
+      ],
+      "answerIndex": 1,
+      "explanation": "도시가스의 주성분 메탄은 공기보다 가벼워 위로 올라가요. 그래서 경보기는 천장 가까이 달아요."
+    },
+    {
+      "id": "culture-f0a12019",
+      "category": "culture",
+      "difficulty": 3,
+      "question": "순례자들이 돌아가며 이야기를 들려주는 『캔터베리 이야기』의 작가는?",
+      "choices": [
+        "밀턴",
+        "스펜서",
+        "초서",
+        "보카치오"
+      ],
+      "answerIndex": 2,
+      "explanation": "『캔터베리 이야기』는 14세기 영국 시인 제프리 초서의 작품이에요. 다양한 신분의 순례자들이 들려주는 이야기 모음이에요.",
+      "funFact": "초서는 영어로 문학을 꽃피워 '영문학의 아버지'로 불려요."
+    },
+    {
+      "id": "economy-83d62113",
+      "category": "economy",
+      "difficulty": 3,
+      "question": "먼저 들어온 재고가 먼저 팔렸다고 보는 재고 평가 방법은?",
+      "choices": [
+        "이동평균법",
+        "선입선출법",
+        "총평균법",
+        "후입선출법"
+      ],
+      "answerIndex": 1,
+      "explanation": "선입선출법은 먼저 산 상품부터 판매된 것으로 계산해요. 물가가 오를 때는 매출원가가 낮게 잡혀 이익이 커 보여요."
+    }
+  ]
+}

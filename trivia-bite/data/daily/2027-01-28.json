@@ -1,0 +1,154 @@
+{
+  "version": 1,
+  "id": "daily-2027-01-28",
+  "date": "2027-01-28",
+  "questions": [
+    {
+      "id": "korean-a0ad3493",
+      "category": "korean",
+      "difficulty": 1,
+      "question": "속담 '바늘 가는 데 실 간다'의 뜻은?",
+      "choices": [
+        "일에는 순서가 있음",
+        "작은 잘못이 큰 잘못이 됨",
+        "가까운 사이라 늘 따라다님",
+        "준비가 철저해야 함"
+      ],
+      "answerIndex": 2,
+      "explanation": "바늘과 실처럼 긴밀한 사이여서 늘 함께 다니는 관계를 이르는 말이에요."
+    },
+    {
+      "id": "economy-33ca3189",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "니케이225는 어느 나라의 대표 주가지수일까요?",
+      "choices": [
+        "일본",
+        "홍콩",
+        "중국",
+        "대만"
+      ],
+      "answerIndex": 0,
+      "explanation": "니케이225는 도쿄증권거래소 대표 종목 225개로 계산해요. 일본경제신문(니혼게이자이)이 발표해요."
+    },
+    {
+      "id": "geography-b364b2a1",
+      "category": "geography",
+      "difficulty": 1,
+      "question": "지도에서 실제 거리를 얼마나 줄였는지 나타낸 비율은?",
+      "choices": [
+        "방위",
+        "해발",
+        "범례",
+        "축척"
+      ],
+      "answerIndex": 3,
+      "explanation": "축척이 1:50,000이면 지도 위 1cm가 실제로는 500m라는 뜻이에요.",
+      "funFact": "축척의 분모가 작을수록 더 좁은 지역을 자세히 보여 주는 지도예요."
+    },
+    {
+      "id": "science-ca8e76e4",
+      "category": "science",
+      "difficulty": 1,
+      "question": "문어의 다리는 모두 몇 개일까요?",
+      "choices": [
+        "10개",
+        "6개",
+        "8개",
+        "12개"
+      ],
+      "answerIndex": 2,
+      "explanation": "문어는 다리가 8개예요. 오징어는 다리 8개에 긴 촉완 2개가 더 있어 10개로 셈해요.",
+      "funFact": "문어는 심장이 3개나 있어요."
+    },
+    {
+      "id": "life-162114bd",
+      "category": "life",
+      "difficulty": 2,
+      "question": "항생제를 먹다가 증상이 나아졌을 때 올바른 행동은?",
+      "choices": [
+        "바로 임의로 끊기",
+        "남은 약을 가족에게 주기",
+        "용량을 두 배로 늘리기",
+        "처방한 의료진의 복용 지시 따르기"
+      ],
+      "answerIndex": 3,
+      "explanation": "항생제 종류와 기간은 감염에 따라 달라요. 증상만 보고 임의로 중단하거나 연장하지 말고, 변경이 필요하면 의료진에게 확인해요.",
+      "funFact": "필요 없는 항생제 사용도 내성균이 늘어나는 데 영향을 줄 수 있어요."
+    },
+    {
+      "id": "culture-8ff2e0e7",
+      "category": "culture",
+      "difficulty": 2,
+      "question": "희극 오페라 '세비야의 이발사'의 작곡가는?",
+      "choices": [
+        "베르디",
+        "로시니",
+        "도니체티",
+        "모차르트"
+      ],
+      "answerIndex": 1,
+      "explanation": "'세비야의 이발사'는 조아키노 로시니의 오페라예요. 이발사 피가로가 활약하는 이야기로 '나는 이 거리의 만능 일꾼'이 유명해요."
+    },
+    {
+      "id": "history-657a4f2a",
+      "category": "history",
+      "difficulty": 2,
+      "question": "조선 숙종 때 일본에 건너가 울릉도·독도가 조선 땅임을 주장한 어부는?",
+      "choices": [
+        "안용복",
+        "김옥균",
+        "이사부",
+        "홍순칠"
+      ],
+      "answerIndex": 0,
+      "explanation": "안용복은 울릉도 근처에서 고기를 잡던 일본 어민과 맞서다 일본으로 건너갔어요. 이 일은 울릉도 영유권 논의로 이어졌어요.",
+      "funFact": "부산 수영구에는 안용복을 기리는 사당과 동상이 있어요."
+    },
+    {
+      "id": "space-5041fd31",
+      "category": "space",
+      "difficulty": 3,
+      "question": "정상 주소를 입력해도 가짜 사이트로 연결되게 해 정보를 훔치는 수법은?",
+      "choices": [
+        "스패밍",
+        "스미싱",
+        "파밍",
+        "스누핑"
+      ],
+      "answerIndex": 2,
+      "explanation": "파밍은 PC나 DNS 정보를 조작해 올바른 주소를 쳐도 가짜 은행 사이트로 보내는 수법이에요. 주소가 맞아 보여서 알아채기 어려워요.",
+      "funFact": "파밍(pharming)은 피싱(phishing)과 농사(farming)를 합친 말이에요."
+    },
+    {
+      "id": "sports-b7900527",
+      "category": "sports",
+      "difficulty": 3,
+      "question": "올림픽 철인3종 경기에서 수영 구간 거리는?",
+      "choices": [
+        "3.8km",
+        "1.5km",
+        "750m",
+        "5km"
+      ],
+      "answerIndex": 1,
+      "explanation": "올림픽 철인3종은 수영 1.5km, 사이클 40km, 달리기 10km를 이 순서로 이어서 해요.",
+      "funFact": "아이언맨 대회는 수영 3.8km, 사이클 180.2km, 마라톤 풀코스로 훨씬 길어요."
+    },
+    {
+      "id": "economy-fa5346ba",
+      "category": "economy",
+      "difficulty": 3,
+      "question": "비트코인의 최대 발행량은 몇 개로 정해져 있을까요?",
+      "choices": [
+        "1,000만 개",
+        "1억 개",
+        "2,100억 개",
+        "2,100만 개"
+      ],
+      "answerIndex": 3,
+      "explanation": "비트코인은 프로그램에 최대 2,100만 개만 발행되도록 정해져 있어요.",
+      "funFact": "채굴 보상이 약 4년마다 절반으로 줄어드는 반감기가 있어요."
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "version": 1,
+  "id": "daily-2027-01-19",
+  "date": "2027-01-19",
+  "questions": [
+    {
+      "id": "korean-49bb7c5f",
+      "category": "korean",
+      "difficulty": 1,
+      "question": "사자성어 '이구동성'의 뜻으로 알맞은 것은?",
+      "choices": [
+        "서로 말다툼을 함",
+        "말과 행동이 다름",
+        "소문이 빨리 퍼짐",
+        "여러 사람이 같은 말을 함"
+      ],
+      "answerIndex": 3,
+      "explanation": "입은 다르지만 소리는 같다는 뜻으로, 여러 사람이 한목소리로 같은 말을 하는 것을 말해요."
+    },
+    {
+      "id": "geography-16b1fbc9",
+      "category": "geography",
+      "difficulty": 1,
+      "question": "붉은 바탕에 흰 초승달과 별이 그려진 국기의 나라는?",
+      "choices": [
+        "이란",
+        "튀르키예",
+        "이집트",
+        "그리스"
+      ],
+      "answerIndex": 1,
+      "explanation": "튀르키예 국기는 붉은 바탕에 흰 초승달과 별이 있어요. 현지에서는 '아이 일디즈(달과 별)'라 불러요."
+    },
+    {
+      "id": "culture-5c8e11ad",
+      "category": "culture",
+      "difficulty": 1,
+      "question": "바이올린의 줄은 모두 몇 개일까요?",
+      "choices": [
+        "6개",
+        "4개",
+        "5개",
+        "3개"
+      ],
+      "answerIndex": 1,
+      "explanation": "바이올린은 낮은 줄부터 G·D·A·E 네 줄로 되어 있어요.",
+      "funFact": "기타는 보통 6줄이라 바이올린보다 줄이 두 개 많아요."
+    },
+    {
+      "id": "economy-b481a67f",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "경기가 과열되면 중앙은행은 보통 기준금리를 어떻게 할까요?",
+      "choices": [
+        "올린다",
+        "없앤다",
+        "동결만 한다",
+        "내린다"
+      ],
+      "answerIndex": 0,
+      "explanation": "금리를 올리면 대출이 줄고 저축이 늘어 소비와 투자가 식어요. 그래서 물가를 잡을 때 금리를 올려요."
+    },
+    {
+      "id": "life-5a5b4fae",
+      "category": "life",
+      "difficulty": 2,
+      "question": "정상적으로 숨을 쉬고 목·척추 손상이 의심되지 않지만 의식이 없는 사람의 회복 자세는?",
+      "choices": [
+        "머리를 높이 들기",
+        "엎드리게 하기",
+        "옆으로 눕히기",
+        "똑바로 앉히기"
+      ],
+      "answerIndex": 2,
+      "explanation": "정상 호흡이 있고 목·척추 손상이 의심되지 않는 무의식 환자는 옆으로 눕히는 회복 자세로 기도를 보호해요. 즉시 119에 신고하고 호흡을 계속 확인해요."
+    },
+    {
+      "id": "history-4376310c",
+      "category": "history",
+      "difficulty": 2,
+      "question": "1904년 한반도와 만주를 두고 일본과 러시아가 벌인 전쟁은?",
+      "choices": [
+        "태평양 전쟁",
+        "크림 전쟁",
+        "러일 전쟁",
+        "청일 전쟁"
+      ],
+      "answerIndex": 2,
+      "explanation": "러일 전쟁에서 이긴 일본은 한반도에 대한 지배권을 굳혔어요. 이듬해 을사늑약이 강요됐어요.",
+      "funFact": "일본 함대는 대한해협 쓰시마 근처에서 러시아 발트 함대를 크게 이겼어요."
+    },
+    {
+      "id": "sports-3d6d810e",
+      "category": "sports",
+      "difficulty": 2,
+      "question": "'골프의 고향'으로 불리는 스코틀랜드 도시는?",
+      "choices": [
+        "글래스고",
+        "애버딘",
+        "세인트앤드루스",
+        "에든버러"
+      ],
+      "answerIndex": 2,
+      "explanation": "세인트앤드루스에는 세계에서 가장 오래된 골프 코스 가운데 하나인 올드 코스가 있어요.",
+      "funFact": "골프 한 라운드가 18홀이 된 것도 세인트앤드루스 올드 코스에서 비롯됐어요."
+    },
+    {
+      "id": "science-abe9999d",
+      "category": "science",
+      "difficulty": 3,
+      "question": "화산에서 뿜어져 나오는 화산 가스의 주성분은?",
+      "choices": [
+        "수증기",
+        "질소",
+        "이산화 황",
+        "수소"
+      ],
+      "answerIndex": 0,
+      "explanation": "화산 가스는 대부분 수증기이고 이산화 탄소, 이산화 황 등이 섞여 있어요. 유황 냄새는 황 화합물 때문이에요."
+    },
+    {
+      "id": "space-e460e004",
+      "category": "space",
+      "difficulty": 3,
+      "question": "보이저 1호가 찍은 지구 사진 '창백한 푸른 점'을 제안한 과학자는?",
+      "choices": [
+        "닐 디그래스 타이슨",
+        "스티븐 호킹",
+        "에드윈 허블",
+        "칼 세이건"
+      ],
+      "answerIndex": 3,
+      "explanation": "칼 세이건의 제안으로 1990년 보이저 1호가 약 60억km 떨어진 곳에서 지구를 찍었어요. 지구는 사진 속 작은 점 하나로 보였어요.",
+      "funFact": "칼 세이건은 보이저 골든 레코드를 만드는 일도 이끌었어요."
+    },
+    {
+      "id": "culture-6d42418e",
+      "category": "culture",
+      "difficulty": 3,
+      "question": "『플랜더스의 개』에서 네로가 그토록 보고 싶어 한 성당 제단화의 화가는?",
+      "choices": [
+        "렘브란트",
+        "루벤스",
+        "반에이크",
+        "브뤼헐"
+      ],
+      "answerIndex": 1,
+      "explanation": "네로는 안트베르펜 성당에 걸린 루벤스의 그림을 보는 것이 꿈이었어요. 마지막 날 그림 앞에서 파트라슈와 함께 잠들어요."
+    }
+  ]
+}

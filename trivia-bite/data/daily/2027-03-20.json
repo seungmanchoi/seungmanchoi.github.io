@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "id": "daily-2027-03-20",
+  "date": "2027-03-20",
+  "questions": [
+    {
+      "id": "korean-5dd2dea5",
+      "category": "korean",
+      "difficulty": 1,
+      "question": "속담 '병 주고 약 준다'의 뜻으로 알맞은 것은?",
+      "choices": [
+        "실수를 바로 고친다",
+        "해를 끼치고 돕는 척함",
+        "아플 때 서로 돕는다",
+        "나쁜 일 뒤 좋은 일이 온다"
+      ],
+      "answerIndex": 1,
+      "explanation": "남에게 해를 입혀 놓고 나서 도와주는 척한다는 뜻이에요.",
+      "funFact": "남을 곤란하게 해 놓고 위로하는 척하는 사람을 꼬집을 때 자주 써요."
+    },
+    {
+      "id": "culture-edd0fa19",
+      "category": "culture",
+      "difficulty": 1,
+      "question": "명탐정 셜록 홈스의 곁에서 사건을 기록하는 친구이자 의사는?",
+      "choices": [
+        "모리아티",
+        "허드슨",
+        "왓슨",
+        "레스트레이드"
+      ],
+      "answerIndex": 2,
+      "explanation": "홈스 이야기 대부분은 친구인 의사 존 왓슨이 기록한 형식으로 쓰였어요.",
+      "funFact": "모리아티는 홈스의 숙적인 범죄 조직의 우두머리예요."
+    },
+    {
+      "id": "nature-925b8de8",
+      "category": "nature",
+      "difficulty": 1,
+      "question": "생물과 이를 둘러싼 햇빛·물·흙 같은 환경이 서로 영향을 주고받는 체계는?",
+      "choices": [
+        "지각",
+        "기후대",
+        "생태계",
+        "대기권"
+      ],
+      "answerIndex": 2,
+      "explanation": "생태계는 생물 요소와 햇빛·물·공기·흙 같은 비생물 요소가 함께 이루는 체계예요.",
+      "funFact": "작은 연못 하나도, 넓은 바다도 각각 하나의 생태계로 볼 수 있어요."
+    },
+    {
+      "id": "life-abab4349",
+      "category": "life",
+      "difficulty": 1,
+      "question": "소의 허리 안쪽에 있어 연하기로 유명한 부위는?",
+      "choices": [
+        "목심",
+        "사태",
+        "양지",
+        "안심"
+      ],
+      "answerIndex": 3,
+      "explanation": "안심은 등뼈 안쪽에 붙은 근육으로 거의 움직이지 않아 매우 연해요. 양이 적어 값도 비싼 편이에요."
+    },
+    {
+      "id": "history-53439398",
+      "category": "history",
+      "difficulty": 2,
+      "question": "기원전 312년 건설이 시작된 로마의 대표적인 도로는?",
+      "choices": [
+        "실크로드",
+        "왕의 길",
+        "아피아 가도",
+        "호박길"
+      ],
+      "answerIndex": 2,
+      "explanation": "아피아 가도는 로마에서 이탈리아 남부로 이어진 돌길이에요. 군대와 물자를 빠르게 옮기려고 만들었고 지금도 일부가 남아 있어요.",
+      "funFact": "'모든 길은 로마로 통한다'는 말이 생길 만큼 로마는 도로망을 잘 갖췄어요."
+    },
+    {
+      "id": "economy-06355e79",
+      "category": "economy",
+      "difficulty": 2,
+      "question": "가격 변동 위험을 줄이려고 반대 방향 거래를 해 두는 것은?",
+      "choices": [
+        "공매도",
+        "레버리지",
+        "투기",
+        "헤지"
+      ],
+      "answerIndex": 3,
+      "explanation": "헤지는 손실에 대비해 반대로 움직이는 자산을 함께 갖는 전략이에요. 수출 기업이 환율 하락에 대비하는 환헤지가 대표 예예요."
+    },
+    {
+      "id": "science-097d7002",
+      "category": "science",
+      "difficulty": 2,
+      "question": "잠자리처럼 작은 낱눈이 수천 개 모여 이루어진 곤충의 눈은?",
+      "choices": [
+        "겹눈",
+        "안점",
+        "홑눈",
+        "수정체눈"
+      ],
+      "answerIndex": 0,
+      "explanation": "겹눈은 수많은 낱눈이 모인 눈이라 넓은 범위를 보고 움직임을 잘 알아채요.",
+      "funFact": "잠자리 한 마리의 겹눈에는 낱눈이 약 2만~3만 개나 있어요."
+    },
+    {
+      "id": "geography-048c67a0",
+      "category": "geography",
+      "difficulty": 3,
+      "question": "충북 단양에 있는 대표적인 석회동굴은?",
+      "choices": [
+        "김녕굴",
+        "고수동굴",
+        "만장굴",
+        "협재굴"
+      ],
+      "answerIndex": 1,
+      "explanation": "고수동굴은 단양의 석회암 지대에 생긴 석회동굴이에요. 만장굴·김녕굴·협재굴은 제주의 용암 관련 동굴이에요."
+    },
+    {
+      "id": "history-ffef310b",
+      "category": "history",
+      "difficulty": 3,
+      "question": "689년 귀족의 녹읍을 폐지한 신라 왕은?",
+      "choices": [
+        "경덕왕",
+        "신문왕",
+        "문무왕",
+        "원성왕"
+      ],
+      "answerIndex": 1,
+      "explanation": "신문왕은 김흠돌의 난을 진압하고 관료전을 준 뒤 녹읍을 없애 귀족을 약화시켰어요. 경덕왕 때 녹읍이 다시 부활했어요."
+    },
+    {
+      "id": "economy-1a8a6720",
+      "category": "economy",
+      "difficulty": 3,
+      "question": "개성상인이 쓴 우리 고유의 복식부기 방식은?",
+      "choices": [
+        "사개치부법",
+        "장책법",
+        "단식부기",
+        "일람표법"
+      ],
+      "answerIndex": 0,
+      "explanation": "사개치부법은 거래를 주고받는 양쪽으로 나눠 기록한 개성상인의 장부법이에요. 서양 복식부기와 원리가 비슷해요."
+    }
+  ]
+}

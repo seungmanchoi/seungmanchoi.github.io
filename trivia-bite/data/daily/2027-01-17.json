@@ -1,0 +1,151 @@
+{
+  "version": 1,
+  "id": "daily-2027-01-17",
+  "date": "2027-01-17",
+  "questions": [
+    {
+      "id": "life-8ba0f7e6",
+      "category": "life",
+      "difficulty": 1,
+      "question": "보조배터리 용량을 표시할 때 흔히 쓰는 단위는?",
+      "choices": [
+        "Hz",
+        "mAh",
+        "rpm",
+        "dB"
+      ],
+      "answerIndex": 1,
+      "explanation": "mAh(밀리암페어시)는 배터리가 담을 수 있는 전기량을 나타내요. 숫자가 클수록 더 오래 충전할 수 있어요."
+    },
+    {
+      "id": "sports-901ba277",
+      "category": "sports",
+      "difficulty": 1,
+      "question": "운동 전에 몸을 데우고 관절을 풀어 주는 준비 운동은?",
+      "choices": [
+        "워밍업",
+        "스프린트",
+        "쿨다운",
+        "인터벌"
+      ],
+      "answerIndex": 0,
+      "explanation": "워밍업은 체온과 심박수를 서서히 올려 근육과 관절이 운동에 대비하게 해요.",
+      "funFact": "가볍게 몸을 데우면 근육이 더 유연해져 부상 위험을 줄이는 데 도움이 돼요."
+    },
+    {
+      "id": "history-d1341906",
+      "category": "history",
+      "difficulty": 1,
+      "question": "카이사르, 안토니우스와 손잡았던 이집트의 마지막 여왕은?",
+      "choices": [
+        "네페르티티",
+        "하트셉수트",
+        "네페르타리",
+        "클레오파트라"
+      ],
+      "answerIndex": 3,
+      "explanation": "클레오파트라 7세는 로마 실력자들과 손잡고 이집트를 지키려 했어요. 악티움 해전에서 진 뒤 스스로 목숨을 끊었고 이집트는 로마 땅이 되었어요."
+    },
+    {
+      "id": "science-1b816539",
+      "category": "science",
+      "difficulty": 1,
+      "question": "늘어난 고무줄이 원래 모양으로 돌아가려는 힘은?",
+      "choices": [
+        "자기력",
+        "부력",
+        "탄성력",
+        "마찰력"
+      ],
+      "answerIndex": 2,
+      "explanation": "모양이 변한 물체가 원래대로 돌아가려는 힘을 탄성력이라고 해요. 용수철, 트램펄린, 활이 이 힘을 이용해요."
+    },
+    {
+      "id": "culture-1ecf1f72",
+      "category": "culture",
+      "difficulty": 2,
+      "question": "내기 때문에 세계를 일주하는 필리어스 포그 이야기를 쓴 작가는?",
+      "choices": [
+        "쥘 베른",
+        "마크 트웨인",
+        "알렉상드르 뒤마",
+        "H. G. 웰스"
+      ],
+      "answerIndex": 0,
+      "explanation": "『80일간의 세계 일주』는 프랑스 작가 쥘 베른의 소설이에요. 날짜 변경선 덕분에 하루를 벌어 내기에 이기는 결말이 유명해요."
+    },
+    {
+      "id": "korean-02cd602e",
+      "category": "korean",
+      "difficulty": 2,
+      "question": "평시조는 모두 몇 장으로 이루어질까요?",
+      "choices": [
+        "4장",
+        "5장",
+        "3장",
+        "2장"
+      ],
+      "answerIndex": 2,
+      "explanation": "평시조는 초장·중장·종장의 3장 6구로 이루어져요.",
+      "funFact": "종장의 첫 음보는 세 글자로 쓰는 것이 규칙이에요."
+    },
+    {
+      "id": "geography-25d8cf17",
+      "category": "geography",
+      "difficulty": 2,
+      "question": "볼리비아에 있는, '하늘의 거울'로 유명한 거대한 소금 평원은?",
+      "choices": [
+        "우유니 소금사막",
+        "사해",
+        "아타카마 사막",
+        "그레이트솔트호"
+      ],
+      "answerIndex": 0,
+      "explanation": "우유니 소금사막은 볼리비아 안데스 고원에 있는 세계 최대의 소금 평원이에요.",
+      "funFact": "우기에 얇게 물이 고이면 하늘이 땅에 비쳐 거울처럼 보여요."
+    },
+    {
+      "id": "economy-bb751694",
+      "category": "economy",
+      "difficulty": 3,
+      "question": "일할 뜻은 있지만 구직을 포기해 실업자로 안 잡히는 사람은?",
+      "choices": [
+        "마찰적 실업자",
+        "계절적 실업자",
+        "잠재 취업자",
+        "실망실업자"
+      ],
+      "answerIndex": 3,
+      "explanation": "실망실업자는 일자리를 찾다 지쳐 구직을 멈춘 사람이에요. 비경제활동인구로 분류돼 실업률에는 잡히지 않아요."
+    },
+    {
+      "id": "space-5a1d857e",
+      "category": "space",
+      "difficulty": 3,
+      "question": "아폴로 11호에서 암스트롱과 올드린이 타고 달에 내린 착륙선의 이름은?",
+      "choices": [
+        "오리온",
+        "컬럼비아",
+        "새턴",
+        "이글"
+      ],
+      "answerIndex": 3,
+      "explanation": "아폴로 11호 달 착륙선의 이름은 독수리를 뜻하는 이글이에요. 사령선의 이름은 컬럼비아였어요.",
+      "funFact": "착륙 직후 암스트롱은 '독수리가 내려앉았다'라는 교신을 보냈어요."
+    },
+    {
+      "id": "culture-5bd164db",
+      "category": "culture",
+      "difficulty": 3,
+      "question": "사탄의 반역과 인간의 낙원 추방을 그린 서사시 『실낙원』의 작가는?",
+      "choices": [
+        "초서",
+        "존 밀턴",
+        "윌리엄 블레이크",
+        "단테"
+      ],
+      "answerIndex": 1,
+      "explanation": "『실낙원』은 17세기 영국 시인 존 밀턴의 서사시예요. 그는 시력을 잃은 뒤 이 작품을 구술로 완성했어요."
+    }
+  ]
+}

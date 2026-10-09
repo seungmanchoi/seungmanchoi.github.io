@@ -1,0 +1,149 @@
+{
+  "version": 1,
+  "id": "daily-2027-03-23",
+  "date": "2027-03-23",
+  "questions": [
+    {
+      "id": "culture-ed3bf55e",
+      "category": "culture",
+      "difficulty": 1,
+      "question": "그리스 신화에서 죽은 자들의 세계를 다스리는 신은?",
+      "choices": [
+        "하데스",
+        "헤파이스토스",
+        "포세이돈",
+        "아레스"
+      ],
+      "answerIndex": 0,
+      "explanation": "하데스는 제우스·포세이돈과 형제로 지하 세계를 맡았어요. 머리 셋 달린 개 케르베로스가 저승 입구를 지켜요."
+    },
+    {
+      "id": "sports-ad5d2e64",
+      "category": "sports",
+      "difficulty": 1,
+      "question": "1988 서울 올림픽에서 시범 종목으로 선보인 한국 무예는?",
+      "choices": [
+        "합기도",
+        "태권도",
+        "씨름",
+        "택견"
+      ],
+      "answerIndex": 1,
+      "explanation": "태권도는 1988년 서울 올림픽과 1992년 바르셀로나 올림픽에서 시범 종목으로 열렸어요.",
+      "funFact": "서울 올림픽 시범 종목에는 야구와 배드민턴도 있었어요."
+    },
+    {
+      "id": "history-349aea57",
+      "category": "history",
+      "difficulty": 1,
+      "question": "1945년 8월 히로시마에 이어 원자폭탄이 떨어진 일본 도시는?",
+      "choices": [
+        "오사카",
+        "나가사키",
+        "고베",
+        "교토"
+      ],
+      "answerIndex": 1,
+      "explanation": "미국은 8월 6일 히로시마, 8월 9일 나가사키에 원자폭탄을 떨어뜨렸어요. 일본은 곧 항복했어요.",
+      "funFact": "나가사키는 에도 시대에 네덜란드와 무역하던 항구로도 유명해요."
+    },
+    {
+      "id": "geography-3fce1cd1",
+      "category": "geography",
+      "difficulty": 1,
+      "question": "누런 흙탕물 때문에 이름이 붙은 중국의 강은?",
+      "choices": [
+        "란창강",
+        "창장",
+        "황허",
+        "주장강"
+      ],
+      "answerIndex": 2,
+      "explanation": "황허는 황토고원을 지나며 누런 흙을 실어 와 '누런 강'이라는 이름이 붙었어요. 중국 문명의 발상지예요."
+    },
+    {
+      "id": "life-530a09f7",
+      "category": "life",
+      "difficulty": 2,
+      "question": "고층에서 줄을 타고 천천히 내려가는 피난 기구는?",
+      "choices": [
+        "완강기",
+        "소화전",
+        "스프링클러",
+        "방화문"
+      ],
+      "answerIndex": 0,
+      "explanation": "완강기는 몸에 벨트를 매고 줄을 따라 일정한 속도로 내려오게 하는 피난 기구예요. 창가 근처에 설치돼 있어요."
+    },
+    {
+      "id": "korean-c4f3426e",
+      "category": "korean",
+      "difficulty": 2,
+      "question": "관용구 '바람을 맞다'의 뜻은?",
+      "choices": [
+        "유행을 따름",
+        "몰래 외출함",
+        "상대가 약속을 어겨 헛걸음함",
+        "남에게 속아 넘어감"
+      ],
+      "answerIndex": 2,
+      "explanation": "만나기로 한 상대가 나타나지 않아 헛걸음하는 것을 말해요."
+    },
+    {
+      "id": "economy-0b440ddf",
+      "category": "economy",
+      "difficulty": 2,
+      "question": "의결권이 없는 대신 배당을 먼저 받는 주식은?",
+      "choices": [
+        "황금주",
+        "후순위주",
+        "보통주",
+        "우선주"
+      ],
+      "answerIndex": 3,
+      "explanation": "우선주는 주주총회 의결권이 보통 없지만 배당을 보통주보다 먼저 받아요. 종목 이름 뒤에 '우'가 붙어요."
+    },
+    {
+      "id": "culture-a1e1a559",
+      "category": "culture",
+      "difficulty": 3,
+      "question": "'아름다운 이 세상 소풍 끝내는 날'이라는 구절이 나오는 시 「귀천」의 시인은?",
+      "choices": [
+        "천상병",
+        "김수영",
+        "신동엽",
+        "기형도"
+      ],
+      "answerIndex": 0,
+      "explanation": "「귀천」은 천상병의 시예요. 삶을 소풍에 빗대 죽음을 담담하게 받아들이는 마음을 노래했어요."
+    },
+    {
+      "id": "life-ceb1000f",
+      "category": "life",
+      "difficulty": 3,
+      "question": "안압 등으로 시신경이 손상돼 시야가 좁아지는 질환은?",
+      "choices": [
+        "안구건조증",
+        "녹내장",
+        "백내장",
+        "비문증"
+      ],
+      "answerIndex": 1,
+      "explanation": "녹내장은 시신경이 서서히 손상돼 시야가 바깥쪽부터 좁아져요. 초기엔 증상이 거의 없어 정기 검진이 중요해요."
+    },
+    {
+      "id": "economy-518895f1",
+      "category": "economy",
+      "difficulty": 3,
+      "question": "관세 외에 까다로운 검사·인증 등으로 수입을 막는 방법은?",
+      "choices": [
+        "자유무역",
+        "보호관세",
+        "최혜국대우",
+        "비관세장벽"
+      ],
+      "answerIndex": 3,
+      "explanation": "비관세장벽에는 복잡한 통관 절차, 엄격한 기술 기준, 수입 허가제 등이 있어요. 관세보다 눈에 덜 띄어 분쟁이 잦아요."
+    }
+  ]
+}

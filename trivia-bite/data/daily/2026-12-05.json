@@ -4,21 +4,6 @@
   "date": "2026-12-05",
   "questions": [
     {
-      "id": "history-eed3ba54",
-      "category": "history",
-      "difficulty": 1,
-      "question": "신라가 천 년 가까이 수도로 삼았던 도시는?",
-      "choices": [
-        "부여",
-        "공주",
-        "평양",
-        "경주"
-      ],
-      "answerIndex": 3,
-      "explanation": "신라는 건국부터 멸망까지 금성, 지금의 경주를 수도로 삼았어요. 경주에는 지금도 불국사와 석굴암 등 많은 유적이 남아 있어요.",
-      "funFact": "경주 역사유적지구는 2000년에 유네스코 세계유산으로 등재됐어요."
-    },
-    {
       "id": "science-048610b2",
       "category": "science",
       "difficulty": 1,
@@ -61,6 +46,20 @@
       ],
       "answerIndex": 2,
       "explanation": "소화기는 안전핀을 뽑고, 호스를 불 쪽으로 향한 뒤, 손잡이를 움켜쥐고 쓸어 뿌리는 순서로 써요. 핀을 먼저 뽑아야 손잡이가 눌려요."
+    },
+    {
+      "id": "geography-6d0ae219",
+      "category": "geography",
+      "difficulty": 1,
+      "question": "칠레의 수도는 어디일까요?",
+      "choices": [
+        "발파라이소",
+        "라파스",
+        "산티아고",
+        "리마"
+      ],
+      "answerIndex": 2,
+      "explanation": "칠레의 수도는 안데스산맥 기슭의 산티아고예요. 발파라이소는 칠레의 대표 항구 도시예요."
     },
     {
       "id": "korean-ddd0cf46",
@@ -106,21 +105,6 @@
       "explanation": "1592년 김시민이 이끄는 조선군이 진주성에서 왜군의 대군을 막아 냈어요. 이 싸움은 진주 대첩이라 부르고 임진왜란 3대 대첩의 하나로 꼽혀요."
     },
     {
-      "id": "geography-40f54456",
-      "category": "geography",
-      "difficulty": 3,
-      "question": "세계에서 가장 깊은 호수로 알려진 곳은?",
-      "choices": [
-        "바이칼호",
-        "티티카카호",
-        "빅토리아호",
-        "슈피리어호"
-      ],
-      "answerIndex": 0,
-      "explanation": "러시아 시베리아에 있는 바이칼호는 최대 수심이 약 1,640m로 세계에서 가장 깊어요. 담수의 양도 세계에서 가장 많은 호수로 꼽혀요.",
-      "funFact": "바이칼호에는 바이칼물범처럼 다른 곳에 없는 고유종이 많아요."
-    },
-    {
       "id": "history-44ac19ab",
       "category": "history",
       "difficulty": 3,
@@ -148,6 +132,21 @@
       "answerIndex": 0,
       "explanation": "제임스 왓슨과 프랜시스 크릭은 1953년 DNA가 이중나선 구조라는 모형을 발표했어요. X선 회절 사진 자료가 중요한 단서가 됐어요.",
       "funFact": "두 사람은 1962년 윌킨스와 함께 노벨 생리의학상을 받았어요."
+    },
+    {
+      "id": "sports-fb152093",
+      "category": "sports",
+      "difficulty": 3,
+      "question": "NHL 전 구단 영구 결번 99번의 주인공은?",
+      "choices": [
+        "고디 하우",
+        "웨인 그레츠키",
+        "바비 오어",
+        "마리오 르뮤"
+      ],
+      "answerIndex": 1,
+      "explanation": "'그레이트 원'으로 불린 웨인 그레츠키가 1999년 은퇴하자 NHL은 99번을 전 구단 영구 결번으로 정했어요.",
+      "funFact": "그레츠키는 우상이던 고디 하우의 9번을 달 수 없어 99번을 골랐다고 해요."
     }
   ]
 }

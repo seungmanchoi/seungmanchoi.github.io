@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "id": "daily-2027-01-25",
+  "date": "2027-01-25",
+  "questions": [
+    {
+      "id": "economy-4da3fa09",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "상품은 안 사고 혜택만 골라 챙기는 소비자는?",
+      "choices": [
+        "체리피커",
+        "얼리어답터",
+        "프로슈머",
+        "블랙컨슈머"
+      ],
+      "answerIndex": 0,
+      "explanation": "케이크 위의 체리만 골라 먹는다는 데서 나온 말이에요. 카드 혜택이나 사은품만 챙기는 소비자를 가리켜요."
+    },
+    {
+      "id": "korean-767d9436",
+      "category": "korean",
+      "difficulty": 1,
+      "question": "속담 '콩 심은 데 콩 나고 ○ 심은 데 ○ 난다'의 빈칸은?",
+      "choices": [
+        "팥",
+        "쌀",
+        "녹두",
+        "보리"
+      ],
+      "answerIndex": 0,
+      "explanation": "모든 일은 원인에 따라 그에 맞는 결과가 나온다는 뜻이에요."
+    },
+    {
+      "id": "culture-4205fdd6",
+      "category": "culture",
+      "difficulty": 1,
+      "question": "그리스 신화의 사랑과 미의 여신 아프로디테를 로마 신화에서 부르는 이름은?",
+      "choices": [
+        "주노",
+        "미네르바",
+        "다이아나",
+        "비너스"
+      ],
+      "answerIndex": 3,
+      "explanation": "아프로디테는 로마 신화의 베누스, 곧 비너스와 같은 신이에요. 금성의 영어 이름 Venus도 여기서 왔어요."
+    },
+    {
+      "id": "life-9ed940e0",
+      "category": "life",
+      "difficulty": 1,
+      "question": "칫솔이 닿지 않는 이 사이의 찌꺼기를 빼는 가는 실은?",
+      "choices": [
+        "재봉실",
+        "치실",
+        "명주실",
+        "낚싯줄"
+      ],
+      "answerIndex": 1,
+      "explanation": "치실은 이와 이 사이를 닦아 충치와 잇몸병을 막아 줘요. 양치와 함께 쓰면 더 깨끗해져요.",
+      "funFact": "이 사이가 넓으면 작은 솔 모양의 치간 칫솔을 쓰기도 해요."
+    },
+    {
+      "id": "history-1f547273",
+      "category": "history",
+      "difficulty": 2,
+      "question": "이차돈의 순교를 계기로 불교를 공인한 신라 왕은?",
+      "choices": [
+        "내물왕",
+        "법흥왕",
+        "지증왕",
+        "진흥왕"
+      ],
+      "answerIndex": 1,
+      "explanation": "법흥왕은 율령을 반포하고 이차돈의 순교를 계기로 불교를 공인했어요. '건원'이라는 연호도 처음 썼어요.",
+      "funFact": "이차돈의 목을 베자 흰 피가 솟았다는 이야기가 전해져요."
+    },
+    {
+      "id": "geography-00ce9bad",
+      "category": "geography",
+      "difficulty": 2,
+      "question": "몽골과 중앙아시아에 펼쳐진, 키 작은 풀이 자라는 건조한 초원은?",
+      "choices": [
+        "스텝",
+        "타이가",
+        "툰드라",
+        "사바나"
+      ],
+      "answerIndex": 0,
+      "explanation": "스텝은 비가 적어 나무 대신 키 작은 풀이 자라는 온대 건조 초원이에요.",
+      "funFact": "스텝에서는 예부터 말과 양을 키우는 유목 생활이 발달했어요."
+    },
+    {
+      "id": "sports-79e922ea",
+      "category": "sports",
+      "difficulty": 2,
+      "question": "오늘날 아이스하키 경기 방식이 자리 잡은 나라는?",
+      "choices": [
+        "미국",
+        "캐나다",
+        "러시아",
+        "스웨덴"
+      ],
+      "answerIndex": 1,
+      "explanation": "근대 아이스하키는 1875년 캐나다 몬트리올에서 처음 실내 경기가 열리며 규칙이 자리 잡았어요.",
+      "funFact": "아이스하키는 캐나다의 공식 겨울 국민 스포츠예요."
+    },
+    {
+      "id": "science-9e7a9524",
+      "category": "science",
+      "difficulty": 3,
+      "question": "나트륨 같은 알칼리 금속을 물에 넣으면 생기는 기체는?",
+      "choices": [
+        "질소",
+        "염소",
+        "수소",
+        "산소"
+      ],
+      "answerIndex": 2,
+      "explanation": "알칼리 금속은 물과 격렬하게 반응해 수소 기체와 염기성 수산화물을 만들어요. 그래서 석유 속에 보관해요."
+    },
+    {
+      "id": "space-d17622c4",
+      "category": "space",
+      "difficulty": 3,
+      "question": "1971년 이메일 주소에 '@' 기호를 처음 쓴 미국 엔지니어는?",
+      "choices": [
+        "빈트 서프",
+        "리누스 토르발스",
+        "레이 톰린슨",
+        "팀 버너스리"
+      ],
+      "answerIndex": 2,
+      "explanation": "레이 톰린슨은 아파넷에서 다른 컴퓨터 사용자에게 메일을 보내는 프로그램을 만들며 '사용자@컴퓨터' 형식을 정했어요.",
+      "funFact": "@를 고른 이유는 사람 이름에 거의 쓰이지 않으면서 '~에 있는(at)'이라는 뜻이 잘 맞았기 때문이에요."
+    },
+    {
+      "id": "korean-80eec949",
+      "category": "korean",
+      "difficulty": 3,
+      "question": "사자성어 '읍참마속'의 뜻으로 알맞은 것은?",
+      "choices": [
+        "잘못을 눈감아 줌",
+        "전쟁에서 크게 이김",
+        "울면서 말을 팖",
+        "공정 위해 아끼는 이를 벌함"
+      ],
+      "answerIndex": 3,
+      "explanation": "제갈량이 울면서 아끼던 장수 마속을 벤 고사에서, 공정을 위해 아끼는 사람도 벌하는 것을 뜻해요."
+    }
+  ]
+}

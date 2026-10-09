@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "id": "daily-2027-02-22",
+  "date": "2027-02-22",
+  "questions": [
+    {
+      "id": "space-a5e86f2c",
+      "category": "space",
+      "difficulty": 1,
+      "question": "크롬, 사파리처럼 웹 페이지를 열어 보여 주는 프로그램은?",
+      "choices": [
+        "검색 엔진",
+        "운영체제",
+        "웹 서버",
+        "웹 브라우저"
+      ],
+      "answerIndex": 3,
+      "explanation": "웹 브라우저는 인터넷의 웹 페이지를 받아 화면에 보여 주는 프로그램이에요. 검색 엔진은 브라우저 안에서 쓰는 검색 서비스예요.",
+      "funFact": "세계 최초의 웹 브라우저 이름은 'WorldWideWeb'이었어요."
+    },
+    {
+      "id": "economy-ddc8e519",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "세금을 정해진 기한까지 내지 않고 밀린 상태는?",
+      "choices": [
+        "체납",
+        "감면",
+        "환급",
+        "면세"
+      ],
+      "answerIndex": 0,
+      "explanation": "체납은 세금을 기한 안에 내지 않은 상태로, 가산세가 붙고 재산이 압류될 수도 있어요.",
+      "funFact": "고액 상습 체납자는 이름이 공개되기도 해요."
+    },
+    {
+      "id": "science-e0359a9f",
+      "category": "science",
+      "difficulty": 1,
+      "question": "곰이 추운 겨울 동안 거의 먹지 않고 잠든 채 지내는 것은?",
+      "choices": [
+        "여름잠",
+        "탈피",
+        "겨울잠",
+        "털갈이"
+      ],
+      "answerIndex": 2,
+      "explanation": "먹이가 부족한 겨울을 버티려고 몸의 활동을 줄인 채 지내는 것을 겨울잠이라고 해요. 곰, 다람쥐, 개구리 등이 겨울잠을 자요.",
+      "funFact": "어미 곰은 겨울잠을 자는 동안 굴속에서 새끼를 낳기도 해요."
+    },
+    {
+      "id": "life-db600712",
+      "category": "life",
+      "difficulty": 1,
+      "question": "초콜릿의 주원료는 무엇일까요?",
+      "choices": [
+        "커피콩",
+        "카카오 콩",
+        "대두",
+        "땅콩"
+      ],
+      "answerIndex": 1,
+      "explanation": "초콜릿은 카카오나무 열매 속 씨앗인 카카오 콩을 발효·건조·볶아 갈아서 만들어요."
+    },
+    {
+      "id": "korean-7fcc90ce",
+      "category": "korean",
+      "difficulty": 2,
+      "question": "관용구 '비행기를 태우다'의 뜻은?",
+      "choices": [
+        "빨리 일을 처리함",
+        "남을 지나치게 치켜세움",
+        "남을 속여 넘김",
+        "멀리 쫓아 보냄"
+      ],
+      "answerIndex": 1,
+      "explanation": "남을 지나치게 칭찬해 높이 추어올리는 것을 말해요."
+    },
+    {
+      "id": "culture-016cae95",
+      "category": "culture",
+      "difficulty": 2,
+      "question": "1954년 일본 영화 '7인의 사무라이'를 감독한 사람은?",
+      "choices": [
+        "미조구치 겐지",
+        "구로사와 아키라",
+        "이마무라 쇼헤이",
+        "오즈 야스지로"
+      ],
+      "answerIndex": 1,
+      "explanation": "'7인의 사무라이'는 구로사와 아키라의 대표작이에요. 도적에 맞서 마을을 지키는 사무라이 이야기로, 미국 서부극 '황야의 7인'으로 리메이크됐어요."
+    },
+    {
+      "id": "history-65895a1b",
+      "category": "history",
+      "difficulty": 2,
+      "question": "1차 대전 뒤 1920년에 세워졌지만 미국은 가입하지 않은 국제기구는?",
+      "choices": [
+        "국제 연합",
+        "코민테른",
+        "국제 연맹",
+        "북대서양 조약 기구"
+      ],
+      "answerIndex": 2,
+      "explanation": "국제 연맹은 평화를 지키려 만들었지만 미국이 빠지고 군사력이 없어 힘이 약했어요. 결국 2차 대전을 막지 못했어요.",
+      "funFact": "국제 연맹 본부는 스위스 제네바에 있었어요."
+    },
+    {
+      "id": "geography-9a2cbe1c",
+      "category": "geography",
+      "difficulty": 3,
+      "question": "지리산의 최고봉은?",
+      "choices": [
+        "천왕봉",
+        "반야봉",
+        "대청봉",
+        "노고단"
+      ],
+      "answerIndex": 0,
+      "explanation": "지리산의 최고봉은 해발 1,915m의 천왕봉이에요. 한라산 다음으로 남한에서 높은 봉우리예요."
+    },
+    {
+      "id": "economy-b6edf08c",
+      "category": "economy",
+      "difficulty": 3,
+      "question": "우리나라 경제활동인구 통계는 몇 세 이상을 대상으로 할까요?",
+      "choices": [
+        "20세 이상",
+        "18세 이상",
+        "19세 이상",
+        "15세 이상"
+      ],
+      "answerIndex": 3,
+      "explanation": "우리나라 고용 통계는 만 15세 이상 인구를 기준으로 해요. 이 중 일하거나 구직 중인 사람이 경제활동인구예요."
+    },
+    {
+      "id": "korean-74177e29",
+      "category": "korean",
+      "difficulty": 3,
+      "question": "사자성어 '촌철살인'의 뜻으로 알맞은 것은?",
+      "choices": [
+        "사소한 일로 크게 다툼",
+        "칼보다 펜이 강함",
+        "짧은 말로 핵심을 찌름",
+        "작은 실수가 화를 부름"
+      ],
+      "answerIndex": 2,
+      "explanation": "촌철살인(寸鐵殺人)은 한 치의 쇠붙이로 사람을 죽인다는 뜻으로, 짧은 말로 급소를 찌름을 말해요.",
+      "funFact": "남송 나대경의 『학림옥로』에 나오는 말에서 유래했어요."
+    }
+  ]
+}

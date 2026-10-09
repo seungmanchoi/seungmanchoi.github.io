@@ -1,0 +1,150 @@
+{
+  "version": 1,
+  "id": "daily-2027-02-21",
+  "date": "2027-02-21",
+  "questions": [
+    {
+      "id": "korean-a656502b",
+      "category": "korean",
+      "difficulty": 1,
+      "question": "사자성어 '칠전팔기'의 뜻으로 알맞은 것은?",
+      "choices": [
+        "일주일 내내 일함",
+        "실패해도 굴하지 않고 일어남",
+        "끝내 포기함",
+        "여러 번 이사함"
+      ],
+      "answerIndex": 1,
+      "explanation": "일곱 번 넘어져도 여덟 번 일어난다는 뜻이에요."
+    },
+    {
+      "id": "space-4101bfb7",
+      "category": "space",
+      "difficulty": 1,
+      "question": "1969년 닐 암스트롱에 이어 두 번째로 달을 걸은 우주인은?",
+      "choices": [
+        "마이클 콜린스",
+        "버즈 올드린",
+        "존 글렌",
+        "유리 가가린"
+      ],
+      "answerIndex": 1,
+      "explanation": "버즈 올드린은 아폴로 11호 달 착륙선 조종사로, 암스트롱 바로 뒤를 이어 달 표면에 내렸어요.",
+      "funFact": "착륙 뒤 고장 난 회로 차단기 스위치를 올드린이 펜으로 눌러 이륙 문제를 해결했다는 일화가 있어요."
+    },
+    {
+      "id": "culture-eef3b962",
+      "category": "culture",
+      "difficulty": 1,
+      "question": "『서유기』에서 삼장법사를 따르는 제자 가운데 돼지 모습을 한 인물은?",
+      "choices": [
+        "홍해아",
+        "사오정",
+        "우마왕",
+        "저팔계"
+      ],
+      "answerIndex": 3,
+      "explanation": "저팔계는 원래 천계의 장수였다가 벌을 받아 돼지 모습이 됐어요. 손오공, 사오정과 함께 삼장법사를 모셔요."
+    },
+    {
+      "id": "geography-424845bb",
+      "category": "geography",
+      "difficulty": 1,
+      "question": "샌프란시스코만 입구에 놓인 붉은 현수교는?",
+      "choices": [
+        "타워브리지",
+        "브루클린교",
+        "금문교",
+        "하버브리지"
+      ],
+      "answerIndex": 2,
+      "explanation": "금문교는 샌프란시스코만 입구 '골든게이트' 해협에 놓인 다리예요.",
+      "funFact": "다리 색은 안개 속에서도 잘 보이도록 고른 '인터내셔널 오렌지'예요."
+    },
+    {
+      "id": "life-7db33f64",
+      "category": "life",
+      "difficulty": 2,
+      "question": "위궤양·위암과 관련이 깊은 세균은?",
+      "choices": [
+        "살모넬라",
+        "결핵균",
+        "헬리코박터",
+        "대장균"
+      ],
+      "answerIndex": 2,
+      "explanation": "헬리코박터 파일로리는 강한 위산 속에서도 살아남아 위 점막에 염증을 일으켜요.",
+      "funFact": "이 세균의 역할을 밝힌 과학자들은 2005년 노벨 생리의학상을 받았어요."
+    },
+    {
+      "id": "economy-329105ed",
+      "category": "economy",
+      "difficulty": 2,
+      "question": "법원이 지정한 관리인이 부실 기업을 맡아 회생시키는 절차는?",
+      "choices": [
+        "인수합병",
+        "청산",
+        "워크아웃",
+        "법정관리"
+      ],
+      "answerIndex": 3,
+      "explanation": "법정관리는 기업회생 절차라고도 해요. 법원이 빚을 조정하고 관리인을 둬 회사를 다시 살릴 수 있는지 판단해요."
+    },
+    {
+      "id": "science-442e4a38",
+      "category": "science",
+      "difficulty": 2,
+      "question": "소나기와 천둥·번개를 몰고 오는, 위로 높이 솟은 구름은?",
+      "choices": [
+        "권운",
+        "층운",
+        "적란운",
+        "고적운"
+      ],
+      "answerIndex": 2,
+      "explanation": "적란운은 강한 상승 기류로 위로 높게 솟은 구름이에요. 소나기, 천둥, 번개, 우박을 동반해 소나기구름이라고도 해요."
+    },
+    {
+      "id": "history-7ba122b9",
+      "category": "history",
+      "difficulty": 3,
+      "question": "476년 서로마 마지막 황제를 폐위한 게르만 용병 대장은?",
+      "choices": [
+        "오도아케르",
+        "아틸라",
+        "알라리크",
+        "테오도리크"
+      ],
+      "answerIndex": 0,
+      "explanation": "오도아케르는 476년 로물루스 아우구스툴루스를 폐위했어요. 이 해를 보통 서로마 제국이 멸망한 해로 봐요."
+    },
+    {
+      "id": "korean-82e9fd94",
+      "category": "korean",
+      "difficulty": 3,
+      "question": "고유어 '우듬지'의 뜻으로 알맞은 것은?",
+      "choices": [
+        "나무의 꼭대기 줄기",
+        "나무의 밑동",
+        "나무의 잔뿌리",
+        "나무에 난 옹이"
+      ],
+      "answerIndex": 0,
+      "explanation": "나무의 꼭대기 줄기를 '우듬지'라고 해요."
+    },
+    {
+      "id": "korean-37f67d37",
+      "category": "korean",
+      "difficulty": 3,
+      "question": "관용구 '도마 위에 오르다'의 뜻은?",
+      "choices": [
+        "인기를 얻음",
+        "비판의 대상이 됨",
+        "요리 솜씨를 뽐냄",
+        "높은 자리에 오름"
+      ],
+      "answerIndex": 1,
+      "explanation": "어떤 일이나 사람이 사람들의 비판이나 논쟁거리가 되는 것을 말해요."
+    }
+  ]
+}

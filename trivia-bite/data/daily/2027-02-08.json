@@ -1,0 +1,156 @@
+{
+  "version": 1,
+  "id": "daily-2027-02-08",
+  "date": "2027-02-08",
+  "questions": [
+    {
+      "id": "korean-666e67e0",
+      "category": "korean",
+      "difficulty": 1,
+      "question": "응원할 때 외치는 'fighting'의 올바른 외래어 표기는?",
+      "choices": [
+        "화이팅",
+        "퐈이팅",
+        "파이팅",
+        "파이딩"
+      ],
+      "answerIndex": 2,
+      "explanation": "외래어 표기법에서 영어 [f] 소리는 'ㅍ'으로 적어서 '파이팅'이 맞아요.",
+      "funFact": "국립국어원은 '파이팅'을 다듬은 우리말로 '아자'를 권하기도 했어요."
+    },
+    {
+      "id": "nature-7f8eb6ac",
+      "category": "nature",
+      "difficulty": 1,
+      "question": "여러 먹이사슬이 그물처럼 복잡하게 얽힌 관계는?",
+      "choices": [
+        "생태 천이",
+        "먹이피라미드",
+        "먹이그물",
+        "공생"
+      ],
+      "answerIndex": 2,
+      "explanation": "실제 생태계에서는 한 생물이 여러 생물을 먹고 먹히기 때문에 먹이사슬이 그물처럼 얽혀요.",
+      "funFact": "먹이그물이 복잡할수록 한 생물이 사라져도 다른 먹이로 대신할 수 있어 생태계가 더 안정돼요."
+    },
+    {
+      "id": "life-3f1f8f18",
+      "category": "life",
+      "difficulty": 1,
+      "question": "거리 단위 1마일은 약 몇 km일까요?",
+      "choices": [
+        "약 0.9km",
+        "약 3km",
+        "약 5km",
+        "약 1.6km"
+      ],
+      "answerIndex": 3,
+      "explanation": "1마일은 약 1.609km예요. 미국·영국에서 도로 거리와 속도 표시에 써요.",
+      "funFact": "마라톤 거리 42.195km는 약 26.2마일이에요."
+    },
+    {
+      "id": "sports-35a246b6",
+      "category": "sports",
+      "difficulty": 1,
+      "question": "농구에서 빗나간 슛을 잡아 공을 차지하는 것은?",
+      "choices": [
+        "어시스트",
+        "리바운드",
+        "스틸",
+        "블록슛"
+      ],
+      "answerIndex": 1,
+      "explanation": "림이나 백보드를 맞고 튀어나온 공을 잡아내는 것을 리바운드라고 해요.",
+      "funFact": "'리바운드를 지배하는 자가 경기를 지배한다'는 말이 있을 만큼 중요한 기록이에요."
+    },
+    {
+      "id": "culture-3d7fc9f5",
+      "category": "culture",
+      "difficulty": 2,
+      "question": "메그·조·베스·에이미 네 자매 이야기 『작은 아씨들』의 작가는?",
+      "choices": [
+        "루시 모드 몽고메리",
+        "해리엇 비처 스토",
+        "루이자 메이 올컷",
+        "프랜시스 버넷"
+      ],
+      "answerIndex": 2,
+      "explanation": "『작은 아씨들』은 미국 작가 루이자 메이 올컷이 1868년에 펴낸 소설이에요.",
+      "funFact": "작가는 둘째 조에게 자기 모습을 많이 담았다고 알려져 있어요."
+    },
+    {
+      "id": "economy-047cf9f0",
+      "category": "economy",
+      "difficulty": 2,
+      "question": "농산물 값이 올라 물가 전반이 오르는 현상은?",
+      "choices": [
+        "디스인플레이션",
+        "애그플레이션",
+        "리플레이션",
+        "스태그플레이션"
+      ],
+      "answerIndex": 1,
+      "explanation": "애그플레이션은 농업(agriculture)과 인플레이션을 합친 말이에요.",
+      "funFact": "이상 기후로 곡물 수확이 줄면 애그플레이션 걱정이 커져요."
+    },
+    {
+      "id": "space-054cf25b",
+      "category": "space",
+      "difficulty": 2,
+      "question": "가능한 비밀번호를 하나하나 모두 대입해 보는 해킹 공격은?",
+      "choices": [
+        "무차별 대입 공격",
+        "사회공학 공격",
+        "중간자 공격",
+        "디도스 공격"
+      ],
+      "answerIndex": 0,
+      "explanation": "무차별 대입 공격은 맞는 비밀번호가 나올 때까지 모든 조합을 계속 넣어 봐요. 비밀번호가 길고 복잡할수록 시간이 엄청나게 늘어나요.",
+      "funFact": "로그인을 여러 번 틀리면 잠시 막히는 기능은 이런 공격을 막기 위한 장치예요."
+    },
+    {
+      "id": "history-a3839bcb",
+      "category": "history",
+      "difficulty": 3,
+      "question": "1942년 미국이 일본 항공모함 4척을 격침해 태평양 전쟁 흐름을 바꾼 해전은?",
+      "choices": [
+        "레이테만 해전",
+        "산호해 해전",
+        "과달카날 전투",
+        "미드웨이 해전"
+      ],
+      "answerIndex": 3,
+      "explanation": "미드웨이 해전에서 일본 해군은 주력 항공모함 4척을 잃었어요. 이후 미국이 태평양에서 주도권을 잡았어요.",
+      "funFact": "미국은 일본군 암호를 해독해 공격 목표를 미리 알아냈어요."
+    },
+    {
+      "id": "geography-f2d0102f",
+      "category": "geography",
+      "difficulty": 3,
+      "question": "필리핀 동쪽에서 일본 남쪽 해안을 따라 북상하는 난류는?",
+      "choices": [
+        "오야시오 해류",
+        "리만 해류",
+        "캘리포니아 해류",
+        "쿠로시오 해류"
+      ],
+      "answerIndex": 3,
+      "explanation": "쿠로시오 해류는 북태평양 서쪽을 따라 북쪽으로 흐르는 강한 난류예요.",
+      "funFact": "쿠로시오는 일본어로 '검은 바닷물'이라는 뜻이에요."
+    },
+    {
+      "id": "science-0bd84f80",
+      "category": "science",
+      "difficulty": 3,
+      "question": "다음 방사선 중 물질을 뚫고 지나가는 투과력이 가장 강한 것은?",
+      "choices": [
+        "감마선",
+        "베타선",
+        "알파선",
+        "자외선"
+      ],
+      "answerIndex": 0,
+      "explanation": "알파선은 종이 한 장, 베타선은 얇은 알루미늄판에 막히지만 감마선은 두꺼운 납이나 콘크리트가 있어야 막혀요."
+    }
+  ]
+}

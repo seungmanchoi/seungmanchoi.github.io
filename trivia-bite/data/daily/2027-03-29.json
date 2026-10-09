@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "id": "daily-2027-03-29",
+  "date": "2027-03-29",
+  "questions": [
+    {
+      "id": "history-62198fc5",
+      "category": "history",
+      "difficulty": 1,
+      "question": "아테네의 파르테논 신전이 서 있는 언덕은?",
+      "choices": [
+        "아고라",
+        "카피톨리노",
+        "올림포스",
+        "아크로폴리스"
+      ],
+      "answerIndex": 3,
+      "explanation": "아크로폴리스는 '높은 곳의 도시'라는 뜻으로 도시를 지키는 성채이자 신전 터였어요. 파르테논 신전은 아테나 여신에게 바쳐졌어요."
+    },
+    {
+      "id": "culture-8e4b0ab9",
+      "category": "culture",
+      "difficulty": 1,
+      "question": "구두쇠 스크루지가 나오는 소설 『크리스마스 캐럴』의 작가는?",
+      "choices": [
+        "오스카 와일드",
+        "루이스 캐럴",
+        "마크 트웨인",
+        "찰스 디킨스"
+      ],
+      "answerIndex": 3,
+      "explanation": "『크리스마스 캐럴』은 1843년 찰스 디킨스가 발표한 소설이에요. 유령들을 만난 스크루지가 따뜻한 사람으로 바뀌는 이야기예요."
+    },
+    {
+      "id": "korean-904b222e",
+      "category": "korean",
+      "difficulty": 1,
+      "question": "아버지의 누나나 여동생을 부르는 말은?",
+      "choices": [
+        "외숙모",
+        "숙모",
+        "고모",
+        "이모"
+      ],
+      "answerIndex": 2,
+      "explanation": "아버지의 여자 형제는 고모, 어머니의 여자 형제는 이모라고 해요.",
+      "funFact": "고모의 남편은 '고모부'라고 불러요."
+    },
+    {
+      "id": "life-5b92a416",
+      "category": "life",
+      "difficulty": 1,
+      "question": "일본뇌염을 사람에게 옮기는 것은?",
+      "choices": [
+        "쥐",
+        "벼룩",
+        "모기",
+        "진드기"
+      ],
+      "answerIndex": 2,
+      "explanation": "일본뇌염은 작은빨간집모기가 옮기는 바이러스 감염병이에요. 예방접종과 모기 물림 예방이 중요해요."
+    },
+    {
+      "id": "korean-6daf0d5f",
+      "category": "korean",
+      "difficulty": 2,
+      "question": "시 「모란이 피기까지는」을 쓴 시인은?",
+      "choices": [
+        "김영랑",
+        "김소월",
+        "정지용",
+        "박목월"
+      ],
+      "answerIndex": 0,
+      "explanation": "김영랑은 「모란이 피기까지는」 같은 섬세한 서정시를 쓴 시인이에요.",
+      "funFact": "김영랑의 고향인 전남 강진에는 그의 생가가 남아 있어요."
+    },
+    {
+      "id": "life-4bc018e4",
+      "category": "life",
+      "difficulty": 2,
+      "question": "자전거를 탄 사람이 횡단보도로 길을 건너려면?",
+      "choices": [
+        "천천히 타고 건너기",
+        "빠르게 타고 건너기",
+        "벨을 울리며 건너기",
+        "내려서 끌고 건너기"
+      ],
+      "answerIndex": 3,
+      "explanation": "자전거에서 내려 끌고 가야 보행자로 보호받을 수 있어요. 탄 채로 건너다 사고가 나면 차로 취급돼요.",
+      "funFact": "자전거만 건널 수 있는 '자전거 횡단도'는 타고 건너도 돼요."
+    },
+    {
+      "id": "culture-e1acd2d7",
+      "category": "culture",
+      "difficulty": 2,
+      "question": "그릇 표면에 무늬를 파고 다른 색 흙을 메워 넣는 고려청자 기법은?",
+      "choices": [
+        "양각",
+        "상감",
+        "철화",
+        "투각"
+      ],
+      "answerIndex": 1,
+      "explanation": "상감 기법은 무늬를 판 자리에 흰 흙이나 붉은 흙을 채운 뒤 유약을 발라 구워요.",
+      "funFact": "상감청자는 고려 사람들이 독창적으로 발전시킨 기법으로 평가받아요."
+    },
+    {
+      "id": "geography-06e919cf",
+      "category": "geography",
+      "difficulty": 3,
+      "question": "이탈리아 안에 완전히 둘러싸인 나라는 바티칸과 어디일까요?",
+      "choices": [
+        "안도라",
+        "몰타",
+        "산마리노",
+        "모나코"
+      ],
+      "answerIndex": 2,
+      "explanation": "산마리노는 이탈리아 북동부 산 위에 있는 작은 공화국이에요. 바티칸처럼 이탈리아에 완전히 둘러싸여 있어요."
+    },
+    {
+      "id": "economy-63ae1a9b",
+      "category": "economy",
+      "difficulty": 3,
+      "question": "화폐의 액면 단위를 같은 비율로 낮춰 바꾸는 것은?",
+      "choices": [
+        "리디노미네이션",
+        "양적완화",
+        "평가절하",
+        "디커플링"
+      ],
+      "answerIndex": 0,
+      "explanation": "리디노미네이션은 예를 들어 1,000원을 1원으로 바꾸듯 화폐 단위를 낮추는 거예요. 돈의 실제 가치는 그대로예요.",
+      "funFact": "우리나라는 1953년과 1962년 두 차례 화폐 단위를 바꾼 적이 있어요."
+    },
+    {
+      "id": "life-d398fd41",
+      "category": "life",
+      "difficulty": 3,
+      "question": "달걀 껍데기 번호 끝자리가 '1'이면 무슨 뜻일까요?",
+      "choices": [
+        "케이지 사육",
+        "방사 사육",
+        "개선 케이지",
+        "축사 내 평사"
+      ],
+      "answerIndex": 1,
+      "explanation": "난각번호 마지막 자리는 사육 환경이에요. 1은 방사, 2는 축사 내 평사, 3은 개선 케이지, 4는 기존 케이지를 뜻해요."
+    }
+  ]
+}

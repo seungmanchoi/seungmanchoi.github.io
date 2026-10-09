@@ -1,0 +1,153 @@
+{
+  "version": 1,
+  "id": "daily-2027-02-12",
+  "date": "2027-02-12",
+  "questions": [
+    {
+      "id": "science-5f1e77b5",
+      "category": "science",
+      "difficulty": 1,
+      "question": "지구가 스스로 한 바퀴 도는 데 걸리는 시간은 약 얼마일까요?",
+      "choices": [
+        "약 30일",
+        "약 12시간",
+        "약 7일",
+        "약 24시간"
+      ],
+      "answerIndex": 3,
+      "explanation": "지구는 약 24시간마다 한 바퀴 자전해요. 이 시간이 우리가 쓰는 하루의 기준이 돼요.",
+      "funFact": "정확히 별을 기준으로 재면 자전 주기는 약 23시간 56분이에요."
+    },
+    {
+      "id": "economy-da7f8e0f",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "캐나다의 화폐 단위는?",
+      "choices": [
+        "페소",
+        "달러",
+        "프랑",
+        "파운드"
+      ],
+      "answerIndex": 1,
+      "explanation": "캐나다는 캐나다 달러를 써요. 1달러 동전에 새 '룬'이 그려져 있어 '루니'라는 별명이 있어요."
+    },
+    {
+      "id": "history-ba827381",
+      "category": "history",
+      "difficulty": 1,
+      "question": "900년 완산주(전주)를 도읍으로 후백제를 세운 인물은?",
+      "choices": [
+        "궁예",
+        "견훤",
+        "신검",
+        "왕건"
+      ],
+      "answerIndex": 1,
+      "explanation": "견훤은 신라 장군 출신으로 900년 완산주에서 후백제를 세웠어요. 말년에 아들 신검에게 쫓겨나 고려 왕건에게 몸을 맡겼어요."
+    },
+    {
+      "id": "life-730541bc",
+      "category": "life",
+      "difficulty": 1,
+      "question": "물에 빠진 사람을 봤을 때 바람직한 행동은?",
+      "choices": [
+        "바로 뛰어들기",
+        "물에 뜨는 물건 던지기",
+        "수영 못해도 들어가기",
+        "그냥 지나가기"
+      ],
+      "answerIndex": 1,
+      "explanation": "구조 훈련을 받지 않았다면 직접 뛰어들기보다 구명환·페트병 같은 뜨는 물건을 던지고 119에 신고하는 게 안전해요."
+    },
+    {
+      "id": "korean-7ac4e6fa",
+      "category": "korean",
+      "difficulty": 2,
+      "question": "관용구 '손을 씻다'의 뜻은?",
+      "choices": [
+        "책임을 남에게 넘김",
+        "깨끗하게 이김",
+        "나쁜 일에서 관계를 끊음",
+        "일을 끝마침"
+      ],
+      "answerIndex": 2,
+      "explanation": "부정적인 일이나 나쁜 무리와의 관계를 청산하는 것을 말해요."
+    },
+    {
+      "id": "culture-9f84438e",
+      "category": "culture",
+      "difficulty": 2,
+      "question": "민병대의 출동 장면을 극적인 빛으로 그린 '야경'의 화가는?",
+      "choices": [
+        "렘브란트",
+        "베르메르",
+        "반 다이크",
+        "루벤스"
+      ],
+      "answerIndex": 0,
+      "explanation": "'야경'은 네덜란드 화가 렘브란트가 1642년에 그린 단체 초상화예요. 암스테르담 국립미술관에 있어요.",
+      "funFact": "원래는 낮 장면인데 덧칠한 바니시가 어두워져 '야경'이라는 이름이 붙었어요."
+    },
+    {
+      "id": "sports-fe226a04",
+      "category": "sports",
+      "difficulty": 2,
+      "question": "1900~1920년 올림픽 정식 종목이었던 단체 힘겨루기는?",
+      "choices": [
+        "팔씨름",
+        "씨름",
+        "줄다리기",
+        "장대 밀기"
+      ],
+      "answerIndex": 2,
+      "explanation": "줄다리기는 1900년 파리부터 1920년 앤트워프 올림픽까지 정식 종목이었어요. 육상 경기의 하나로 치러졌어요.",
+      "funFact": "1908년 런던 대회 줄다리기에서는 영국 경찰 팀들이 메달을 휩쓸었어요."
+    },
+    {
+      "id": "geography-3fad2c0e",
+      "category": "geography",
+      "difficulty": 3,
+      "question": "산호초가 고리 모양으로 둘러싸 가운데 얕은 바다를 품은 지형은?",
+      "choices": [
+        "환초",
+        "사주",
+        "육계도",
+        "해식애"
+      ],
+      "answerIndex": 0,
+      "explanation": "환초는 가라앉은 화산섬 둘레에 자란 산호초가 고리처럼 남은 지형이에요.",
+      "funFact": "몰디브와 투발루 같은 나라는 대부분 환초로 이루어져 있어요."
+    },
+    {
+      "id": "life-3822fc4b",
+      "category": "life",
+      "difficulty": 3,
+      "question": "가을철 열과 검은 딱지를 남기는 쯔쯔가무시증을 옮기는 것은?",
+      "choices": [
+        "들쥐",
+        "모기",
+        "벼룩",
+        "털진드기"
+      ],
+      "answerIndex": 3,
+      "explanation": "쯔쯔가무시증은 털진드기 유충에게 물려 걸려요. 물린 자리에 검은 딱지가 생기는 게 특징이에요.",
+      "funFact": "털진드기 유충은 크기가 0.2mm 안팎이라 맨눈으로 보기 어려워요."
+    },
+    {
+      "id": "culture-4e349d9f",
+      "category": "culture",
+      "difficulty": 3,
+      "question": "빈 신년 음악회 끝에 관객이 박수로 함께하는 '라데츠키 행진곡'의 작곡가는?",
+      "choices": [
+        "요한 슈트라우스 1세",
+        "리하르트 슈트라우스",
+        "요제프 슈트라우스",
+        "요한 슈트라우스 2세"
+      ],
+      "answerIndex": 0,
+      "explanation": "'라데츠키 행진곡'은 1848년 요한 슈트라우스 1세가 라데츠키 장군을 기려 지은 곡이에요.",
+      "funFact": "'왈츠의 왕' 요한 슈트라우스 2세는 그의 맏아들이에요."
+    }
+  ]
+}

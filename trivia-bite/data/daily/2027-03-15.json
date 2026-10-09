@@ -1,0 +1,151 @@
+{
+  "version": 1,
+  "id": "daily-2027-03-15",
+  "date": "2027-03-15",
+  "questions": [
+    {
+      "id": "science-bf565b37",
+      "category": "science",
+      "difficulty": 1,
+      "question": "뱀·거북·악어가 공통으로 속하는 동물 무리는?",
+      "choices": [
+        "파충류",
+        "연체동물",
+        "조류",
+        "양서류"
+      ],
+      "answerIndex": 0,
+      "explanation": "파충류는 몸이 비늘이나 딱딱한 판으로 덮여 있고 폐로 숨을 쉬어요. 뱀, 거북, 악어, 도마뱀이 여기에 속해요.",
+      "funFact": "일부 거북은 알이 놓인 온도에 따라 새끼의 암수가 정해져요."
+    },
+    {
+      "id": "sports-b859b04c",
+      "category": "sports",
+      "difficulty": 1,
+      "question": "영국에서 시작돼 인도와 호주에서 특히 인기 있는 배트 구기는?",
+      "choices": [
+        "크리켓",
+        "야구",
+        "폴로",
+        "하키"
+      ],
+      "answerIndex": 0,
+      "explanation": "크리켓은 영국에서 시작돼 옛 영국 식민지였던 인도, 호주, 파키스탄 등에서 큰 인기를 누려요.",
+      "funFact": "크리켓 국가대표 경기인 '테스트 매치'는 한 경기가 최대 5일 동안 이어져요."
+    },
+    {
+      "id": "history-e153582d",
+      "category": "history",
+      "difficulty": 1,
+      "question": "진골 출신으로 처음 신라 왕위에 오른 김춘추의 왕호는?",
+      "choices": [
+        "신문왕",
+        "문무왕",
+        "태종 무열왕",
+        "진평왕"
+      ],
+      "answerIndex": 2,
+      "explanation": "김춘추는 654년 즉위해 진골 출신 첫 왕이 되었어요. 당과 동맹을 맺어 660년 백제를 멸망시켰어요."
+    },
+    {
+      "id": "geography-b9d06a9a",
+      "category": "geography",
+      "difficulty": 1,
+      "question": "영국(UK)을 이루는 지역이 아닌 곳은?",
+      "choices": [
+        "스코틀랜드",
+        "아일랜드",
+        "웨일스",
+        "북아일랜드"
+      ],
+      "answerIndex": 1,
+      "explanation": "영국은 잉글랜드, 스코틀랜드, 웨일스, 북아일랜드로 이루어져 있어요. 아일랜드는 별개의 독립 국가예요."
+    },
+    {
+      "id": "life-2e57b791",
+      "category": "life",
+      "difficulty": 2,
+      "question": "파스타를 심이 살짝 씹히게 삶은 상태를 뜻하는 말은?",
+      "choices": [
+        "알 덴테",
+        "카르보나라",
+        "아라비아타",
+        "알 폰도"
+      ],
+      "answerIndex": 0,
+      "explanation": "알 덴테는 이탈리아어로 '이에 닿는'이라는 뜻이에요. 속에 약간 단단함이 남도록 삶은 상태를 말해요."
+    },
+    {
+      "id": "economy-abb8715d",
+      "category": "economy",
+      "difficulty": 2,
+      "question": "나라가 빚 상환을 당분간 미루겠다고 선언하는 것은?",
+      "choices": [
+        "워크아웃",
+        "테이퍼링",
+        "디폴트",
+        "모라토리엄"
+      ],
+      "answerIndex": 3,
+      "explanation": "모라토리엄은 채무 상환을 일정 기간 유예한다는 선언이에요. 채권자와 합의하지 않은 상환 유예는 채무불이행으로 평가될 수 있어요.",
+      "funFact": "디폴트는 약정한 원금이나 이자를 제때 지급하지 않는 채무불이행을 뜻해요."
+    },
+    {
+      "id": "korean-97e9def8",
+      "category": "korean",
+      "difficulty": 2,
+      "question": "나이 마흔 살을 이르는 한자어는?",
+      "choices": [
+        "약관",
+        "불혹",
+        "지천명",
+        "이립"
+      ],
+      "answerIndex": 1,
+      "explanation": "논어에서 마흔에 미혹되지 않았다고 한 데서 나왔어요. 이립은 서른, 지천명은 쉰, 약관은 스무 살이에요."
+    },
+    {
+      "id": "culture-ae6fc74e",
+      "category": "culture",
+      "difficulty": 3,
+      "question": "부석사 무량수전처럼 기둥 가운데가 불룩한 기둥 양식은?",
+      "choices": [
+        "사각기둥",
+        "배흘림기둥",
+        "민흘림기둥",
+        "팔각기둥"
+      ],
+      "answerIndex": 1,
+      "explanation": "배흘림기둥은 기둥 중간을 불룩하게 하고 위아래를 가늘게 다듬은 양식이에요.",
+      "funFact": "멀리서 볼 때 기둥 가운데가 가늘어 보이는 착시를 바로잡는 효과가 있다고 해요."
+    },
+    {
+      "id": "economy-4984a46b",
+      "category": "economy",
+      "difficulty": 3,
+      "question": "1791년 정조가 육의전 외 시전 상인의 독점권을 없앤 조치는?",
+      "choices": [
+        "균역법",
+        "대동법",
+        "영정법",
+        "신해통공"
+      ],
+      "answerIndex": 3,
+      "explanation": "신해통공으로 시전 상인의 금난전권이 육의전을 빼고 폐지됐어요. 그 덕분에 사상의 자유로운 상업 활동이 늘어났어요."
+    },
+    {
+      "id": "life-2d099dd1",
+      "category": "life",
+      "difficulty": 3,
+      "question": "밤에 심하게 가렵고 피부에 굴을 파는 '옴'의 원인은?",
+      "choices": [
+        "곰팡이",
+        "벼룩",
+        "옴진드기",
+        "머릿니"
+      ],
+      "answerIndex": 2,
+      "explanation": "옴은 아주 작은 옴진드기가 피부 각질층에 굴을 파고 살며 생겨요. 밀접 접촉으로 옮아 가족이 함께 치료해요."
+    }
+  ]
+}

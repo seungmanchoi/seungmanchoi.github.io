@@ -1,0 +1,151 @@
+{
+  "version": 1,
+  "id": "daily-2027-02-06",
+  "date": "2027-02-06",
+  "questions": [
+    {
+      "id": "korean-323f47fe",
+      "category": "korean",
+      "difficulty": 1,
+      "question": "'처럼', '같이' 등을 써서 두 대상을 직접 빗대는 표현법은?",
+      "choices": [
+        "반어법",
+        "의인법",
+        "은유법",
+        "직유법"
+      ],
+      "answerIndex": 3,
+      "explanation": "직유법은 '~처럼', '~같이', '~듯이' 같은 말로 두 대상을 직접 이어 비유해요.",
+      "funFact": "'쟁반같이 둥근 달'도 직유법이 쓰인 대표적인 표현이에요."
+    },
+    {
+      "id": "history-640ef1bc",
+      "category": "history",
+      "difficulty": 1,
+      "question": "1861년부터 4년 동안 벌어진 미국 남북 전쟁에서 이긴 쪽은?",
+      "choices": [
+        "영국",
+        "남부",
+        "북부",
+        "프랑스"
+      ],
+      "answerIndex": 2,
+      "explanation": "공업이 발달한 북부가 노예제를 지키려던 남부를 이겼어요. 전쟁 뒤 미국 전역에서 노예제가 폐지됐어요.",
+      "funFact": "남북 전쟁은 미국 역사상 가장 많은 미국인이 숨진 전쟁으로 꼽혀요."
+    },
+    {
+      "id": "life-87db8362",
+      "category": "life",
+      "difficulty": 1,
+      "question": "부엌칼 날을 세울 때 쓰는 돌은?",
+      "choices": [
+        "부싯돌",
+        "숫돌",
+        "맷돌",
+        "조약돌"
+      ],
+      "answerIndex": 1,
+      "explanation": "숫돌에 칼날을 일정한 각도로 갈면 무뎌진 날이 다시 서요. 맷돌은 곡식을 가는 데 써요."
+    },
+    {
+      "id": "geography-b2c5cf52",
+      "category": "geography",
+      "difficulty": 1,
+      "question": "여우원숭이로 유명한, 아프리카 남동쪽의 큰 섬나라는?",
+      "choices": [
+        "마다가스카르",
+        "세이셸",
+        "스리랑카",
+        "모리셔스"
+      ],
+      "answerIndex": 0,
+      "explanation": "마다가스카르는 여우원숭이의 원래 자연 분포지로 유명한 섬나라예요. 사람이 옮긴 개체군은 코모로 제도에도 살아요.",
+      "funFact": "마다가스카르의 동식물은 대부분 이 섬에만 사는 고유종이에요."
+    },
+    {
+      "id": "culture-2d2cbe81",
+      "category": "culture",
+      "difficulty": 2,
+      "question": "음력 5월 5일 단오를 부르는 다른 이름은?",
+      "choices": [
+        "백중",
+        "삼짇날",
+        "수릿날",
+        "한식"
+      ],
+      "answerIndex": 2,
+      "explanation": "단오는 '수릿날'이라고도 불렀고, 이날 수리취로 떡을 빚어 먹기도 했어요.",
+      "funFact": "강릉단오제는 2005년 유네스코 인류무형문화유산에 올랐어요."
+    },
+    {
+      "id": "economy-8ca21d19",
+      "category": "economy",
+      "difficulty": 2,
+      "question": "주가 대비 1주당 배당금의 비율을 뜻하는 지표는?",
+      "choices": [
+        "자기자본이익률",
+        "배당수익률",
+        "배당성향",
+        "주가수익비율"
+      ],
+      "answerIndex": 1,
+      "explanation": "배당수익률은 주식을 사서 배당으로 얼마나 받는지 보여 줘요. 순이익 중 배당으로 나간 비율은 배당성향이라 해요."
+    },
+    {
+      "id": "science-85fab1ee",
+      "category": "science",
+      "difficulty": 2,
+      "question": "빙하가 깎아 만든 골짜기의 단면은 어떤 모양일까요?",
+      "choices": [
+        "V자형",
+        "W자형",
+        "일(一)자형",
+        "U자형"
+      ],
+      "answerIndex": 3,
+      "explanation": "빙하는 골짜기 바닥과 옆면을 함께 넓게 깎아 U자형 골짜기를 만들어요. 강물이 깎은 골짜기는 V자형이에요."
+    },
+    {
+      "id": "life-daa236ce",
+      "category": "life",
+      "difficulty": 3,
+      "question": "콘택트렌즈를 수돗물로 헹구면 위험한 이유가 되는 미생물은?",
+      "choices": [
+        "가시아메바",
+        "헬리코박터",
+        "살모넬라균",
+        "무좀균"
+      ],
+      "answerIndex": 0,
+      "explanation": "수돗물 속 가시아메바가 렌즈에 붙어 각막을 감염시킬 수 있어요. 렌즈는 반드시 전용 세척액으로 관리해요."
+    },
+    {
+      "id": "economy-181b4bad",
+      "category": "economy",
+      "difficulty": 3,
+      "question": "국내 주식시장의 T+2 결제 방식에서 체결일 이후 실제 결제일까지 걸리는 영업일 수는?",
+      "choices": [
+        "당일",
+        "2영업일 뒤",
+        "3영업일 뒤",
+        "1영업일 뒤"
+      ],
+      "answerIndex": 1,
+      "explanation": "T는 체결일, +2는 그 뒤 두 영업일을 뜻해요. 결제주기는 국가와 시점에 따라 달라질 수 있어요."
+    },
+    {
+      "id": "life-f77ab070",
+      "category": "life",
+      "difficulty": 3,
+      "question": "와사비의 코를 찌르는 매운 성분은?",
+      "choices": [
+        "알릴이소티오시아네이트",
+        "진저롤",
+        "캡사이신",
+        "피페린"
+      ],
+      "answerIndex": 0,
+      "explanation": "이 성분은 휘발성이라 코로 올라가 찡한 느낌을 줘요. 고추의 캡사이신과 달리 매운맛이 금방 사라져요."
+    }
+  ]
+}

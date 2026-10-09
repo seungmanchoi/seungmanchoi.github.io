@@ -1,0 +1,151 @@
+{
+  "version": 1,
+  "id": "daily-2027-02-03",
+  "date": "2027-02-03",
+  "questions": [
+    {
+      "id": "economy-3de05da9",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "결제한 금액의 일부를 현금으로 되돌려 주는 혜택은?",
+      "choices": [
+        "현금서비스",
+        "리볼빙",
+        "캐시백",
+        "선결제"
+      ],
+      "answerIndex": 2,
+      "explanation": "캐시백은 쓴 돈의 일정 비율을 돌려주는 혜택이에요. 카드사와 쇼핑몰이 손님을 끌려고 많이 써요.",
+      "funFact": "정부가 소비를 늘리려고 카드 사용액 일부를 돌려주는 캐시백 정책을 펴기도 했어요."
+    },
+    {
+      "id": "geography-3c477c70",
+      "category": "geography",
+      "difficulty": 1,
+      "question": "계단식 녹차밭으로 유명한 전남의 군은?",
+      "choices": [
+        "고창군",
+        "보성군",
+        "영암군",
+        "담양군"
+      ],
+      "answerIndex": 1,
+      "explanation": "전남 보성은 산비탈을 따라 펼쳐진 계단식 녹차밭으로 유명해요.",
+      "funFact": "보성에서는 해마다 녹차를 주제로 한 축제가 열려요."
+    },
+    {
+      "id": "science-a16f1701",
+      "category": "science",
+      "difficulty": 1,
+      "question": "다음 중 물질을 이루는 입자 사이 거리가 가장 먼 것은?",
+      "choices": [
+        "쇠구슬",
+        "얼음",
+        "수증기",
+        "물"
+      ],
+      "answerIndex": 2,
+      "explanation": "기체인 수증기는 입자가 서로 멀리 떨어져 자유롭게 움직여요. 고체인 얼음, 액체인 물보다 입자 사이 거리가 훨씬 멀어요."
+    },
+    {
+      "id": "sports-f1ce2718",
+      "category": "sports",
+      "difficulty": 1,
+      "question": "마이클 조던이 첫 은퇴 뒤 잠시 도전한 종목은?",
+      "choices": [
+        "야구",
+        "아이스하키",
+        "미식축구",
+        "골프"
+      ],
+      "answerIndex": 0,
+      "explanation": "조던은 1993년 첫 은퇴 뒤 마이너리그 버밍엄 배런스에서 야구 선수로 뛰었어요. 1995년 농구로 돌아왔어요.",
+      "funFact": "조던은 농구 복귀를 'I'm back.'이라는 두 단어 성명으로 알렸어요."
+    },
+    {
+      "id": "life-b54088a7",
+      "category": "life",
+      "difficulty": 2,
+      "question": "흔히 '맹장염'이라 부르는 병의 정확한 이름은?",
+      "choices": [
+        "위염",
+        "담낭염",
+        "충수염",
+        "대장염"
+      ],
+      "answerIndex": 2,
+      "explanation": "염증이 생기는 곳은 맹장 끝에 달린 충수예요. 그래서 정확한 이름은 충수염이에요."
+    },
+    {
+      "id": "culture-f059cee9",
+      "category": "culture",
+      "difficulty": 2,
+      "question": "「만복사저포기」 등 다섯 편이 실린 한문 소설집 『금오신화』의 작가는?",
+      "choices": [
+        "김만중",
+        "박지원",
+        "허균",
+        "김시습"
+      ],
+      "answerIndex": 3,
+      "explanation": "『금오신화』는 매월당 김시습이 경주 금오산에 머물며 지은 한문 소설집이에요. 귀신과 사랑 같은 기이한 이야기를 담았어요."
+    },
+    {
+      "id": "korean-05441bc1",
+      "category": "korean",
+      "difficulty": 2,
+      "question": "공자가 하늘의 뜻을 알았다는 '지천명'은 몇 살을 이를까요?",
+      "choices": [
+        "70세",
+        "40세",
+        "60세",
+        "50세"
+      ],
+      "answerIndex": 3,
+      "explanation": "『논어』에서 공자가 쉰 살에 하늘의 뜻을 알았다고 한 데서 50세를 지천명이라 해요.",
+      "funFact": "60세는 '이순', 70세는 '종심'이라고도 불러요."
+    },
+    {
+      "id": "history-b48a10d0",
+      "category": "history",
+      "difficulty": 3,
+      "question": "베이징으로 수도를 옮기고 자금성을 황궁으로 삼은 명나라 황제는?",
+      "choices": [
+        "영락제",
+        "홍무제",
+        "강희제",
+        "만력제"
+      ],
+      "answerIndex": 0,
+      "explanation": "영락제는 조카 건문제를 몰아내고 즉위했어요. 1421년 베이징으로 천도해 자금성을 정식 황궁으로 삼았어요."
+    },
+    {
+      "id": "life-4b15d7fe",
+      "category": "life",
+      "difficulty": 3,
+      "question": "마늘이나 과일을 셀 때 '한 접'은 몇 개일까요?",
+      "choices": [
+        "20개",
+        "100개",
+        "50개",
+        "10개"
+      ],
+      "answerIndex": 1,
+      "explanation": "'접'은 채소나 과일 100개를 묶어 세는 단위예요. 마늘 한 접은 마늘 100통이에요."
+    },
+    {
+      "id": "korean-29539c45",
+      "category": "korean",
+      "difficulty": 3,
+      "question": "속담 '냉수 먹고 이 쑤시기'의 뜻은?",
+      "choices": [
+        "남의 잘못을 대신 책임짐",
+        "먹은 음식을 소화함",
+        "위험을 미리 예방함",
+        "실속 없이 있는 척함"
+      ],
+      "answerIndex": 3,
+      "explanation": "찬물만 마시고 고기라도 먹은 듯 이를 쑤시는 것처럼, 실속 없이 있는 체하는 것을 이르는 말이에요."
+    }
+  ]
+}

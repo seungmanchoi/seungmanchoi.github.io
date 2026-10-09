@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "id": "daily-2027-01-06",
+  "date": "2027-01-06",
+  "questions": [
+    {
+      "id": "history-c81d1d99",
+      "category": "history",
+      "difficulty": 1,
+      "question": "을미개혁 때 상투를 자르도록 한 명령은?",
+      "choices": [
+        "금난전권",
+        "해금령",
+        "단발령",
+        "호패법"
+      ],
+      "answerIndex": 2,
+      "explanation": "1895년 단발령이 내려지자 '몸과 머리카락은 부모에게 받은 것'이라며 거센 반발이 일었어요. 을미사변과 함께 을미의병의 원인이 되었어요."
+    },
+    {
+      "id": "life-c6dccd80",
+      "category": "life",
+      "difficulty": 1,
+      "question": "가스 호스 연결 부위가 새는지 확인할 때 바르는 것은?",
+      "choices": [
+        "소금물",
+        "식초",
+        "식용유",
+        "비눗물"
+      ],
+      "answerIndex": 3,
+      "explanation": "연결 부위에 비눗물을 바르면 가스가 새는 곳에서 거품이 부풀어요. 불을 가까이 대서 확인하면 절대 안 돼요.",
+      "funFact": "붓이나 스펀지로 비눗물을 묻히면 확인하기 편해요."
+    },
+    {
+      "id": "culture-d5de1a54",
+      "category": "culture",
+      "difficulty": 1,
+      "question": "독일의 맥주 축제 옥토버페스트가 열리는 도시는?",
+      "choices": [
+        "함부르크",
+        "베를린",
+        "프랑크푸르트",
+        "뮌헨"
+      ],
+      "answerIndex": 3,
+      "explanation": "옥토버페스트는 1810년 바이에른 왕세자의 결혼 축하 행사에서 시작됐어요. 뮌헨에서 9월 말부터 10월 초까지 열려요."
+    },
+    {
+      "id": "economy-3d22f3a3",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "주주들이 모여 회사의 중요한 일을 결정하는 최고 의사결정 기구는?",
+      "choices": [
+        "주주총회",
+        "감사회",
+        "노사협의회",
+        "이사회"
+      ],
+      "answerIndex": 0,
+      "explanation": "주주총회에서는 이사 선임, 배당, 정관 변경 같은 중요한 안건을 결정해요. 보통 주식 1주에 1표의 의결권이 있어요."
+    },
+    {
+      "id": "korean-6e55d3bc",
+      "category": "korean",
+      "difficulty": 2,
+      "question": "관용구 '뜸을 들이다'의 뜻은?",
+      "choices": [
+        "남을 오래 기다림",
+        "곧바로 하지 않고 머뭇거림",
+        "분위기를 띄움",
+        "정성을 다해 요리함"
+      ],
+      "answerIndex": 1,
+      "explanation": "일이나 말을 바로 하지 않고 한동안 머뭇거리는 것을 말해요. 밥이 익도록 기다리는 데서 왔어요."
+    },
+    {
+      "id": "science-c837725b",
+      "category": "science",
+      "difficulty": 2,
+      "question": "지구 적도 둘레의 길이는 약 얼마일까요?",
+      "choices": [
+        "약 4천 km",
+        "약 400만 km",
+        "약 4만 km",
+        "약 40만 km"
+      ],
+      "answerIndex": 2,
+      "explanation": "지구 둘레는 약 4만 km예요. 미터라는 단위가 처음에 지구 둘레를 바탕으로 정해졌기 때문에 거의 딱 떨어지는 값이에요.",
+      "funFact": "고대 그리스의 에라토스테네스는 그림자 길이만으로 지구 둘레를 꽤 정확히 계산했어요."
+    },
+    {
+      "id": "geography-d629c967",
+      "category": "geography",
+      "difficulty": 2,
+      "question": "스웨덴·핀란드와 발트 3국으로 둘러싸인 바다는?",
+      "choices": [
+        "노르웨이해",
+        "발트해",
+        "북해",
+        "백해"
+      ],
+      "answerIndex": 1,
+      "explanation": "발트해는 북유럽과 동유럽에 둘러싸인 내해예요. 염분이 낮아 겨울에는 북쪽 바다가 얼기도 해요."
+    },
+    {
+      "id": "sports-a6f369c7",
+      "category": "sports",
+      "difficulty": 3,
+      "question": "쇼트트랙 스피드스케이팅 트랙 한 바퀴의 길이는?",
+      "choices": [
+        "111.12m",
+        "100m",
+        "133.33m",
+        "400m"
+      ],
+      "answerIndex": 0,
+      "explanation": "쇼트트랙은 아이스하키 링크 크기 안에 한 바퀴 111.12m 트랙을 만들어 경기해요.",
+      "funFact": "400m 트랙을 쓰는 스피드스케이팅은 그래서 '롱트랙'이라고도 불러요."
+    },
+    {
+      "id": "space-1bbf1e28",
+      "category": "space",
+      "difficulty": 3,
+      "question": "기술 대신 사람의 심리와 신뢰를 속여 정보를 빼내는 해킹 기법은?",
+      "choices": [
+        "패킷 분석",
+        "역공학",
+        "암호 해독",
+        "사회공학"
+      ],
+      "answerIndex": 3,
+      "explanation": "사회공학은 직원이나 관리자인 척 전화하거나 급한 상황을 꾸며 비밀번호를 알아내는 식의 수법이에요. 시스템보다 사람의 허점을 노려요.",
+      "funFact": "보안 전문가들은 흔히 '보안에서 가장 약한 고리는 사람'이라고 말해요."
+    },
+    {
+      "id": "nature-3f535792",
+      "category": "nature",
+      "difficulty": 3,
+      "question": "'어미를 죽이는 뱀'이라는 이름의 유래가 된 오해는?",
+      "choices": [
+        "새끼가 어미 몸을 뚫고 나온다",
+        "어미를 둥지에서 쫓는다",
+        "어미 독에 죽는다",
+        "어미를 잡아먹는다"
+      ],
+      "answerIndex": 0,
+      "explanation": "살모사는 알 대신 새끼를 낳는데, 지쳐 늘어진 어미 곁의 새끼를 보고 새끼가 어미를 죽인다고 오해했어요.",
+      "funFact": "살모사는 어미 몸속에서 알이 부화한 뒤 새끼로 태어나는 난태생 뱀이에요."
+    }
+  ]
+}

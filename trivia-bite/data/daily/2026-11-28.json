@@ -4,35 +4,6 @@
   "date": "2026-11-28",
   "questions": [
     {
-      "id": "history-19f48245",
-      "category": "history",
-      "difficulty": 1,
-      "question": "한양도성 4대문 중 흔히 '남대문'이라 부르는 문은?",
-      "choices": [
-        "숙정문",
-        "흥인지문",
-        "숭례문",
-        "돈의문"
-      ],
-      "answerIndex": 2,
-      "explanation": "숭례문은 한양도성의 남쪽 정문이라 남대문으로도 불려요. 동쪽은 흥인지문, 서쪽은 돈의문, 북쪽은 숙정문이에요.",
-      "funFact": "동대문·서대문·남대문의 이름에는 각각 인·의·예가 들어 있어요."
-    },
-    {
-      "id": "korean-bcacfbf3",
-      "category": "korean",
-      "difficulty": 1,
-      "question": "'○○ 기분이 좋아요'의 빈칸에 알맞은 표기는?",
-      "choices": [
-        "왼지",
-        "왠지",
-        "웬지",
-        "웨지"
-      ],
-      "answerIndex": 1,
-      "explanation": "'왜인지'가 줄어든 말이라 '왠지'로 써요. '웬'은 '웬일', '웬 떡'처럼 '어찌 된'의 뜻일 때 써요."
-    },
-    {
       "id": "economy-297aa9fe",
       "category": "economy",
       "difficulty": 1,
@@ -47,18 +18,47 @@
       "explanation": "대출은 돈을 빌리고 나중에 이자와 함께 갚는 거래예요. 반대로 예금은 은행에 돈을 맡기는 거예요."
     },
     {
-      "id": "life-38379a92",
+      "id": "history-3fed7d25",
+      "category": "history",
+      "difficulty": 1,
+      "question": "조선이 개경에서 수도를 옮긴 곳으로, 오늘날 서울의 옛 이름은?",
+      "choices": [
+        "평양",
+        "부여",
+        "경주",
+        "한양"
+      ],
+      "answerIndex": 3,
+      "explanation": "태조 이성계는 1394년 수도를 한양으로 옮겼어요. 한양은 '한강의 북쪽'이라는 뜻이에요.",
+      "funFact": "강의 북쪽을 '양(陽)'이라 불러서 한강 북쪽 땅이 한양이 됐어요."
+    },
+    {
+      "id": "life-6274f846",
       "category": "life",
       "difficulty": 1,
-      "question": "가벼운 화상을 입었을 때 가장 먼저 해야 할 응급처치는?",
+      "question": "두부를 만들려고 콩물을 짜고 남은 찌꺼기는?",
       "choices": [
-        "얼음을 바로 댄다",
-        "흐르는 찬물에 식힌다",
-        "치약을 바른다",
-        "된장을 바른다"
+        "지게미",
+        "누룽지",
+        "비지",
+        "겨"
+      ],
+      "answerIndex": 2,
+      "explanation": "비지는 콩물을 짜고 남은 건더기로 비지찌개 등에 써요. 지게미는 술을 거르고 남은 찌꺼기예요."
+    },
+    {
+      "id": "culture-da2ccae4",
+      "category": "culture",
+      "difficulty": 1,
+      "question": "그리스 신화에서 화살로 사랑을 불러일으키는 신은?",
+      "choices": [
+        "헤르메스",
+        "에로스",
+        "아레스",
+        "아폴론"
       ],
       "answerIndex": 1,
-      "explanation": "화상 부위를 흐르는 찬물에 충분히 식혀 열기를 빼는 게 먼저예요. 된장이나 치약은 감염 위험이 있고, 얼음을 직접 대면 피부가 더 상할 수 있어요."
+      "explanation": "에로스는 아프로디테의 아들로 금 화살에 맞으면 사랑에 빠진다고 해요. 로마 신화에서는 큐피드라고 불러요."
     },
     {
       "id": "geography-8efa5978",
@@ -76,21 +76,6 @@
       "funFact": "파나마 운하는 수문으로 배를 물 위로 올렸다 내리며 통과시켜요."
     },
     {
-      "id": "culture-500d4a21",
-      "category": "culture",
-      "difficulty": 2,
-      "question": "마라톤 정식 경기의 거리는 몇 km일까요?",
-      "choices": [
-        "40km",
-        "44.195km",
-        "41.195km",
-        "42.195km"
-      ],
-      "answerIndex": 3,
-      "explanation": "마라톤의 공식 거리는 42.195km예요. 마라톤 전투의 승리 소식을 전했다는 전령 이야기에서 유래한 경기예요.",
-      "funFact": "1908년 런던 올림픽 코스 거리가 기준이 돼 1921년에 공식 거리로 정해졌어요."
-    },
-    {
       "id": "korean-a4c53a7f",
       "category": "korean",
       "difficulty": 2,
@@ -103,6 +88,21 @@
       ],
       "answerIndex": 2,
       "explanation": "'희한하다'는 매우 드물어 신기하다는 뜻이고, '희한'이 맞는 표기예요. '희안'은 자주 틀리게 쓰는 표기예요."
+    },
+    {
+      "id": "sports-68e54c3c",
+      "category": "sports",
+      "difficulty": 2,
+      "question": "남자 육상 허들 단거리 종목의 경기 거리는?",
+      "choices": [
+        "110m",
+        "150m",
+        "120m",
+        "100m"
+      ],
+      "answerIndex": 0,
+      "explanation": "단거리 허들은 남자 110m, 여자 100m이고 둘 다 허들 10개를 넘어요.",
+      "funFact": "허들을 넘어뜨려도 일부러 그런 게 아니면 실격이 아니에요."
     },
     {
       "id": "science-97d959da",

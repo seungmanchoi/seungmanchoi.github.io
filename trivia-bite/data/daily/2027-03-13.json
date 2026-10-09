@@ -1,0 +1,153 @@
+{
+  "version": 1,
+  "id": "daily-2027-03-13",
+  "date": "2027-03-13",
+  "questions": [
+    {
+      "id": "economy-6792ccba",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "거래소에 오른 주식이 거래 자격을 잃고 퇴출되는 것은?",
+      "choices": [
+        "거래정지",
+        "상장",
+        "상장폐지",
+        "액면분할"
+      ],
+      "answerIndex": 2,
+      "explanation": "상장폐지되면 그 주식은 더 이상 거래소에서 사고팔 수 없어요. 자본잠식이나 감사의견 거절 등이 사유가 돼요."
+    },
+    {
+      "id": "space-bd292c7a",
+      "category": "space",
+      "difficulty": 1,
+      "question": "게임에서 플레이어가 조종하지 않는 캐릭터를 뜻하는 약어는?",
+      "choices": [
+        "PVP",
+        "NPC",
+        "MMO",
+        "RPG"
+      ],
+      "answerIndex": 1,
+      "explanation": "NPC는 'Non-Player Character'의 약자예요. 상점 주인이나 퀘스트를 주는 마을 사람처럼 게임이 조종하는 캐릭터를 말해요.",
+      "funFact": "요즘은 주관 없이 남을 따라 하는 사람을 놀릴 때도 'NPC 같다'는 말을 쓰기도 해요."
+    },
+    {
+      "id": "geography-7bf01d43",
+      "category": "geography",
+      "difficulty": 1,
+      "question": "사막에서 물이 솟아 식물이 자라고 사람이 모여 사는 곳은?",
+      "choices": [
+        "툰드라",
+        "사바나",
+        "스텝",
+        "오아시스"
+      ],
+      "answerIndex": 3,
+      "explanation": "오아시스는 사막 가운데 지하수가 솟아 물을 얻을 수 있는 곳이에요. 옛날 대상들의 쉼터였어요."
+    },
+    {
+      "id": "life-4dd1d205",
+      "category": "life",
+      "difficulty": 1,
+      "question": "우리나라 도로에서 차는 어느 쪽으로 다닐까요?",
+      "choices": [
+        "오른쪽",
+        "왼쪽",
+        "가운데",
+        "정해지지 않음"
+      ],
+      "answerIndex": 0,
+      "explanation": "우리나라는 차가 도로 오른쪽으로 다니는 우측통행이에요. 그래서 운전석이 왼쪽에 있어요.",
+      "funFact": "영국과 일본은 차가 왼쪽으로 다녀서 운전석이 오른쪽에 있어요."
+    },
+    {
+      "id": "history-92d8e3b6",
+      "category": "history",
+      "difficulty": 2,
+      "question": "『국어문법』을 쓰고 '한글'이라는 이름을 널리 알린 국어학자는?",
+      "choices": [
+        "이희승",
+        "주시경",
+        "지석영",
+        "최현배"
+      ],
+      "answerIndex": 1,
+      "explanation": "주시경은 우리말과 글을 체계적으로 연구해 국어학의 기틀을 닦았어요. 제자들이 조선어 학회를 이어 갔어요.",
+      "funFact": "그는 책 보따리를 늘 들고 다녀 '주보따리'라는 별명이 있었어요."
+    },
+    {
+      "id": "sports-b30033eb",
+      "category": "sports",
+      "difficulty": 2,
+      "question": "2001년 보스턴 마라톤에서 우승한 한국 마라토너는?",
+      "choices": [
+        "지영준",
+        "이봉주",
+        "김이용",
+        "황영조"
+      ],
+      "answerIndex": 1,
+      "explanation": "이봉주 선수는 2001년 보스턴 마라톤에서 우승했어요. 한국인으로서는 1950년 이후 51년 만의 우승이었어요.",
+      "funFact": "이봉주 선수는 1996년 애틀랜타 올림픽 마라톤에서 3초 차로 은메달을 땄어요."
+    },
+    {
+      "id": "korean-dd2fbd01",
+      "category": "korean",
+      "difficulty": 2,
+      "question": "여자가 오빠나 남동생의 아내를 이르는 말은?",
+      "choices": [
+        "형수",
+        "시누이",
+        "동서",
+        "올케"
+      ],
+      "answerIndex": 3,
+      "explanation": "올케는 여자 쪽에서 오빠나 남동생의 아내를 부르는 말이에요.",
+      "funFact": "올케 쪽에서 남편의 누나나 여동생은 '시누이'라고 불러요."
+    },
+    {
+      "id": "culture-8f13ecc8",
+      "category": "culture",
+      "difficulty": 3,
+      "question": "영생을 찾아 떠나는 우루크 왕의 이야기를 담은 메소포타미아 서사시의 주인공은?",
+      "choices": [
+        "네부카드네자르",
+        "사르곤",
+        "길가메시",
+        "함무라비"
+      ],
+      "answerIndex": 2,
+      "explanation": "『길가메시 서사시』는 점토판에 쐐기 문자로 남은 오래된 문학이에요. 큰 홍수 이야기도 담겨 있어요."
+    },
+    {
+      "id": "economy-fc620268",
+      "category": "economy",
+      "difficulty": 3,
+      "question": "빌린 돈으로 산 주식이 담보 부족이 되면 증권사가 강제로 파는 것은?",
+      "choices": [
+        "숏커버링",
+        "공매도",
+        "반대매매",
+        "손절매"
+      ],
+      "answerIndex": 2,
+      "explanation": "신용이나 미수로 산 주식의 가치가 떨어져 담보가 모자라면 증권사가 강제로 팔아요. 이 매도 물량이 주가를 더 떨어뜨리기도 해요."
+    },
+    {
+      "id": "korean-634e2a09",
+      "category": "korean",
+      "difficulty": 3,
+      "question": "두보의 시에서 나와 일흔 살을 이르는 말은?",
+      "choices": [
+        "고희",
+        "이순",
+        "희수",
+        "미수"
+      ],
+      "answerIndex": 0,
+      "explanation": "고희(古稀)는 두보의 시 구절 '인생칠십고래희'에서 나온 말로 70세를 뜻해요.",
+      "funFact": "77세는 '희수', 88세는 '미수'라고 해요."
+    }
+  ]
+}

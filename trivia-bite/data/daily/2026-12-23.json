@@ -4,49 +4,6 @@
   "date": "2026-12-23",
   "questions": [
     {
-      "id": "history-407e6f1c",
-      "category": "history",
-      "difficulty": 1,
-      "question": "세종 때 만들어져 비의 양을 재던 기구는?",
-      "choices": [
-        "혼천의",
-        "앙부일구",
-        "자격루",
-        "측우기"
-      ],
-      "answerIndex": 3,
-      "explanation": "측우기는 세종 때 만든 강우량 측정 기구예요. 그릇에 고인 빗물의 깊이를 재서 비의 양을 쟀어요.",
-      "funFact": "서양에서 비슷한 우량계가 나오기보다 약 200년 앞섰다고 해요."
-    },
-    {
-      "id": "science-1eb46ff7",
-      "category": "science",
-      "difficulty": 1,
-      "question": "액체인 물이 기체인 수증기로 변하는 현상은?",
-      "choices": [
-        "융해",
-        "액화",
-        "기화",
-        "응고"
-      ],
-      "answerIndex": 2,
-      "explanation": "액체가 기체로 변하는 상태 변화를 기화라고 해요. 증발과 끓음이 모두 기화에 속해요."
-    },
-    {
-      "id": "korean-87661f29",
-      "category": "korean",
-      "difficulty": 1,
-      "question": "속담 '낫 놓고 기역 자도 모른다'가 가리키는 사람은?",
-      "choices": [
-        "말이 많은 사람",
-        "힘이 아주 센 사람",
-        "농사일에 서툰 사람",
-        "글자를 전혀 모르는 사람"
-      ],
-      "answerIndex": 3,
-      "explanation": "낫의 모양이 'ㄱ'과 닮았는데도 기역 자를 모른다는 뜻이에요. 글자를 전혀 모르는 무식한 사람을 빗대는 말이에요."
-    },
-    {
       "id": "economy-1295a214",
       "category": "economy",
       "difficulty": 1,
@@ -61,47 +18,91 @@
       "explanation": "통장이나 계좌에서 돈을 빼는 일을 출금이라고 해요. 반대로 돈을 넣는 일은 입금이에요."
     },
     {
-      "id": "geography-de496b05",
-      "category": "geography",
-      "difficulty": 2,
-      "question": "일본 열도에서 가장 큰 섬은 어디일까요?",
-      "choices": [
-        "혼슈",
-        "규슈",
-        "홋카이도",
-        "시코쿠"
-      ],
-      "answerIndex": 0,
-      "explanation": "혼슈는 일본에서 가장 큰 섬이에요. 도쿄, 오사카, 교토 같은 주요 도시가 모두 이 섬에 있어요."
-    },
-    {
-      "id": "life-e1ed4efd",
+      "id": "life-39dc3eb9",
       "category": "life",
-      "difficulty": 2,
-      "question": "프라이팬의 기름에 불이 붙었을 때 올바른 조치는?",
+      "difficulty": 1,
+      "question": "빈대떡의 주재료인 콩은?",
       "choices": [
-        "팬을 들고 밖으로 옮긴다",
-        "부채질로 불을 끈다",
-        "뚜껑을 덮어 불을 끈다",
-        "물을 끼얹는다"
-      ],
-      "answerIndex": 2,
-      "explanation": "뚜껑을 덮어 산소를 막아야 불이 꺼져요. 기름에 물을 부으면 기름이 튀어 불이 더 크게 번질 수 있어요."
-    },
-    {
-      "id": "history-63a2a295",
-      "category": "history",
-      "difficulty": 2,
-      "question": "임진왜란 때 행주산성에서 크게 이긴 조선 장수는?",
-      "choices": [
-        "정문부",
-        "권율",
-        "김천일",
-        "곽재우"
+        "팥",
+        "녹두",
+        "완두",
+        "대두"
       ],
       "answerIndex": 1,
-      "explanation": "권율 장군은 1593년 행주산성에서 왜군을 크게 물리쳤어요. 이를 행주대첩이라고 불러요.",
-      "funFact": "행주대첩은 임진왜란 3대 대첩 중 하나로 꼽혀요."
+      "explanation": "빈대떡은 불린 녹두를 갈아 부친 전이에요. 그래서 녹두전이라고도 불러요."
+    },
+    {
+      "id": "korean-db8b0695",
+      "category": "korean",
+      "difficulty": 1,
+      "question": "사자성어 '동병상련'의 뜻으로 알맞은 것은?",
+      "choices": [
+        "적과 손을 잡음",
+        "같은 꿈을 꿈",
+        "처지가 같은 이끼리 동정함",
+        "병을 함께 이겨 냄"
+      ],
+      "answerIndex": 2,
+      "explanation": "같은 병을 앓는 사람끼리 서로 가엾게 여긴다는 데서, 어려운 처지의 사람끼리 동정하고 돕는 것을 뜻해요."
+    },
+    {
+      "id": "science-c3ee02e0",
+      "category": "science",
+      "difficulty": 1,
+      "question": "오징어·문어·조개가 공통으로 속하는 동물 무리는?",
+      "choices": [
+        "극피동물",
+        "자포동물",
+        "절지동물",
+        "연체동물"
+      ],
+      "answerIndex": 3,
+      "explanation": "연체동물은 몸이 부드럽고 마디가 없어요. 조개처럼 껍데기가 있는 것도, 문어처럼 없는 것도 있어요."
+    },
+    {
+      "id": "geography-7cf25345",
+      "category": "geography",
+      "difficulty": 2,
+      "question": "겨울 금강산을 부르는 이름은?",
+      "choices": [
+        "묘향산",
+        "봉래산",
+        "개골산",
+        "풍악산"
+      ],
+      "answerIndex": 2,
+      "explanation": "잎이 지고 바위 뼈대가 드러난 겨울 금강산을 개골산이라 불러요. 여름은 봉래산, 가을은 풍악산이에요.",
+      "funFact": "봄의 금강산은 그대로 '금강산'이라고 불러요."
+    },
+    {
+      "id": "sports-3820551c",
+      "category": "sports",
+      "difficulty": 2,
+      "question": "골프에서 실력 차가 나는 사람끼리 공정하게 겨루도록 타수를 보정하는 제도는?",
+      "choices": [
+        "핸디캡",
+        "언더파",
+        "스킨스",
+        "스크래치"
+      ],
+      "answerIndex": 0,
+      "explanation": "핸디캡은 골퍼의 플레이 능력을 바탕으로 실력 차를 보정하는 제도예요. 경기 방식에 따라 타수나 홀별 점수에 적용해요.",
+      "funFact": "핸디캡이 0인 실력자를 '스크래치 골퍼'라고 불러요."
+    },
+    {
+      "id": "nature-72fd7993",
+      "category": "nature",
+      "difficulty": 2,
+      "question": "배 위에 돌을 올려 조개를 깨 먹는 바다 동물은?",
+      "choices": [
+        "해달",
+        "수달",
+        "바다사자",
+        "물범"
+      ],
+      "answerIndex": 0,
+      "explanation": "해달은 물 위에 누운 채 배에 돌을 올려놓고 조개를 내리쳐 깨 먹어요.",
+      "funFact": "해달은 잠잘 때 떠내려가지 않으려고 서로 손을 잡거나 해초를 몸에 감아요."
     },
     {
       "id": "culture-e6449297",
@@ -133,18 +134,19 @@
       "explanation": "고려 말 최무선은 화약 제조법을 익혀 화통도감을 세웠어요. 이곳에서 대포 같은 화약 무기를 만들었어요."
     },
     {
-      "id": "science-2c553e36",
-      "category": "science",
+      "id": "space-bbb27a8a",
+      "category": "space",
       "difficulty": 3,
-      "question": "생물 분류에서 '종'의 바로 위 단계는 무엇일까요?",
+      "question": "달 궤도에서 '지구돋이' 사진을 찍은, 처음으로 달을 돈 유인 우주선은?",
       "choices": [
-        "과",
-        "강",
-        "목",
-        "속"
+        "아폴로 11호",
+        "아폴로 13호",
+        "보스토크 1호",
+        "아폴로 8호"
       ],
       "answerIndex": 3,
-      "explanation": "생물은 종, 속, 과, 목, 강, 문, 계 순으로 더 큰 무리로 묶어요. 그래서 종 바로 위 단계는 속이에요."
+      "explanation": "아폴로 8호는 1968년 12월 인류 최초로 달 궤도를 돈 유인 우주선이에요. 이때 달 지평선 위로 떠오르는 지구 사진을 찍었어요.",
+      "funFact": "'지구돋이' 사진은 환경 운동에 큰 영향을 준 사진으로 꼽혀요."
     }
   ]
 }

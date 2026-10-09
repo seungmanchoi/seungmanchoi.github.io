@@ -4,35 +4,6 @@
   "date": "2026-12-24",
   "questions": [
     {
-      "id": "history-2900bb13",
-      "category": "history",
-      "difficulty": 1,
-      "question": "신석기 시대를 대표하는 토기는?",
-      "choices": [
-        "빗살무늬 토기",
-        "백자",
-        "가야 토기",
-        "민무늬 토기"
-      ],
-      "answerIndex": 0,
-      "explanation": "신석기 시대 사람들은 바닥이 뾰족한 빗살무늬 토기에 곡식을 저장하고 음식을 조리했어요. 서울 암사동 유적에서 많이 나왔어요."
-    },
-    {
-      "id": "science-06f3e68f",
-      "category": "science",
-      "difficulty": 1,
-      "question": "지구가 하루에 한 바퀴 스스로 도는 자전으로 생기는 현상은?",
-      "choices": [
-        "낮과 밤",
-        "달의 위상 변화",
-        "밀물과 썰물",
-        "계절의 변화"
-      ],
-      "answerIndex": 0,
-      "explanation": "지구가 자전축을 중심으로 하루에 한 바퀴 돌아서 태양을 향한 쪽은 낮, 반대쪽은 밤이 돼요. 계절은 공전과 자전축의 기울기 때문에 생겨요.",
-      "funFact": "지구는 자전 때문에 적도 부근에서 시속 약 1,670km로 움직이고 있어요."
-    },
-    {
       "id": "economy-e4bceeb8",
       "category": "economy",
       "difficulty": 1,
@@ -61,6 +32,36 @@
       "explanation": "범죄 신고는 112, 화재와 구급은 119예요. 위급할 때는 침착하게 현재 위치부터 말해요."
     },
     {
+      "id": "korean-35a3f89b",
+      "category": "korean",
+      "difficulty": 1,
+      "question": "서로 낫고 못함을 가리기 어렵다는 뜻의 사자성어는?",
+      "choices": [
+        "동상이몽",
+        "오리무중",
+        "막상막하",
+        "적반하장"
+      ],
+      "answerIndex": 2,
+      "explanation": "막상막하(莫上莫下)는 위도 아래도 없다는 뜻으로 실력이 비슷함을 말해요.",
+      "funFact": "비슷한 뜻으로 '난형난제'라는 사자성어도 있어요."
+    },
+    {
+      "id": "space-97d711c1",
+      "category": "space",
+      "difficulty": 1,
+      "question": "소스 코드를 누구나 보고 고칠 수 있게 공개한 소프트웨어는?",
+      "choices": [
+        "오픈 소스",
+        "셰어웨어",
+        "펌웨어",
+        "멀웨어"
+      ],
+      "answerIndex": 0,
+      "explanation": "오픈 소스 소프트웨어는 설계도인 소스 코드를 공개해 누구나 살펴보고 개선할 수 있어요. 리눅스와 파이어폭스가 대표적이에요.",
+      "funFact": "오픈 소스라고 해서 모두 공짜는 아니지만, 대부분은 무료로 쓸 수 있어요."
+    },
+    {
       "id": "culture-e263ebf4",
       "category": "culture",
       "difficulty": 2,
@@ -76,32 +77,33 @@
       "funFact": "김만중은 유배지에서 어머니를 위로하려고 이 소설을 썼다고 전해져요."
     },
     {
-      "id": "history-daecc0dd",
-      "category": "history",
+      "id": "science-33e2a3e8",
+      "category": "science",
       "difficulty": 2,
-      "question": "1894년 전봉준이 이끌고 탐관오리에 맞선 농민 운동은?",
+      "question": "노벨 물리학상과 화학상을 모두 받은 여성 과학자는?",
       "choices": [
-        "임오군란",
-        "동학 농민 운동",
-        "임술 농민 봉기",
-        "홍경래의 난"
+        "리제 마이트너",
+        "로절린드 프랭클린",
+        "이렌 졸리오퀴리",
+        "마리 퀴리"
       ],
-      "answerIndex": 1,
-      "explanation": "1894년 전봉준 등이 탐관오리의 수탈과 외세에 맞서 일으킨 농민 운동이 동학 농민 운동이에요. 이 일을 계기로 청과 일본이 군대를 보내게 됐어요."
+      "answerIndex": 3,
+      "explanation": "마리 퀴리는 1903년 물리학상, 1911년 화학상을 받았어요. 서로 다른 과학 분야에서 두 번 받은 유일한 사람이에요.",
+      "funFact": "마리 퀴리의 연구 노트는 지금도 방사능이 남아 있어 보호 장비를 갖추고 열람해요."
     },
     {
-      "id": "economy-dfaa9592",
-      "category": "economy",
+      "id": "geography-a9ccb0da",
+      "category": "geography",
       "difficulty": 2,
-      "question": "한 기업이 시장 전체를 혼자 차지하고 가격을 정하는 형태는?",
+      "question": "강릉 경포호처럼 바다 일부가 모래로 막혀 생긴 호수는?",
       "choices": [
-        "공유 경제",
-        "과점",
-        "독점",
-        "완전 경쟁"
+        "칼데라호",
+        "석호",
+        "우각호",
+        "인공호"
       ],
-      "answerIndex": 2,
-      "explanation": "공급자가 하나뿐이라 가격을 좌우할 힘이 큰 시장을 독점 시장이라고 해요. 소수의 기업이 시장을 나눠 가지면 과점이에요."
+      "answerIndex": 1,
+      "explanation": "석호는 만의 입구가 모래톱으로 막혀 생긴 호수예요. 동해안의 경포호, 화진포, 송지호가 대표적이에요."
     },
     {
       "id": "history-c0af034e",
@@ -118,21 +120,6 @@
       "explanation": "균역법은 1년에 군포 2필을 내던 것을 1필로 줄여 준 제도예요. 모자라진 재정은 결작과 선무군관포 등으로 채웠어요."
     },
     {
-      "id": "science-54e7d21f",
-      "category": "science",
-      "difficulty": 3,
-      "question": "자외선을 막아 주는 오존층이 있는 대기권은?",
-      "choices": [
-        "중간권",
-        "열권",
-        "성층권",
-        "대류권"
-      ],
-      "answerIndex": 2,
-      "explanation": "오존층은 지상 약 20~30km 부근의 성층권에 있어요. 태양에서 오는 해로운 자외선 대부분을 흡수해요.",
-      "funFact": "성층권은 오존이 자외선을 흡수해 열이 나기 때문에 위로 갈수록 기온이 올라가요."
-    },
-    {
       "id": "economy-3b5006f3",
       "category": "economy",
       "difficulty": 3,
@@ -145,6 +132,21 @@
       ],
       "answerIndex": 1,
       "explanation": "실질 금리는 명목 금리에서 물가 상승률을 뺀, 돈의 실제 구매력이 얼마나 늘어나는지 보여 주는 금리예요. 물가가 많이 오르면 명목 금리가 같아도 실질 금리는 낮아져요."
+    },
+    {
+      "id": "sports-cfb34bd4",
+      "category": "sports",
+      "difficulty": 3,
+      "question": "스노보드가 동계 올림픽 정식 종목으로 처음 열린 대회는?",
+      "choices": [
+        "1994 릴레함메르",
+        "2002 솔트레이크시티",
+        "1998 나가노",
+        "1992 알베르빌"
+      ],
+      "answerIndex": 2,
+      "explanation": "스노보드는 1998년 일본 나가노 동계 올림픽에서 처음 정식 종목이 됐어요.",
+      "funFact": "나가노 대회에서는 컬링도 정식 종목으로 다시 돌아왔어요."
     }
   ]
 }

@@ -1,0 +1,153 @@
+{
+  "version": 1,
+  "id": "daily-2027-02-27",
+  "date": "2027-02-27",
+  "questions": [
+    {
+      "id": "history-2f2b9e8b",
+      "category": "history",
+      "difficulty": 1,
+      "question": "8~11세기 배를 타고 유럽 해안을 약탈하던 북유럽 사람들은?",
+      "choices": [
+        "무어인",
+        "바이킹",
+        "훈족",
+        "켈트족"
+      ],
+      "answerIndex": 1,
+      "explanation": "바이킹은 스칸디나비아에서 온 사람들로 약탈뿐 아니라 교역과 정착도 했어요. 아이슬란드와 그린란드에도 건너갔어요.",
+      "funFact": "뿔 달린 투구는 후대에 꾸며 낸 모습이고 실제 유물로는 확인되지 않아요."
+    },
+    {
+      "id": "sports-ec113183",
+      "category": "sports",
+      "difficulty": 1,
+      "question": "발과 머리로 공을 넘기는 동남아시아 전통 구기 종목은?",
+      "choices": [
+        "크리켓",
+        "세팍타크로",
+        "족구",
+        "카바디"
+      ],
+      "answerIndex": 1,
+      "explanation": "세팍타크로는 말레이시아, 태국 등 동남아시아에서 즐기던 전통 놀이에서 나온 종목이에요. 손을 쓰지 않고 네트 너머로 공을 차요.",
+      "funFact": "이름은 말레이어 '세팍(차다)'과 태국어 '타크로(공)'를 합친 말이에요."
+    },
+    {
+      "id": "economy-c15e5526",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "회사가 번 소득에 매기는 세금은?",
+      "choices": [
+        "소득세",
+        "재산세",
+        "법인세",
+        "부가가치세"
+      ],
+      "answerIndex": 2,
+      "explanation": "법인세는 회사 같은 법인이 번 이익에 매기는 국세예요. 개인의 소득에는 소득세를 매겨요."
+    },
+    {
+      "id": "space-6fd32e07",
+      "category": "space",
+      "difficulty": 1,
+      "question": "영상을 다 내려받지 않고 받는 동시에 재생하는 방식은?",
+      "choices": [
+        "다운로드",
+        "업로드",
+        "백업",
+        "스트리밍"
+      ],
+      "answerIndex": 3,
+      "explanation": "스트리밍은 데이터를 물 흐르듯 조금씩 받으면서 바로 재생하는 방식이에요. 기다리지 않고 바로 볼 수 있어요.",
+      "funFact": "스트림(stream)은 영어로 '시냇물'이라는 뜻이에요."
+    },
+    {
+      "id": "life-6a83a903",
+      "category": "life",
+      "difficulty": 2,
+      "question": "버스전용차로가 아닌 일반 고속도로의 가장 왼쪽 차로는 원칙적으로 어떤 용도로 쓰일까요?",
+      "choices": [
+        "추월 차로",
+        "비상 정차 차로",
+        "화물차 전용 차로",
+        "저속 차로"
+      ],
+      "answerIndex": 0,
+      "explanation": "버스전용차로가 아닌 고속도로의 가장 왼쪽 차로는 원칙적으로 앞지르기용이에요. 교통 정체 등에서는 예외가 적용될 수 있어요.",
+      "funFact": "1차로에서 계속 달리면 '지정차로 위반'으로 단속될 수 있어요."
+    },
+    {
+      "id": "culture-239ae817",
+      "category": "culture",
+      "difficulty": 2,
+      "question": "바닥에 캔버스를 놓고 물감을 흩뿌리는 '액션 페인팅'으로 유명한 화가는?",
+      "choices": [
+        "에드워드 호퍼",
+        "마크 로스코",
+        "잭슨 폴록",
+        "앤디 워홀"
+      ],
+      "answerIndex": 2,
+      "explanation": "잭슨 폴록은 물감을 떨어뜨리고 흩뿌리는 드리핑 기법으로 유명한 미국 추상표현주의 화가예요."
+    },
+    {
+      "id": "korean-76b6cc6c",
+      "category": "korean",
+      "difficulty": 2,
+      "question": "사자성어 '토사구팽'의 뜻으로 알맞은 것은?",
+      "choices": [
+        "적을 이용해 적을 침",
+        "미리 대비해야 함",
+        "쓸모없어지면 버림받음",
+        "작은 것을 탐내다 잃음"
+      ],
+      "answerIndex": 2,
+      "explanation": "토끼를 잡고 나면 사냥개를 삶는다는 뜻으로, 필요할 때 쓰다가 쓸모없으면 버리는 것을 말해요."
+    },
+    {
+      "id": "geography-1a31846f",
+      "category": "geography",
+      "difficulty": 3,
+      "question": "피레네산맥 속, 프랑스와 스페인 사이에 있는 작은 나라는?",
+      "choices": [
+        "모나코",
+        "룩셈부르크",
+        "리히텐슈타인",
+        "안도라"
+      ],
+      "answerIndex": 3,
+      "explanation": "안도라는 피레네산맥 동부 산간에 자리한 작은 내륙국이에요.",
+      "funFact": "안도라는 카탈루냐어를 공용어로 쓰는 유일한 나라예요."
+    },
+    {
+      "id": "culture-476002f0",
+      "category": "culture",
+      "difficulty": 3,
+      "question": "윷놀이의 도·개·걸·윷·모 가운데 '걸'이 뜻하는 동물은?",
+      "choices": [
+        "소",
+        "양",
+        "돼지",
+        "말"
+      ],
+      "answerIndex": 1,
+      "explanation": "도는 돼지, 개는 개, 걸은 양, 윷은 소, 모는 말을 뜻한다고 알려져 있어요."
+    },
+    {
+      "id": "korean-19d9db2e",
+      "category": "korean",
+      "difficulty": 3,
+      "question": "관용구 '오금이 저리다'의 뜻은?",
+      "choices": [
+        "두려워 마음이 졸아듦",
+        "너무 기뻐 들뜸",
+        "몹시 부끄러움",
+        "오래 걸어 다리가 아픔"
+      ],
+      "answerIndex": 0,
+      "explanation": "잘못이 들통날까 봐 마음 졸이거나 두려움을 느끼는 것을 말해요.",
+      "funFact": "'오금'은 무릎 뒤쪽 오목한 곳이에요."
+    }
+  ]
+}

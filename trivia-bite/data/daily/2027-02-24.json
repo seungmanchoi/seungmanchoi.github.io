@@ -1,0 +1,150 @@
+{
+  "version": 1,
+  "id": "daily-2027-02-24",
+  "date": "2027-02-24",
+  "questions": [
+    {
+      "id": "culture-0dd791cd",
+      "category": "culture",
+      "difficulty": 1,
+      "question": "초복·중복 다음, 세 번의 복날 가운데 마지막 날은?",
+      "choices": [
+        "처서",
+        "대서",
+        "입추",
+        "말복"
+      ],
+      "answerIndex": 3,
+      "explanation": "삼복은 초복·중복·말복을 말해요. 말복은 입추 뒤 첫 경일(庚日)이라 무더위가 끝나 간다는 신호로 여겨요."
+    },
+    {
+      "id": "history-252f49ca",
+      "category": "history",
+      "difficulty": 1,
+      "question": "백년 전쟁 때 프랑스군을 이끌어 위기에서 구한 시골 소녀는?",
+      "choices": [
+        "마리 퀴리",
+        "카트린 드 메디치",
+        "조제핀",
+        "잔 다르크"
+      ],
+      "answerIndex": 3,
+      "explanation": "잔 다르크는 신의 계시를 들었다며 프랑스군을 이끌어 영국군을 물리치는 데 큰 힘을 보탰어요. 하지만 1431년 마녀로 몰려 화형을 당했어요.",
+      "funFact": "잔 다르크는 1920년 가톨릭 성인으로 선포됐어요."
+    },
+    {
+      "id": "science-bc625d23",
+      "category": "science",
+      "difficulty": 1,
+      "question": "더 이상 다른 물질로 분해되지 않는 물질의 기본 성분은?",
+      "choices": [
+        "분자",
+        "원소",
+        "혼합물",
+        "화합물"
+      ],
+      "answerIndex": 1,
+      "explanation": "원소는 화학적 방법으로 더 쪼갤 수 없는 기본 성분이에요. 수소, 산소, 철 등 100여 가지가 알려져 있어요."
+    },
+    {
+      "id": "economy-d51c6012",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "개발도상국 생산자에게 정당한 값을 치르는 무역은?",
+      "choices": [
+        "가공무역",
+        "보호무역",
+        "공정무역",
+        "중계무역"
+      ],
+      "answerIndex": 2,
+      "explanation": "공정무역은 생산자가 제값을 받도록 해 가난한 나라 농민과 노동자를 돕는 무역이에요.",
+      "funFact": "커피, 초콜릿, 바나나가 대표적인 공정무역 상품이에요."
+    },
+    {
+      "id": "life-76c90fa1",
+      "category": "life",
+      "difficulty": 2,
+      "question": "덜 익은 감과 녹차의 떫은맛을 내는 성분은?",
+      "choices": [
+        "타닌",
+        "카페인",
+        "구연산",
+        "캡사이신"
+      ],
+      "answerIndex": 0,
+      "explanation": "타닌은 혀의 단백질과 결합해 입안을 오그라들게 하는 떫은맛을 내요. 감이 익으면 타닌이 녹지 않는 형태로 바뀌어 덜 떫어요."
+    },
+    {
+      "id": "korean-25dcbf96",
+      "category": "korean",
+      "difficulty": 2,
+      "question": "속담 '떡 줄 사람은 생각도 않는데 ○○○부터 마신다'의 빈칸은?",
+      "choices": [
+        "숭늉",
+        "냉수",
+        "김칫국",
+        "식혜"
+      ],
+      "answerIndex": 2,
+      "explanation": "해 줄 사람은 생각도 않는데 다 된 줄 알고 미리 기대하는 것을 이르는 말이에요."
+    },
+    {
+      "id": "space-f7004932",
+      "category": "space",
+      "difficulty": 2,
+      "question": "달이 태양을 다 가리지 못해 둥근 금반지처럼 보이는 일식은?",
+      "choices": [
+        "개기월식",
+        "금환일식",
+        "부분일식",
+        "개기일식"
+      ],
+      "answerIndex": 1,
+      "explanation": "달이 지구에서 먼 곳에 있으면 태양보다 작아 보여 다 가리지 못해요. 그래서 태양 가장자리가 고리처럼 남는데 이를 금환일식이라고 해요.",
+      "funFact": "태양 지름은 달의 약 400배, 거리도 약 400배라 둘의 겉보기 크기가 거의 같아요."
+    },
+    {
+      "id": "geography-9ddf9f3e",
+      "category": "geography",
+      "difficulty": 3,
+      "question": "스페인어로 '부유한 해안'이라는 뜻의 중앙아메리카 나라는?",
+      "choices": [
+        "니카라과",
+        "엘살바도르",
+        "온두라스",
+        "코스타리카"
+      ],
+      "answerIndex": 3,
+      "explanation": "코스타리카는 스페인어로 '부유한 해안'이라는 뜻이에요. 군대를 없앤 나라이자 생태 관광지로 유명해요."
+    },
+    {
+      "id": "economy-b1a4d667",
+      "category": "economy",
+      "difficulty": 3,
+      "question": "같은 상품의 시장 간 가격 차이를 이용해 위험 없이 이익을 내는 거래는?",
+      "choices": [
+        "차익거래",
+        "투기거래",
+        "캐리 트레이드",
+        "내부자거래"
+      ],
+      "answerIndex": 0,
+      "explanation": "차익거래는 싼 곳에서 사서 비싼 곳에서 동시에 팔아 이익을 내요. 이런 거래가 많을수록 시장 간 가격 차이가 사라져요."
+    },
+    {
+      "id": "korean-c93b6238",
+      "category": "korean",
+      "difficulty": 3,
+      "question": "속담 '물에 빠진 놈 건져 놓으니 ○○○ 내놓으라 한다'의 빈칸은?",
+      "choices": [
+        "보따리",
+        "돈주머니",
+        "옷",
+        "신발"
+      ],
+      "answerIndex": 0,
+      "explanation": "은혜를 입고도 고마움을 모르고 오히려 생트집을 잡는 것을 이르는 말이에요."
+    }
+  ]
+}

@@ -4,20 +4,6 @@
   "date": "2026-12-21",
   "questions": [
     {
-      "id": "history-b6dcdbda",
-      "category": "history",
-      "difficulty": 1,
-      "question": "한국 전쟁(6·25 전쟁)이 일어난 해는?",
-      "choices": [
-        "1945년",
-        "1948년",
-        "1953년",
-        "1950년"
-      ],
-      "answerIndex": 3,
-      "explanation": "한국 전쟁은 1950년 6월 25일에 시작됐어요. 1953년 정전 협정으로 전투가 멈췄어요."
-    },
-    {
       "id": "korean-ceb53161",
       "category": "korean",
       "difficulty": 1,
@@ -30,20 +16,6 @@
       ],
       "answerIndex": 1,
       "explanation": "'티끌 모아 태산'은 아주 작은 것도 모이면 큰 것이 된다는 뜻이에요. 꾸준히 아끼고 쌓는 일의 중요성을 말해요."
-    },
-    {
-      "id": "economy-8fb32bd6",
-      "category": "economy",
-      "difficulty": 1,
-      "question": "우리나라 돈과 외국 돈을 바꿀 때 적용하는 교환 비율은?",
-      "choices": [
-        "환율",
-        "물가",
-        "세율",
-        "금리"
-      ],
-      "answerIndex": 0,
-      "explanation": "환율은 한 나라의 돈과 다른 나라의 돈을 바꾸는 비율이에요. 해외여행이나 수출입 때 꼭 필요한 개념이에요."
     },
     {
       "id": "life-2871bb42",
@@ -60,18 +32,33 @@
       "explanation": "불소는 치아 표면을 단단하게 해서 충치를 막아 줘요. 그래서 많은 치약에 들어 있어요."
     },
     {
-      "id": "science-fc16542c",
+      "id": "science-bcb475b0",
       "category": "science",
-      "difficulty": 2,
-      "question": "지진이 났을 때 관측소에 가장 먼저 도달하는 지진파는?",
+      "difficulty": 1,
+      "question": "선풍기 속 전동기(모터)는 어떤 에너지를 운동 에너지로 바꿀까요?",
       "choices": [
-        "S파",
-        "표면파",
-        "해일파",
-        "P파"
+        "열에너지",
+        "전기 에너지",
+        "화학 에너지",
+        "핵에너지"
       ],
-      "answerIndex": 3,
-      "explanation": "P파는 지진파 중 가장 빨라서 제일 먼저 도착해요. 그다음에 S파가, 마지막에 표면파가 도착해요."
+      "answerIndex": 1,
+      "explanation": "전동기는 전류가 흐르는 코일이 자석 사이에서 힘을 받아 돌아가요. 전기 에너지를 운동 에너지로 바꾸는 장치예요."
+    },
+    {
+      "id": "space-5647ccc8",
+      "category": "space",
+      "difficulty": 1,
+      "question": "1990년 우주로 올라가 수많은 우주 사진을 보내온 미국의 대표 우주 망원경은?",
+      "choices": [
+        "스피처 우주 망원경",
+        "제임스 웹 우주 망원경",
+        "허블 우주 망원경",
+        "케플러 우주 망원경"
+      ],
+      "answerIndex": 2,
+      "explanation": "허블 우주 망원경은 1990년 우주왕복선에 실려 지구 궤도에 올라갔어요. 우주의 나이와 팽창을 연구하는 데 큰 역할을 했어요.",
+      "funFact": "발사 직후 거울에 결함이 발견되어 1993년 우주인들이 우주에서 직접 수리했어요."
     },
     {
       "id": "history-46aad0b8",
@@ -103,6 +90,20 @@
       "explanation": "무역수지는 수출액에서 수입액을 뺀 값이에요. 수출이 더 많으면 흑자, 수입이 더 많으면 적자라고 해요."
     },
     {
+      "id": "geography-a3ae7698",
+      "category": "geography",
+      "difficulty": 2,
+      "question": "다음 중 스위스의 공용어가 아닌 것은?",
+      "choices": [
+        "독일어",
+        "프랑스어",
+        "로만슈어",
+        "영어"
+      ],
+      "answerIndex": 3,
+      "explanation": "스위스의 공용어는 독일어, 프랑스어, 이탈리아어, 로만슈어 네 가지예요. 지역마다 쓰는 말이 달라요."
+    },
+    {
       "id": "culture-c669e285",
       "category": "culture",
       "difficulty": 3,
@@ -118,20 +119,6 @@
       "funFact": "지금도 올림픽 성화는 올림피아에서 채화해요."
     },
     {
-      "id": "culture-41fa37ff",
-      "category": "culture",
-      "difficulty": 3,
-      "question": "발레 음악 '백조의 호수'를 작곡한 러시아 작곡가는?",
-      "choices": [
-        "쇼스타코비치",
-        "림스키코르사코프",
-        "차이콥스키",
-        "라흐마니노프"
-      ],
-      "answerIndex": 2,
-      "explanation": "'백조의 호수'는 차이콥스키의 작품이에요. 그는 '잠자는 숲속의 미녀', '호두까기 인형'도 작곡했어요."
-    },
-    {
       "id": "history-4a45b206",
       "category": "history",
       "difficulty": 3,
@@ -144,6 +131,21 @@
       ],
       "answerIndex": 2,
       "explanation": "신라는 675년 매소성에서 당의 대군을 크게 물리쳤어요. 이듬해 기벌포 해전에서도 이겨 당군을 몰아냈어요."
+    },
+    {
+      "id": "sports-9b4f4af0",
+      "category": "sports",
+      "difficulty": 3,
+      "question": "1988년 4대 메이저와 올림픽을 모두 우승한 테니스 선수는?",
+      "choices": [
+        "슈테피 그라프",
+        "모니카 셀레스",
+        "크리스 에버트",
+        "마르티나 나브라틸로바"
+      ],
+      "answerIndex": 0,
+      "explanation": "슈테피 그라프는 1988년 4대 메이저를 모두 우승하고 서울 올림픽 금메달까지 땄어요. 이를 '골든 슬램'이라 불러요.",
+      "funFact": "그라프의 올림픽 금메달은 서울 올림픽에서 테니스가 64년 만에 정식 종목으로 돌아온 대회에서 나왔어요."
     }
   ]
 }

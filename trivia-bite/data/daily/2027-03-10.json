@@ -1,0 +1,151 @@
+{
+  "version": 1,
+  "id": "daily-2027-03-10",
+  "date": "2027-03-10",
+  "questions": [
+    {
+      "id": "korean-567e5c62",
+      "category": "korean",
+      "difficulty": 1,
+      "question": "사람이 '있다'를 높여 이르는 말로 알맞은 것은?",
+      "choices": [
+        "계시다",
+        "드시다",
+        "주무시다",
+        "잡수시다"
+      ],
+      "answerIndex": 0,
+      "explanation": "높여야 할 사람이 어떤 곳에 머무를 때는 '계시다'를 써요.",
+      "funFact": "'말씀이 있으시겠습니다'처럼 사물이 주어일 때는 '있으시다'를 써요."
+    },
+    {
+      "id": "science-be042958",
+      "category": "science",
+      "difficulty": 1,
+      "question": "녹말에 아이오딘 용액을 떨어뜨리면 나타나는 색은?",
+      "choices": [
+        "노란색",
+        "청람색",
+        "초록색",
+        "붉은색"
+      ],
+      "answerIndex": 1,
+      "explanation": "아이오딘 용액은 녹말과 만나면 청람색(푸른 보라색)으로 변해요. 잎에서 녹말이 만들어졌는지 확인할 때 써요."
+    },
+    {
+      "id": "economy-02bd1be0",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "영업점 없이 온라인으로만 영업하는 은행은?",
+      "choices": [
+        "저축은행",
+        "지방은행",
+        "인터넷전문은행",
+        "특수은행"
+      ],
+      "answerIndex": 2,
+      "explanation": "인터넷전문은행은 지점을 두지 않고 앱과 인터넷으로 모든 업무를 처리해요.",
+      "funFact": "점포 운영비가 들지 않아 수수료를 낮추거나 금리 혜택을 주기도 해요."
+    },
+    {
+      "id": "life-4004e911",
+      "category": "life",
+      "difficulty": 1,
+      "question": "개에게 물려 생긴 상처에 먼저 할 일은?",
+      "choices": [
+        "입으로 빨기",
+        "비누와 물로 씻기",
+        "된장 바르기",
+        "그냥 두기"
+      ],
+      "answerIndex": 1,
+      "explanation": "동물에게 물린 상처는 흐르는 물과 비누로 충분히 씻어 세균을 줄인 뒤 병원 진료를 받아야 해요. 입으로 빨면 오히려 감염 위험이 커져요."
+    },
+    {
+      "id": "history-74137212",
+      "category": "history",
+      "difficulty": 2,
+      "question": "예성강 하구에 있던 고려의 국제 무역항은?",
+      "choices": [
+        "벽란도",
+        "청해진",
+        "당항성",
+        "제물포"
+      ],
+      "answerIndex": 0,
+      "explanation": "벽란도에는 송과 일본, 아라비아 상인까지 드나들었어요. 이 무렵 고려가 서방에 알려지며 '코리아'라는 이름이 퍼졌다고 해요."
+    },
+    {
+      "id": "sports-cb72f64d",
+      "category": "sports",
+      "difficulty": 2,
+      "question": "일반적인 남자 프로 복싱 경기의 한 라운드는 몇 분일까요?",
+      "choices": [
+        "3분",
+        "2분",
+        "5분",
+        "4분"
+      ],
+      "answerIndex": 0,
+      "explanation": "남자 프로 복싱은 한 라운드 3분, 라운드 사이 1분을 쉬어요.",
+      "funFact": "이 방식은 19세기 영국에서 정한 '퀸즈베리 규칙'에서 시작됐어요."
+    },
+    {
+      "id": "culture-c36cdf68",
+      "category": "culture",
+      "difficulty": 2,
+      "question": "'솔베이지의 노래'가 들어 있는 '페르 귄트' 모음곡의 작곡가는?",
+      "choices": [
+        "닐센",
+        "시벨리우스",
+        "그리그",
+        "드보르자크"
+      ],
+      "answerIndex": 2,
+      "explanation": "에드바르 그리그는 노르웨이의 작곡가예요. 입센의 희곡 『페르 귄트』를 위한 극음악을 작곡했어요."
+    },
+    {
+      "id": "geography-cf284763",
+      "category": "geography",
+      "difficulty": 3,
+      "question": "독립 영웅 시몬 볼리바르의 이름을 딴 나라는?",
+      "choices": [
+        "페루",
+        "볼리비아",
+        "파라과이",
+        "콜롬비아"
+      ],
+      "answerIndex": 1,
+      "explanation": "볼리비아는 남미 독립운동을 이끈 시몬 볼리바르의 이름을 따서 지었어요. 바다에 접하지 않은 내륙국이에요."
+    },
+    {
+      "id": "economy-9810b331",
+      "category": "economy",
+      "difficulty": 3,
+      "question": "화폐 발행 비용과 액면가의 차이로 생기는 이익은?",
+      "choices": [
+        "프리미엄",
+        "영업권",
+        "예대마진",
+        "시뇨리지"
+      ],
+      "answerIndex": 3,
+      "explanation": "시뇨리지는 화폐를 만드는 데 드는 비용보다 액면 가치가 커서 발행자가 얻는 차익이에요.",
+      "funFact": "중세 유럽 영주(seigneur)가 화폐 주조로 이익을 얻은 데서 이름이 나왔어요."
+    },
+    {
+      "id": "economy-31a595ba",
+      "category": "economy",
+      "difficulty": 3,
+      "question": "고려 성종 때 만든, 우리나라 최초의 철전으로 꼽히는 화폐는?",
+      "choices": [
+        "상평통보",
+        "해동통보",
+        "조선통보",
+        "건원중보"
+      ],
+      "answerIndex": 3,
+      "explanation": "건원중보는 996년 고려 성종 때 만든 쇠돈이에요. 하지만 물물교환이 익숙해 널리 쓰이지는 못했어요."
+    }
+  ]
+}

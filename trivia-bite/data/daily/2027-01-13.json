@@ -1,0 +1,153 @@
+{
+  "version": 1,
+  "id": "daily-2027-01-13",
+  "date": "2027-01-13",
+  "questions": [
+    {
+      "id": "sports-459fa1d0",
+      "category": "sports",
+      "difficulty": 1,
+      "question": "농구에서 경기 종료를 알리는 소리와 함께 들어간 슛은?",
+      "choices": [
+        "클러치샷",
+        "버저비터",
+        "팁인",
+        "앨리웁"
+      ],
+      "answerIndex": 1,
+      "explanation": "공이 손을 떠난 뒤 종료 버저가 울리고, 그 공이 들어가면 버저비터로 득점이 인정돼요.",
+      "funFact": "공이 손을 떠나기 전에 시간이 끝났다면 들어가도 득점이 아니에요."
+    },
+    {
+      "id": "life-d05b68ce",
+      "category": "life",
+      "difficulty": 1,
+      "question": "잡채에 쓰는 당면의 주원료는?",
+      "choices": [
+        "메밀가루",
+        "밀가루",
+        "고구마 전분",
+        "쌀가루"
+      ],
+      "answerIndex": 2,
+      "explanation": "우리나라 당면은 주로 고구마 녹말로 만들어 쫄깃하고 투명해요. 삶으면 투명하게 변하는 게 특징이에요."
+    },
+    {
+      "id": "space-be90029e",
+      "category": "space",
+      "difficulty": 1,
+      "question": "원래 그래픽 처리용이지만 AI 학습에도 널리 쓰이는 처리 장치는?",
+      "choices": [
+        "GPU",
+        "CPU",
+        "RAM",
+        "SSD"
+      ],
+      "answerIndex": 0,
+      "explanation": "GPU는 많은 계산을 동시에 처리하는 데 강해요. 그래서 화면 그래픽뿐 아니라 인공지능 학습에도 많이 쓰여요.",
+      "funFact": "CPU가 소수의 뛰어난 일꾼이라면 GPU는 수천 명의 일꾼이 동시에 일하는 구조에 비유돼요."
+    },
+    {
+      "id": "culture-fc45d4ab",
+      "category": "culture",
+      "difficulty": 1,
+      "question": "설날을 맞아 새로 장만해 입는 옷을 부르는 말은?",
+      "choices": [
+        "배냇저고리",
+        "설빔",
+        "도포",
+        "수의"
+      ],
+      "answerIndex": 1,
+      "explanation": "설빔은 설을 맞아 새로 마련해 입는 옷이나 신발을 말해요.",
+      "funFact": "추석에 새로 입는 옷은 '추석빔'이라고 불러요."
+    },
+    {
+      "id": "history-80b15ea8",
+      "category": "history",
+      "difficulty": 2,
+      "question": "16세기 아스테카 제국을 정복한 에스파냐 사람은?",
+      "choices": [
+        "마젤란",
+        "발보아",
+        "피사로",
+        "코르테스"
+      ],
+      "answerIndex": 3,
+      "explanation": "코르테스는 1521년 아스테카의 수도 테노치티틀란을 함락했어요. 천연두 등 전염병이 원주민 사회에 큰 타격을 주었어요."
+    },
+    {
+      "id": "korean-5ef04bd8",
+      "category": "korean",
+      "difficulty": 2,
+      "question": "속담 '될성부른 나무는 ○○부터 알아본다'의 빈칸은?",
+      "choices": [
+        "열매",
+        "뿌리",
+        "가지",
+        "떡잎"
+      ],
+      "answerIndex": 3,
+      "explanation": "크게 될 사람은 어릴 때부터 남다른 데가 있다는 뜻이에요."
+    },
+    {
+      "id": "economy-44e4757e",
+      "category": "economy",
+      "difficulty": 2,
+      "question": "해마다 집이나 땅을 가진 사람에게 매기는 지방세는?",
+      "choices": [
+        "취득세",
+        "증여세",
+        "재산세",
+        "양도소득세"
+      ],
+      "answerIndex": 2,
+      "explanation": "재산세는 매년 6월 1일 기준으로 부동산을 가진 사람에게 매기는 지방세예요.",
+      "funFact": "재산세는 보통 7월과 9월 두 번에 나눠 내요."
+    },
+    {
+      "id": "geography-df9e5232",
+      "category": "geography",
+      "difficulty": 3,
+      "question": "문경새재를 한자어로 부르는 이름은?",
+      "choices": [
+        "추풍령",
+        "조령",
+        "죽령",
+        "대관령"
+      ],
+      "answerIndex": 1,
+      "explanation": "문경새재는 '새도 날아 넘기 힘든 고개'라는 뜻으로, 한자로 조령(鳥嶺)이라 써요.",
+      "funFact": "조선 시대 영남 선비들이 한양으로 과거를 보러 갈 때 즐겨 넘던 고개예요."
+    },
+    {
+      "id": "science-6e4624a6",
+      "category": "science",
+      "difficulty": 3,
+      "question": "DNA 이중 나선에서 마주 보는 두 가닥의 염기를 이어 주는 결합은?",
+      "choices": [
+        "수소 결합",
+        "이온 결합",
+        "펩타이드 결합",
+        "금속 결합"
+      ],
+      "answerIndex": 0,
+      "explanation": "마주 보는 염기는 수소 결합으로 약하게 이어져 있어요. 그래서 복제나 전사 때 두 가닥이 쉽게 풀려요."
+    },
+    {
+      "id": "nature-ab2b8348",
+      "category": "nature",
+      "difficulty": 3,
+      "question": "바다에 들어가 해조류를 뜯어 먹는 갈라파고스의 도마뱀은?",
+      "choices": [
+        "바실리스크",
+        "목도리도마뱀",
+        "바다이구아나",
+        "코모도왕도마뱀"
+      ],
+      "answerIndex": 2,
+      "explanation": "바다이구아나는 바다에서 먹이를 구하는 유일한 도마뱀으로, 갈라파고스 제도에만 살아요.",
+      "funFact": "바다이구아나는 콧구멍 근처 샘으로 몸속 소금을 재채기하듯 뿜어내요."
+    }
+  ]
+}

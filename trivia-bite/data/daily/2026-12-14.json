@@ -4,21 +4,6 @@
   "date": "2026-12-14",
   "questions": [
     {
-      "id": "history-7501f018",
-      "category": "history",
-      "difficulty": 1,
-      "question": "918년 고려를 세우고 초대 왕이 된 인물은?",
-      "choices": [
-        "왕건",
-        "궁예",
-        "최충헌",
-        "견훤"
-      ],
-      "answerIndex": 0,
-      "explanation": "왕건은 후고구려 궁예의 부하였다가 918년 왕위에 올라 고려를 세웠어요. 도읍은 송악(개성)이었어요.",
-      "funFact": "'고려'라는 이름은 고구려를 이어받겠다는 뜻을 담아 지었다고 해요."
-    },
-    {
       "id": "science-57ee3b91",
       "category": "science",
       "difficulty": 1,
@@ -62,6 +47,21 @@
       "explanation": "엘리베이터에는 추락을 막는 안전장치가 있어서 갇혀도 위험이 크지 않아요. 비상 호출 버튼으로 상황을 알리고 침착하게 구조를 기다리는 게 가장 안전해요."
     },
     {
+      "id": "geography-dce10bf7",
+      "category": "geography",
+      "difficulty": 1,
+      "question": "다음 중 지중해에 접하지 않은 나라는?",
+      "choices": [
+        "포르투갈",
+        "그리스",
+        "이탈리아",
+        "스페인"
+      ],
+      "answerIndex": 0,
+      "explanation": "포르투갈은 이베리아반도 서쪽에 있어 대서양에만 접해 있어요.",
+      "funFact": "이웃 스페인은 지중해와 대서양 양쪽에 모두 접해 있어요."
+    },
+    {
       "id": "korean-c9eb8cfd",
       "category": "korean",
       "difficulty": 2,
@@ -92,18 +92,19 @@
       "funFact": "초연 때 베토벤은 이미 청력을 거의 잃은 상태였어요."
     },
     {
-      "id": "history-bdc4f1c1",
-      "category": "history",
+      "id": "sports-833298a2",
+      "category": "sports",
       "difficulty": 2,
-      "question": "1388년 요동 정벌에 나선 이성계가 압록강의 한 섬에서 군대를 돌려 권력을 잡은 사건은?",
+      "question": "브라질에서 노예들이 춤처럼 꾸며 수련한 무술은?",
       "choices": [
-        "이자겸의 난",
-        "무신정변",
-        "홍건적의 침입",
-        "위화도 회군"
+        "크라브마가",
+        "카포에이라",
+        "실랏",
+        "삼보"
       ],
-      "answerIndex": 3,
-      "explanation": "우왕과 최영이 요동 정벌을 밀어붙였지만, 이성계는 위화도에서 군대를 돌려 개경으로 돌아왔어요. 이후 실권을 장악하고 1392년 조선을 세웠어요."
+      "answerIndex": 1,
+      "explanation": "카포에이라는 아프리카에서 끌려온 노예들이 무술 수련을 춤으로 위장하며 발전시켰다고 전해져요.",
+      "funFact": "카포에이라는 '베림바우'라는 활 모양 악기 연주에 맞춰 겨뤄요."
     },
     {
       "id": "history-43c4730a",

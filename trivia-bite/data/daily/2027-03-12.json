@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "id": "daily-2027-03-12",
+  "date": "2027-03-12",
+  "questions": [
+    {
+      "id": "economy-cad5ddca",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "생산자나 도매상에게 사서 소비자에게 직접 파는 일은?",
+      "choices": [
+        "유통",
+        "소매",
+        "중개",
+        "도매"
+      ],
+      "answerIndex": 1,
+      "explanation": "소매는 최종 소비자에게 낱개로 파는 일이에요. 편의점과 동네 가게가 대표적인 소매점이에요."
+    },
+    {
+      "id": "history-354aa4ad",
+      "category": "history",
+      "difficulty": 1,
+      "question": "1920년 봉오동 전투를 승리로 이끈 독립군 지휘관은?",
+      "choices": [
+        "지청천",
+        "홍범도",
+        "양세봉",
+        "김좌진"
+      ],
+      "answerIndex": 1,
+      "explanation": "홍범도가 이끈 대한 독립군 등 연합 부대는 봉오동에서 일본군을 크게 물리쳤어요. 같은 해 청산리 대첩에도 참여했어요."
+    },
+    {
+      "id": "nature-ae811746",
+      "category": "nature",
+      "difficulty": 1,
+      "question": "땅속 열로 데워진 지하수가 땅 위로 솟아나는 곳은?",
+      "choices": [
+        "온천",
+        "호수",
+        "오아시스",
+        "폭포"
+      ],
+      "answerIndex": 0,
+      "explanation": "땅속 깊은 곳의 열이나 마그마로 데워진 지하수가 솟아나는 곳을 온천이라고 해요.",
+      "funFact": "온천 주변 바위가 노랗게 물든 것은 물에 녹아 있던 황 성분이 쌓였기 때문인 경우가 많아요."
+    },
+    {
+      "id": "culture-19af7e90",
+      "category": "culture",
+      "difficulty": 1,
+      "question": "이솝 우화에서 여름 내내 노래만 부르다 겨울에 굶주린 곤충은?",
+      "choices": [
+        "개미",
+        "잠자리",
+        "나비",
+        "베짱이"
+      ],
+      "answerIndex": 3,
+      "explanation": "개미가 부지런히 먹이를 모으는 동안 베짱이는 놀기만 하다가 겨울에 먹을 것이 없어 곤란해져요.",
+      "funFact": "원래 이솝 우화에서는 베짱이 대신 매미로 나오는 판본이 많아요."
+    },
+    {
+      "id": "life-180b678e",
+      "category": "life",
+      "difficulty": 2,
+      "question": "긴 내리막길에서 브레이크 과열을 막는 운전법은?",
+      "choices": [
+        "시동 끄고 내려가기",
+        "중립 기어로 내려가기",
+        "엔진 브레이크 쓰기",
+        "브레이크 계속 밟기"
+      ],
+      "answerIndex": 2,
+      "explanation": "낮은 단 기어로 내려가면 엔진 저항으로 속도가 줄어 브레이크를 덜 밟아도 돼요. 브레이크만 계속 쓰면 과열로 제동력이 떨어져요.",
+      "funFact": "내리막에서 중립 기어로 달리면 오히려 제동이 더 위험해져요."
+    },
+    {
+      "id": "geography-1de25391",
+      "category": "geography",
+      "difficulty": 2,
+      "question": "중위도에서 서쪽에서 동쪽으로 늘 부는 바람은?",
+      "choices": [
+        "계절풍",
+        "무역풍",
+        "극동풍",
+        "편서풍"
+      ],
+      "answerIndex": 3,
+      "explanation": "편서풍은 중위도에서 서쪽에서 동쪽으로 부는 바람이에요. 중국의 황사가 우리나라로 오는 것도 이 바람 때문이에요."
+    },
+    {
+      "id": "sports-035b2372",
+      "category": "sports",
+      "difficulty": 2,
+      "question": "1983년 제1회 천하장사 씨름대회 우승자는?",
+      "choices": [
+        "이만기",
+        "이준희",
+        "이봉걸",
+        "강호동"
+      ],
+      "answerIndex": 0,
+      "explanation": "이만기 선수는 1983년 첫 천하장사 대회에서 우승하며 민속씨름 전성기를 열었어요.",
+      "funFact": "이만기 선수는 대학생 신분으로 첫 천하장사에 올랐어요."
+    },
+    {
+      "id": "korean-8187f5fc",
+      "category": "korean",
+      "difficulty": 3,
+      "question": "속담 '누이 좋고 매부 좋다'의 뜻은?",
+      "choices": [
+        "양쪽 모두에게 이로움",
+        "결혼을 축하함",
+        "한쪽만 손해를 봄",
+        "가족끼리 화목함"
+      ],
+      "answerIndex": 0,
+      "explanation": "어떤 일이 서로 모두에게 이롭고 좋다는 뜻이에요."
+    },
+    {
+      "id": "history-8004fb3e",
+      "category": "history",
+      "difficulty": 3,
+      "question": "788년 유교 경전 이해 수준으로 관리를 뽑으려 한 신라 제도는?",
+      "choices": [
+        "화백 회의",
+        "과거제",
+        "독서삼품과",
+        "음서제"
+      ],
+      "answerIndex": 2,
+      "explanation": "원성왕 때 실시한 독서삼품과는 국학 학생을 유교 경전 실력에 따라 등급을 나눠 관리 선발에 참고한 제도예요. 진골 귀족의 반발로 큰 효과를 거두지 못했어요."
+    },
+    {
+      "id": "korean-ff9e4927",
+      "category": "korean",
+      "difficulty": 3,
+      "question": "'님은 갔지마는 나는 님을 보내지 아니하였습니다'의 표현법은?",
+      "choices": [
+        "과장법",
+        "반어법",
+        "직유법",
+        "역설법"
+      ],
+      "answerIndex": 3,
+      "explanation": "겉으로는 모순되지만 그 속에 진실을 담는 표현을 역설법이라 해요.",
+      "funFact": "이 구절은 한용운의 시 「님의 침묵」에 나와요."
+    }
+  ]
+}

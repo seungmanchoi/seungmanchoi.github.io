@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "id": "daily-2027-03-11",
+  "date": "2027-03-11",
+  "questions": [
+    {
+      "id": "economy-4168adb3",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "신용카드를 쓰는 대가로 해마다 카드사에 내는 돈은?",
+      "choices": [
+        "연회비",
+        "가맹점 수수료",
+        "할부 수수료",
+        "연체료"
+      ],
+      "answerIndex": 0,
+      "explanation": "연회비는 카드를 1년 동안 쓰는 대가로 내는 회비예요. 혜택이 많은 카드일수록 비싼 편이에요.",
+      "funFact": "연회비가 없는 카드도 있어서 혜택과 비교해 고르는 게 좋아요."
+    },
+    {
+      "id": "korean-78e0ff4c",
+      "category": "korean",
+      "difficulty": 1,
+      "question": "물건을 사는 상황에서 관용구 '바가지를 쓰다'의 뜻은?",
+      "choices": [
+        "값을 터무니없이 더 냄",
+        "값을 깎아 구매함",
+        "물건을 무료로 받음",
+        "물건을 외상으로 삼"
+      ],
+      "answerIndex": 0,
+      "explanation": "요금이나 물건값을 실제보다 비싸게 내서 손해를 보는 것을 말해요."
+    },
+    {
+      "id": "sports-59994fc1",
+      "category": "sports",
+      "difficulty": 1,
+      "question": "앉았다 일어서는 동작으로 주로 하체를 단련하는 운동은?",
+      "choices": [
+        "벤치프레스",
+        "풀업",
+        "크런치",
+        "스쿼트"
+      ],
+      "answerIndex": 3,
+      "explanation": "스쿼트는 엉덩이와 허벅지 근육을 중심으로 하체 전체를 단련하는 대표 운동이에요.",
+      "funFact": "스쿼트는 데드리프트, 벤치프레스와 함께 '웨이트 3대 운동'으로 불려요."
+    },
+    {
+      "id": "geography-757d17ec",
+      "category": "geography",
+      "difficulty": 1,
+      "question": "석회암 섬 천여 개가 바다에 솟은 하롱베이가 있는 나라는?",
+      "choices": [
+        "베트남",
+        "필리핀",
+        "태국",
+        "말레이시아"
+      ],
+      "answerIndex": 0,
+      "explanation": "하롱베이는 베트남 북부 꽝닌성의 바다로, 유네스코 세계자연유산이에요.",
+      "funFact": "하롱은 '용이 내려온 곳'이라는 뜻이에요."
+    },
+    {
+      "id": "life-0f6843c0",
+      "category": "life",
+      "difficulty": 2,
+      "question": "젤리를 굳히는 젤라틴은 무엇에서 얻을까요?",
+      "choices": [
+        "옥수수",
+        "동물의 콜라겐",
+        "해조류",
+        "과일 껍질"
+      ],
+      "answerIndex": 1,
+      "explanation": "젤라틴은 동물의 뼈와 껍질 속 콜라겐을 끓여 얻어요. 해조류로 만드는 한천과는 원료가 달라요."
+    },
+    {
+      "id": "history-55fe4079",
+      "category": "history",
+      "difficulty": 2,
+      "question": "농민 출신으로 1368년 명나라를 세운 황제는?",
+      "choices": [
+        "이세민",
+        "조광윤",
+        "주원장",
+        "누르하치"
+      ],
+      "answerIndex": 2,
+      "explanation": "주원장은 홍건적에 가담해 세력을 키운 뒤 원나라를 몰아내고 명을 세웠어요. 그를 홍무제라고도 해요.",
+      "funFact": "그는 어린 시절 가난 때문에 절에 들어가 승려 생활을 하기도 했어요."
+    },
+    {
+      "id": "culture-9d490d80",
+      "category": "culture",
+      "difficulty": 2,
+      "question": "새해를 맞아 서로 물을 뿌리며 축복하는 태국의 축제는?",
+      "choices": [
+        "뗏",
+        "러이끄라통",
+        "춘절",
+        "송끄란"
+      ],
+      "answerIndex": 3,
+      "explanation": "송끄란은 태국 전통 새해인 4월 중순에 물을 뿌리며 복을 비는 축제예요.",
+      "funFact": "러이끄라통은 강물에 등불 배를 띄우는 태국의 다른 축제예요."
+    },
+    {
+      "id": "korean-950544a4",
+      "category": "korean",
+      "difficulty": 3,
+      "question": "훈민정음 초성의 기본 글자가 아닌 것은?",
+      "choices": [
+        "ㅅ",
+        "ㄷ",
+        "ㅁ",
+        "ㄱ"
+      ],
+      "answerIndex": 1,
+      "explanation": "초성 기본자는 발음 기관을 본뜬 ㄱ·ㄴ·ㅁ·ㅅ·ㅇ 다섯 자예요. 'ㄷ'은 'ㄴ'에 획을 더한 글자예요."
+    },
+    {
+      "id": "life-ea9fd460",
+      "category": "life",
+      "difficulty": 3,
+      "question": "바닐라 향신료는 어떤 식물의 열매일까요?",
+      "choices": [
+        "장미",
+        "콩",
+        "난초",
+        "야자"
+      ],
+      "answerIndex": 2,
+      "explanation": "바닐라는 난초과 덩굴식물의 꼬투리 열매를 발효·건조한 향신료예요. 꽃을 손으로 수분시키는 경우가 많아 비싸요."
+    },
+    {
+      "id": "life-c7ecb872",
+      "category": "life",
+      "difficulty": 3,
+      "question": "대한비만학회 기준 한국 성인이 비만으로 분류되는 BMI는?",
+      "choices": [
+        "35 이상",
+        "25 이상",
+        "20 이상",
+        "30 이상"
+      ],
+      "answerIndex": 1,
+      "explanation": "아시아인은 같은 BMI에서도 질병 위험이 높아 서양 기준 30보다 낮은 25부터 비만으로 봐요. 23~24.9는 비만 전 단계예요."
+    }
+  ]
+}

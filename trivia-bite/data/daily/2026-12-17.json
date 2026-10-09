@@ -34,21 +34,6 @@
       "funFact": "성숙한 사람의 적혈구에는 핵이 없어요."
     },
     {
-      "id": "geography-98b40956",
-      "category": "geography",
-      "difficulty": 1,
-      "question": "세계에서 가장 넓은 바다는?",
-      "choices": [
-        "대서양",
-        "인도양",
-        "태평양",
-        "북극해"
-      ],
-      "answerIndex": 2,
-      "explanation": "태평양은 지구 표면적의 약 3분의 1을 차지하는 가장 넓은 바다예요. 대서양과 인도양이 그다음으로 커요.",
-      "funFact": "태평양은 지구의 모든 육지를 합친 것보다 넓어요."
-    },
-    {
       "id": "economy-201c4e6f",
       "category": "economy",
       "difficulty": 1,
@@ -61,6 +46,20 @@
       ],
       "answerIndex": 1,
       "explanation": "정부는 세금을 걷어 도로, 교육, 국방 같은 공공 서비스를 제공해요. 가계는 소비, 기업은 생산을 주로 맡아요."
+    },
+    {
+      "id": "korean-ba3e6ded",
+      "category": "korean",
+      "difficulty": 1,
+      "question": "속담 '천 리 길도 ○○○○'의 빈칸에 들어갈 말은?",
+      "choices": [
+        "한 걸음부터",
+        "동무와 함께",
+        "쉬지 말고",
+        "천천히 가라"
+      ],
+      "answerIndex": 0,
+      "explanation": "아무리 큰일도 작은 일부터 시작된다는 뜻이에요."
     },
     {
       "id": "life-30e00c42",
@@ -120,21 +119,6 @@
       "explanation": "『인형의 집』은 1879년에 발표된 입센의 대표작이에요. 주인공 노라가 가정을 떠나는 결말이 당시 사회에 큰 충격을 줬어요."
     },
     {
-      "id": "history-1eedf25c",
-      "category": "history",
-      "difficulty": 3,
-      "question": "세종 때 한양을 기준으로 해와 달의 움직임을 계산해 만든 역법서는?",
-      "choices": [
-        "대통력",
-        "수시력",
-        "시헌력",
-        "칠정산"
-      ],
-      "answerIndex": 3,
-      "explanation": "칠정산은 우리 하늘에 맞춰 한양 기준으로 일식과 월식까지 계산한 독자적 역법서예요. 수시력은 원, 대통력은 명, 시헌력은 청의 역법이에요.",
-      "funFact": "'칠정'은 해, 달과 수성·금성·화성·목성·토성을 뜻해요."
-    },
-    {
       "id": "science-4842a289",
       "category": "science",
       "difficulty": 3,
@@ -148,6 +132,20 @@
       "answerIndex": 1,
       "explanation": "달은 자전 주기와 공전 주기가 약 27.3일로 같아요. 그래서 지구에서는 늘 같은 면만 보여요.",
       "funFact": "달의 뒷면은 1959년 소련 탐사선이 처음 사진으로 찍었어요."
+    },
+    {
+      "id": "geography-d9a4e3e4",
+      "category": "geography",
+      "difficulty": 3,
+      "question": "구불구불 흐르던 강줄기가 끊겨 생긴 소뿔 모양 호수는?",
+      "choices": [
+        "빙하호",
+        "칼데라호",
+        "석호",
+        "우각호"
+      ],
+      "answerIndex": 3,
+      "explanation": "우각호는 굽이쳐 흐르던 강이 홍수 때 곧게 흐르며 남겨진 굽은 물길이에요. 소의 뿔을 닮아 붙은 이름이에요."
     }
   ]
 }

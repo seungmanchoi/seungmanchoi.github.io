@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "id": "daily-2027-01-11",
+  "date": "2027-01-11",
+  "questions": [
+    {
+      "id": "economy-e38961de",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "주가에 발행 주식 수를 곱해 구한 회사의 시장 가치는?",
+      "choices": [
+        "자본금",
+        "시가총액",
+        "순자산",
+        "매출액"
+      ],
+      "answerIndex": 1,
+      "explanation": "시가총액은 주가 곱하기 주식 수로 시장이 매긴 회사 몸값이에요. 주가가 바뀌면 시가총액도 매일 바뀌어요."
+    },
+    {
+      "id": "space-c4227479",
+      "category": "space",
+      "difficulty": 1,
+      "question": "여러 나라가 함께 지구 궤도에 지어 운영하는 국제 우주 정거장의 영문 약자는?",
+      "choices": [
+        "ISS",
+        "NASA",
+        "GPS",
+        "ESA"
+      ],
+      "answerIndex": 0,
+      "explanation": "ISS는 International Space Station의 약자예요. 미국, 러시아, 유럽, 일본, 캐나다 등이 함께 1998년부터 조립했어요.",
+      "funFact": "ISS는 약 90분에 지구를 한 바퀴 돌아 하루에 해돋이를 열여섯 번쯤 맞아요."
+    },
+    {
+      "id": "science-4af51062",
+      "category": "science",
+      "difficulty": 1,
+      "question": "꽃에서 꽃가루를 만드는 부분은?",
+      "choices": [
+        "암술",
+        "수술",
+        "꽃받침",
+        "꽃잎"
+      ],
+      "answerIndex": 1,
+      "explanation": "수술 끝의 꽃밥에서 꽃가루가 만들어져요. 꽃가루가 암술에 닿아야 씨가 생겨요.",
+      "funFact": "꽃가루 알레르기는 바람에 날리는 꽃가루 때문에 생기는 경우가 많아요."
+    },
+    {
+      "id": "korean-2c7f104f",
+      "category": "korean",
+      "difficulty": 1,
+      "question": "사자성어 '자업자득'의 뜻으로 알맞은 것은?",
+      "choices": [
+        "혼자 힘으로 부자 됨",
+        "남의 덕을 봄",
+        "스스로 일어섬",
+        "제가 한 일의 결과를 받음"
+      ],
+      "answerIndex": 3,
+      "explanation": "자기가 저지른 일의 결과를 자기가 받는다는 뜻이에요."
+    },
+    {
+      "id": "history-797a9bc6",
+      "category": "history",
+      "difficulty": 2,
+      "question": "1962년 쿠바 미사일 위기 때 미국 대통령은?",
+      "choices": [
+        "존 F. 케네디",
+        "아이젠하워",
+        "리처드 닉슨",
+        "린든 존슨"
+      ],
+      "answerIndex": 0,
+      "explanation": "소련이 쿠바에 핵미사일 기지를 짓자 케네디는 해상 봉쇄로 맞섰어요. 소련이 미사일을 철수하며 핵전쟁 위기가 가라앉았어요.",
+      "funFact": "이 위기 뒤 미국과 소련 사이에 핫라인이 설치됐어요. 처음에는 전화가 아니라 텔레타이프로 문자를 주고받았어요."
+    },
+    {
+      "id": "life-0bbec2d1",
+      "category": "life",
+      "difficulty": 2,
+      "question": "껍데기를 깬 달걀을 끓는 물에 넣어 익힌 요리는?",
+      "choices": [
+        "수란",
+        "달걀찜",
+        "지단",
+        "오믈렛"
+      ],
+      "answerIndex": 0,
+      "explanation": "수란은 끓는 물에 달걀을 깨뜨려 넣고 흰자만 살짝 굳게 익힌 요리예요. 서양의 포치드 에그와 같아요."
+    },
+    {
+      "id": "culture-13b45580",
+      "category": "culture",
+      "difficulty": 2,
+      "question": "사고 후유증 속에서 강렬한 자화상을 많이 남긴 멕시코 여성 화가는?",
+      "choices": [
+        "타마라 렘피카",
+        "조지아 오키프",
+        "프리다 칼로",
+        "베르트 모리조"
+      ],
+      "answerIndex": 2,
+      "explanation": "프리다 칼로는 교통사고로 평생 고통을 겪으며 자신의 몸과 삶을 자화상으로 그렸어요. 화가 디에고 리베라의 아내였어요."
+    },
+    {
+      "id": "geography-beb2e068",
+      "category": "geography",
+      "difficulty": 3,
+      "question": "우리나라 땅 높이(해발고도)를 재는 기준이 되는 바다는?",
+      "choices": [
+        "묵호 앞바다",
+        "인천 앞바다",
+        "목포 앞바다",
+        "부산 앞바다"
+      ],
+      "answerIndex": 1,
+      "explanation": "우리나라 육지의 높이는 인천만의 평균 해수면을 0m로 삼아 재요. 이를 바탕으로 인천에 수준원점을 두었어요."
+    },
+    {
+      "id": "sports-bfbe84c7",
+      "category": "sports",
+      "difficulty": 3,
+      "question": "자유형·배영·접영에서 출발이나 턴 뒤 잠영은 최대 몇 m까지 허용될까요?",
+      "choices": [
+        "10m",
+        "25m",
+        "15m",
+        "5m"
+      ],
+      "answerIndex": 2,
+      "explanation": "출발과 턴 뒤 물속에서 갈 수 있는 거리는 15m까지이고, 그 전에 머리가 수면 위로 나와야 해요.",
+      "funFact": "물속 돌핀킥이 너무 빨라 잠영으로만 멀리 가는 선수가 늘자 이 제한이 생겼어요."
+    },
+    {
+      "id": "nature-a1e5cf75",
+      "category": "nature",
+      "difficulty": 3,
+      "question": "털이 주황빛이라 '황금박쥐'로 불리는 멸종위기 박쥐는?",
+      "choices": [
+        "토끼박쥐",
+        "집박쥐",
+        "관박쥐",
+        "붉은박쥐"
+      ],
+      "answerIndex": 3,
+      "explanation": "붉은박쥐는 오렌지빛 털 때문에 황금박쥐라고도 불리며, 천연기념물이자 멸종위기 야생생물이에요.",
+      "funFact": "붉은박쥐는 동굴에서 반년 넘게 겨울잠을 자기도 해요."
+    }
+  ]
+}

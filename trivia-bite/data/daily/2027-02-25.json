@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "id": "daily-2027-02-25",
+  "date": "2027-02-25",
+  "questions": [
+    {
+      "id": "history-ce858805",
+      "category": "history",
+      "difficulty": 1,
+      "question": "선죽교에서 이방원 일파에게 죽임을 당한 고려 말 충신은?",
+      "choices": [
+        "최영",
+        "정도전",
+        "정몽주",
+        "길재"
+      ],
+      "answerIndex": 2,
+      "explanation": "정몽주는 고려를 지키려다 1392년 개경 선죽교에서 피살되었어요. 이방원의 「하여가」에 「단심가」로 답한 일화가 유명해요."
+    },
+    {
+      "id": "culture-c9fb9efd",
+      "category": "culture",
+      "difficulty": 1,
+      "question": "소녀 하이디가 할아버지와 함께 사는 산은?",
+      "choices": [
+        "로키",
+        "알프스",
+        "안데스",
+        "피레네"
+      ],
+      "answerIndex": 1,
+      "explanation": "『하이디』는 스위스 작가 요한나 슈피리가 쓴 소설이에요. 하이디는 알프스 산장에서 할아버지와 염소를 돌보며 지내요."
+    },
+    {
+      "id": "economy-b423dca2",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "경제가 불안할 때 투자자가 몰리는 대표 안전자산은?",
+      "choices": [
+        "정크본드",
+        "금",
+        "비상장 주식",
+        "신흥국 주식"
+      ],
+      "answerIndex": 1,
+      "explanation": "금은 오랫동안 가치를 지켜 온 실물자산이라 위기 때 수요가 늘어요. 선진국 국채도 안전자산으로 꼽혀요."
+    },
+    {
+      "id": "science-88a6eaab",
+      "category": "science",
+      "difficulty": 1,
+      "question": "동맥과 정맥 사이를 잇는, 우리 몸에서 가장 가는 혈관은?",
+      "choices": [
+        "모세혈관",
+        "동맥",
+        "정맥",
+        "대동맥"
+      ],
+      "answerIndex": 0,
+      "explanation": "모세혈관은 벽이 아주 얇아서 혈액과 세포가 산소와 영양분, 노폐물을 주고받는 곳이에요.",
+      "funFact": "모세혈관은 너무 가늘어서 적혈구가 한 줄로 줄지어 지나가요."
+    },
+    {
+      "id": "life-2305887a",
+      "category": "life",
+      "difficulty": 2,
+      "question": "흰 빨래의 누런 때를 뺄 때 쓰는 과탄산소다는 어떤 표백제일까요?",
+      "choices": [
+        "형광 증백제",
+        "염소계 표백제",
+        "환원계 표백제",
+        "산소계 표백제"
+      ],
+      "answerIndex": 3,
+      "explanation": "과탄산소다는 물에 녹으면 산소를 내며 때를 빼는 산소계 표백제예요. 따뜻한 물에서 더 잘 녹고 효과가 좋아요.",
+      "funFact": "과탄산소다는 물에 녹으면 과산화수소와 탄산소다로 나뉘어요."
+    },
+    {
+      "id": "korean-161a8071",
+      "category": "korean",
+      "difficulty": 2,
+      "question": "속담 '싼 게 비지떡'의 뜻은?",
+      "choices": [
+        "알뜰하게 살아야 함",
+        "작은 것도 소중함",
+        "배고프면 뭐든 맛있음",
+        "값이 싸면 품질도 나쁨"
+      ],
+      "answerIndex": 3,
+      "explanation": "비지로 만든 떡처럼, 값이 싼 물건은 품질도 그만큼 나쁘다는 뜻이에요."
+    },
+    {
+      "id": "geography-13c02b95",
+      "category": "geography",
+      "difficulty": 2,
+      "question": "1988년 남극 킹조지섬에 세운 우리나라 첫 남극 기지는?",
+      "choices": [
+        "세종과학기지",
+        "다산과학기지",
+        "이순신과학기지",
+        "장보고과학기지"
+      ],
+      "answerIndex": 0,
+      "explanation": "세종과학기지는 1988년 남극 킹조지섬에 세운 우리나라 첫 남극 기지예요.",
+      "funFact": "2014년에는 남극 대륙 본토에 두 번째 기지인 장보고과학기지를 세웠어요."
+    },
+    {
+      "id": "life-f354a9ec",
+      "category": "life",
+      "difficulty": 3,
+      "question": "미국에서 쓰는 부피 단위 1갤런은 약 몇 L일까요?",
+      "choices": [
+        "약 2L",
+        "약 10L",
+        "약 3.8L",
+        "약 1L"
+      ],
+      "answerIndex": 2,
+      "explanation": "미국 1갤런은 약 3.785L예요. 미국 주유소 기름값이나 우유 용량에 이 단위를 써요.",
+      "funFact": "영국 갤런은 약 4.5L로 미국 갤런과 크기가 달라요."
+    },
+    {
+      "id": "culture-63b8f315",
+      "category": "culture",
+      "difficulty": 3,
+      "question": "이집트 신화에서 매의 머리를 한 하늘의 신은?",
+      "choices": [
+        "호루스",
+        "세트",
+        "아누비스",
+        "토트"
+      ],
+      "answerIndex": 0,
+      "explanation": "호루스는 오시리스와 이시스의 아들로 매의 머리를 하고 있어요. 파라오는 호루스가 땅에 나타난 존재로 여겨졌어요.",
+      "funFact": "'호루스의 눈'은 보호와 치유를 뜻하는 부적으로 쓰였어요."
+    },
+    {
+      "id": "culture-846f8c8c",
+      "category": "culture",
+      "difficulty": 3,
+      "question": "조개껍데기 같은 지붕의 시드니 오페라하우스를 설계한 덴마크 건축가는?",
+      "choices": [
+        "프랭크 게리",
+        "르 코르뷔지에",
+        "미스 반데어로에",
+        "요른 웃손"
+      ],
+      "answerIndex": 3,
+      "explanation": "시드니 오페라하우스는 덴마크 건축가 요른 웃손이 설계했어요. 2007년 유네스코 세계유산이 됐어요."
+    }
+  ]
+}

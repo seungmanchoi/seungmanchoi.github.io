@@ -18,20 +18,6 @@
       "explanation": "1950년 6월 25일 북한군이 남쪽으로 쳐들어오며 전쟁이 시작됐어요. 1953년 정전 협정으로 전투가 멈췄어요."
     },
     {
-      "id": "geography-d49d25a4",
-      "category": "geography",
-      "difficulty": 1,
-      "question": "남한에서 가장 높은 산은 어디일까요?",
-      "choices": [
-        "설악산",
-        "한라산",
-        "지리산",
-        "태백산"
-      ],
-      "answerIndex": 1,
-      "explanation": "한라산은 제주도에 있고 높이가 약 1,947m예요. 남한에서 가장 높은 산이에요."
-    },
-    {
       "id": "life-1cb0a846",
       "category": "life",
       "difficulty": 1,
@@ -60,32 +46,18 @@
       "explanation": "축구는 전반과 후반 각각 45분, 모두 90분 동안 경기해요. 여기에 심판이 판단한 추가 시간이 더해져요."
     },
     {
-      "id": "economy-f0ba0445",
+      "id": "economy-f90db674",
       "category": "economy",
-      "difficulty": 2,
-      "question": "물가가 지속적으로 떨어지는 현상을 무엇이라 할까요?",
+      "difficulty": 1,
+      "question": "수입품 통관을 심사하고 관세를 걷는 기관은?",
       "choices": [
-        "애그플레이션",
-        "스태그플레이션",
-        "디플레이션",
-        "인플레이션"
+        "관세청",
+        "국세청",
+        "특허청",
+        "조달청"
       ],
-      "answerIndex": 2,
-      "explanation": "디플레이션은 물가가 계속 내려가는 현상이에요. 물건값이 더 내릴 거라 기대해 소비가 줄고 경기가 나빠질 수 있어요."
-    },
-    {
-      "id": "korean-64080a0a",
-      "category": "korean",
-      "difficulty": 2,
-      "question": "'버스가 ○○ 도착할 거예요'의 빈칸에 알맞은 표기는?",
-      "choices": [
-        "금쎄",
-        "금세",
-        "금새",
-        "근세"
-      ],
-      "answerIndex": 1,
-      "explanation": "'금세'는 '금시에'가 줄어든 말로 '곧, 바로'를 뜻해요. '금새'는 물건의 값이라는 뜻의 다른 낱말이라 이 문장에는 맞지 않아요."
+      "answerIndex": 0,
+      "explanation": "관세청은 국경을 오가는 물품을 검사하고 관세를 부과해요. 밀수 단속도 관세청의 일이에요."
     },
     {
       "id": "science-ceb9d77a",
@@ -101,6 +73,36 @@
       "answerIndex": 0,
       "explanation": "정지한 물체는 계속 멈춰 있고 움직이던 물체는 계속 같은 속도로 움직이려는 성질을 관성이라고 해요. 질량이 클수록 관성도 커요.",
       "funFact": "달리던 버스가 급정거할 때 몸이 앞으로 쏠리는 것도 관성 때문이에요."
+    },
+    {
+      "id": "geography-3b141a07",
+      "category": "geography",
+      "difficulty": 2,
+      "question": "일본의 4대 섬 가운데 면적이 가장 작은 섬은?",
+      "choices": [
+        "홋카이도",
+        "규슈",
+        "혼슈",
+        "시코쿠"
+      ],
+      "answerIndex": 3,
+      "explanation": "일본 4대 섬을 면적 순으로 놓으면 혼슈, 홋카이도, 규슈, 시코쿠 순이에요.",
+      "funFact": "시코쿠는 '네 나라'라는 뜻으로, 옛날 네 지역으로 나뉘었던 데서 왔어요."
+    },
+    {
+      "id": "space-246ae5d8",
+      "category": "space",
+      "difficulty": 2,
+      "question": "휴대폰을 교통카드 단말기에 가까이 대면 결제되는 근거리 무선 기술은?",
+      "choices": [
+        "GPS",
+        "NFC",
+        "HDMI",
+        "LTE"
+      ],
+      "answerIndex": 1,
+      "explanation": "NFC는 약 10cm 이내의 아주 가까운 거리에서 기기끼리 데이터를 주고받는 기술이에요. 교통카드와 모바일 결제에 많이 쓰여요.",
+      "funFact": "NFC는 'Near Field Communication', 즉 '근거리 무선 통신'의 약자예요."
     },
     {
       "id": "history-b4fc252f",
@@ -131,19 +133,19 @@
       "explanation": "'갓밝이'는 날이 막 밝을 무렵을 뜻하는 고유어예요. 해가 질 무렵은 땅거미라고 해요."
     },
     {
-      "id": "culture-a0721786",
-      "category": "culture",
+      "id": "sports-09a72ffe",
+      "category": "sports",
       "difficulty": 3,
-      "question": "소설 『돈키호테』를 쓴 스페인 작가는?",
+      "question": "1954년 1마일을 처음 4분 안에 달린 영국 선수는?",
       "choices": [
-        "로페 데 베가",
-        "우나무노",
-        "세르반테스",
-        "칼데론"
+        "히참 엘게루즈",
+        "세바스찬 코",
+        "로저 배니스터",
+        "존 랜디"
       ],
       "answerIndex": 2,
-      "explanation": "세르반테스는 17세기 초 『돈키호테』를 발표했어요. 이상에 사로잡힌 기사와 그의 시종 산초의 모험을 그린 작품이에요.",
-      "funFact": "세르반테스는 레판토 해전에서 왼손을 쓰지 못하게 되어 '레판토의 외팔이'로 불렸어요."
+      "explanation": "의대생이던 로저 배니스터는 1954년 옥스퍼드에서 1마일을 3분 59초 4에 달렸어요.",
+      "funFact": "불과 46일 뒤 호주의 존 랜디가 배니스터의 기록을 깼어요."
     }
   ]
 }

@@ -1,0 +1,154 @@
+{
+  "version": 1,
+  "id": "daily-2027-02-13",
+  "date": "2027-02-13",
+  "questions": [
+    {
+      "id": "economy-6fdab23f",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "가격보다 심리적 만족을 중시하는 소비를 뜻하는 말은?",
+      "choices": [
+        "가성비",
+        "플렉스",
+        "가심비",
+        "소확행"
+      ],
+      "answerIndex": 2,
+      "explanation": "가심비는 '가격 대비 마음의 만족'을 줄인 말이에요. 값이 좀 나가도 기분이 좋으면 산다는 뜻이에요.",
+      "funFact": "가성비를 비튼 말로, 2018년 무렵 소비 트렌드 용어로 널리 퍼졌어요."
+    },
+    {
+      "id": "geography-28bf48ae",
+      "category": "geography",
+      "difficulty": 1,
+      "question": "우크라이나의 수도는 어디일까요?",
+      "choices": [
+        "리비우",
+        "키이우",
+        "오데사",
+        "민스크"
+      ],
+      "answerIndex": 1,
+      "explanation": "우크라이나의 수도는 드니프로강이 흐르는 키이우예요. 민스크는 이웃 나라 벨라루스의 수도예요."
+    },
+    {
+      "id": "korean-0824a0ce",
+      "category": "korean",
+      "difficulty": 1,
+      "question": "관용구 '머리를 맞대다'의 뜻으로 알맞은 것은?",
+      "choices": [
+        "모여서 함께 의논하다",
+        "서로 심하게 다투다",
+        "서로 인사를 나누다",
+        "몰래 일을 꾸미다"
+      ],
+      "answerIndex": 0,
+      "explanation": "'머리를 맞대다'는 어떤 일을 의논하려고 서로 마주 대한다는 뜻이에요.",
+      "funFact": "여럿이 둘러앉아 지혜를 모으는 모습을 떠올리면 쉽게 기억할 수 있어요."
+    },
+    {
+      "id": "culture-b9a190b4",
+      "category": "culture",
+      "difficulty": 1,
+      "question": "동화 『백설공주』에서 공주와 함께 사는 난쟁이는 몇 명?",
+      "choices": [
+        "6명",
+        "7명",
+        "9명",
+        "5명"
+      ],
+      "answerIndex": 1,
+      "explanation": "백설공주는 숲속 오두막에서 일곱 난쟁이와 함께 지내요.",
+      "funFact": "디즈니 애니메이션에서는 일곱 난쟁이에게 각각 성격을 딴 이름을 붙였어요."
+    },
+    {
+      "id": "life-54c77b30",
+      "category": "life",
+      "difficulty": 2,
+      "question": "바닐라 아이스크림에 에스프레소를 부어 먹는 디저트는?",
+      "choices": [
+        "아포가토",
+        "티라미수",
+        "판나코타",
+        "파르페"
+      ],
+      "answerIndex": 0,
+      "explanation": "아포가토는 이탈리아어로 '빠진'이라는 뜻이에요. 아이스크림이 커피에 빠진 모습에서 이름이 붙었어요."
+    },
+    {
+      "id": "nature-a0dbda11",
+      "category": "nature",
+      "difficulty": 2,
+      "question": "제주 만장굴처럼 흐르던 용암의 겉이 먼저 굳고 속이 빠져나가 생긴 동굴은?",
+      "choices": [
+        "용암동굴",
+        "빙하동굴",
+        "해식동굴",
+        "석회동굴"
+      ],
+      "answerIndex": 0,
+      "explanation": "용암의 겉면이 공기에 식어 먼저 굳고, 속의 뜨거운 용암이 계속 흘러 빠져나가면 긴 터널이 남아요.",
+      "funFact": "제주의 거문오름 용암동굴계는 2007년 유네스코 세계자연유산에 등재됐어요."
+    },
+    {
+      "id": "space-c063b9a2",
+      "category": "space",
+      "difficulty": 2,
+      "question": "인류가 만든 물체로는 처음 태양권을 벗어나 성간 우주에 들어선 탐사선은?",
+      "choices": [
+        "갈릴레오",
+        "뉴허라이즌스",
+        "보이저 1호",
+        "파이어니어 10호"
+      ],
+      "answerIndex": 2,
+      "explanation": "1977년 발사된 보이저 1호는 2012년 태양풍이 미치는 경계를 넘어 성간 우주에 들어섰어요.",
+      "funFact": "보이저 1호는 목성과 토성을 지나며 고해상도 사진을 보내왔어요."
+    },
+    {
+      "id": "history-dd37224b",
+      "category": "history",
+      "difficulty": 3,
+      "question": "1905년 미국의 중재로 러일 전쟁을 끝낸 조약은?",
+      "choices": [
+        "베이징 조약",
+        "가쓰라·태프트 밀약",
+        "시모노세키 조약",
+        "포츠머스 조약"
+      ],
+      "answerIndex": 3,
+      "explanation": "이 조약으로 러시아는 한국에 대한 일본의 지배권을 인정했어요. 일본은 곧 을사늑약을 강요했어요.",
+      "funFact": "중재한 시어도어 루스벨트 대통령은 이 공로로 1906년 노벨 평화상을 받았어요."
+    },
+    {
+      "id": "culture-2d67643c",
+      "category": "culture",
+      "difficulty": 3,
+      "question": "뒤쪽 볼록 거울에 실내와 두 인물이 비치는 '아르놀피니 부부의 초상'의 화가는?",
+      "choices": [
+        "브뤼헐",
+        "베르메르",
+        "한스 홀바인",
+        "얀 반에이크"
+      ],
+      "answerIndex": 3,
+      "explanation": "얀 반에이크는 15세기 플랑드르 화가예요. 유화 기법을 크게 발전시켜 섬세한 묘사를 보여 줬어요."
+    },
+    {
+      "id": "culture-bdf6f535",
+      "category": "culture",
+      "difficulty": 3,
+      "question": "영화 '취화선'의 주인공인 조선 말기 화가 '오원'은 누구일까요?",
+      "choices": [
+        "심사정",
+        "신윤복",
+        "김득신",
+        "장승업"
+      ],
+      "answerIndex": 3,
+      "explanation": "오원 장승업은 조선 말기의 천재 화가예요. 술을 좋아하고 자유분방해 '취화선'이라는 영화로도 그려졌어요.",
+      "funFact": "안견·김홍도와 함께 조선의 3대 화가로 꼽히기도 해요."
+    }
+  ]
+}

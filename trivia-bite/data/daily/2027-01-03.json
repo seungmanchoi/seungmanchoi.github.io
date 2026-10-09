@@ -1,0 +1,151 @@
+{
+  "version": 1,
+  "id": "daily-2027-01-03",
+  "date": "2027-01-03",
+  "questions": [
+    {
+      "id": "history-923e080c",
+      "category": "history",
+      "difficulty": 1,
+      "question": "이집트 기자의 피라미드 곁에 있는, 사람 머리에 사자 몸을 한 석상은?",
+      "choices": [
+        "아누비스",
+        "미라",
+        "스핑크스",
+        "오벨리스크"
+      ],
+      "answerIndex": 2,
+      "explanation": "기자의 대스핑크스는 하나의 거대한 석회암 바위를 깎아 만들었어요. 카프레왕 때 만든 것으로 보는 견해가 일반적이에요."
+    },
+    {
+      "id": "life-90874a42",
+      "category": "life",
+      "difficulty": 1,
+      "question": "자동차 안전띠 착용 의무가 있는 좌석은?",
+      "choices": [
+        "운전석만",
+        "모든 좌석",
+        "고속도로 뒷좌석만",
+        "앞좌석만"
+      ],
+      "answerIndex": 1,
+      "explanation": "우리나라는 2018년부터 일반 도로를 포함해 모든 좌석에서 안전띠를 매야 해요. 뒷좌석도 사고 때 크게 다칠 수 있어요."
+    },
+    {
+      "id": "sports-fbb05f6d",
+      "category": "sports",
+      "difficulty": 1,
+      "question": "다음 중 대표적인 유산소 운동은?",
+      "choices": [
+        "팔씨름",
+        "조깅",
+        "역도",
+        "100m 전력 질주"
+      ],
+      "answerIndex": 1,
+      "explanation": "유산소 운동은 산소를 충분히 쓰며 오래 지속하는 운동으로 조깅, 수영, 자전거 타기 등이 있어요.",
+      "funFact": "짧고 강하게 힘을 쓰는 단거리 달리기나 역도는 무산소 운동에 가까워요."
+    },
+    {
+      "id": "culture-45732b3f",
+      "category": "culture",
+      "difficulty": 1,
+      "question": "음력 8월 15일 추석을 부르는 순우리말 이름은?",
+      "choices": [
+        "설빔",
+        "상원",
+        "수릿날",
+        "한가위"
+      ],
+      "answerIndex": 3,
+      "explanation": "'한'은 크다, '가위'는 가운데라는 뜻이에요. 한가위는 8월 한가운데의 큰 날이라는 뜻이에요."
+    },
+    {
+      "id": "korean-401add7c",
+      "category": "korean",
+      "difficulty": 2,
+      "question": "속담 '구슬이 서 말이라도 ○○○ 보배'의 빈칸은?",
+      "choices": [
+        "꿰어야",
+        "모아야",
+        "닦아야",
+        "팔아야"
+      ],
+      "answerIndex": 0,
+      "explanation": "아무리 좋은 것도 다듬고 정리해 쓸모 있게 만들어야 값어치가 있다는 뜻이에요."
+    },
+    {
+      "id": "science-b266640c",
+      "category": "science",
+      "difficulty": 2,
+      "question": "절대영도를 0으로 삼는 절대 온도의 단위는?",
+      "choices": [
+        "화씨(℉)",
+        "켈빈(K)",
+        "칼로리(cal)",
+        "줄(J)"
+      ],
+      "answerIndex": 1,
+      "explanation": "켈빈은 절대영도를 0 K로 삼는 온도 단위예요. 눈금 간격은 섭씨와 같아서 0℃는 약 273 K예요.",
+      "funFact": "켈빈은 영국 물리학자 켈빈 경의 이름에서 따왔고, 단위에 '도(°)'를 붙이지 않아요."
+    },
+    {
+      "id": "economy-a7e40431",
+      "category": "economy",
+      "difficulty": 2,
+      "question": "건물·기계의 가치 감소분을 사용 기간에 나눠 비용으로 잡는 것은?",
+      "choices": [
+        "대손상각",
+        "충당금",
+        "감가상각",
+        "재고평가"
+      ],
+      "answerIndex": 2,
+      "explanation": "기계를 산 해에 전부 비용으로 잡지 않고 쓰는 기간 동안 나눠 반영하는 것이 감가상각이에요. 토지는 닳지 않아 감가상각하지 않아요."
+    },
+    {
+      "id": "geography-3ea16680",
+      "category": "geography",
+      "difficulty": 3,
+      "question": "서울 북한산의 최고봉은?",
+      "choices": [
+        "인수봉",
+        "만경대",
+        "백운대",
+        "노적봉"
+      ],
+      "answerIndex": 2,
+      "explanation": "북한산의 최고봉은 해발 836m의 백운대예요. 인수봉, 만경대와 함께 '삼각산'이라는 옛 이름을 만들었어요."
+    },
+    {
+      "id": "space-766919e2",
+      "category": "space",
+      "difficulty": 3,
+      "question": "이소연이 2008년 국제 우주 정거장에 갈 때 탄 러시아 우주선은?",
+      "choices": [
+        "보스토크",
+        "미르",
+        "프로그레스",
+        "소유스"
+      ],
+      "answerIndex": 3,
+      "explanation": "이소연은 2008년 4월 카자흐스탄 바이코누르 기지에서 러시아 소유스 우주선을 타고 ISS로 갔어요.",
+      "funFact": "프로그레스는 사람이 아니라 화물만 실어 나르는 러시아의 무인 보급선이에요."
+    },
+    {
+      "id": "nature-22dae446",
+      "category": "nature",
+      "difficulty": 3,
+      "question": "햇빛이 닿지 않는 심해 열수구 생태계의 먹이사슬을 떠받치는 생산자는?",
+      "choices": [
+        "황화합물로 양분을 만드는 세균",
+        "깊은 바다의 해초",
+        "빛을 내는 플랑크톤",
+        "위에서 떨어진 꽃가루"
+      ],
+      "answerIndex": 0,
+      "explanation": "열수구 주변 세균은 햇빛 대신 황화수소 같은 화학 물질의 에너지로 양분을 만드는 화학합성을 해요.",
+      "funFact": "1977년 갈라파고스 근처 심해에서 열수구 생태계가 처음 발견되며 햇빛 없는 생태계가 알려졌어요."
+    }
+  ]
+}

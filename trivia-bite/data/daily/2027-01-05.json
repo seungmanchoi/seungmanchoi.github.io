@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "id": "daily-2027-01-05",
+  "date": "2027-01-05",
+  "questions": [
+    {
+      "id": "history-8989f964",
+      "category": "history",
+      "difficulty": 1,
+      "question": "노비 출신으로 세종 때 자격루 제작에 참여한 과학자는?",
+      "choices": [
+        "정초",
+        "이천",
+        "장영실",
+        "최무선"
+      ],
+      "answerIndex": 2,
+      "explanation": "장영실은 동래현 관노 출신이었지만 재주를 인정받아 벼슬을 받았어요. 자격루와 앙부일구 등 여러 과학 기구 제작에 참여했어요."
+    },
+    {
+      "id": "life-61565657",
+      "category": "life",
+      "difficulty": 1,
+      "question": "오메가-3 지방산이 특히 많은 식품은?",
+      "choices": [
+        "흰쌀밥",
+        "고등어",
+        "감자",
+        "설탕"
+      ],
+      "answerIndex": 1,
+      "explanation": "고등어·꽁치 같은 등푸른생선에는 DHA·EPA 같은 오메가-3 지방산이 풍부해요."
+    },
+    {
+      "id": "space-f9685121",
+      "category": "space",
+      "difficulty": 1,
+      "question": "'마인크래프트'에서 조용히 다가와 폭발하는 초록색 몬스터는?",
+      "choices": [
+        "엔더맨",
+        "스켈레톤",
+        "좀비",
+        "크리퍼"
+      ],
+      "answerIndex": 3,
+      "explanation": "크리퍼는 플레이어 가까이 몰래 다가와 '쉬익' 소리를 낸 뒤 터지는 몬스터예요. 애써 지은 건물을 부숴 버리기로 악명 높아요.",
+      "funFact": "크리퍼는 원래 돼지를 만들다가 가로세로 크기를 잘못 넣어 생긴 모양에서 탄생했어요."
+    },
+    {
+      "id": "sports-4719f09a",
+      "category": "sports",
+      "difficulty": 1,
+      "question": "얼음 위에서 돌을 미끄러뜨리는 컬링이 시작된 나라는?",
+      "choices": [
+        "스코틀랜드",
+        "노르웨이",
+        "스위스",
+        "캐나다"
+      ],
+      "answerIndex": 0,
+      "explanation": "컬링은 16세기쯤 스코틀랜드의 얼어붙은 호수와 연못에서 시작됐어요.",
+      "funFact": "스코틀랜드에는 1500년대 연도가 새겨진 오래된 컬링 스톤이 남아 있어요."
+    },
+    {
+      "id": "culture-f1c480f6",
+      "category": "culture",
+      "difficulty": 2,
+      "question": "쥘 베른의 『해저 2만 리』에서 네모 선장이 모는 잠수함은?",
+      "choices": [
+        "타이태닉호",
+        "노틸러스호",
+        "비글호",
+        "메이플라워호"
+      ],
+      "answerIndex": 1,
+      "explanation": "네모 선장은 잠수함 노틸러스호를 타고 세계의 바닷속을 누벼요.",
+      "funFact": "1954년 진수한 세계 최초의 원자력 잠수함도 이 이름을 따 '노틸러스'라고 지었어요."
+    },
+    {
+      "id": "korean-d375e281",
+      "category": "korean",
+      "difficulty": 2,
+      "question": "사자성어 '괄목상대'의 뜻으로 알맞은 것은?",
+      "choices": [
+        "서로 노려보며 맞섬",
+        "상대를 깔봄",
+        "눈을 감고 모른 척함",
+        "몰라보게 실력이 늚"
+      ],
+      "answerIndex": 3,
+      "explanation": "눈을 비비고 다시 볼 만큼 남의 학식이나 재주가 부쩍 는 것을 말해요."
+    },
+    {
+      "id": "science-193e9632",
+      "category": "science",
+      "difficulty": 2,
+      "question": "약 3억 년 전 거의 모든 대륙이 하나로 모여 있던 초대륙은?",
+      "choices": [
+        "판게아",
+        "무 대륙",
+        "레무리아",
+        "아틀란티스"
+      ],
+      "answerIndex": 0,
+      "explanation": "판게아는 '모든 땅'이라는 뜻으로, 고생대 말 대륙들이 하나로 모인 초대륙이에요. 이후 갈라져 지금의 대륙이 됐어요."
+    },
+    {
+      "id": "economy-0b0c28d7",
+      "category": "economy",
+      "difficulty": 3,
+      "question": "중앙은행이 국채 등을 사고팔아 통화량을 조절하는 것은?",
+      "choices": [
+        "재정정책",
+        "외환스와프",
+        "공개시장운영",
+        "재할인정책"
+      ],
+      "answerIndex": 2,
+      "explanation": "중앙은행이 증권을 사들이면 시중에 돈이 풀리고, 팔면 돈이 거둬들여져요.",
+      "funFact": "한국은행이 가장 자주 쓰는 대표 통화정책 수단이에요."
+    },
+    {
+      "id": "geography-90b0a51c",
+      "category": "geography",
+      "difficulty": 3,
+      "question": "루마니아의 수도는 어디일까요?",
+      "choices": [
+        "소피아",
+        "브라쇼브",
+        "부쿠레슈티",
+        "부다페스트"
+      ],
+      "answerIndex": 2,
+      "explanation": "루마니아의 수도는 부쿠레슈티예요. 이름이 비슷한 부다페스트는 헝가리의 수도예요."
+    },
+    {
+      "id": "nature-999f72fe",
+      "category": "nature",
+      "difficulty": 3,
+      "question": "땅속에서 17년을 지낸 뒤 한꺼번에 나오는 매미가 사는 대륙은?",
+      "choices": [
+        "아시아",
+        "북아메리카",
+        "유럽",
+        "아프리카"
+      ],
+      "answerIndex": 1,
+      "explanation": "북아메리카의 주기매미는 13년 또는 17년마다 한꺼번에 땅 위로 나와요.",
+      "funFact": "13과 17이 소수라서 천적의 번식 주기와 잘 겹치지 않는다는 가설이 있어요."
+    }
+  ]
+}

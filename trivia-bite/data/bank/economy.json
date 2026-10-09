@@ -207,7 +207,7 @@
       "id": "economy-f0091efd",
       "category": "economy",
       "difficulty": 1,
-      "question": "한국이 1997년 외환위기 때 구제금융을 받은 국제기구는?",
+      "question": "1997년 외환위기 때 한국 구제금융을 주도한 국제기구는?",
       "choices": [
         "IMF",
         "세계은행",
@@ -296,8 +296,8 @@
       "choices": [
         "페가수스",
         "유니콘",
-        "데카콘",
-        "헥토콘"
+        "가젤",
+        "블루칩"
       ],
       "answerIndex": 1,
       "explanation": "상상 속 동물 유니콘처럼 드물다는 뜻에서 붙은 이름이에요. 100억 달러 이상이면 데카콘이라고 불러요.",
@@ -385,7 +385,7 @@
         "연금저축"
       ],
       "answerIndex": 2,
-      "explanation": "아파트 청약에 참여하려면 주택청약종합저축에 가입해 두어야 해요. 납입 기간과 횟수가 당첨 순위에 영향을 줘요."
+      "explanation": "새 아파트 청약을 준비할 때는 보통 주택청약종합저축에 가입해요. 납입 기간과 횟수가 당첨 순위에 영향을 줘요."
     },
     {
       "id": "economy-c600840f",
@@ -1262,7 +1262,7 @@
         "PPI"
       ],
       "answerIndex": 1,
-      "explanation": "GNI는 국민총소득으로, 국적을 기준으로 국민이 번 소득을 모두 더해요. GDP는 국적과 관계없이 국내에서 생산된 가치예요."
+      "explanation": "GNI는 국민총소득으로, 한 나라 거주자가 국내외에서 번 소득을 모두 더해요. GDP는 국내에서 새로 생산된 가치예요."
     },
     {
       "id": "economy-161fd633",
@@ -1419,6 +1419,1413 @@
       "answerIndex": 2,
       "explanation": "미국 속어로 '레몬'은 겉만 멀쩡한 불량 중고차를 뜻해요. 경제학자 조지 애커로프가 정보 비대칭 문제를 설명하며 쓴 말이에요.",
       "funFact": "애커로프는 이 연구로 2001년 노벨 경제학상을 받았어요."
+    },
+    {
+      "id": "economy-9d91f6d6",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "만 원권 지폐 앞면에 그려진 인물은?",
+      "choices": [
+        "세종대왕",
+        "이황",
+        "이이",
+        "이순신"
+      ],
+      "answerIndex": 0,
+      "explanation": "만 원권 앞면에는 훈민정음을 만든 세종대왕이 있어요. 뒷면에는 천체 관측 기구인 혼천의가 담겨 있어요."
+    },
+    {
+      "id": "economy-98466b17",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "오천 원권 지폐 앞면에 그려진 인물은?",
+      "choices": [
+        "이이",
+        "이황",
+        "세종대왕",
+        "정약용"
+      ],
+      "answerIndex": 0,
+      "explanation": "오천 원권 앞면 인물은 율곡 이이예요. 뒷면에는 어머니 신사임당의 초충도가 들어가 있어요.",
+      "funFact": "오만 원권의 신사임당과 오천 원권의 이이는 어머니와 아들 사이예요."
+    },
+    {
+      "id": "economy-228ce97a",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "100원 동전 앞면에 새겨진 인물은?",
+      "choices": [
+        "안중근",
+        "세종대왕",
+        "김구",
+        "이순신"
+      ],
+      "answerIndex": 3,
+      "explanation": "100원 동전에는 이순신 장군의 초상이 새겨져 있어요. 현재 쓰이는 동전 가운데 인물이 들어간 것은 100원뿐이에요."
+    },
+    {
+      "id": "economy-95de1ab1",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "10원 동전에 새겨진 문화재는?",
+      "choices": [
+        "다보탑",
+        "숭례문",
+        "석가탑",
+        "첨성대"
+      ],
+      "answerIndex": 0,
+      "explanation": "10원 동전에는 경주 불국사의 다보탑이 새겨져 있어요. 1966년 처음 나온 10원 동전부터 다보탑 도안이 이어지고 있어요."
+    },
+    {
+      "id": "economy-04cedc91",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "500원 동전에 새겨진 동물은?",
+      "choices": [
+        "독수리",
+        "학",
+        "거북",
+        "호랑이"
+      ],
+      "answerIndex": 1,
+      "explanation": "500원 동전에는 날개를 펴고 나는 학이 새겨져 있어요. 1982년에 처음 발행됐어요."
+    },
+    {
+      "id": "economy-b85634f1",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "50원 동전에 새겨진 그림은?",
+      "choices": [
+        "매화",
+        "보리 이삭",
+        "벼 이삭",
+        "무궁화"
+      ],
+      "answerIndex": 2,
+      "explanation": "50원 동전에는 고개 숙인 벼 이삭이 새겨져 있어요. 식량 증산의 뜻을 담은 도안이에요."
+    },
+    {
+      "id": "economy-30d360c0",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "중국의 공식 화폐 단위는?",
+      "choices": [
+        "루피",
+        "위안",
+        "엔",
+        "바트"
+      ],
+      "answerIndex": 1,
+      "explanation": "중국 화폐는 인민폐라고 하고 단위는 위안이에요. 국제 표기로는 CNY를 써요."
+    },
+    {
+      "id": "economy-a57410e5",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "인도의 화폐 단위는?",
+      "choices": [
+        "루피",
+        "위안",
+        "루블",
+        "바트"
+      ],
+      "answerIndex": 0,
+      "explanation": "인도는 루피를 써요. 파키스탄, 스리랑카, 네팔도 이름이 같은 루피를 쓰지만 서로 다른 화폐예요."
+    },
+    {
+      "id": "economy-b1317547",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "러시아의 화폐 단위는?",
+      "choices": [
+        "즐로티",
+        "루블",
+        "크로나",
+        "루피"
+      ],
+      "answerIndex": 1,
+      "explanation": "러시아의 화폐 단위는 루블이에요. 1루블은 100코페이카로 나뉘어요."
+    },
+    {
+      "id": "economy-8501ea6a",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "스위스가 쓰는 화폐 단위는?",
+      "choices": [
+        "마르크",
+        "파운드",
+        "유로",
+        "프랑"
+      ],
+      "answerIndex": 3,
+      "explanation": "스위스는 유럽연합에 가입하지 않아 유로 대신 스위스 프랑을 써요. 대표적인 안전 통화로도 꼽혀요."
+    },
+    {
+      "id": "economy-888146b6",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "베트남의 화폐 단위는?",
+      "choices": [
+        "링깃",
+        "루피아",
+        "바트",
+        "동"
+      ],
+      "answerIndex": 3,
+      "explanation": "베트남은 동을 써요. 단위가 커서 물건값에 0이 여러 개 붙는 경우가 많아요."
+    },
+    {
+      "id": "economy-2ebffbb5",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "태국의 화폐 단위는?",
+      "choices": [
+        "링깃",
+        "동",
+        "바트",
+        "페소"
+      ],
+      "answerIndex": 2,
+      "explanation": "태국의 화폐 단위는 바트예요. 지폐에는 태국 국왕의 초상이 들어가요."
+    },
+    {
+      "id": "economy-92835475",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "멕시코의 화폐 단위는?",
+      "choices": [
+        "달러",
+        "페소",
+        "헤알",
+        "유로"
+      ],
+      "answerIndex": 1,
+      "explanation": "멕시코는 페소를 써요. 아르헨티나, 칠레, 필리핀 등도 이름이 같은 페소를 쓰지만 서로 다른 화폐예요.",
+      "funFact": "달러 기호 $는 원래 스페인 페소를 표시하던 기호에서 왔다는 설이 널리 알려져 있어요."
+    },
+    {
+      "id": "economy-13871a56",
+      "category": "economy",
+      "difficulty": 2,
+      "question": "브라질의 화폐 단위는?",
+      "choices": [
+        "솔",
+        "페소",
+        "헤알",
+        "에스쿠도"
+      ],
+      "answerIndex": 2,
+      "explanation": "브라질은 1994년부터 헤알을 써요. 포르투갈어로 '왕의'라는 뜻이에요."
+    },
+    {
+      "id": "economy-6ba65527",
+      "category": "economy",
+      "difficulty": 2,
+      "question": "남아프리카공화국의 화폐 단위는?",
+      "choices": [
+        "디르함",
+        "랜드",
+        "나이라",
+        "실링"
+      ],
+      "answerIndex": 1,
+      "explanation": "남아공의 화폐는 랜드예요. 금광이 많던 지역 비트바테르스란트에서 이름을 땄어요."
+    },
+    {
+      "id": "economy-335f592a",
+      "category": "economy",
+      "difficulty": 2,
+      "question": "튀르키예의 화폐 단위는?",
+      "choices": [
+        "리라",
+        "드라크마",
+        "리얄",
+        "디나르"
+      ],
+      "answerIndex": 0,
+      "explanation": "튀르키예는 리라를 써요. 리라는 옛 이탈리아 화폐 이름이기도 했어요."
+    },
+    {
+      "id": "economy-18118df8",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "이자를 계산할 때 처음 맡기거나 빌린 돈은?",
+      "choices": [
+        "잔액",
+        "이자",
+        "수수료",
+        "원금"
+      ],
+      "answerIndex": 3,
+      "explanation": "원금은 처음 맡기거나 빌린 돈 그 자체예요. 이자는 원금에 이율을 곱해 계산해요."
+    },
+    {
+      "id": "economy-f262e0e5",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "원금에만 이자를 붙이고 이자에는 이자를 안 붙이는 방식은?",
+      "choices": [
+        "복리",
+        "변동금리",
+        "연리",
+        "단리"
+      ],
+      "answerIndex": 3,
+      "explanation": "단리는 처음 원금에만 이자를 붙여요. 이자에도 이자가 붙는 복리보다 시간이 갈수록 불어나는 돈이 적어요."
+    },
+    {
+      "id": "economy-d7055cee",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "예금·적금이나 채권에서 약속한 기간이 끝나는 때는?",
+      "choices": [
+        "거치",
+        "만기",
+        "정산",
+        "결산"
+      ],
+      "answerIndex": 1,
+      "explanation": "만기가 되면 약속한 원금과 이자를 받아요. 만기 전에 깨면 약속보다 낮은 이자를 받는 경우가 많아요."
+    },
+    {
+      "id": "economy-619e60e0",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "목돈을 한 번에 맡기고 만기에 이자와 함께 받는 상품은?",
+      "choices": [
+        "정기적금",
+        "보통예금",
+        "정기예금",
+        "청약통장"
+      ],
+      "answerIndex": 2,
+      "explanation": "정기예금은 목돈을 한꺼번에 맡겨요. 매달 나눠 넣는 상품은 적금이에요."
+    },
+    {
+      "id": "economy-e132b8e7",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "한 나라 돈을 다른 나라 돈으로 바꾸는 일은?",
+      "choices": [
+        "환전",
+        "이체",
+        "결제",
+        "송금"
+      ],
+      "answerIndex": 0,
+      "explanation": "해외여행 전에 원화를 달러나 엔으로 바꾸는 것이 환전이에요. 이때 적용되는 비율이 환율이에요."
+    },
+    {
+      "id": "economy-f1fea8eb",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "내 계좌의 돈을 다른 사람 계좌로 옮기는 일은?",
+      "choices": [
+        "출금",
+        "환전",
+        "계좌이체",
+        "대출"
+      ],
+      "answerIndex": 2,
+      "explanation": "계좌이체는 현금 없이 계좌끼리 돈을 옮기는 거예요. 인터넷뱅킹이나 ATM으로 할 수 있어요."
+    },
+    {
+      "id": "economy-bca379c5",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "현금자동입출금기를 뜻하는 영어 약자는?",
+      "choices": [
+        "NFC",
+        "QR",
+        "ATM",
+        "POS"
+      ],
+      "answerIndex": 2,
+      "explanation": "ATM은 Automated Teller Machine의 줄임말이에요. 은행 창구 직원 없이 입출금과 이체를 할 수 있어요.",
+      "funFact": "세계 첫 현금지급기는 1967년 영국 런던의 바클레이스 은행 지점에 설치됐어요."
+    },
+    {
+      "id": "economy-bf595777",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "세금 등을 떼기 전 금액을 뜻하는 말은?",
+      "choices": [
+        "실수령",
+        "세후",
+        "세전",
+        "순이익"
+      ],
+      "answerIndex": 2,
+      "explanation": "세전 금액은 세금과 공제를 빼기 전 금액이에요. 실제 손에 쥐는 돈은 세후 금액이에요."
+    },
+    {
+      "id": "economy-0c787f00",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "1년 동안 받는 급여의 총액을 뜻하는 말은?",
+      "choices": [
+        "시급",
+        "일당",
+        "월급",
+        "연봉"
+      ],
+      "answerIndex": 3,
+      "explanation": "연봉은 1년 치 급여를 합친 금액이에요. 매달 받는 돈은 월급이라고 해요."
+    },
+    {
+      "id": "economy-343225e1",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "일한 시간 1시간당 받는 임금은?",
+      "choices": [
+        "연봉",
+        "일당",
+        "주급",
+        "시급"
+      ],
+      "answerIndex": 3,
+      "explanation": "시급은 1시간 일한 대가예요. 아르바이트 임금을 정할 때 흔히 시급으로 계산해요."
+    },
+    {
+      "id": "economy-ebc1ad80",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "일정 기간 일하고 회사를 떠날 때 받는 돈은?",
+      "choices": [
+        "보너스",
+        "퇴직금",
+        "실업급여",
+        "위로금"
+      ],
+      "answerIndex": 1,
+      "explanation": "법정 퇴직급여는 계속근로기간이 1년 이상이고 4주 평균 주 소정근로시간이 15시간 이상인 근로자 등이 대상이에요. 퇴직연금으로 지급하는 경우도 있어요."
+    },
+    {
+      "id": "economy-2811c668",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "실적이나 개인 성과에 따라 추가로 받는 돈은?",
+      "choices": [
+        "기본급",
+        "성과급",
+        "퇴직금",
+        "수당"
+      ],
+      "answerIndex": 1,
+      "explanation": "성과급은 회사나 개인이 낸 성과에 따라 더 받는 돈이에요. 인센티브라고도 해요."
+    },
+    {
+      "id": "economy-d9c4d913",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "보험 사고가 났을 때 보험사가 지급하는 돈은?",
+      "choices": [
+        "환급금",
+        "보험금",
+        "적립금",
+        "보험료"
+      ],
+      "answerIndex": 1,
+      "explanation": "보험 가입자가 내는 돈은 보험료이고, 사고가 나서 받는 돈은 보험금이에요. 이름이 비슷해 헷갈리기 쉬워요."
+    },
+    {
+      "id": "economy-02ebb868",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "빚을 갚을 수 없어 법원이 재산을 정리하는 절차는?",
+      "choices": [
+        "합병",
+        "상장",
+        "파산",
+        "증자"
+      ],
+      "answerIndex": 2,
+      "explanation": "파산은 빚을 갚을 능력이 없을 때 법원이 남은 재산을 채권자들에게 나눠 주는 절차예요. 개인도 기업도 신청할 수 있어요.",
+      "funFact": "영어 bankrupt는 빚을 못 갚은 상인의 의자를 부쉈다는 이탈리아어 '부서진 의자'에서 왔다는 설이 있어요."
+    },
+    {
+      "id": "economy-e82aa81e",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "돈을 빌려 갚아야 할 의무가 있는 사람은?",
+      "choices": [
+        "채무자",
+        "수탁자",
+        "채권자",
+        "보증인"
+      ],
+      "answerIndex": 0,
+      "explanation": "돈을 빌린 사람이 채무자, 빌려준 사람이 채권자예요. 채무자는 약속대로 원금과 이자를 갚아야 해요."
+    },
+    {
+      "id": "economy-6f91a197",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "채무자가 빚을 갚지 못하면 대신 갚겠다고 약속한 사람은?",
+      "choices": [
+        "보증인",
+        "상속인",
+        "대리인",
+        "채권자"
+      ],
+      "answerIndex": 0,
+      "explanation": "보증인은 채무자가 빚을 못 갚으면 대신 갚을 책임을 져요. 그래서 보증은 신중하게 서야 해요."
+    },
+    {
+      "id": "economy-f7f63209",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "대출 금리가 시장 금리에 따라 바뀌는 방식은?",
+      "choices": [
+        "고정금리",
+        "단리",
+        "변동금리",
+        "우대금리"
+      ],
+      "answerIndex": 2,
+      "explanation": "변동금리는 기준이 되는 시장 금리가 오르내리면 대출 이자도 따라 바뀌어요. 처음 정한 금리가 그대로인 것은 고정금리예요."
+    },
+    {
+      "id": "economy-ac90a33f",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "대출을 만기 전에 갚을 때 내는 수수료는?",
+      "choices": [
+        "연체이자",
+        "중도상환수수료",
+        "취급수수료",
+        "인지세"
+      ],
+      "answerIndex": 1,
+      "explanation": "은행은 대출을 일찍 갚으면 예상한 이자 수익을 잃어서 중도상환수수료를 받아요. 보통 일정 기간이 지나면 면제돼요."
+    },
+    {
+      "id": "economy-c4a39da2",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "급여 이체 등 조건을 채우면 더 얹어 주는 금리는?",
+      "choices": [
+        "기준금리",
+        "가산금리",
+        "우대금리",
+        "연체금리"
+      ],
+      "answerIndex": 2,
+      "explanation": "우대금리는 조건을 채운 고객에게 기본 금리에 더해 주는 금리예요. 예적금 광고의 최고 금리에는 우대금리가 포함된 경우가 많아요."
+    },
+    {
+      "id": "economy-58e4d252",
+      "category": "economy",
+      "difficulty": 2,
+      "question": "신용카드로 단기간 현금을 빌리는 서비스는?",
+      "choices": [
+        "할부",
+        "리볼빙",
+        "체크카드",
+        "현금서비스"
+      ],
+      "answerIndex": 3,
+      "explanation": "현금서비스는 카드 한도 안에서 현금을 빌리는 단기 대출이에요. 이자가 높고 신용점수에 영향을 줄 수 있어요."
+    },
+    {
+      "id": "economy-6b58c5b1",
+      "category": "economy",
+      "difficulty": 2,
+      "question": "카드값의 일부만 내고 나머지를 다음 달로 넘기는 결제 방식은?",
+      "choices": [
+        "할부",
+        "현금서비스",
+        "리볼빙",
+        "선결제"
+      ],
+      "answerIndex": 2,
+      "explanation": "리볼빙은 결제액 일부를 다음 달로 미루는 방식이에요. 넘긴 금액에 높은 수수료가 붙어 빚이 불어나기 쉬워요."
+    },
+    {
+      "id": "economy-c72a2286",
+      "category": "economy",
+      "difficulty": 2,
+      "question": "소득을 줄 때 세금을 미리 떼고 지급하는 제도는?",
+      "choices": [
+        "연말정산",
+        "원천징수",
+        "종합과세",
+        "분리과세"
+      ],
+      "answerIndex": 1,
+      "explanation": "월급이나 이자를 줄 때 지급하는 쪽이 세금을 미리 떼어 국가에 내는 것이 원천징수예요. 나중에 연말정산 등으로 차이를 맞춰요."
+    },
+    {
+      "id": "economy-5814207d",
+      "category": "economy",
+      "difficulty": 2,
+      "question": "매달 원금과 이자를 합친 같은 금액을 갚는 대출 상환 방식은?",
+      "choices": [
+        "원금균등상환",
+        "거치식상환",
+        "만기일시상환",
+        "원리금균등상환"
+      ],
+      "answerIndex": 3,
+      "explanation": "원리금균등상환은 매달 내는 금액이 같아요. 초반에는 이자 비중이 크고 갈수록 원금 비중이 커져요."
+    },
+    {
+      "id": "economy-86290533",
+      "category": "economy",
+      "difficulty": 3,
+      "question": "대출 초기에 이자만 내고 원금 상환을 미루는 기간은?",
+      "choices": [
+        "거치기간",
+        "약정기간",
+        "유예기간",
+        "만기기간"
+      ],
+      "answerIndex": 0,
+      "explanation": "거치기간 동안은 이자만 내요. 거치기간이 끝나면 원금까지 갚아야 해서 매달 부담이 커져요."
+    },
+    {
+      "id": "economy-edc55d69",
+      "category": "economy",
+      "difficulty": 3,
+      "question": "기준금리 위에 신용도 등에 따라 더 붙는 금리는?",
+      "choices": [
+        "실질금리",
+        "표면금리",
+        "가산금리",
+        "우대금리"
+      ],
+      "answerIndex": 2,
+      "explanation": "대출 금리는 기준이 되는 금리에 가산금리를 더해 정해요. 신용도가 낮을수록 가산금리가 높아지기 쉬워요."
+    },
+    {
+      "id": "economy-04f7872a",
+      "category": "economy",
+      "difficulty": 2,
+      "question": "증권사의 수시입출금 계좌로, 하루만 맡겨도 이자가 붙는 것은?",
+      "choices": [
+        "IRP",
+        "ELS",
+        "ISA",
+        "CMA"
+      ],
+      "answerIndex": 3,
+      "explanation": "CMA는 종합자산관리계좌로 증권사가 맡긴 돈을 단기 상품에 굴려 이자를 줘요. 언제든 넣고 뺄 수 있어요."
+    },
+    {
+      "id": "economy-d26dc33b",
+      "category": "economy",
+      "difficulty": 3,
+      "question": "여러 금융상품을 한 계좌에 담아 세금 혜택을 주는 계좌는?",
+      "choices": [
+        "CMA",
+        "ISA",
+        "IRP",
+        "MMF"
+      ],
+      "answerIndex": 1,
+      "explanation": "ISA는 개인종합자산관리계좌예요. 예금, 펀드, 주식 등을 한 계좌에서 운용하고 일정 한도까지 수익에 세제 혜택을 줘요."
+    },
+    {
+      "id": "economy-bb958158",
+      "category": "economy",
+      "difficulty": 3,
+      "question": "퇴직금을 받아 굴리거나 개인이 따로 넣는 퇴직연금 계좌는?",
+      "choices": [
+        "ISA",
+        "CMA",
+        "IRP",
+        "ETF"
+      ],
+      "answerIndex": 2,
+      "explanation": "IRP는 개인형 퇴직연금이에요. 이직할 때 받은 퇴직금을 옮겨 두거나 스스로 돈을 더 넣어 노후를 준비할 수 있어요."
+    },
+    {
+      "id": "economy-34f42e21",
+      "category": "economy",
+      "difficulty": 3,
+      "question": "퇴직 때 받을 금액이 미리 정해진 퇴직연금 유형은?",
+      "choices": [
+        "연금저축형",
+        "개인형",
+        "확정기여형",
+        "확정급여형"
+      ],
+      "answerIndex": 3,
+      "explanation": "확정급여형(DB)은 회사가 돈을 운용하고 근로자는 정해진 금액을 받아요. 근로자가 직접 운용하는 것은 확정기여형(DC)이에요."
+    },
+    {
+      "id": "economy-7865d002",
+      "category": "economy",
+      "difficulty": 2,
+      "question": "세입자가 보증금을 지키려 계약서에 받는 날짜 도장은?",
+      "choices": [
+        "확정일자",
+        "공증일자",
+        "인감증명",
+        "계약일자"
+      ],
+      "answerIndex": 0,
+      "explanation": "주택을 인도받고 전입신고를 해 대항요건을 갖춘 뒤 확정일자도 받아 두면, 경매에서 순위에 따라 보증금을 우선 변제받을 권리가 생겨요."
+    },
+    {
+      "id": "economy-2c2c8d34",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "부동산의 소유자와 권리관계를 적은 공적 장부는?",
+      "choices": [
+        "건축물대장",
+        "등기부등본",
+        "주민등록등본",
+        "토지이용계획"
+      ],
+      "answerIndex": 1,
+      "explanation": "등기부등본에는 집주인, 근저당 같은 권리관계가 적혀 있어요. 집을 사거나 빌리기 전에 꼭 확인해야 해요."
+    },
+    {
+      "id": "economy-a008ca66",
+      "category": "economy",
+      "difficulty": 3,
+      "question": "모든 대출의 연간 원리금 상환액을 연소득으로 나눈 비율은?",
+      "choices": [
+        "DSR",
+        "LTV",
+        "DTI",
+        "BIS"
+      ],
+      "answerIndex": 0,
+      "explanation": "DSR은 총부채원리금상환비율이에요. 주택담보대출뿐 아니라 신용대출 등 모든 대출의 원리금을 따져 갚을 능력을 봐요."
+    },
+    {
+      "id": "economy-cf91d77a",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "일하다 다치거나 병든 근로자를 보상하는 사회보험은?",
+      "choices": [
+        "산재보험",
+        "고용보험",
+        "국민연금",
+        "실손보험"
+      ],
+      "answerIndex": 0,
+      "explanation": "산업재해보상보험은 업무 중 사고나 질병을 당한 근로자에게 치료비와 휴업급여 등을 줘요. 보험료는 사업주가 내요."
+    },
+    {
+      "id": "economy-aa38b9e7",
+      "category": "economy",
+      "difficulty": 2,
+      "question": "일은 하지만 소득이 낮은 가구에 국가가 주는 지원금은?",
+      "choices": [
+        "기초연금",
+        "아동수당",
+        "근로장려금",
+        "실업급여"
+      ],
+      "answerIndex": 2,
+      "explanation": "근로장려금은 소득과 재산 등 요건을 충족하는 저소득 근로자·사업자 가구 등을 지원해요. 지급액은 소득 구간에 따라 늘거나 일정하거나 줄어들 수 있어요."
+    },
+    {
+      "id": "economy-9e000850",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "다른 조건이 같을 때 물건값이 오르면 공급량은 보통?",
+      "choices": [
+        "0이 된다",
+        "늘어난다",
+        "줄어든다",
+        "변하지 않는다"
+      ],
+      "answerIndex": 1,
+      "explanation": "값이 오르면 더 팔아 이익을 보려는 생산자가 많아져 공급량이 늘어요. 이것을 공급의 법칙이라고 해요."
+    },
+    {
+      "id": "economy-68b7f4cf",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "커피와 설탕처럼 함께 쓸 때 만족이 커지는 재화는?",
+      "choices": [
+        "보완재",
+        "대체재",
+        "열등재",
+        "공공재"
+      ],
+      "answerIndex": 0,
+      "explanation": "보완재는 같이 써야 더 좋은 재화예요. 한쪽 값이 오르면 다른 쪽 수요도 함께 줄어드는 경향이 있어요."
+    },
+    {
+      "id": "economy-80ee8761",
+      "category": "economy",
+      "difficulty": 2,
+      "question": "소득이 늘면 수요도 따라 느는 일반적인 재화는?",
+      "choices": [
+        "열등재",
+        "공공재",
+        "기펜재",
+        "정상재"
+      ],
+      "answerIndex": 3,
+      "explanation": "대부분의 재화는 소득이 늘면 더 많이 사는 정상재예요. 소득이 늘 때 오히려 덜 사는 재화는 열등재라고 해요."
+    },
+    {
+      "id": "economy-4e87d878",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "전통적인 생산의 3요소에 속하지 않는 것은?",
+      "choices": [
+        "노동",
+        "소비",
+        "자본",
+        "토지"
+      ],
+      "answerIndex": 1,
+      "explanation": "고전 경제학은 토지, 노동, 자본을 생산의 3요소로 봤어요. 요즘은 여기에 기업가 정신을 더하기도 해요."
+    },
+    {
+      "id": "economy-9f237257",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "몇몇 소수 기업이 시장을 나눠 차지한 형태는?",
+      "choices": [
+        "과점",
+        "완전경쟁",
+        "독점적 경쟁",
+        "독점"
+      ],
+      "answerIndex": 0,
+      "explanation": "과점은 소수 기업이 시장 대부분을 차지한 상태예요. 통신이나 정유처럼 큰 설비가 필요한 산업에서 흔해요."
+    },
+    {
+      "id": "economy-bcf5f76d",
+      "category": "economy",
+      "difficulty": 2,
+      "question": "수많은 공급자가 똑같은 상품을 파는 이론상 시장은?",
+      "choices": [
+        "완전경쟁시장",
+        "독점시장",
+        "과점시장",
+        "독점적 경쟁"
+      ],
+      "answerIndex": 0,
+      "explanation": "완전경쟁시장에서는 누구도 혼자 가격을 정하지 못하고 시장가격을 따라요. 현실에서는 거의 없고 이론의 기준점으로 쓰여요."
+    },
+    {
+      "id": "economy-42ecf7c0",
+      "category": "economy",
+      "difficulty": 3,
+      "question": "음식점·미용실처럼 다수가 조금씩 다른 상품으로 경쟁하는 시장은?",
+      "choices": [
+        "독점적 경쟁시장",
+        "완전경쟁시장",
+        "과점시장",
+        "독점시장"
+      ],
+      "answerIndex": 0,
+      "explanation": "독점적 경쟁시장에는 판매자가 많지만 맛이나 서비스로 차별화해 약간의 가격 결정력을 가져요. 진입과 퇴출도 비교적 자유로워요."
+    },
+    {
+      "id": "economy-413a98c7",
+      "category": "economy",
+      "difficulty": 3,
+      "question": "전기·수도처럼 한 기업이 공급하는 게 더 효율적인 독점은?",
+      "choices": [
+        "자연독점",
+        "카르텔",
+        "과점",
+        "법적독점"
+      ],
+      "answerIndex": 0,
+      "explanation": "설비에 큰돈이 들어 공급자가 하나일 때 평균비용이 가장 낮아지는 경우를 자연독점이라 해요. 그래서 정부가 직접 운영하거나 요금을 규제하기도 해요."
+    },
+    {
+      "id": "economy-8bf3f91b",
+      "category": "economy",
+      "difficulty": 2,
+      "question": "영화 조조할인·학생할인처럼 같은 상품을 다른 값에 파는 것은?",
+      "choices": [
+        "가격차별",
+        "담합",
+        "덤핑",
+        "끼워팔기"
+      ],
+      "answerIndex": 0,
+      "explanation": "가격차별은 소비자 집단마다 지불 의사가 달라 서로 다른 가격을 매기는 전략이에요. 기업은 이를 통해 이윤을 늘려요."
+    },
+    {
+      "id": "economy-a57c4a0a",
+      "category": "economy",
+      "difficulty": 2,
+      "question": "정부가 최고가격을 시장가보다 낮게 정하면 생기기 쉬운 불법 시장은?",
+      "choices": [
+        "도매시장",
+        "벼룩시장",
+        "장외시장",
+        "암시장"
+      ],
+      "answerIndex": 3,
+      "explanation": "최고가격제로 값이 묶이면 사려는 사람이 팔려는 사람보다 많아져요. 그러면 더 비싼 값에 몰래 거래하는 암시장이 생기기 쉬워요."
+    },
+    {
+      "id": "economy-f86a3bb8",
+      "category": "economy",
+      "difficulty": 2,
+      "question": "최저임금제는 어떤 가격 규제에 해당할까요?",
+      "choices": [
+        "최저가격제",
+        "최고가격제",
+        "가격담합",
+        "가격차별"
+      ],
+      "answerIndex": 0,
+      "explanation": "최저임금은 노동의 가격인 임금이 일정 수준 아래로 못 내려가게 하는 제도예요. 그래서 최저가격제의 대표 사례로 꼽혀요."
+    },
+    {
+      "id": "economy-5b34231f",
+      "category": "economy",
+      "difficulty": 3,
+      "question": "낼 의향이 있던 금액에서 실제 낸 값을 뺀 이득은?",
+      "choices": [
+        "한계효용",
+        "기회비용",
+        "생산자잉여",
+        "소비자잉여"
+      ],
+      "answerIndex": 3,
+      "explanation": "1만 원까지 낼 생각이던 물건을 7천 원에 샀다면 3천 원이 소비자잉여예요. 시장 거래가 소비자에게 주는 이득을 재는 개념이에요."
+    },
+    {
+      "id": "economy-7823cdd2",
+      "category": "economy",
+      "difficulty": 2,
+      "question": "물건 하나를 더 생산할 때 추가로 드는 비용은?",
+      "choices": [
+        "매몰비용",
+        "평균비용",
+        "한계비용",
+        "고정비용"
+      ],
+      "answerIndex": 2,
+      "explanation": "한계비용은 생산량을 한 단위 늘릴 때 늘어나는 비용이에요. 기업은 한계수입과 한계비용이 같아지는 지점에서 생산량을 정해요."
+    },
+    {
+      "id": "economy-67a8f30a",
+      "category": "economy",
+      "difficulty": 2,
+      "question": "임대료처럼 생산량과 관계없이 드는 비용은?",
+      "choices": [
+        "고정비용",
+        "기회비용",
+        "변동비용",
+        "한계비용"
+      ],
+      "answerIndex": 0,
+      "explanation": "고정비용은 물건을 하나도 안 만들어도 나가는 돈이에요. 재료비처럼 생산량에 따라 늘고 줄어드는 비용은 변동비용이에요."
+    },
+    {
+      "id": "economy-523e327e",
+      "category": "economy",
+      "difficulty": 2,
+      "question": "다른 요소는 그대로 두고 노동만 늘리면 추가 생산량이 줄어드는 현상은?",
+      "choices": [
+        "수요의 법칙",
+        "세이의 법칙",
+        "규모의 경제",
+        "수확체감의 법칙"
+      ],
+      "answerIndex": 3,
+      "explanation": "밭 크기는 그대로인데 일꾼만 계속 늘리면 한 명이 더해질 때 늘어나는 수확량은 점점 줄어요. 이것이 수확체감의 법칙이에요."
+    },
+    {
+      "id": "economy-383ae9af",
+      "category": "economy",
+      "difficulty": 3,
+      "question": "한 기업이 여러 상품을 함께 생산해 비용이 줄어드는 현상은?",
+      "choices": [
+        "범위의 경제",
+        "수확체감",
+        "네트워크 효과",
+        "규모의 경제"
+      ],
+      "answerIndex": 0,
+      "explanation": "범위의 경제는 생산 설비나 기술을 여러 상품에 같이 써서 따로 만들 때보다 비용이 줄어드는 거예요. 규모를 키워 단가를 낮추는 규모의 경제와 달라요."
+    },
+    {
+      "id": "economy-a030452c",
+      "category": "economy",
+      "difficulty": 3,
+      "question": "자원을 모두 써서 생산할 수 있는 두 재화의 최대 조합을 이은 선은?",
+      "choices": [
+        "무차별곡선",
+        "생산가능곡선",
+        "필립스 곡선",
+        "로렌츠 곡선"
+      ],
+      "answerIndex": 1,
+      "explanation": "생산가능곡선은 한정된 자원으로 만들 수 있는 최대 생산 조합을 보여 줘요. 한 재화를 더 만들려면 다른 재화를 포기해야 한다는 기회비용을 담고 있어요."
+    },
+    {
+      "id": "economy-14ec8e8c",
+      "category": "economy",
+      "difficulty": 2,
+      "question": "경제의 3대 기본 문제에 속하지 않는 것은?",
+      "choices": [
+        "무엇을 생산할까",
+        "언제 생산할까",
+        "누구에게 분배할까",
+        "어떻게 생산할까"
+      ],
+      "answerIndex": 1,
+      "explanation": "경제의 기본 문제는 무엇을, 어떻게, 누구를 위해 생산할지예요. 자원이 희소해서 이 선택이 필요해요."
+    },
+    {
+      "id": "economy-2dea1863",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "정부가 생산과 분배를 계획하고 지시하는 경제 체제는?",
+      "choices": [
+        "시장경제",
+        "자유방임",
+        "혼합경제",
+        "계획경제"
+      ],
+      "answerIndex": 3,
+      "explanation": "계획경제에서는 정부가 무엇을 얼마나 만들지 정해요. 옛 소련이 대표적인 예예요."
+    },
+    {
+      "id": "economy-14d126a4",
+      "category": "economy",
+      "difficulty": 2,
+      "question": "시장경제를 바탕으로 정부가 일부 개입하는 경제 체제는?",
+      "choices": [
+        "자유방임",
+        "중상주의",
+        "혼합경제",
+        "계획경제"
+      ],
+      "answerIndex": 2,
+      "explanation": "오늘날 대부분의 나라는 시장에 맡기되 복지, 규제 등으로 정부가 개입하는 혼합경제예요. 대공황 이후 널리 자리 잡았어요."
+    },
+    {
+      "id": "economy-a16dce68",
+      "category": "economy",
+      "difficulty": 3,
+      "question": "소득 증가율보다 수요 증가율이 더 큰 재화는?",
+      "choices": [
+        "사치재",
+        "기펜재",
+        "필수재",
+        "열등재"
+      ],
+      "answerIndex": 0,
+      "explanation": "사치재는 수요의 소득탄력성이 1보다 커요. 소득이 10% 늘 때 수요가 그보다 더 많이 늘어나는 재화예요."
+    },
+    {
+      "id": "economy-a9d49541",
+      "category": "economy",
+      "difficulty": 3,
+      "question": "재산처럼 특정 시점을 기준으로 측정하는 경제 변수는?",
+      "choices": [
+        "실질변수",
+        "유량",
+        "저량",
+        "명목변수"
+      ],
+      "answerIndex": 2,
+      "explanation": "저량(스톡)은 특정 시점의 양이고 유량(플로)은 일정 기간의 양이에요. 재산은 저량, 소득은 유량의 예예요."
+    },
+    {
+      "id": "economy-729646fb",
+      "category": "economy",
+      "difficulty": 2,
+      "question": "시장에 맡겨도 자원이 효율적으로 배분되지 못하는 상태는?",
+      "choices": [
+        "정부실패",
+        "시장실패",
+        "균형가격",
+        "완전고용"
+      ],
+      "answerIndex": 1,
+      "explanation": "공공재, 외부효과, 독점, 정보 비대칭 같은 이유로 시장이 제대로 작동하지 않는 것을 시장실패라 해요. 정부 개입의 근거가 되기도 해요."
+    },
+    {
+      "id": "economy-f3ae4907",
+      "category": "economy",
+      "difficulty": 2,
+      "question": "대가를 내지 않고 남이 만든 혜택만 누리는 사람의 문제는?",
+      "choices": [
+        "무임승차자 문제",
+        "도덕적 해이",
+        "역선택",
+        "주인-대리인 문제"
+      ],
+      "answerIndex": 0,
+      "explanation": "공공재는 돈을 안 낸 사람도 막기 어려워 다들 비용을 피하려 해요. 그래서 시장에 맡기면 공공재가 적게 공급돼요."
+    },
+    {
+      "id": "economy-ca7d3cb3",
+      "category": "economy",
+      "difficulty": 3,
+      "question": "오염처럼 남에게 피해를 주는 활동에 매겨 손해를 반영하는 세금은?",
+      "choices": [
+        "인두세",
+        "토빈세",
+        "목적세",
+        "피구세"
+      ],
+      "answerIndex": 3,
+      "explanation": "피구세는 영국 경제학자 피구의 이름을 땄어요. 외부효과로 생긴 사회적 비용을 가격에 반영해 그 활동을 줄이게 하는 세금이에요."
+    },
+    {
+      "id": "economy-0d38b289",
+      "category": "economy",
+      "difficulty": 3,
+      "question": "재산권이 분명하면 당사자 협상으로 외부효과를 풀 수 있다는 이론은?",
+      "choices": [
+        "오쿤의 법칙",
+        "세이의 법칙",
+        "코즈 정리",
+        "그레셤 법칙"
+      ],
+      "answerIndex": 2,
+      "explanation": "코즈 정리는 거래비용이 작고 권리가 분명하면 정부가 없어도 협상으로 효율적인 결과가 나온다고 봐요. 로널드 코즈가 제시했어요."
+    },
+    {
+      "id": "economy-182143e1",
+      "category": "economy",
+      "difficulty": 2,
+      "question": "사용자가 많을수록 그 상품의 가치가 커지는 효과는?",
+      "choices": [
+        "밴드왜건 효과",
+        "규모의 경제",
+        "네트워크 효과",
+        "잠금 효과"
+      ],
+      "answerIndex": 2,
+      "explanation": "메신저는 친구가 많이 쓸수록 쓸모가 커져요. 이처럼 이용자 수가 가치를 키우는 것을 네트워크 효과라고 해요."
+    },
+    {
+      "id": "economy-60a82ebf",
+      "category": "economy",
+      "difficulty": 3,
+      "question": "바꾸는 비용이 커서 쓰던 제품을 계속 쓰게 되는 현상은?",
+      "choices": [
+        "후광 효과",
+        "네트워크 효과",
+        "보유 효과",
+        "잠금 효과"
+      ],
+      "answerIndex": 3,
+      "explanation": "잠금 효과는 다른 제품으로 바꾸려면 시간과 돈이 많이 들어 기존 제품에 묶이는 현상이에요. 쿼티 자판이 자주 드는 예예요."
+    },
+    {
+      "id": "economy-f44da2af",
+      "category": "economy",
+      "difficulty": 2,
+      "question": "덜 팔리는 다수 상품의 매출 합이 인기 상품보다 클 수 있다는 법칙은?",
+      "choices": [
+        "그레셤 법칙",
+        "롱테일 법칙",
+        "파레토 법칙",
+        "엥겔 법칙"
+      ],
+      "answerIndex": 1,
+      "explanation": "롱테일 법칙은 온라인처럼 진열 비용이 거의 없는 곳에서 비인기 상품의 합이 커진다는 생각이에요. 상위 20%를 강조하는 파레토 법칙과 반대 관점이에요.",
+      "funFact": "이름은 판매량 그래프에서 꼬리처럼 길게 늘어진 부분에서 따왔어요."
+    },
+    {
+      "id": "economy-fb05d203",
+      "category": "economy",
+      "difficulty": 3,
+      "question": "정보가 적은 상대에게 자격증 등으로 능력을 알리는 행동은?",
+      "choices": [
+        "선별하기",
+        "역선택",
+        "무임승차",
+        "신호 보내기"
+      ],
+      "answerIndex": 3,
+      "explanation": "신호 보내기(시그널링)는 정보를 더 가진 쪽이 학력, 보증 같은 증거로 자신의 질을 보여 주는 거예요. 정보 비대칭을 줄이는 방법이에요."
+    },
+    {
+      "id": "economy-7ad988b8",
+      "category": "economy",
+      "difficulty": 3,
+      "question": "일을 맡긴 사람과 맡은 사람의 이해가 달라 생기는 문제는?",
+      "choices": [
+        "무임승차자 문제",
+        "공유지의 비극",
+        "주인-대리인 문제",
+        "죄수의 딜레마"
+      ],
+      "answerIndex": 2,
+      "explanation": "주주가 경영자에게 회사를 맡겼는데 경영자가 자기 이익을 먼저 챙기는 것이 대표 예예요. 성과급이나 감시로 이를 줄이려 해요."
+    },
+    {
+      "id": "economy-bcdeaa6a",
+      "category": "economy",
+      "difficulty": 3,
+      "question": "모두가 상대 전략을 알 때 혼자 전략을 바꿀 이유가 없는 상태는?",
+      "choices": [
+        "파레토 최적",
+        "부분 균형",
+        "내시 균형",
+        "일반 균형"
+      ],
+      "answerIndex": 2,
+      "explanation": "내시 균형은 각자 자신의 최선을 택해 아무도 먼저 바꾸려 하지 않는 상태예요. 수학자 존 내시가 정리했어요.",
+      "funFact": "존 내시의 삶은 영화 「뷰티풀 마인드」로 만들어졌어요."
+    },
+    {
+      "id": "economy-5cd49141",
+      "category": "economy",
+      "difficulty": 2,
+      "question": "같은 크기라도 이익보다 손실을 더 크게 느끼는 성향은?",
+      "choices": [
+        "확증 편향",
+        "손실 회피",
+        "낙관 편향",
+        "후광 효과"
+      ],
+      "answerIndex": 1,
+      "explanation": "손실 회피는 1만 원을 잃는 아픔이 1만 원을 얻는 기쁨보다 크게 느껴지는 성향이에요. 행동경제학의 핵심 개념이에요."
+    },
+    {
+      "id": "economy-dd58a553",
+      "category": "economy",
+      "difficulty": 2,
+      "question": "처음 본 숫자에 판단이 끌려가는 현상은?",
+      "choices": [
+        "앵커링 효과",
+        "후광 효과",
+        "밴드왜건 효과",
+        "플라시보 효과"
+      ],
+      "answerIndex": 0,
+      "explanation": "정가를 먼저 보여 주고 할인가를 보여 주면 싸게 느껴지는 게 앵커링 효과예요. 배가 닻을 내린 곳 주변에 머무는 모습에서 이름을 땄어요."
+    },
+    {
+      "id": "economy-35c28e60",
+      "category": "economy",
+      "difficulty": 2,
+      "question": "내 것이 된 물건을 더 가치 있게 느끼는 심리는?",
+      "choices": [
+        "밴드왜건 효과",
+        "앵커링 효과",
+        "보유 효과",
+        "잠금 효과"
+      ],
+      "answerIndex": 2,
+      "explanation": "같은 머그컵이라도 가진 사람은 사려는 사람보다 더 높은 값을 불러요. 소유하는 것만으로 가치를 높게 보는 심리예요."
+    },
+    {
+      "id": "economy-27da4bd2",
+      "category": "economy",
+      "difficulty": 3,
+      "question": "같은 돈도 출처나 용도에 따라 다르게 다루는 심리는?",
+      "choices": [
+        "손실 회피",
+        "심적 회계",
+        "보유 효과",
+        "매몰비용 오류"
+      ],
+      "answerIndex": 1,
+      "explanation": "월급은 아껴 쓰면서 보너스는 쉽게 쓰는 것이 심적 회계의 예예요. 리처드 세일러가 이름 붙인 개념이에요."
+    },
+    {
+      "id": "economy-621ddb1b",
+      "category": "economy",
+      "difficulty": 3,
+      "question": "부드럽게 개입해 더 나은 선택을 유도한다는 '넛지'를 알린 학자는?",
+      "choices": [
+        "대니얼 카너먼",
+        "폴 새뮤얼슨",
+        "리처드 세일러",
+        "밀턴 프리드먼"
+      ],
+      "answerIndex": 2,
+      "explanation": "리처드 세일러는 캐스 선스타인과 함께 『넛지』를 써서 이 개념을 널리 알렸어요. 행동경제학 공로로 노벨 경제학상을 받았어요."
+    },
+    {
+      "id": "economy-4282ea33",
+      "category": "economy",
+      "difficulty": 3,
+      "question": "전망이론으로 행동경제학의 토대를 놓은 심리학자는?",
+      "choices": [
+        "허버트 사이먼",
+        "리처드 세일러",
+        "존 내시",
+        "대니얼 카너먼"
+      ],
+      "answerIndex": 3,
+      "explanation": "카너먼은 아모스 트버스키와 함께 전망이론을 내놓았어요. 심리학자로서 노벨 경제학상을 받았어요."
+    },
+    {
+      "id": "economy-b1d4b26d",
+      "category": "economy",
+      "difficulty": 3,
+      "question": "'공급은 스스로 수요를 창출한다'는 고전학파의 주장은?",
+      "choices": [
+        "오쿤의 법칙",
+        "엥겔 법칙",
+        "세이의 법칙",
+        "그레셤 법칙"
+      ],
+      "answerIndex": 2,
+      "explanation": "프랑스 경제학자 장 바티스트 세이의 이름을 땄어요. 만들어진 만큼 결국 팔린다고 봤지만 대공황 뒤 케인스에게 비판받았어요."
+    },
+    {
+      "id": "economy-da0c0d29",
+      "category": "economy",
+      "difficulty": 2,
+      "question": "모두가 저축을 늘리면 오히려 경제 전체가 나빠질 수 있다는 것은?",
+      "choices": [
+        "풍요의 역설",
+        "절약의 역설",
+        "구성의 오류",
+        "가치의 역설"
+      ],
+      "answerIndex": 1,
+      "explanation": "개인에게는 저축이 좋지만 모두 소비를 줄이면 기업 매출과 소득이 줄어 총저축도 늘지 않을 수 있어요. 케인스가 강조한 개념이에요."
+    },
+    {
+      "id": "economy-648b6fa8",
+      "category": "economy",
+      "difficulty": 3,
+      "question": "부분에서 옳은 것이 전체에서도 옳다고 믿는 잘못은?",
+      "choices": [
+        "매몰비용 오류",
+        "인과의 오류",
+        "분할의 오류",
+        "구성의 오류"
+      ],
+      "answerIndex": 3,
+      "explanation": "공연장에서 한 사람이 일어서면 잘 보이지만 모두 일어서면 아무도 잘 보지 못해요. 이처럼 개인과 전체를 같다고 보는 착각이 구성의 오류예요."
+    },
+    {
+      "id": "economy-1e6ddb0f",
+      "category": "economy",
+      "difficulty": 2,
+      "question": "실업률과 물가상승률이 반대로 움직이는 관계를 나타낸 곡선은?",
+      "choices": [
+        "쿠즈네츠 곡선",
+        "래퍼 곡선",
+        "로렌츠 곡선",
+        "필립스 곡선"
+      ],
+      "answerIndex": 3,
+      "explanation": "필립스 곡선은 실업률이 낮으면 물가가 많이 오르고 실업률이 높으면 덜 오르는 관계를 보여 줘요. 뉴질랜드 출신 경제학자 필립스가 제시했어요."
+    },
+    {
+      "id": "economy-e0ee0f06",
+      "category": "economy",
+      "difficulty": 3,
+      "question": "실업률과 경제성장률 사이의 경험적 관계를 정리한 법칙은?",
+      "choices": [
+        "왈라스 법칙",
+        "오쿤의 법칙",
+        "세이의 법칙",
+        "엥겔 법칙"
+      ],
+      "answerIndex": 1,
+      "explanation": "오쿤의 법칙은 실업률이 오르면 실제 생산이 잠재 생산보다 일정 비율 줄어든다는 관계예요. 미국 경제학자 아서 오쿤이 정리했어요."
+    },
+    {
+      "id": "economy-37cbcd25",
+      "category": "economy",
+      "difficulty": 2,
+      "question": "세율이 너무 높으면 오히려 세수가 줄 수 있음을 보여 주는 곡선은?",
+      "choices": [
+        "필립스 곡선",
+        "공급 곡선",
+        "래퍼 곡선",
+        "로렌츠 곡선"
+      ],
+      "answerIndex": 2,
+      "explanation": "래퍼 곡선은 세율이 0%일 때와 100%일 때 모두 세수가 0이 된다는 아이디어에서 나왔어요. 그 사이 어딘가에 세수가 가장 큰 세율이 있다고 봐요.",
+      "funFact": "경제학자 래퍼가 식당 냅킨에 이 곡선을 그려 설명했다는 일화가 유명해요."
+    },
+    {
+      "id": "economy-b30f13d2",
+      "category": "economy",
+      "difficulty": 3,
+      "question": "경제가 성장하면 불평등이 커졌다가 다시 줄어든다는 역U자 곡선은?",
+      "choices": [
+        "필립스 곡선",
+        "로렌츠 곡선",
+        "래퍼 곡선",
+        "쿠즈네츠 곡선"
+      ],
+      "answerIndex": 3,
+      "explanation": "쿠즈네츠 곡선은 산업화 초기에는 불평등이 커지다가 성숙하면 줄어든다는 가설이에요. GNP 개념을 다듬은 사이먼 쿠즈네츠가 제시했어요."
+    },
+    {
+      "id": "economy-49c3c8d6",
+      "category": "economy",
+      "difficulty": 3,
+      "question": "지니계수를 구할 때 바탕이 되는 소득 분포 곡선은?",
+      "choices": [
+        "로렌츠 곡선",
+        "래퍼 곡선",
+        "필립스 곡선",
+        "수요 곡선"
+      ],
+      "answerIndex": 0,
+      "explanation": "로렌츠 곡선은 인구 누적 비율과 소득 누적 비율의 관계를 그린 선이에요. 완전평등선에서 멀어질수록 불평등이 커요."
+    },
+    {
+      "id": "economy-7e701d38",
+      "category": "economy",
+      "difficulty": 2,
+      "question": "모든 가구를 소득순으로 세웠을 때 한가운데 가구의 소득은?",
+      "choices": [
+        "최저소득",
+        "중위소득",
+        "평균소득",
+        "가처분소득"
+      ],
+      "answerIndex": 1,
+      "explanation": "중위소득은 딱 중간에 있는 가구의 소득이에요. 소수의 고소득자에게 덜 흔들려 평균소득보다 보통 사람의 형편을 잘 보여 줘요."
+    },
+    {
+      "id": "economy-77d5fdc2",
+      "category": "economy",
+      "difficulty": 3,
+      "question": "OECD가 상대적 빈곤을 가르는 기준은 중위소득의 몇 %?",
+      "choices": [
+        "40%",
+        "60%",
+        "30%",
+        "50%"
+      ],
+      "answerIndex": 3,
+      "explanation": "OECD는 중위소득의 50% 미만을 상대적 빈곤층으로 봐요. 이 비율로 나라별 상대적 빈곤율을 비교해요."
+    },
+    {
+      "id": "economy-91665cea",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "경제활동인구 가운데 실업자가 차지하는 비율은?",
+      "choices": [
+        "실업률",
+        "경제성장률",
+        "취업률",
+        "고용률"
+      ],
+      "answerIndex": 0,
+      "explanation": "실업률은 일할 의사와 능력이 있는 사람 중 일자리가 없는 사람의 비율이에요. 구직을 아예 포기한 사람은 실업자에 들어가지 않아요."
+    },
+    {
+      "id": "economy-496a9726",
+      "category": "economy",
+      "difficulty": 2,
+      "question": "더 나은 직장을 찾아 옮기는 과정에서 잠시 생기는 실업은?",
+      "choices": [
+        "구조적 실업",
+        "마찰적 실업",
+        "계절적 실업",
+        "경기적 실업"
+      ],
+      "answerIndex": 1,
+      "explanation": "마찰적 실업은 이직이나 첫 구직 과정에서 생기는 짧은 실업이에요. 경제가 좋아도 어느 정도는 늘 있어요."
     }
   ]
 }

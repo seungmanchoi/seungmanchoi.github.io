@@ -1,0 +1,153 @@
+{
+  "version": 1,
+  "id": "daily-2027-03-22",
+  "date": "2027-03-22",
+  "questions": [
+    {
+      "id": "korean-2ca8b440",
+      "category": "korean",
+      "difficulty": 1,
+      "question": "하늘이 미리 정해 준 인연을 뜻하는 사자성어는?",
+      "choices": [
+        "견원지간",
+        "금의환향",
+        "천생연분",
+        "죽마고우"
+      ],
+      "answerIndex": 2,
+      "explanation": "천생연분(天生緣分)은 하늘에서 정해 준 인연으로, 잘 어울리는 부부를 이를 때 자주 써요.",
+      "funFact": "비슷한 말로 '천정배필'이라는 표현도 있어요."
+    },
+    {
+      "id": "culture-dd7b9b39",
+      "category": "culture",
+      "difficulty": 1,
+      "question": "『선녀와 나무꾼』에서 나무꾼이 선녀를 붙잡으려고 숨긴 것은?",
+      "choices": [
+        "날개옷",
+        "꽃신",
+        "거울",
+        "비녀"
+      ],
+      "answerIndex": 0,
+      "explanation": "사슴이 알려 준 대로 나무꾼은 목욕하던 선녀의 날개옷을 숨겨요. 날개옷이 없어 선녀는 하늘로 돌아가지 못했어요."
+    },
+    {
+      "id": "economy-9610cbaf",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "우리나라 1원 동전에 새겨진 그림은?",
+      "choices": [
+        "다보탑",
+        "무궁화",
+        "거북선",
+        "벼 이삭"
+      ],
+      "answerIndex": 1,
+      "explanation": "1원 동전에는 나라꽃 무궁화가 새겨져 있어요.",
+      "funFact": "1원 동전은 지금은 일반 유통용으로 거의 만들지 않아요."
+    },
+    {
+      "id": "science-5500f14a",
+      "category": "science",
+      "difficulty": 1,
+      "question": "연필심을 만드는 주재료는?",
+      "choices": [
+        "석탄",
+        "숯",
+        "납",
+        "흑연"
+      ],
+      "answerIndex": 3,
+      "explanation": "연필심은 흑연에 점토를 섞어 구워 만들어요. 이름과 달리 납은 들어 있지 않아요.",
+      "funFact": "흑연을 처음 발견한 사람들이 납의 일종으로 착각해서 '연(鉛)필'이라는 이름이 붙었어요."
+    },
+    {
+      "id": "life-f8cdd6aa",
+      "category": "life",
+      "difficulty": 2,
+      "question": "대상포진은 어떤 병을 일으킨 바이러스가 다시 활동해 생길까요?",
+      "choices": [
+        "홍역",
+        "볼거리",
+        "수두",
+        "독감"
+      ],
+      "answerIndex": 2,
+      "explanation": "어릴 때 걸린 수두 바이러스가 신경절에 숨어 있다가 면역이 떨어지면 다시 활동해 대상포진이 돼요."
+    },
+    {
+      "id": "history-c66a5469",
+      "category": "history",
+      "difficulty": 2,
+      "question": "기원전 5세기 말 아테네와 스파르타가 그리스 패권을 두고 벌인 전쟁은?",
+      "choices": [
+        "페르시아 전쟁",
+        "펠로폰네소스 전쟁",
+        "포에니 전쟁",
+        "트로이 전쟁"
+      ],
+      "answerIndex": 1,
+      "explanation": "약 27년 동안 이어진 이 전쟁에서 스파르타가 이겼어요. 그 뒤 그리스 폴리스들은 점점 힘을 잃었어요.",
+      "funFact": "역사가 투키디데스가 이 전쟁의 기록을 남겼어요."
+    },
+    {
+      "id": "space-102caa05",
+      "category": "space",
+      "difficulty": 2,
+      "question": "지구 대기와 우주의 경계로 흔히 쓰는 '카르만 선'의 높이는?",
+      "choices": [
+        "약 100km",
+        "약 3만 6천km",
+        "약 10km",
+        "약 1,000km"
+      ],
+      "answerIndex": 0,
+      "explanation": "카르만 선은 해발 약 100km 높이로, 국제항공연맹이 우주의 경계로 정한 기준이에요.",
+      "funFact": "여객기는 보통 약 10km 높이로 날기 때문에 카르만 선의 10분의 1쯤에서 날아요."
+    },
+    {
+      "id": "geography-5c4959ec",
+      "category": "geography",
+      "difficulty": 3,
+      "question": "우리나라 표준시의 기준이 되는 경선은?",
+      "choices": [
+        "동경 127.5도",
+        "동경 150도",
+        "동경 120도",
+        "동경 135도"
+      ],
+      "answerIndex": 3,
+      "explanation": "우리나라는 동경 135도를 기준으로 한 표준시를 써요. 실제 한반도 중앙은 약 127.5도라 해가 다소 늦게 떠요."
+    },
+    {
+      "id": "life-416ee422",
+      "category": "life",
+      "difficulty": 3,
+      "question": "조기를 엮어 셀 때 '한 두름'은 몇 마리일까요?",
+      "choices": [
+        "50마리",
+        "20마리",
+        "100마리",
+        "10마리"
+      ],
+      "answerIndex": 1,
+      "explanation": "두름은 물고기를 10마리씩 두 줄로 엮은 20마리를 뜻해요. 산나물은 열 모숨 정도를 한 두름이라 해요."
+    },
+    {
+      "id": "culture-3322dd3e",
+      "category": "culture",
+      "difficulty": 3,
+      "question": "스페인의 구겐하임 빌바오 미술관을 설계한 건축가는?",
+      "choices": [
+        "프랭크 게리",
+        "자하 하디드",
+        "안도 다다오",
+        "렌초 피아노"
+      ],
+      "answerIndex": 0,
+      "explanation": "구겐하임 빌바오는 프랭크 게리가 티타늄 판으로 곡면을 덮어 1997년에 완성했어요.",
+      "funFact": "이 미술관 하나로 도시가 살아난 현상을 '빌바오 효과'라고 불러요."
+    }
+  ]
+}

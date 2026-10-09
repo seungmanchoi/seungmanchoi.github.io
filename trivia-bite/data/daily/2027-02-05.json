@@ -1,0 +1,154 @@
+{
+  "version": 1,
+  "id": "daily-2027-02-05",
+  "date": "2027-02-05",
+  "questions": [
+    {
+      "id": "economy-b5ef54f4",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "한도 안에서 필요할 때마다 빌려 쓰는 대출 통장은?",
+      "choices": [
+        "마이너스통장",
+        "외화통장",
+        "적금통장",
+        "청약통장"
+      ],
+      "answerIndex": 0,
+      "explanation": "마이너스통장은 정해진 한도까지 잔액이 0 아래로 내려가도 쓸 수 있는 대출이에요. 쓴 만큼만 이자를 내요.",
+      "funFact": "쓰지 않아도 한도만큼 대출을 받은 것으로 보여 다른 대출 한도에 영향을 줄 수 있어요."
+    },
+    {
+      "id": "korean-133c6d21",
+      "category": "korean",
+      "difficulty": 1,
+      "question": "'digital'의 올바른 외래어 표기는?",
+      "choices": [
+        "디쥐털",
+        "디지탈",
+        "디지털",
+        "디지틀"
+      ],
+      "answerIndex": 2,
+      "explanation": "영어의 약한 [ə] 소리는 대개 'ㅓ'로 적어서 '디지털'이 맞아요.",
+      "funFact": "반대말인 'analog'는 '아날로그'로 적어요."
+    },
+    {
+      "id": "geography-d8da4c46",
+      "category": "geography",
+      "difficulty": 1,
+      "question": "독도가 속한 행정구역은?",
+      "choices": [
+        "강원 삼척시",
+        "경북 울릉군",
+        "강원 강릉시",
+        "경북 포항시"
+      ],
+      "answerIndex": 1,
+      "explanation": "독도의 주소는 경상북도 울릉군 울릉읍 독도리예요. 울릉도에서 동남쪽으로 약 87km 떨어져 있어요."
+    },
+    {
+      "id": "life-0c76e747",
+      "category": "life",
+      "difficulty": 1,
+      "question": "먹다 남은 두부를 보관하는 알맞은 방법은?",
+      "choices": [
+        "물에 담가 냉장",
+        "기름에 담가 실온",
+        "랩 없이 실온",
+        "햇볕에 말리기"
+      ],
+      "answerIndex": 0,
+      "explanation": "두부는 물에 잠기게 담가 냉장 보관하면 마르지 않고 더 신선하게 유지돼요. 물은 매일 갈아 주는 게 좋아요.",
+      "funFact": "두부를 얼렸다 녹이면 구멍이 숭숭 뚫린 쫄깃한 식감이 돼요."
+    },
+    {
+      "id": "culture-7ff94de3",
+      "category": "culture",
+      "difficulty": 2,
+      "question": "강원도 관찰사로 가며 금강산과 관동팔경을 노래한 가사 「관동별곡」의 작가는?",
+      "choices": [
+        "송순",
+        "윤선도",
+        "박인로",
+        "정철"
+      ],
+      "answerIndex": 3,
+      "explanation": "「관동별곡」은 송강 정철의 가사예요. 「사미인곡」, 「속미인곡」과 함께 가사 문학의 대표작으로 꼽혀요."
+    },
+    {
+      "id": "sports-849d4fee",
+      "category": "sports",
+      "difficulty": 2,
+      "question": "숨을 참고 상대 진영에 들어가 터치하는 인도 전통 종목은?",
+      "choices": [
+        "크리켓",
+        "카바디",
+        "폴로",
+        "세팍타크로"
+      ],
+      "answerIndex": 1,
+      "explanation": "카바디는 공격수가 '카바디'를 계속 외치며 상대 진영에 들어가 수비수를 건드리고 돌아오는 인도 전통 종목이에요.",
+      "funFact": "카바디는 1990년 베이징 아시안게임부터 정식 종목이 됐어요."
+    },
+    {
+      "id": "space-846161b2",
+      "category": "space",
+      "difficulty": 2,
+      "question": "구글 창업자 래리 페이지와 세르게이 브린이 만난 대학은?",
+      "choices": [
+        "MIT",
+        "스탠퍼드 대학",
+        "하버드 대학",
+        "UC 버클리"
+      ],
+      "answerIndex": 1,
+      "explanation": "두 사람은 스탠퍼드 대학 박사 과정에서 만나 검색 엔진 연구를 하다가 1998년 구글을 세웠어요.",
+      "funFact": "구글의 첫 이름은 링크를 거꾸로 따라간다는 뜻의 '백럽(BackRub)'이었어요."
+    },
+    {
+      "id": "history-f5e45392",
+      "category": "history",
+      "difficulty": 3,
+      "question": "광개토대왕이 사용한 연호는?",
+      "choices": [
+        "건원",
+        "인안",
+        "영락",
+        "광덕"
+      ],
+      "answerIndex": 2,
+      "explanation": "광개토대왕은 '영락'이라는 연호를 써서 중국과 대등한 나라임을 드러냈어요. 그래서 '영락대왕'이라고도 불려요.",
+      "funFact": "건원은 신라 법흥왕, 광덕은 고려 광종, 인안은 발해 무왕이 쓴 연호예요."
+    },
+    {
+      "id": "science-11bfb56a",
+      "category": "science",
+      "difficulty": 3,
+      "question": "뿌리혹박테리아와 공생해 공기 중 질소를 이용하는 식물 무리는?",
+      "choices": [
+        "국화과",
+        "벼과",
+        "콩과",
+        "장미과"
+      ],
+      "answerIndex": 2,
+      "explanation": "콩과 식물 뿌리혹 속 세균은 공기 중 질소를 식물이 쓸 수 있는 형태로 바꿔 줘요. 그래서 콩을 심으면 땅이 비옥해져요."
+    },
+    {
+      "id": "culture-28187702",
+      "category": "culture",
+      "difficulty": 3,
+      "question": "쥐를 몰아낸 대가를 못 받은 사나이가 아이들을 데려간 '피리 부는 사나이' 전설의 도시는?",
+      "choices": [
+        "로텐부르크",
+        "뉘른베르크",
+        "브레멘",
+        "하멜른"
+      ],
+      "answerIndex": 3,
+      "explanation": "하멜른은 독일 니더작센주의 도시예요. 그림 형제도 이 전설을 모아 기록했어요.",
+      "funFact": "브레멘은 그림 동화 『브레멘 음악대』로 유명하며, 니더작센주와 별개의 도시주에 속해요."
+    }
+  ]
+}

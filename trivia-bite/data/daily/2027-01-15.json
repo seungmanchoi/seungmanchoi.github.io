@@ -1,0 +1,155 @@
+{
+  "version": 1,
+  "id": "daily-2027-01-15",
+  "date": "2027-01-15",
+  "questions": [
+    {
+      "id": "life-58daf7f3",
+      "category": "life",
+      "difficulty": 1,
+      "question": "소파 같은 대형 폐기물을 버릴 때 먼저 할 일은?",
+      "choices": [
+        "잘게 부숴 일반 쓰레기로",
+        "종량제 봉투에 넣기",
+        "재활용함에 두기",
+        "배출 신고·수수료 납부"
+      ],
+      "answerIndex": 3,
+      "explanation": "대형 폐기물은 주민센터나 구청 누리집에 신고하고 수수료를 내야 해요. 받은 스티커나 신고 번호를 붙여 내놓아요.",
+      "funFact": "아직 쓸 만한 가구는 무료 수거나 나눔으로 처리하기도 해요."
+    },
+    {
+      "id": "korean-1de4e6b0",
+      "category": "korean",
+      "difficulty": 1,
+      "question": "사자성어 '다다익선'의 뜻으로 알맞은 것은?",
+      "choices": [
+        "천천히 해야 좋음",
+        "적은 게 오히려 나음",
+        "많을수록 더 좋음",
+        "여럿이 함께해야 좋음"
+      ],
+      "answerIndex": 2,
+      "explanation": "많으면 많을수록 더 좋다는 뜻이에요.",
+      "funFact": "한나라 장수 한신이 '병사는 많을수록 좋다'고 한 데서 나왔어요."
+    },
+    {
+      "id": "geography-3e72c3f6",
+      "category": "geography",
+      "difficulty": 1,
+      "question": "섬이 많은 바다라는 뜻으로, 전남 남서쪽 바다를 이르는 말은?",
+      "choices": [
+        "황해",
+        "내해",
+        "다도해",
+        "근해"
+      ],
+      "answerIndex": 2,
+      "explanation": "다도해는 '섬이 많은 바다'라는 뜻으로, 전남 남해안과 서해안 일대를 가리켜요.",
+      "funFact": "이 일대는 다도해해상국립공원으로 지정되어 있어요."
+    },
+    {
+      "id": "space-3ffabcf2",
+      "category": "space",
+      "difficulty": 1,
+      "question": "IT 기업이 모여 있는 '실리콘밸리'는 미국 어느 주에 있을까요?",
+      "choices": [
+        "텍사스",
+        "워싱턴",
+        "캘리포니아",
+        "뉴욕"
+      ],
+      "answerIndex": 2,
+      "explanation": "실리콘밸리는 미국 캘리포니아주 샌프란시스코만 남쪽 지역을 부르는 이름이에요. 반도체 회사가 많이 모여 이런 이름이 붙었어요.",
+      "funFact": "실리콘밸리는 정식 지명이 아니라 1970년대 기자가 쓰면서 퍼진 별명이에요."
+    },
+    {
+      "id": "history-f811f58d",
+      "category": "history",
+      "difficulty": 2,
+      "question": "미국 독립선언서 초안을 쓰고 뒤에 3대 대통령이 된 인물은?",
+      "choices": [
+        "존 애덤스",
+        "토머스 제퍼슨",
+        "알렉산더 해밀턴",
+        "벤저민 프랭클린"
+      ],
+      "answerIndex": 1,
+      "explanation": "제퍼슨은 1776년 독립선언서의 초안을 작성했어요. 대통령 시절 루이지애나를 사들여 영토를 크게 넓혔어요.",
+      "funFact": "제퍼슨과 존 애덤스는 독립선언 50주년인 1826년 7월 4일 같은 날 세상을 떠났어요."
+    },
+    {
+      "id": "culture-8c3b436b",
+      "category": "culture",
+      "difficulty": 2,
+      "question": "설날 새벽에 사서 벽에 걸어 두며 복을 빌던 조리는?",
+      "choices": [
+        "복바가지",
+        "복조리",
+        "복조개",
+        "복주머니"
+      ],
+      "answerIndex": 1,
+      "explanation": "복조리는 쌀을 이는 조리처럼 한 해 복을 건져 담으라는 뜻으로 걸어 두었어요. 설날 새벽 조리 장수에게 샀어요."
+    },
+    {
+      "id": "economy-ce41bbd6",
+      "category": "economy",
+      "difficulty": 2,
+      "question": "매출총이익에서 판매비와 관리비를 뺀, 본업으로 번 이익은?",
+      "choices": [
+        "당기순이익",
+        "매출총이익",
+        "영업외수익",
+        "영업이익"
+      ],
+      "answerIndex": 3,
+      "explanation": "영업이익은 회사의 본업이 얼마나 돈을 버는지 보여 줘요. 여기에 이자나 투자 손익 등을 더하고 빼면 순이익이 나와요."
+    },
+    {
+      "id": "science-9c0b190e",
+      "category": "science",
+      "difficulty": 3,
+      "question": "아주 낮은 온도에서 전기 저항이 0이 되는 현상은?",
+      "choices": [
+        "초전도",
+        "압전 효과",
+        "강자성",
+        "열전 효과"
+      ],
+      "answerIndex": 0,
+      "explanation": "초전도체는 특정 온도 아래에서 저항이 사라져 전류가 손실 없이 흘러요. MRI의 강한 자석에 쓰여요.",
+      "funFact": "초전도체 위에 자석을 놓으면 공중에 둥둥 뜨는 마이스너 효과가 나타나요."
+    },
+    {
+      "id": "sports-b5fd815a",
+      "category": "sports",
+      "difficulty": 3,
+      "question": "정식 셔틀콕 하나에 꽂힌 깃털은 몇 개일까요?",
+      "choices": [
+        "8개",
+        "16개",
+        "12개",
+        "24개"
+      ],
+      "answerIndex": 1,
+      "explanation": "경기용 셔틀콕은 코르크 받침에 깃털 16개를 둥글게 꽂아 만들어요.",
+      "funFact": "고급 셔틀콕은 거위나 오리 깃털로 만들어서 쉽게 망가져 경기 중에도 자주 바꿔요."
+    },
+    {
+      "id": "nature-30ae0765",
+      "category": "nature",
+      "difficulty": 3,
+      "question": "꿀벌처럼 한 마리 여왕만 번식하는 사회를 이루는 포유류는?",
+      "choices": [
+        "벌거숭이두더지쥐",
+        "프레리도그",
+        "비버",
+        "미어캣"
+      ],
+      "answerIndex": 0,
+      "explanation": "벌거숭이두더지쥐는 여왕 한 마리만 새끼를 낳고 나머지는 일꾼으로 일하는 진사회성 포유류예요.",
+      "funFact": "벌거숭이두더지쥐는 같은 크기 쥐보다 훨씬 오래 살아 30년을 넘기기도 해요."
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "id": "daily-2027-03-27",
+  "date": "2027-03-27",
+  "questions": [
+    {
+      "id": "culture-c9395529",
+      "category": "culture",
+      "difficulty": 1,
+      "question": "『콩쥐팥쥐』에서 콩쥐의 밑 빠진 독을 막아 준 동물은?",
+      "choices": [
+        "자라",
+        "두꺼비",
+        "수달",
+        "거북이"
+      ],
+      "answerIndex": 1,
+      "explanation": "새어머니가 밑 빠진 독에 물을 채우라 하자 두꺼비가 구멍을 몸으로 막아 주었어요.",
+      "funFact": "'밑 빠진 독에 물 붓기'는 아무리 애써도 보람이 없는 일을 뜻하는 속담이에요."
+    },
+    {
+      "id": "economy-d3db1322",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "노동자들이 요구를 내걸고 다 함께 일을 멈추는 것은?",
+      "choices": [
+        "해고",
+        "정년",
+        "휴업",
+        "파업"
+      ],
+      "answerIndex": 3,
+      "explanation": "파업은 노동자가 근로 조건 개선 등을 요구하며 집단으로 일을 중단하는 쟁의 행위예요.",
+      "funFact": "우리 헌법은 노동자의 단결권·단체교섭권·단체행동권을 노동3권으로 보장해요."
+    },
+    {
+      "id": "life-0c72f6dd",
+      "category": "life",
+      "difficulty": 1,
+      "question": "자동차 연비를 나타낼 때 흔히 쓰는 단위는?",
+      "choices": [
+        "km/L",
+        "L/h",
+        "kWh",
+        "km/h"
+      ],
+      "answerIndex": 0,
+      "explanation": "연비는 연료 1리터로 몇 km를 갈 수 있는지를 나타내요. 숫자가 클수록 연료를 아껴 쓰는 차예요.",
+      "funFact": "전기차는 연비 대신 1kWh로 가는 거리인 전비를 써요."
+    },
+    {
+      "id": "korean-e6f4ebd6",
+      "category": "korean",
+      "difficulty": 1,
+      "question": "속담 '개구리 올챙이 적 생각 못 한다'의 뜻은?",
+      "choices": [
+        "잘되면 옛 처지를 잊음",
+        "작은 일도 쌓이면 커짐",
+        "남의 일에 참견함",
+        "어릴 때 버릇이 오래감"
+      ],
+      "answerIndex": 0,
+      "explanation": "형편이 좋아진 사람이 어려웠던 지난날을 잊고 처음부터 잘난 듯 뽐내는 것을 꼬집는 말이에요."
+    },
+    {
+      "id": "history-912f20a3",
+      "category": "history",
+      "difficulty": 2,
+      "question": "중국 상(은)나라 사람들이 거북 껍데기와 짐승 뼈에 새긴 문자는?",
+      "choices": [
+        "갑골문",
+        "예서",
+        "쐐기 문자",
+        "금문"
+      ],
+      "answerIndex": 0,
+      "explanation": "상나라 왕은 거북 껍데기나 소뼈로 점을 치고 그 내용을 새겼어요. 갑골문은 한자의 원형으로 꼽혀요."
+    },
+    {
+      "id": "space-bac6f873",
+      "category": "space",
+      "difficulty": 2,
+      "question": "애플의 첫 아이폰이 출시된 해는?",
+      "choices": [
+        "2004년",
+        "2010년",
+        "2007년",
+        "2009년"
+      ],
+      "answerIndex": 2,
+      "explanation": "스티브 잡스는 2007년 1월 첫 아이폰을 발표했고, 그해 6월 미국에서 판매를 시작했어요.",
+      "funFact": "첫 아이폰에는 앱스토어가 없어서 다른 회사의 앱을 설치할 수 없었어요."
+    },
+    {
+      "id": "life-9b1dff0c",
+      "category": "life",
+      "difficulty": 2,
+      "question": "채소를 오래 삶으면 특히 많이 줄어드는 비타민은?",
+      "choices": [
+        "비타민 K",
+        "비타민 C",
+        "비타민 D",
+        "비타민 E"
+      ],
+      "answerIndex": 1,
+      "explanation": "비타민 C는 물에 녹고 열에 약해 오래 삶으면 국물로 빠지거나 파괴돼요. 짧게 데치거나 찌는 게 손실이 적어요."
+    },
+    {
+      "id": "geography-a07ef6c4",
+      "category": "geography",
+      "difficulty": 3,
+      "question": "오대호 가운데 면적이 가장 넓은 호수는?",
+      "choices": [
+        "미시간호",
+        "휴런호",
+        "이리호",
+        "슈피리어호"
+      ],
+      "answerIndex": 3,
+      "explanation": "슈피리어호는 오대호 중 가장 크고 깊고 차가운 호수예요. 민물 호수 중 면적이 세계에서 손꼽히게 넓어요."
+    },
+    {
+      "id": "culture-2cd049d1",
+      "category": "culture",
+      "difficulty": 3,
+      "question": "친구의 유작 전시회를 보고 만든 피아노 모음곡 '전람회의 그림'의 작곡가는?",
+      "choices": [
+        "림스키코르사코프",
+        "무소륵스키",
+        "보로딘",
+        "라흐마니노프"
+      ],
+      "answerIndex": 1,
+      "explanation": "모데스트 무소륵스키는 친구 하르트만의 그림 전시회를 보고 이 곡을 지었어요. 라벨이 편곡한 관현악 버전도 유명해요."
+    },
+    {
+      "id": "history-beebcc7f",
+      "category": "history",
+      "difficulty": 3,
+      "question": "기원전 5세기 아테네 민주정의 전성기를 이끈 정치가는?",
+      "choices": [
+        "솔론",
+        "클레이스테네스",
+        "페리클레스",
+        "테미스토클레스"
+      ],
+      "answerIndex": 2,
+      "explanation": "페리클레스는 시민의 정치 참여를 넓히고 파르테논 신전 건설을 이끌었어요. 그 시대를 '페리클레스 시대'라고 불러요.",
+      "funFact": "그는 펠로폰네소스 전쟁 초기 아테네에 번진 역병으로 숨졌어요."
+    }
+  ]
+}

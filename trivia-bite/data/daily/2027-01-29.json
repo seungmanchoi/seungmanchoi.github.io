@@ -1,0 +1,151 @@
+{
+  "version": 1,
+  "id": "daily-2027-01-29",
+  "date": "2027-01-29",
+  "questions": [
+    {
+      "id": "life-4f6f1b1c",
+      "category": "life",
+      "difficulty": 1,
+      "question": "같은 밝기에서 전기를 가장 적게 쓰는 조명은?",
+      "choices": [
+        "형광등",
+        "할로겐 전구",
+        "LED 전구",
+        "백열전구"
+      ],
+      "answerIndex": 2,
+      "explanation": "LED는 전기를 빛으로 바꾸는 효율이 높아 같은 밝기에서 전력 소모가 가장 적어요. 백열전구는 대부분 열로 낭비돼요."
+    },
+    {
+      "id": "culture-23c35525",
+      "category": "culture",
+      "difficulty": 1,
+      "question": "점순이와 '나'의 티격태격을 그린 단편소설 『동백꽃』의 작가는?",
+      "choices": [
+        "채만식",
+        "이상",
+        "김유정",
+        "현진건"
+      ],
+      "answerIndex": 2,
+      "explanation": "『동백꽃』은 강원도 산골을 배경으로 한 김유정의 단편이에요. 순박한 사춘기 남녀의 감정을 해학적으로 그렸어요.",
+      "funFact": "소설 속 '노란 동백꽃'은 강원도에서 생강나무 꽃을 부르는 말이에요."
+    },
+    {
+      "id": "science-864a4886",
+      "category": "science",
+      "difficulty": 1,
+      "question": "설탕물에서 물에 녹아 들어간 설탕을 부르는 말은?",
+      "choices": [
+        "용질",
+        "용액",
+        "용해도",
+        "용매"
+      ],
+      "answerIndex": 0,
+      "explanation": "녹는 물질은 용질, 녹이는 물질은 용매, 둘이 섞인 것은 용액이에요. 설탕물에서 설탕은 용질, 물은 용매예요."
+    },
+    {
+      "id": "korean-0d6fa741",
+      "category": "korean",
+      "difficulty": 1,
+      "question": "사자성어 '천고마비'가 뜻하는 계절은?",
+      "choices": [
+        "가을",
+        "겨울",
+        "여름",
+        "봄"
+      ],
+      "answerIndex": 0,
+      "explanation": "하늘이 높고 말이 살찐다는 뜻으로, 맑고 풍요로운 가을을 이르는 말이에요."
+    },
+    {
+      "id": "history-cf0f3dcb",
+      "category": "history",
+      "difficulty": 2,
+      "question": "고려 때 개경과 서경에서 열려 외국 상인도 찾아온 국가 행사는?",
+      "choices": [
+        "영고",
+        "무천",
+        "팔관회",
+        "동맹"
+      ],
+      "answerIndex": 2,
+      "explanation": "팔관회는 토속 신과 부처에게 제사를 지내던 고려의 큰 국가 행사였어요. 송·여진·아라비아 상인이 선물을 바치기도 했어요.",
+      "funFact": "태조 왕건은 「훈요 10조」에서 팔관회를 잘 이어 가라고 당부했어요."
+    },
+    {
+      "id": "geography-2d7b34c0",
+      "category": "geography",
+      "difficulty": 2,
+      "question": "태백산맥 동쪽의 강원 지역을 부르는 말은?",
+      "choices": [
+        "영남 지방",
+        "영동 지방",
+        "호서 지방",
+        "영서 지방"
+      ],
+      "answerIndex": 1,
+      "explanation": "대관령 동쪽을 영동, 서쪽을 영서라고 불러요. 영동은 바다와 가까워 겨울이 영서보다 따뜻한 편이에요."
+    },
+    {
+      "id": "economy-82ac8c88",
+      "category": "economy",
+      "difficulty": 2,
+      "question": "코스피 같은 지수 수익률을 그대로 따라가게 만든 펀드는?",
+      "choices": [
+        "사모펀드",
+        "헤지펀드",
+        "액티브펀드",
+        "인덱스펀드"
+      ],
+      "answerIndex": 3,
+      "explanation": "인덱스펀드는 종목을 고르지 않고 지수 전체를 사서 시장 평균 수익을 노려요. 운용 보수가 낮은 편이에요.",
+      "funFact": "존 보글이 1976년 일반 투자자용 인덱스펀드를 처음 내놓았어요."
+    },
+    {
+      "id": "space-e4cc05c5",
+      "category": "space",
+      "difficulty": 3,
+      "question": "위키백과의 '위키(wiki)'는 어느 언어에서 온 말일까요?",
+      "choices": [
+        "그리스어",
+        "하와이어",
+        "일본어",
+        "라틴어"
+      ],
+      "answerIndex": 1,
+      "explanation": "위키는 하와이어로 '빠르다'는 뜻이에요. 누구나 빠르게 고칠 수 있는 웹사이트라는 의미로 붙였어요.",
+      "funFact": "첫 위키를 만든 워드 커닝햄은 호놀룰루 공항의 '위키위키' 셔틀버스에서 이름을 떠올렸어요."
+    },
+    {
+      "id": "korean-92794eb4",
+      "category": "korean",
+      "difficulty": 3,
+      "question": "관용구 '어깃장을 놓다'의 뜻은?",
+      "choices": [
+        "남의 흠을 감싸 줌",
+        "일부러 엇나가게 행동함",
+        "문을 단단히 잠금",
+        "남을 몰래 도움"
+      ],
+      "answerIndex": 1,
+      "explanation": "순순히 따르지 않고 짐짓 반대하거나 엇나가는 말이나 행동을 하는 것을 말해요."
+    },
+    {
+      "id": "life-67dfac10",
+      "category": "life",
+      "difficulty": 3,
+      "question": "와이파이 5GHz 대역이 2.4GHz보다 불리한 점은?",
+      "choices": [
+        "속도가 느리다",
+        "간섭이 많다",
+        "보안이 약하다",
+        "도달 거리가 짧다"
+      ],
+      "answerIndex": 3,
+      "explanation": "5GHz는 속도가 빠르고 간섭이 적지만 벽을 잘 통과하지 못해 도달 거리가 짧아요. 먼 방에서는 2.4GHz가 더 잘 잡힐 수 있어요."
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "version": 1,
+  "id": "daily-2027-02-18",
+  "date": "2027-02-18",
+  "questions": [
+    {
+      "id": "culture-76c77c02",
+      "category": "culture",
+      "difficulty": 1,
+      "question": "'할렐루야' 합창이 나오는 오라토리오 '메시아'의 작곡가는?",
+      "choices": [
+        "비발디",
+        "바흐",
+        "헨델",
+        "하이든"
+      ],
+      "answerIndex": 2,
+      "explanation": "'메시아'는 헨델이 1741년에 작곡한 오라토리오예요. 독일 태생인 헨델은 영국에서 주로 활동했어요."
+    },
+    {
+      "id": "economy-522037c0",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "고용되지 않고 스스로 사업을 운영하며 일하는 사람은?",
+      "choices": [
+        "자영업자",
+        "임금근로자",
+        "일용직 근로자",
+        "공무원"
+      ],
+      "answerIndex": 0,
+      "explanation": "자영업자는 자기 사업체를 직접 운영해요. 식당, 가게 사장님이 대표적이에요."
+    },
+    {
+      "id": "life-7d2230da",
+      "category": "life",
+      "difficulty": 1,
+      "question": "도로 한가운데 그어진 노란 실선이 뜻하는 것은?",
+      "choices": [
+        "버스 전용 표시",
+        "주차 가능 구역",
+        "넘으면 안 되는 중앙선",
+        "속도를 줄이라는 표시"
+      ],
+      "answerIndex": 2,
+      "explanation": "노란 실선은 마주 오는 차와 나누는 중앙선으로, 넘어가면 안 돼요. 노란 점선은 조건에 따라 넘을 수 있어요.",
+      "funFact": "노란 실선이 두 줄이면 더 엄격하게 넘지 말라는 뜻이에요."
+    },
+    {
+      "id": "history-547f8fc2",
+      "category": "history",
+      "difficulty": 1,
+      "question": "2차 세계대전 뒤 미국과 소련이 직접 싸우지 않고 맞선 대립 상태는?",
+      "choices": [
+        "냉전",
+        "열전",
+        "백년 전쟁",
+        "데탕트"
+      ],
+      "answerIndex": 0,
+      "explanation": "냉전은 미국 중심의 자본주의 진영과 소련 중심의 공산주의 진영이 맞선 시기예요. 총을 쏘지 않는 '차가운 전쟁'이라는 뜻이에요.",
+      "funFact": "'냉전'이라는 말은 작가 조지 오웰이 1945년 글에서 쓰며 널리 퍼졌어요."
+    },
+    {
+      "id": "korean-88646acf",
+      "category": "korean",
+      "difficulty": 2,
+      "question": "자동차 길 안내 장치의 올바른 외래어 표기는?",
+      "choices": [
+        "나비게이션",
+        "내비게이션",
+        "네비게이션",
+        "내비게이숀"
+      ],
+      "answerIndex": 1,
+      "explanation": "'navigation'의 첫 모음은 [æ]라서 'ㅐ'로 적어 '내비게이션'이 맞아요.",
+      "funFact": "줄여서 '내비'라고도 하고, '길도우미'라는 다듬은 말도 있어요."
+    },
+    {
+      "id": "science-5894f167",
+      "category": "science",
+      "difficulty": 2,
+      "question": "TV 리모컨이 신호를 보낼 때 주로 쓰는 눈에 보이지 않는 빛은?",
+      "choices": [
+        "X선",
+        "적외선",
+        "자외선",
+        "감마선"
+      ],
+      "answerIndex": 1,
+      "explanation": "대부분의 리모컨은 앞쪽 발광 소자에서 적외선을 깜빡여 신호를 보내요. 사람 눈에는 보이지 않아요.",
+      "funFact": "스마트폰 카메라로 리모컨 앞부분을 비추고 버튼을 누르면 깜빡이는 빛이 보이기도 해요."
+    },
+    {
+      "id": "sports-60ee031d",
+      "category": "sports",
+      "difficulty": 2,
+      "question": "친선 골프에서 잘못 친 샷을 벌타 없이 한 번 더 치게 해 주는 관행은?",
+      "choices": [
+        "프로비저널",
+        "컨시드",
+        "멀리건",
+        "드롭"
+      ],
+      "answerIndex": 2,
+      "explanation": "멀리건은 정식 규칙이 아니라 친선 라운드에서 동반자끼리 허락하는 '다시 치기'예요.",
+      "funFact": "공식 대회에서 멀리건을 쓰면 규칙 위반이에요."
+    },
+    {
+      "id": "geography-bf5fde8e",
+      "category": "geography",
+      "difficulty": 3,
+      "question": "적도를 두 번 가로지르는 아프리카의 강은?",
+      "choices": [
+        "니제르강",
+        "나일강",
+        "잠베지강",
+        "콩고강"
+      ],
+      "answerIndex": 3,
+      "explanation": "콩고강은 크게 활처럼 휘어 흐르면서 적도를 두 번 지나요. 아프리카에서 유량이 가장 많은 강이에요."
+    },
+    {
+      "id": "culture-8cb80e0b",
+      "category": "culture",
+      "difficulty": 3,
+      "question": "갑작스러운 공포를 뜻하는 영어 'panic'의 어원이 된 그리스 신은?",
+      "choices": [
+        "에리스",
+        "하데스",
+        "포보스",
+        "판"
+      ],
+      "answerIndex": 3,
+      "explanation": "판은 염소의 다리와 뿔을 가진 목동과 숲의 신이에요. 갑자기 사람과 가축을 놀라게 한다고 여겨 'panic'이라는 말이 생겼어요."
+    },
+    {
+      "id": "korean-914432b3",
+      "category": "korean",
+      "difficulty": 3,
+      "question": "바늘 '한 쌈'은 몇 개일까요?",
+      "choices": [
+        "20개",
+        "24개",
+        "10개",
+        "12개"
+      ],
+      "answerIndex": 1,
+      "explanation": "바늘을 셀 때 한 쌈은 스물네 개를 말해요.",
+      "funFact": "고기를 싸 먹는 '쌈'과 소리는 같지만 전혀 다른 말이에요."
+    }
+  ]
+}

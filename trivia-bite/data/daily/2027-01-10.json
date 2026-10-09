@@ -1,0 +1,155 @@
+{
+  "version": 1,
+  "id": "daily-2027-01-10",
+  "date": "2027-01-10",
+  "questions": [
+    {
+      "id": "life-4770bade",
+      "category": "life",
+      "difficulty": 1,
+      "question": "사람이 땀을 흘리는 주된 이유는?",
+      "choices": [
+        "체온을 낮추려고",
+        "근육을 만들려고",
+        "살을 빼려고",
+        "피부를 보습하려고"
+      ],
+      "answerIndex": 0,
+      "explanation": "땀이 피부에서 증발하면서 열을 빼앗아 체온을 낮춰요. 그래서 습한 날엔 땀이 잘 마르지 않아 더 덥게 느껴져요."
+    },
+    {
+      "id": "economy-f0062adb",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "물건을 산 뒤 거래했다는 증거로 받는 종이는?",
+      "choices": [
+        "계약서",
+        "영수증",
+        "보증서",
+        "차용증"
+      ],
+      "answerIndex": 1,
+      "explanation": "영수증은 돈을 받았다는 사실을 적은 증빙이에요. 교환이나 환불할 때 필요해요.",
+      "funFact": "요즘은 종이 대신 문자나 앱으로 받는 전자영수증도 많아요."
+    },
+    {
+      "id": "history-94903570",
+      "category": "history",
+      "difficulty": 1,
+      "question": "김춘추와 손잡고 삼국 통일에 큰 공을 세운 신라 장군은?",
+      "choices": [
+        "연개소문",
+        "을지문덕",
+        "계백",
+        "김유신"
+      ],
+      "answerIndex": 3,
+      "explanation": "김유신은 금관가야 왕족의 후손으로 김춘추와 함께 삼국 통일을 이끌었어요. 여동생 문희가 김춘추와 혼인해 두 사람은 처남 매부 사이였어요.",
+      "funFact": "죽은 뒤 '흥무대왕'으로 높여 불렸어요."
+    },
+    {
+      "id": "space-89dcde25",
+      "category": "space",
+      "difficulty": 1,
+      "question": "대한민국의 국가 최상위 도메인은?",
+      "choices": [
+        ".kor",
+        ".kp",
+        ".ko",
+        ".kr"
+      ],
+      "answerIndex": 3,
+      "explanation": "대한민국의 영문 국가 코드 최상위 도메인은 .kr이에요. 한글 국가 도메인 .한국도 있어요.",
+      "funFact": ".kp는 북한의 국가 도메인이에요."
+    },
+    {
+      "id": "culture-154fe16e",
+      "category": "culture",
+      "difficulty": 2,
+      "question": "'베르가마스크 모음곡' 속 피아노곡 '달빛'의 프랑스 작곡가는?",
+      "choices": [
+        "사티",
+        "라벨",
+        "포레",
+        "드뷔시"
+      ],
+      "answerIndex": 3,
+      "explanation": "'달빛'은 클로드 드뷔시의 피아노 모음곡 '베르가마스크 모음곡'의 셋째 곡이에요.",
+      "funFact": "드뷔시는 음악의 인상주의를 대표하는 작곡가로 꼽혀요."
+    },
+    {
+      "id": "korean-9ea034be",
+      "category": "korean",
+      "difficulty": 2,
+      "question": "'계약서를 ○○○ 읽어 보세요'의 빈칸에 알맞은 표기는?",
+      "choices": [
+        "꼼꼼이",
+        "꼼꼼희",
+        "꼼꼼히",
+        "꼼꼼키"
+      ],
+      "answerIndex": 2,
+      "explanation": "'꼼꼼하다'처럼 '-하다'가 붙는 말은 대개 '-히'를 붙여 '꼼꼼히'로 적어요.",
+      "funFact": "'깨끗이'처럼 'ㅅ' 받침 뒤에서는 '-이'로 적는 예외가 있어요."
+    },
+    {
+      "id": "science-3c366538",
+      "category": "science",
+      "difficulty": 2,
+      "question": "석회 동굴 천장에서 고드름처럼 아래로 자라는 것은?",
+      "choices": [
+        "석영",
+        "석순",
+        "종유석",
+        "석주"
+      ],
+      "answerIndex": 2,
+      "explanation": "석회암이 녹은 물이 천장에서 떨어지며 탄산 칼슘이 쌓여 종유석이 돼요. 바닥에서 위로 자라는 것은 석순이에요.",
+      "funFact": "종유석과 석순이 만나 이어지면 석주라고 불러요."
+    },
+    {
+      "id": "geography-4a4eef01",
+      "category": "geography",
+      "difficulty": 3,
+      "question": "한탄강 주변에 넓은 용암대지가 펼쳐진 강원도 지역은?",
+      "choices": [
+        "철원",
+        "인제",
+        "양구",
+        "고성"
+      ],
+      "answerIndex": 0,
+      "explanation": "철원은 화산 분출로 생긴 용암대지가 넓게 펼쳐져 있어요. 그 위에 논이 많아 '철원 오대쌀'이 유명해요."
+    },
+    {
+      "id": "sports-9ab91f01",
+      "category": "sports",
+      "difficulty": 3,
+      "question": "테니스 단식 코트의 가로 폭은 약 몇 m일까요?",
+      "choices": [
+        "약 12.8m",
+        "약 8.23m",
+        "약 6.1m",
+        "약 10.97m"
+      ],
+      "answerIndex": 1,
+      "explanation": "테니스 코트는 길이 23.77m이고, 폭은 단식 8.23m, 복식 10.97m예요.",
+      "funFact": "복식 코트 양옆에 덧붙은 좁은 구역을 '앨리'라고 불러요."
+    },
+    {
+      "id": "nature-4ed76729",
+      "category": "nature",
+      "difficulty": 3,
+      "question": "대서양 한가운데 해저 산맥(해령)에서 일어나는 일은?",
+      "choices": [
+        "두 판이 부딪쳐 산이 솟음",
+        "빙하가 바다로 떨어짐",
+        "판이 벌어지며 새 해양 지각이 생김",
+        "판이 아래로 가라앉아 사라짐"
+      ],
+      "answerIndex": 2,
+      "explanation": "해령에서는 맨틀 물질이 올라와 새 지각을 만들고, 양쪽 판은 서로 멀어져요.",
+      "funFact": "아이슬란드는 대서양 중앙 해령이 바다 위로 드러난 곳이라 두 판이 갈라진 틈을 직접 볼 수 있어요."
+    }
+  ]
+}

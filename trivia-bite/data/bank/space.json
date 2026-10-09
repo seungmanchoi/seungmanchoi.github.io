@@ -1,0 +1,3007 @@
+{
+  "version": 1,
+  "id": "bank-space",
+  "category": "space",
+  "questions": [
+    {
+      "id": "space-e9e547a1",
+      "category": "space",
+      "difficulty": 1,
+      "question": "태양계 여덟 행성 가운데 크기가 가장 작은 행성은?",
+      "choices": [
+        "지구",
+        "수성",
+        "화성",
+        "금성"
+      ],
+      "answerIndex": 1,
+      "explanation": "수성의 지름은 약 4,880km로 여덟 행성 중 가장 작아요. 지구 지름의 약 5분의 2 정도예요.",
+      "funFact": "수성은 목성의 위성 가니메데보다도 작아요."
+    },
+    {
+      "id": "space-ffe02590",
+      "category": "space",
+      "difficulty": 1,
+      "question": "2006년 행성 자격을 잃고 왜행성으로 분류된 천체는?",
+      "choices": [
+        "해왕성",
+        "명왕성",
+        "세레스",
+        "천왕성"
+      ],
+      "answerIndex": 1,
+      "explanation": "2006년 국제천문연맹이 행성의 정의를 새로 정하면서 명왕성은 왜행성이 되었어요. 궤도 주변의 다른 천체를 정리하지 못했다는 점이 이유였어요.",
+      "funFact": "명왕성은 1930년 발견된 뒤 76년 동안 태양계 아홉 번째 행성으로 불렸어요."
+    },
+    {
+      "id": "space-ee685fec",
+      "category": "space",
+      "difficulty": 1,
+      "question": "태양계 행성 가운데 태양에서 가장 멀리 떨어진 행성은?",
+      "choices": [
+        "목성",
+        "해왕성",
+        "천왕성",
+        "토성"
+      ],
+      "answerIndex": 1,
+      "explanation": "해왕성은 태양에서 약 30AU, 약 45억km 떨어져 있어요. 태양 둘레를 한 바퀴 도는 데 약 165년이 걸려요.",
+      "funFact": "해왕성은 1846년 발견된 뒤 2011년에야 처음으로 태양을 한 바퀴 다 돌았어요."
+    },
+    {
+      "id": "space-85182abf",
+      "category": "space",
+      "difficulty": 1,
+      "question": "목성 표면에 보이는 거대한 붉은 소용돌이 폭풍의 이름은?",
+      "choices": [
+        "대흑점",
+        "극관",
+        "흑점",
+        "대적점"
+      ],
+      "answerIndex": 3,
+      "explanation": "대적점은 목성 대기에서 수백 년 동안 이어져 온 거대한 고기압성 폭풍이에요. 크기가 지구보다 커요.",
+      "funFact": "대적점은 1600년대 관측 기록에도 나올 만큼 오래된 폭풍으로 여겨져요."
+    },
+    {
+      "id": "space-5dc822fe",
+      "category": "space",
+      "difficulty": 1,
+      "question": "크기와 질량이 지구와 비슷해 '지구의 쌍둥이'라 불리는 행성은?",
+      "choices": [
+        "수성",
+        "금성",
+        "화성",
+        "천왕성"
+      ],
+      "answerIndex": 1,
+      "explanation": "금성은 지름이 지구의 약 95%, 질량이 약 82%로 지구와 가장 비슷해요. 하지만 환경은 지구와 전혀 달라요.",
+      "funFact": "금성은 두꺼운 구름에 덮여 있어 망원경으로도 표면을 볼 수 없어요."
+    },
+    {
+      "id": "space-f60daeb8",
+      "category": "space",
+      "difficulty": 1,
+      "question": "태양에 가까워지면 얼음이 기체로 바뀌어 꼬리를 만드는 천체는?",
+      "choices": [
+        "소행성",
+        "유성",
+        "혜성",
+        "운석"
+      ],
+      "answerIndex": 2,
+      "explanation": "혜성은 얼음과 먼지로 이루어져 있어요. 태양에 다가가면 얼음이 승화해 기체와 먼지가 방출되고 꼬리가 생겨요.",
+      "funFact": "혜성을 '더러운 눈덩이'라고 부르기도 해요."
+    },
+    {
+      "id": "space-23053806",
+      "category": "space",
+      "difficulty": 1,
+      "question": "우주의 작은 티끌이 대기에 들어와 타며 빛줄기를 남기는 현상은?",
+      "choices": [
+        "성운",
+        "혜성",
+        "유성",
+        "오로라"
+      ],
+      "answerIndex": 2,
+      "explanation": "유성은 작은 우주 물질이 빠르게 대기로 들어오며 마찰열로 타는 현상이에요. 흔히 별똥별이라고 불러요.",
+      "funFact": "대부분의 유성은 모래알보다 작은 알갱이가 타면서 생겨요."
+    },
+    {
+      "id": "space-894960fb",
+      "category": "space",
+      "difficulty": 1,
+      "question": "대기에서 다 타지 않고 땅에 떨어진 우주의 암석을 뭐라고 할까요?",
+      "choices": [
+        "유성우",
+        "화성암",
+        "혜성",
+        "운석"
+      ],
+      "answerIndex": 3,
+      "explanation": "우주에서 온 물체가 대기를 통과하고도 남아 지표에 떨어지면 운석이라고 불러요.",
+      "funFact": "2014년 경남 진주에 떨어진 운석은 국내에서 큰 화제가 되었어요."
+    },
+    {
+      "id": "space-b77de3c6",
+      "category": "space",
+      "difficulty": 1,
+      "question": "화성과 목성 궤도 사이에 작은 천체가 많이 모여 있는 곳은?",
+      "choices": [
+        "소행성대",
+        "오르트 구름",
+        "밴앨런대",
+        "카이퍼 벨트"
+      ],
+      "answerIndex": 0,
+      "explanation": "화성과 목성 사이에는 수많은 소행성이 띠를 이루며 태양을 돌고 있어요. 이 영역을 소행성대라고 해요.",
+      "funFact": "소행성대의 소행성을 모두 합쳐도 질량은 달의 몇 퍼센트에 불과해요."
+    },
+    {
+      "id": "space-cc46bca5",
+      "category": "space",
+      "difficulty": 1,
+      "question": "다음 중 지구형 행성에 속하지 않는 행성은?",
+      "choices": [
+        "화성",
+        "금성",
+        "목성",
+        "수성"
+      ],
+      "answerIndex": 2,
+      "explanation": "지구형 행성은 수성, 금성, 지구, 화성처럼 단단한 암석 표면을 가진 행성이에요. 목성은 가스로 이루어진 목성형 행성이에요.",
+      "funFact": "목성은 질량이 태양계 나머지 행성을 모두 합친 것보다 두 배 이상 커요."
+    },
+    {
+      "id": "space-4b28ac08",
+      "category": "space",
+      "difficulty": 1,
+      "question": "태양계에서 지구 바로 바깥쪽 궤도를 도는 행성은?",
+      "choices": [
+        "화성",
+        "수성",
+        "금성",
+        "목성"
+      ],
+      "answerIndex": 0,
+      "explanation": "태양에서 가까운 순서는 수성, 금성, 지구, 화성이에요. 그래서 지구 바로 바깥쪽 행성은 화성이에요.",
+      "funFact": "화성의 하루는 약 24시간 37분으로 지구와 거의 같아요."
+    },
+    {
+      "id": "space-4bb4fa70",
+      "category": "space",
+      "difficulty": 1,
+      "question": "달 표면에서의 중력은 지구 중력의 약 몇 분의 1일까요?",
+      "choices": [
+        "약 2분의 1",
+        "약 6분의 1",
+        "약 10분의 1",
+        "약 100분의 1"
+      ],
+      "answerIndex": 1,
+      "explanation": "달은 질량이 작아 표면 중력이 지구의 약 6분의 1이에요. 지구에서 60kg인 사람은 달에서 10kg처럼 느껴져요.",
+      "funFact": "아폴로 우주인들은 달에서 걷기보다 깡충깡충 뛰어다니는 편이 더 편했다고 해요."
+    },
+    {
+      "id": "space-91f530d9",
+      "category": "space",
+      "difficulty": 1,
+      "question": "태양 표면에 주변보다 어둡게 보이는 점을 뭐라고 부를까요?",
+      "choices": [
+        "홍염",
+        "코로나",
+        "흑점",
+        "대적점"
+      ],
+      "answerIndex": 2,
+      "explanation": "흑점은 태양 표면에서 어둡게 보이는 부분이에요. 흑점의 수는 약 11년 주기로 늘었다 줄었다 해요.",
+      "funFact": "큰 흑점 하나가 지구보다 몇 배나 큰 경우도 있어요."
+    },
+    {
+      "id": "space-ce42bc05",
+      "category": "space",
+      "difficulty": 1,
+      "question": "태양처럼 스스로 빛과 열을 내는 천체를 뭐라고 할까요?",
+      "choices": [
+        "소행성",
+        "항성",
+        "위성",
+        "행성"
+      ],
+      "answerIndex": 1,
+      "explanation": "항성은 내부의 핵융합으로 스스로 빛을 내는 천체예요. 밤하늘의 별 대부분이 항성이에요.",
+      "funFact": "행성과 달은 스스로 빛을 내지 못하고 태양 빛을 반사해서 보여요."
+    },
+    {
+      "id": "space-e5a956df",
+      "category": "space",
+      "difficulty": 1,
+      "question": "극지방 밤하늘에 커튼처럼 일렁이는 빛이 나타나는 현상은?",
+      "choices": [
+        "신기루",
+        "무지개",
+        "유성우",
+        "오로라"
+      ],
+      "answerIndex": 3,
+      "explanation": "오로라는 태양에서 온 전기를 띤 입자가 지구 대기와 부딪혀 빛을 내는 현상이에요. 지구 자기장 때문에 주로 극지방에서 보여요.",
+      "funFact": "오로라는 지구뿐 아니라 목성과 토성에서도 관측돼요."
+    },
+    {
+      "id": "space-0bec66cb",
+      "category": "space",
+      "difficulty": 1,
+      "question": "지구의 그림자가 달을 가려 달이 어둡게 보이는 현상은?",
+      "choices": [
+        "삭",
+        "일식",
+        "상현",
+        "월식"
+      ],
+      "answerIndex": 3,
+      "explanation": "월식은 태양, 지구, 달이 일직선으로 놓여 지구 그림자에 달이 들어갈 때 일어나요. 그래서 보름달일 때만 생겨요.",
+      "funFact": "월식은 진행 중인 달이 지평선 위에 있는 지역에서 볼 수 있어요."
+    },
+    {
+      "id": "space-340e5ad5",
+      "category": "space",
+      "difficulty": 1,
+      "question": "1610년 망원경으로 목성의 큰 위성 4개를 처음 발견한 과학자는?",
+      "choices": [
+        "갈릴레오 갈릴레이",
+        "요하네스 케플러",
+        "티코 브라헤",
+        "아이작 뉴턴"
+      ],
+      "answerIndex": 0,
+      "explanation": "갈릴레이는 직접 만든 망원경으로 목성 둘레를 도는 위성 4개를 발견했어요. 이 위성들을 갈릴레이 위성이라고 불러요.",
+      "funFact": "이 발견은 모든 천체가 지구를 돈다는 생각을 흔드는 중요한 증거가 되었어요."
+    },
+    {
+      "id": "space-8840679d",
+      "category": "space",
+      "difficulty": 1,
+      "question": "지구가 아닌 태양이 우주의 중심이라는 지동설을 내놓은 학자는?",
+      "choices": [
+        "코페르니쿠스",
+        "프톨레마이오스",
+        "에라토스테네스",
+        "아리스토텔레스"
+      ],
+      "answerIndex": 0,
+      "explanation": "폴란드의 천문학자 코페르니쿠스는 1543년 책에서 지구가 태양 둘레를 돈다는 지동설을 펼쳤어요.",
+      "funFact": "생각을 크게 뒤집는 일을 '코페르니쿠스적 전환'이라고 부르는 말이 여기서 나왔어요."
+    },
+    {
+      "id": "space-582214e7",
+      "category": "space",
+      "difficulty": 2,
+      "question": "태양계 행성 가운데 자전 주기, 즉 하루가 가장 짧은 행성은?",
+      "choices": [
+        "해왕성",
+        "지구",
+        "목성",
+        "수성"
+      ],
+      "answerIndex": 2,
+      "explanation": "목성은 약 10시간 만에 한 바퀴 자전해요. 행성 중 가장 크지만 가장 빨리 돌아요.",
+      "funFact": "목성은 너무 빨리 돌아서 적도 쪽이 불룩하게 튀어나온 납작한 모양이에요."
+    },
+    {
+      "id": "space-2a73475d",
+      "category": "space",
+      "difficulty": 2,
+      "question": "두꺼운 대기를 가진 것으로 유명한 토성의 가장 큰 위성은?",
+      "choices": [
+        "트리톤",
+        "유로파",
+        "타이탄",
+        "가니메데"
+      ],
+      "answerIndex": 2,
+      "explanation": "타이탄은 토성의 가장 큰 위성으로, 위성 중 유일하게 짙은 대기를 가지고 있어요. 대기의 주성분은 질소예요.",
+      "funFact": "타이탄에는 물 대신 액체 메탄과 에탄으로 된 호수가 있어요."
+    },
+    {
+      "id": "space-4f940905",
+      "category": "space",
+      "difficulty": 2,
+      "question": "태양계의 모든 위성 가운데 가장 큰 위성은?",
+      "choices": [
+        "가니메데",
+        "타이탄",
+        "달",
+        "칼리스토"
+      ],
+      "answerIndex": 0,
+      "explanation": "목성의 위성 가니메데는 지름이 약 5,260km로 태양계에서 가장 큰 위성이에요. 행성인 수성보다도 커요.",
+      "funFact": "가니메데는 스스로 자기장을 가진 것으로 알려진 유일한 위성이에요."
+    },
+    {
+      "id": "space-69bdb173",
+      "category": "space",
+      "difficulty": 2,
+      "question": "화성 둘레를 도는 두 위성의 이름으로 알맞은 것은?",
+      "choices": [
+        "이오와 유로파",
+        "포보스와 데이모스",
+        "트리톤과 네레이드",
+        "타이탄과 레아"
+      ],
+      "answerIndex": 1,
+      "explanation": "화성에는 포보스와 데이모스라는 작은 위성 두 개가 있어요. 이름은 그리스 신화 속 전쟁의 신 아레스의 두 아들에서 따왔어요.",
+      "funFact": "두 위성 모두 감자처럼 울퉁불퉁하게 생겨 붙잡힌 소행성이라는 가설도 있어요."
+    },
+    {
+      "id": "space-62ef1942",
+      "category": "space",
+      "difficulty": 2,
+      "question": "화성에 있는, 태양계에서 가장 거대한 화산의 이름은?",
+      "choices": [
+        "마우나케아",
+        "킬리만자로",
+        "올림푸스 산",
+        "맥스웰 산"
+      ],
+      "answerIndex": 2,
+      "explanation": "올림푸스 산은 높이가 약 22km로 에베레스트의 두 배가 넘는 화성의 화산이에요. 밑면 너비도 수백km에 달해요.",
+      "funFact": "올림푸스 산 밑면은 우리나라 남한 면적의 약 3배쯤 될 만큼 넓어요."
+    },
+    {
+      "id": "space-1476970b",
+      "category": "space",
+      "difficulty": 2,
+      "question": "천왕성과 해왕성이 푸른빛으로 보이게 하는 대기 성분은?",
+      "choices": [
+        "이산화탄소",
+        "질소",
+        "메탄",
+        "산소"
+      ],
+      "answerIndex": 2,
+      "explanation": "천왕성과 해왕성 대기의 메탄이 붉은빛을 흡수하고 푸른빛을 반사해요. 그래서 두 행성이 푸르게 보여요.",
+      "funFact": "천왕성과 해왕성은 얼음 성분이 많아 '얼음 거대 행성'으로 따로 분류하기도 해요."
+    },
+    {
+      "id": "space-3ee170e7",
+      "category": "space",
+      "difficulty": 2,
+      "question": "자전 방향이 반대라서 해가 서쪽에서 뜨는 행성은?",
+      "choices": [
+        "목성",
+        "금성",
+        "수성",
+        "화성"
+      ],
+      "answerIndex": 1,
+      "explanation": "금성은 다른 행성들과 반대 방향으로 아주 천천히 자전해요. 그래서 금성에서는 해가 서쪽에서 떠서 동쪽으로 져요.",
+      "funFact": "금성의 자전 주기는 약 243일로 공전 주기 약 225일보다 길지만, 해가 다시 같은 위치에 오는 태양일은 약 117일이에요."
+    },
+    {
+      "id": "space-9fc20d87",
+      "category": "space",
+      "difficulty": 2,
+      "question": "평균 밀도가 물보다 낮아 '물에 뜨는 행성'으로 불리는 것은?",
+      "choices": [
+        "천왕성",
+        "목성",
+        "토성",
+        "해왕성"
+      ],
+      "answerIndex": 2,
+      "explanation": "토성의 평균 밀도는 약 0.69g/cm³로 물보다 낮아요. 대부분 가벼운 수소와 헬륨으로 이루어졌기 때문이에요.",
+      "funFact": "토성을 담을 만큼 큰 욕조가 있다면 토성은 물에 둥둥 뜰 거예요."
+    },
+    {
+      "id": "space-89eef984",
+      "category": "space",
+      "difficulty": 2,
+      "question": "토성의 고리를 이루는 주된 물질은?",
+      "choices": [
+        "철 가루",
+        "모래 먼지",
+        "얼음 조각",
+        "액체 수소"
+      ],
+      "answerIndex": 2,
+      "explanation": "토성의 고리는 대부분 물 얼음 조각과 약간의 암석 부스러기로 이루어져 있어요. 조각 크기는 먼지부터 집채만 한 것까지 다양해요.",
+      "funFact": "토성 고리는 지름이 수십만km나 되지만 두께는 대부분 수십m 정도로 아주 얇아요."
+    },
+    {
+      "id": "space-5f543b65",
+      "category": "space",
+      "difficulty": 2,
+      "question": "금성을 극심한 온실 효과에 빠뜨린 대기의 주성분은?",
+      "choices": [
+        "수소",
+        "이산화탄소",
+        "산소",
+        "질소"
+      ],
+      "answerIndex": 1,
+      "explanation": "금성 대기의 약 96%는 이산화탄소예요. 이 두꺼운 대기가 열을 가둬 표면이 납도 녹을 만큼 뜨거워요.",
+      "funFact": "금성 표면의 대기압은 지구의 약 90배로, 바닷속 900m 깊이와 비슷해요."
+    },
+    {
+      "id": "space-14d9b030",
+      "category": "space",
+      "difficulty": 2,
+      "question": "영어 이름이 로마 신화의 전쟁의 신에서 온 행성은?",
+      "choices": [
+        "화성",
+        "수성",
+        "목성",
+        "토성"
+      ],
+      "answerIndex": 0,
+      "explanation": "화성의 영어 이름 마스(Mars)는 로마 신화의 전쟁의 신 이름이에요. 핏빛처럼 붉은 색 때문에 붙은 이름으로 여겨져요.",
+      "funFact": "3월을 뜻하는 영어 March도 같은 신 마르스의 이름에서 나왔어요."
+    },
+    {
+      "id": "space-aa04a3ec",
+      "category": "space",
+      "difficulty": 2,
+      "question": "행성이 타원 궤도로 태양을 돈다는 행성 운동 법칙을 밝힌 학자는?",
+      "choices": [
+        "요하네스 케플러",
+        "갈릴레오 갈릴레이",
+        "에드먼드 핼리",
+        "니콜라우스 코페르니쿠스"
+      ],
+      "answerIndex": 0,
+      "explanation": "케플러는 스승 티코 브라헤의 관측 자료를 분석해 행성 운동의 세 가지 법칙을 발표했어요. 첫째 법칙이 타원 궤도 법칙이에요.",
+      "funFact": "NASA는 외계 행성을 찾는 우주 망원경에 케플러의 이름을 붙였어요."
+    },
+    {
+      "id": "space-1b46f545",
+      "category": "space",
+      "difficulty": 2,
+      "question": "핼리 혜성은 약 몇 년마다 지구 가까이 돌아올까요?",
+      "choices": [
+        "약 300년",
+        "약 76년",
+        "약 30년",
+        "약 7년"
+      ],
+      "answerIndex": 1,
+      "explanation": "핼리 혜성은 약 76년 주기로 태양 가까이 돌아와요. 가장 최근에는 1986년에 다가왔어요.",
+      "funFact": "다음으로 핼리 혜성이 태양에 가장 가까워지는 해는 2061년으로 예측돼요."
+    },
+    {
+      "id": "space-da91951f",
+      "category": "space",
+      "difficulty": 2,
+      "question": "혜성의 꼬리는 대체로 어느 방향으로 뻗어 있을까요?",
+      "choices": [
+        "혜성이 나아가는 쪽",
+        "지구 쪽",
+        "태양의 반대쪽",
+        "태양 쪽"
+      ],
+      "answerIndex": 2,
+      "explanation": "혜성의 꼬리는 태양풍과 햇빛의 압력에 밀려 항상 태양 반대쪽으로 뻗어요. 그래서 태양에서 멀어질 때는 꼬리가 앞쪽에 오기도 해요.",
+      "funFact": "혜성은 보통 가스 꼬리와 먼지 꼬리, 두 개의 꼬리를 가지고 있어요."
+    },
+    {
+      "id": "space-b80905eb",
+      "category": "space",
+      "difficulty": 2,
+      "question": "1천문단위(AU)는 무엇을 기준으로 한 거리일까요?",
+      "choices": [
+        "지구와 태양 사이 평균 거리",
+        "지구와 달 사이 평균 거리",
+        "태양과 가장 가까운 별까지 거리",
+        "빛이 1년 동안 가는 거리"
+      ],
+      "answerIndex": 0,
+      "explanation": "1AU는 지구와 태양 사이의 평균 거리로 약 1억 5천만km예요. 태양계 안의 거리를 나타낼 때 주로 써요.",
+      "funFact": "빛은 1AU를 약 8분 20초 만에 지나가요."
+    },
+    {
+      "id": "space-152476d5",
+      "category": "space",
+      "difficulty": 3,
+      "question": "태양계에서 화산 활동이 가장 활발한 천체로 알려진 목성의 위성은?",
+      "choices": [
+        "칼리스토",
+        "이오",
+        "가니메데",
+        "유로파"
+      ],
+      "answerIndex": 1,
+      "explanation": "이오는 목성의 강한 조석력에 내부가 계속 주물러져 뜨거워져요. 그래서 수백 개의 화산이 활동하고 있어요.",
+      "funFact": "이오의 화산은 분출물을 수백km 높이까지 뿜어 올리기도 해요."
+    },
+    {
+      "id": "space-76318d34",
+      "category": "space",
+      "difficulty": 3,
+      "question": "얼음 지각 아래 거대한 바다가 있으리라 보는 목성의 위성은?",
+      "choices": [
+        "트리톤",
+        "유로파",
+        "타이탄",
+        "포보스"
+      ],
+      "answerIndex": 1,
+      "explanation": "유로파 표면은 매끈한 얼음으로 덮여 있고, 그 아래에 액체 바다가 있을 것으로 여겨져요. 그래서 생명체 탐사 후보로 주목받아요.",
+      "funFact": "유로파 바다의 물은 지구 바닷물을 모두 합친 것보다 많을 수 있다고 추정돼요."
+    },
+    {
+      "id": "space-f2b71e18",
+      "category": "space",
+      "difficulty": 3,
+      "question": "남극에서 얼음 물기둥을 우주로 뿜어내는 토성의 위성은?",
+      "choices": [
+        "미마스",
+        "타이탄",
+        "이아페투스",
+        "엔셀라두스"
+      ],
+      "answerIndex": 3,
+      "explanation": "엔셀라두스의 남극 갈라진 틈에서는 수증기와 얼음 알갱이가 뿜어져 나와요. 토성 탐사선이 이 물기둥을 가까이에서 관측했어요.",
+      "funFact": "엔셀라두스는 표면이 눈처럼 하얘서 태양계에서 빛을 가장 잘 반사하는 천체 중 하나예요."
+    },
+    {
+      "id": "space-d38bf7a9",
+      "category": "space",
+      "difficulty": 3,
+      "question": "행성의 자전과 반대 방향으로 공전하는 해왕성의 가장 큰 위성은?",
+      "choices": [
+        "타이탄",
+        "오베론",
+        "카론",
+        "트리톤"
+      ],
+      "answerIndex": 3,
+      "explanation": "트리톤은 해왕성의 자전과 반대 방향으로 공전해요. 그래서 원래 다른 곳에 있다가 해왕성에 붙잡힌 천체로 여겨져요.",
+      "funFact": "트리톤에서는 질소 가스가 뿜어져 나오는 간헐천이 관측되었어요."
+    },
+    {
+      "id": "space-5bf750c4",
+      "category": "space",
+      "difficulty": 3,
+      "question": "명왕성의 가장 큰 위성으로, 명왕성 지름의 절반쯤 되는 것은?",
+      "choices": [
+        "에리스",
+        "세드나",
+        "카론",
+        "트리톤"
+      ],
+      "answerIndex": 2,
+      "explanation": "카론은 명왕성 지름의 절반 정도로 매우 커요. 그래서 둘이 공통 무게중심을 함께 도는 쌍둥이 천체처럼 움직여요.",
+      "funFact": "명왕성과 카론은 서로 항상 같은 면만 마주 보고 있어요."
+    },
+    {
+      "id": "space-9b065ff0",
+      "category": "space",
+      "difficulty": 3,
+      "question": "소행성대에서 가장 큰 천체로, 왜행성으로 분류되는 것은?",
+      "choices": [
+        "에로스",
+        "베스타",
+        "이토카와",
+        "세레스"
+      ],
+      "answerIndex": 3,
+      "explanation": "세레스는 지름이 약 940km로 소행성대에서 가장 커요. 2006년 명왕성과 함께 왜행성으로 분류되었어요.",
+      "funFact": "세레스는 1801년 처음 발견되었을 때 한동안 행성으로 불렸어요."
+    },
+    {
+      "id": "space-71965d1a",
+      "category": "space",
+      "difficulty": 3,
+      "question": "해왕성 궤도 바깥에 얼음 천체들이 납작한 띠를 이룬 영역은?",
+      "choices": [
+        "밴앨런대",
+        "헬리오포즈",
+        "카이퍼 벨트",
+        "소행성대"
+      ],
+      "answerIndex": 2,
+      "explanation": "카이퍼 벨트는 해왕성 바깥에 얼음 천체들이 모인 도넛 모양 영역이에요. 명왕성도 이곳에 속해요.",
+      "funFact": "공전 주기가 200년보다 짧은 혜성의 상당수가 카이퍼 벨트 쪽에서 온다고 여겨져요."
+    },
+    {
+      "id": "space-fdd60b3c",
+      "category": "space",
+      "difficulty": 3,
+      "question": "태양계를 공 모양으로 감싸 장주기 혜성의 고향으로 여겨지는 곳은?",
+      "choices": [
+        "카이퍼 벨트",
+        "소행성대",
+        "마젤란운",
+        "오르트 구름"
+      ],
+      "answerIndex": 3,
+      "explanation": "오르트 구름은 태양계 가장 바깥에서 공 모양으로 태양계를 감싸는 얼음 천체 무리로 여겨져요. 아직 직접 관측된 적은 없어요.",
+      "funFact": "오르트 구름의 바깥 끝은 태양에서 1광년 넘게 떨어져 있을 것으로 추정돼요."
+    },
+    {
+      "id": "space-ba61dbf1",
+      "category": "space",
+      "difficulty": 3,
+      "question": "1781년 망원경으로 천왕성을 처음 발견한 천문학자는?",
+      "choices": [
+        "클라이드 톰보",
+        "에드먼드 핼리",
+        "윌리엄 허셜",
+        "에드윈 허블"
+      ],
+      "answerIndex": 2,
+      "explanation": "영국의 윌리엄 허셜은 1781년 천왕성을 발견했어요. 망원경으로 찾아낸 첫 행성이에요.",
+      "funFact": "허셜은 원래 음악가로 활동하며 교향곡을 여러 곡 작곡했어요."
+    },
+    {
+      "id": "space-2af6cd78",
+      "category": "space",
+      "difficulty": 3,
+      "question": "수학 계산으로 위치를 먼저 예측한 뒤 발견된 행성은?",
+      "choices": [
+        "천왕성",
+        "토성",
+        "화성",
+        "해왕성"
+      ],
+      "answerIndex": 3,
+      "explanation": "천왕성 궤도가 계산과 어긋나자 르베리에가 미지의 행성 위치를 계산했어요. 1846년 그 위치 근처에서 해왕성이 발견되었어요.",
+      "funFact": "해왕성 발견은 '펜 끝에서 찾아낸 행성'이라고 불려요."
+    },
+    {
+      "id": "space-717234ce",
+      "category": "space",
+      "difficulty": 3,
+      "question": "1930년 명왕성을 처음 발견한 미국 천문학자는?",
+      "choices": [
+        "클라이드 톰보",
+        "윌리엄 허셜",
+        "칼 세이건",
+        "퍼시벌 로웰"
+      ],
+      "answerIndex": 0,
+      "explanation": "클라이드 톰보는 로웰 천문대에서 사진 건판을 비교하다가 명왕성을 찾아냈어요. 당시 그는 24살이었어요.",
+      "funFact": "톰보의 유골 일부는 명왕성 탐사선에 실려 명왕성 곁을 지나갔어요."
+    },
+    {
+      "id": "space-8906553d",
+      "category": "space",
+      "difficulty": 3,
+      "question": "1994년 여러 조각으로 쪼개져 목성에 충돌한 혜성은?",
+      "choices": [
+        "핼리 혜성",
+        "하쿠타케 혜성",
+        "헤일-밥 혜성",
+        "슈메이커-레비 9"
+      ],
+      "answerIndex": 3,
+      "explanation": "슈메이커-레비 9 혜성은 목성의 중력에 쪼개진 뒤 1994년 7월 목성에 연달아 부딪혔어요. 천체 충돌을 직접 관측한 첫 사례로 꼽혀요.",
+      "funFact": "충돌 흔적 중 일부는 지구만 한 크기로 목성 대기에 몇 주 동안 남았어요."
+    },
+    {
+      "id": "space-46f29ed0",
+      "category": "space",
+      "difficulty": 3,
+      "question": "달이 원시 지구와 화성만 한 천체의 충돌로 생겼다는 가설은?",
+      "choices": [
+        "분열설",
+        "포획설",
+        "거대 충돌설",
+        "동시 생성설"
+      ],
+      "answerIndex": 2,
+      "explanation": "거대 충돌설은 원시 지구에 '테이아'라는 천체가 부딪혀 튀어나간 물질이 모여 달이 되었다는 가설이에요. 현재 가장 널리 받아들여져요.",
+      "funFact": "아폴로가 가져온 달 암석의 성분이 지구 맨틀과 닮았다는 점이 이 가설을 뒷받침해요."
+    },
+    {
+      "id": "space-cf97386c",
+      "category": "space",
+      "difficulty": 3,
+      "question": "2022년 NASA 탐사선 DART가 일부러 충돌해 궤도를 바꾼 소행성은?",
+      "choices": [
+        "아포피스",
+        "베누",
+        "이토카와",
+        "디모르포스"
+      ],
+      "answerIndex": 3,
+      "explanation": "DART는 소행성 디디모스를 도는 작은 위성 디모르포스에 충돌했어요. 그 결과 공전 주기가 약 30분 넘게 짧아졌어요.",
+      "funFact": "인류가 천체의 궤도를 실제로 바꾼 첫 실험이라 '행성 방어' 시험으로 불려요."
+    },
+    {
+      "id": "space-211bd102",
+      "category": "space",
+      "difficulty": 3,
+      "question": "태양계 전체 질량에서 태양이 차지하는 비율은 약 얼마일까요?",
+      "choices": [
+        "약 90%",
+        "약 99.8%",
+        "약 75%",
+        "약 50%"
+      ],
+      "answerIndex": 1,
+      "explanation": "태양은 태양계 전체 질량의 약 99.8%를 차지해요. 나머지 대부분은 목성과 토성이 차지해요.",
+      "funFact": "태양 안에는 지구가 약 130만 개 들어갈 수 있어요."
+    },
+    {
+      "id": "space-039b8a43",
+      "category": "space",
+      "difficulty": 1,
+      "question": "컴퓨터의 두뇌로, 연산과 제어를 맡는 장치는?",
+      "choices": [
+        "SSD(저장장치)",
+        "CPU(중앙처리장치)",
+        "모니터",
+        "RAM(주기억장치)"
+      ],
+      "answerIndex": 1,
+      "explanation": "CPU는 명령을 해석하고 계산을 수행하는 컴퓨터의 핵심 장치예요. 다른 부품들은 CPU의 지시에 따라 움직여요.",
+      "funFact": "CPU 칩 하나에는 손톱만 한 크기에 수십억 개의 트랜지스터가 들어 있어요."
+    },
+    {
+      "id": "space-ff7c75df",
+      "category": "space",
+      "difficulty": 1,
+      "question": "전원을 끄면 내용이 사라지는 컴퓨터의 주기억장치는?",
+      "choices": [
+        "RAM",
+        "하드디스크",
+        "SSD",
+        "ROM"
+      ],
+      "answerIndex": 0,
+      "explanation": "RAM은 지금 실행 중인 프로그램과 데이터를 잠시 올려 두는 기억장치예요. 전기가 끊기면 저장된 내용이 지워지는 휘발성 메모리예요.",
+      "funFact": "RAM은 'Random Access Memory'의 약자로, 어느 위치든 같은 속도로 바로 읽을 수 있다는 뜻이에요."
+    },
+    {
+      "id": "space-0042d99d",
+      "category": "space",
+      "difficulty": 1,
+      "question": "0 또는 1 하나를 나타내는 컴퓨터 정보의 최소 단위는?",
+      "choices": [
+        "비트(bit)",
+        "헤르츠(Hz)",
+        "바이트(byte)",
+        "픽셀(pixel)"
+      ],
+      "answerIndex": 0,
+      "explanation": "비트는 0과 1 중 하나만 담을 수 있는 가장 작은 정보 단위예요. 여러 비트를 모아 글자나 숫자를 표현해요.",
+      "funFact": "'비트'는 '이진 숫자'를 뜻하는 binary digit을 줄여 만든 말이에요."
+    },
+    {
+      "id": "space-c65449fc",
+      "category": "space",
+      "difficulty": 1,
+      "question": "1바이트는 몇 비트일까요?",
+      "choices": [
+        "4비트",
+        "8비트",
+        "16비트",
+        "10비트"
+      ],
+      "answerIndex": 1,
+      "explanation": "1바이트는 8비트로 이루어져 있어요. 영문자 한 글자를 보통 1바이트로 표현해요.",
+      "funFact": "4비트, 즉 바이트의 절반은 '니블(nibble)'이라고 불러요. 한 입 베어 문다는 뜻의 말장난이에요."
+    },
+    {
+      "id": "space-2a7e93e8",
+      "category": "space",
+      "difficulty": 1,
+      "question": "웹 페이지의 뼈대(구조)를 만드는 마크업 언어는?",
+      "choices": [
+        "JPEG",
+        "CSS",
+        "SQL",
+        "HTML"
+      ],
+      "answerIndex": 3,
+      "explanation": "HTML은 제목, 문단, 링크 같은 웹 페이지의 구조를 태그로 표시하는 언어예요. 디자인은 주로 CSS가 맡아요.",
+      "funFact": "HTML의 'HT'는 하이퍼텍스트(HyperText)로, 다른 문서로 건너뛰는 링크가 달린 글을 뜻해요."
+    },
+    {
+      "id": "space-ddde95cc",
+      "category": "space",
+      "difficulty": 1,
+      "question": "인터넷 주소의 'https'에서 마지막 's'가 뜻하는 것은?",
+      "choices": [
+        "서버(Server)",
+        "보안(Secure)",
+        "속도(Speed)",
+        "사이트(Site)"
+      ],
+      "answerIndex": 1,
+      "explanation": "https는 주고받는 데이터를 암호화하는 보안 통신 방식이에요. 마지막 s는 Secure를 뜻해요.",
+      "funFact": "HTTPS는 통신을 암호화하지만, 접속한 사이트 자체가 믿을 만하다는 뜻은 아니에요."
+    },
+    {
+      "id": "space-5363fe01",
+      "category": "space",
+      "difficulty": 1,
+      "question": "사람인지 확인하려고 일그러진 글자를 입력하게 하는 보안 장치는?",
+      "choices": [
+        "핫스팟",
+        "방화벽",
+        "쿠키",
+        "캡차(CAPTCHA)"
+      ],
+      "answerIndex": 3,
+      "explanation": "캡차는 사람은 쉽게 풀고 자동 프로그램은 풀기 어려운 문제를 내서 봇을 걸러 내요. 회원 가입이나 로그인 화면에서 자주 볼 수 있어요.",
+      "funFact": "캡차는 '컴퓨터와 사람을 구별하는 완전 자동화 튜링 테스트'라는 긴 영어 이름의 머리글자예요."
+    },
+    {
+      "id": "space-231ce9df",
+      "category": "space",
+      "difficulty": 1,
+      "question": "은행이나 기관을 사칭해 개인정보를 빼내는 온라인 사기는?",
+      "choices": [
+        "크롤링",
+        "피싱",
+        "버퍼링",
+        "스트리밍"
+      ],
+      "answerIndex": 1,
+      "explanation": "피싱은 믿을 만한 곳인 척 메일이나 링크를 보내 비밀번호, 계좌 정보를 가로채는 수법이에요. 의심스러운 링크는 누르지 않는 게 좋아요.",
+      "funFact": "피싱(phishing)은 미끼로 물고기를 낚는 낚시(fishing)에 빗대 만든 말이에요."
+    },
+    {
+      "id": "space-64f8300d",
+      "category": "space",
+      "difficulty": 1,
+      "question": "영문 키보드 표준 배열로, 윗줄 왼쪽 여섯 글자에서 이름을 딴 것은?",
+      "choices": [
+        "유니코드(Unicode)",
+        "쿼티(QWERTY)",
+        "아스키(ASCII)",
+        "드보락(Dvorak)"
+      ],
+      "answerIndex": 1,
+      "explanation": "가장 널리 쓰이는 영문 자판은 윗줄 왼쪽이 Q, W, E, R, T, Y로 시작해서 쿼티 배열이라고 불러요.",
+      "funFact": "쿼티 배열은 19세기 타자기 시절에 만들어져 컴퓨터 시대까지 그대로 이어졌어요."
+    },
+    {
+      "id": "space-a6aa1e95",
+      "category": "space",
+      "difficulty": 1,
+      "question": "'슈퍼 마리오' 시리즈를 만든 일본 게임 회사는?",
+      "choices": [
+        "소니",
+        "세가",
+        "캡콤",
+        "닌텐도"
+      ],
+      "answerIndex": 3,
+      "explanation": "슈퍼 마리오는 닌텐도의 대표 게임 시리즈예요. 디자이너 미야모토 시게루가 마리오 캐릭터를 만들었어요.",
+      "funFact": "1985년 출시된 '슈퍼 마리오브라더스'는 오랫동안 가장 많이 팔린 비디오 게임 기록을 지켰어요."
+    },
+    {
+      "id": "space-efa19979",
+      "category": "space",
+      "difficulty": 1,
+      "question": "컴퓨터에 해를 끼치도록 만든 악성 프로그램을 통틀어 부르는 말은?",
+      "choices": [
+        "셰어웨어",
+        "프리웨어",
+        "멀웨어",
+        "펌웨어"
+      ],
+      "answerIndex": 2,
+      "explanation": "멀웨어(malware)는 '악성(malicious)'과 '소프트웨어(software)'를 합친 말이에요. 바이러스, 웜, 랜섬웨어 등이 모두 멀웨어에 속해요.",
+      "funFact": "우리말로는 멀웨어를 흔히 '악성코드'라고 불러요."
+    },
+    {
+      "id": "space-223011ed",
+      "category": "space",
+      "difficulty": 1,
+      "question": "여러 파일을 하나로 압축할 때 흔히 쓰는 파일 확장자는?",
+      "choices": [
+        ".txt",
+        ".zip",
+        ".mp3",
+        ".jpg"
+      ],
+      "answerIndex": 1,
+      "explanation": ".zip은 파일 크기를 줄이고 여러 파일을 한 덩어리로 묶는 압축 파일 형식이에요.",
+      "funFact": "zip은 영어로 '지퍼'나 '휙 지나가다'라는 뜻으로, 빠르게 주고받는다는 느낌을 담았어요."
+    },
+    {
+      "id": "space-3a74f344",
+      "category": "space",
+      "difficulty": 1,
+      "question": "웹사이트가 방문자 브라우저에 남기는 작은 기록 파일은?",
+      "choices": [
+        "패치",
+        "쿠키",
+        "픽셀",
+        "매크로"
+      ],
+      "answerIndex": 1,
+      "explanation": "쿠키는 로그인 상태나 장바구니 같은 정보를 브라우저에 저장해 두는 작은 데이터예요. 그래서 다시 방문해도 정보가 남아 있어요.",
+      "funFact": "쿠키라는 이름은 프로그래머들이 쓰던 용어 '매직 쿠키(magic cookie)'에서 왔어요."
+    },
+    {
+      "id": "space-786b9eab",
+      "category": "space",
+      "difficulty": 1,
+      "question": "디지털 화면을 이루는 가장 작은 점 하나를 부르는 말은?",
+      "choices": [
+        "커서",
+        "프레임",
+        "픽셀",
+        "폰트"
+      ],
+      "answerIndex": 2,
+      "explanation": "픽셀은 화면이나 디지털 이미지를 이루는 가장 작은 색 점이에요. 픽셀이 많을수록 더 선명한 화면이 돼요.",
+      "funFact": "픽셀(pixel)은 '그림 요소'라는 뜻의 picture element를 줄인 말이에요."
+    },
+    {
+      "id": "space-1c6cba97",
+      "category": "space",
+      "difficulty": 1,
+      "question": "인터넷 주소 앞에 붙는 'WWW'는 무엇의 약자일까요?",
+      "choices": [
+        "Web Wide World",
+        "World Wide Wire",
+        "World Wide Web",
+        "Wireless World Web"
+      ],
+      "answerIndex": 2,
+      "explanation": "WWW는 전 세계 문서를 링크로 거미줄처럼 연결한 월드 와이드 웹을 뜻해요. 흔히 줄여서 '웹'이라고 불러요.",
+      "funFact": "Web은 영어로 '거미줄'이라는 뜻이에요. 문서들이 거미줄처럼 얽혀 있다는 뜻을 담았어요."
+    },
+    {
+      "id": "space-f2679adb",
+      "category": "space",
+      "difficulty": 1,
+      "question": "컴퓨터 화면을 그대로 이미지 파일로 저장하는 것은?",
+      "choices": [
+        "스크롤",
+        "스크린샷",
+        "스트리밍",
+        "스크린세이버"
+      ],
+      "answerIndex": 1,
+      "explanation": "스크린샷은 지금 보이는 화면을 사진처럼 찍어 저장하는 기능이에요. 우리말로는 '화면 캡처'라고도 해요.",
+      "funFact": "윈도우 키보드의 'Print Screen' 키는 원래 화면 내용을 프린터로 바로 인쇄하던 키였어요."
+    },
+    {
+      "id": "space-672e3e19",
+      "category": "space",
+      "difficulty": 1,
+      "question": "스마트폰의 데이터를 다른 기기와 나눠 쓰게 하는 기능은?",
+      "choices": [
+        "로밍",
+        "테더링",
+        "미러링",
+        "스트리밍"
+      ],
+      "answerIndex": 1,
+      "explanation": "테더링은 스마트폰을 공유기처럼 써서 노트북 같은 다른 기기도 인터넷에 접속하게 해 주는 기능이에요.",
+      "funFact": "tether는 원래 동물을 말뚝에 매어 두는 '밧줄'이라는 뜻이에요."
+    },
+    {
+      "id": "space-2a595455",
+      "category": "space",
+      "difficulty": 1,
+      "question": "SNS 글에서 '#' 뒤에 단어를 붙여 주제를 묶는 기능은?",
+      "choices": [
+        "해시태그",
+        "이모지",
+        "멘션",
+        "리트윗"
+      ],
+      "answerIndex": 0,
+      "explanation": "해시태그는 # 기호 뒤에 단어를 붙여 같은 주제의 글을 한데 모아 볼 수 있게 해 줘요.",
+      "funFact": "# 기호는 영어권에서 '해시'라고 부르는데, 우리나라에서는 '샵'이라고 부르기도 해요."
+    },
+    {
+      "id": "space-258707a4",
+      "category": "space",
+      "difficulty": 1,
+      "question": "컴퓨터가 모든 정보를 0과 1 두 숫자로만 나타내는 방식은?",
+      "choices": [
+        "십진법",
+        "십이진법",
+        "이진법",
+        "육십진법"
+      ],
+      "answerIndex": 2,
+      "explanation": "컴퓨터는 전기가 흐르는지 아닌지 두 상태만 구별하기 쉬워서 0과 1만 쓰는 이진법을 써요.",
+      "funFact": "이진법으로 '10'은 십진법의 2를 뜻해요. 그래서 '세상에는 10종류의 사람이 있다'는 개발자 농담이 있어요."
+    },
+    {
+      "id": "space-320696c1",
+      "category": "space",
+      "difficulty": 1,
+      "question": "윈도우 단축키 'Ctrl+Z'의 기능은?",
+      "choices": [
+        "붙여넣기",
+        "실행 취소",
+        "저장",
+        "복사"
+      ],
+      "answerIndex": 1,
+      "explanation": "Ctrl+Z는 방금 한 작업을 되돌리는 실행 취소 단축키예요. 실수했을 때 가장 먼저 찾게 되는 키예요.",
+      "funFact": "복사(C), 잘라내기(X), 붙여넣기(V), 실행 취소(Z)가 키보드 왼쪽 아랫줄에 나란히 있어 한 손으로 누르기 편해요."
+    },
+    {
+      "id": "space-de872bea",
+      "category": "space",
+      "difficulty": 2,
+      "question": "1960년대에 컴퓨터 마우스를 발명한 미국 공학자는?",
+      "choices": [
+        "빌 게이츠",
+        "스티브 잡스",
+        "더글러스 엥겔바트",
+        "앨런 튜링"
+      ],
+      "answerIndex": 2,
+      "explanation": "더글러스 엥겔바트는 1960년대에 나무 상자에 바퀴를 단 최초의 마우스를 만들었어요. 1968년 시연에서 마우스로 화면을 조작해 큰 화제가 됐어요.",
+      "funFact": "초기 마우스는 선이 꼬리처럼 뒤로 뻗어 있어 생쥐(mouse)라는 이름이 붙었어요."
+    },
+    {
+      "id": "space-a3f0d9bc",
+      "category": "space",
+      "difficulty": 2,
+      "question": "구글 이름의 유래인 수 '구골'은 1 뒤에 0이 몇 개 붙을까요?",
+      "choices": [
+        "10개",
+        "50개",
+        "100개",
+        "1000개"
+      ],
+      "answerIndex": 2,
+      "explanation": "구골(googol)은 10의 100제곱, 즉 1 뒤에 0이 100개 붙은 수예요. 구글은 이 단어를 살짝 바꿔 회사 이름으로 지었어요.",
+      "funFact": "구골이라는 이름은 한 수학자의 어린 조카가 지어 준 것으로 알려져 있어요."
+    },
+    {
+      "id": "space-6ecd5194",
+      "category": "space",
+      "difficulty": 2,
+      "question": "월드 와이드 웹(WWW)을 고안한 영국 과학자는?",
+      "choices": [
+        "마크 저커버그",
+        "빈트 서프",
+        "래리 페이지",
+        "팀 버너스리"
+      ],
+      "answerIndex": 3,
+      "explanation": "팀 버너스리는 1989년 유럽입자물리연구소(CERN)에서 웹을 제안했어요. HTML, URL, HTTP의 기초도 그가 만들었어요.",
+      "funFact": "버너스리는 웹 기술에 특허를 걸지 않고 누구나 무료로 쓸 수 있게 공개했어요."
+    },
+    {
+      "id": "space-431ac49b",
+      "category": "space",
+      "difficulty": 2,
+      "question": "컴퓨터 연결 단자 'USB'의 'U'가 뜻하는 단어는?",
+      "choices": [
+        "Unified",
+        "Ultra",
+        "Unique",
+        "Universal"
+      ],
+      "answerIndex": 3,
+      "explanation": "USB는 Universal Serial Bus의 약자예요. 여러 종류의 기기를 하나의 표준 단자로 연결하자는 뜻을 담았어요.",
+      "funFact": "USB가 나오기 전에는 마우스, 프린터, 키보드마다 모양이 다른 단자를 따로 써야 했어요."
+    },
+    {
+      "id": "space-edf3f7d9",
+      "category": "space",
+      "difficulty": 2,
+      "question": "'naver.com' 같은 도메인을 IP 주소로 바꿔 주는 시스템은?",
+      "choices": [
+        "LAN",
+        "VPN",
+        "DNS",
+        "HTML"
+      ],
+      "answerIndex": 2,
+      "explanation": "DNS는 사람이 외우기 쉬운 도메인 이름을 컴퓨터가 쓰는 숫자 IP 주소로 바꿔 주는 인터넷의 전화번호부예요.",
+      "funFact": "DNS가 고장 나면 인터넷이 연결돼 있어도 주소를 찾지 못해 웹사이트가 열리지 않아요."
+    },
+    {
+      "id": "space-f11939e8",
+      "category": "space",
+      "difficulty": 2,
+      "question": "1980년 출시된, 노란 캐릭터가 유령을 피하며 점을 먹는 게임은?",
+      "choices": [
+        "갤러그",
+        "스페이스 인베이더",
+        "팩맨",
+        "동키콩"
+      ],
+      "answerIndex": 2,
+      "explanation": "팩맨은 일본 남코가 1980년에 내놓은 아케이드 게임이에요. 미로 속 점을 먹으며 유령을 피하는 단순한 규칙으로 큰 인기를 끌었어요.",
+      "funFact": "팩맨의 모양은 한 조각이 빠진 피자에서 영감을 얻었다고 알려져 있어요."
+    },
+    {
+      "id": "space-2c81b74d",
+      "category": "space",
+      "difficulty": 2,
+      "question": "윈도우 PC의 하드디스크가 보통 C 드라이브인 이유는? A·B가 원래 무엇의 몫이라서?",
+      "choices": [
+        "플로피디스크",
+        "CD-ROM",
+        "USB 메모리",
+        "네트워크 드라이브"
+      ],
+      "answerIndex": 0,
+      "explanation": "옛 PC는 A와 B 드라이브를 플로피디스크 드라이브에 배정했어요. 그래서 나중에 붙은 하드디스크는 C부터 이름을 받게 됐어요.",
+      "funFact": "지금도 많은 프로그램의 '저장' 아이콘은 플로피디스크 모양이에요."
+    },
+    {
+      "id": "space-37ee5833",
+      "category": "space",
+      "difficulty": 2,
+      "question": "'랜섬웨어'의 '랜섬(ransom)'은 무슨 뜻일까요?",
+      "choices": [
+        "무작위",
+        "감시",
+        "폭탄",
+        "몸값"
+      ],
+      "answerIndex": 3,
+      "explanation": "랜섬웨어는 파일을 암호화해 쓸 수 없게 만든 뒤 풀어 주는 대가로 돈을 요구해요. 그래서 '몸값'이라는 뜻의 이름이 붙었어요.",
+      "funFact": "랜섬웨어 피해를 막는 가장 확실한 방법은 중요한 파일을 따로 백업해 두는 거예요."
+    },
+    {
+      "id": "space-9f19cada",
+      "category": "space",
+      "difficulty": 2,
+      "question": "수많은 기기로 한 서버에 접속을 몰아 마비시키는 공격은?",
+      "choices": [
+        "피싱",
+        "스니핑",
+        "디도스(DDoS)",
+        "스미싱"
+      ],
+      "answerIndex": 2,
+      "explanation": "디도스는 '분산 서비스 거부' 공격이에요. 감염된 수많은 컴퓨터가 한꺼번에 요청을 보내 서버가 정상 서비스를 못 하게 만들어요.",
+      "funFact": "디도스에 동원되는 감염 컴퓨터 무리를 '좀비 PC'라고 불러요."
+    },
+    {
+      "id": "space-f3730ff4",
+      "category": "space",
+      "difficulty": 2,
+      "question": "문자 메시지 속 링크로 악성 앱을 깔게 하는 사기 수법은?",
+      "choices": [
+        "파밍",
+        "스푸핑",
+        "보이스피싱",
+        "스미싱"
+      ],
+      "answerIndex": 3,
+      "explanation": "스미싱은 문자 메시지(SMS)와 피싱을 합친 말이에요. 택배·청첩장 등으로 위장한 링크를 눌러 악성 앱을 설치하게 만들어요.",
+      "funFact": "모르는 번호에서 온 문자 속 링크는 누르지 않는 것만으로도 스미싱 피해 대부분을 막을 수 있어요."
+    },
+    {
+      "id": "space-a3e9a07b",
+      "category": "space",
+      "difficulty": 2,
+      "question": "기계가 사람처럼 생각하는지 판별하는 시험을 제안한 영국 수학자는?",
+      "choices": [
+        "앨런 튜링",
+        "찰스 배비지",
+        "존 폰 노이만",
+        "클로드 섀넌"
+      ],
+      "answerIndex": 0,
+      "explanation": "앨런 튜링은 1950년 논문에서 대화로 기계와 사람을 구별할 수 없다면 기계가 생각한다고 볼 수 있다는 '튜링 테스트'를 제안했어요.",
+      "funFact": "컴퓨터 과학의 노벨상으로 불리는 상의 이름도 '튜링상'이에요."
+    },
+    {
+      "id": "space-b4a8eba4",
+      "category": "space",
+      "difficulty": 2,
+      "question": "1946년 공개된 범용 전자식 컴퓨터 '에니악(ENIAC)'을 만든 나라는?",
+      "choices": [
+        "미국",
+        "독일",
+        "소련",
+        "영국"
+      ],
+      "answerIndex": 0,
+      "explanation": "에니악은 미국 펜실베이니아 대학에서 개발해 1946년에 공개됐어요. 원래는 포탄의 궤적을 계산하려고 만들었어요.",
+      "funFact": "에니악은 무게가 약 30톤에 진공관이 1만 7천 개 넘게 들어간 거대한 기계였어요."
+    },
+    {
+      "id": "space-72fdfcd8",
+      "category": "space",
+      "difficulty": 3,
+      "question": "반도체 칩의 트랜지스터 수가 약 2년마다 두 배가 된다는 법칙은?",
+      "choices": [
+        "무어의 법칙",
+        "파레토 법칙",
+        "머피의 법칙",
+        "메트칼프의 법칙"
+      ],
+      "answerIndex": 0,
+      "explanation": "인텔 공동 창업자 고든 무어가 제시한 관찰로, 칩 성능이 빠르게 좋아지는 흐름을 설명할 때 자주 인용돼요.",
+      "funFact": "무어는 처음 1965년에 '매년 두 배'라고 했다가 1975년에 '2년마다'로 고쳐 말했어요."
+    },
+    {
+      "id": "space-ea362cc3",
+      "category": "space",
+      "difficulty": 2,
+      "question": "1바이트로 나타낼 수 있는 서로 다른 값은 모두 몇 가지?",
+      "choices": [
+        "128가지",
+        "256가지",
+        "512가지",
+        "255가지"
+      ],
+      "answerIndex": 1,
+      "explanation": "1바이트는 8비트이고 각 비트가 0 또는 1이므로 2의 8제곱, 즉 256가지 값을 표현할 수 있어요. 0부터 255까지예요.",
+      "funFact": "화면 색을 빨강·초록·파랑 각각 0~255로 정하는 것도 1바이트씩 쓰기 때문이에요."
+    },
+    {
+      "id": "space-09cdb88e",
+      "category": "space",
+      "difficulty": 2,
+      "question": "사각형 무늬의 2차원 코드 'QR코드'를 처음 개발한 나라는?",
+      "choices": [
+        "한국",
+        "미국",
+        "일본",
+        "독일"
+      ],
+      "answerIndex": 2,
+      "explanation": "QR코드는 1994년 일본 덴소의 개발팀이 부품 관리용으로 만들었어요. QR은 빠른 응답(Quick Response)의 약자예요.",
+      "funFact": "QR코드는 일부가 가려지거나 손상돼도 읽을 수 있도록 오류 정정 기능이 들어 있어요."
+    },
+    {
+      "id": "space-ba0b39d5",
+      "category": "space",
+      "difficulty": 2,
+      "question": "스티브 잡스와 애플을 공동 창업하고 '애플 I'을 설계한 인물은?",
+      "choices": [
+        "폴 앨런",
+        "스티브 워즈니악",
+        "빌 게이츠",
+        "마이클 델"
+      ],
+      "answerIndex": 1,
+      "explanation": "스티브 워즈니악은 뛰어난 하드웨어 실력으로 애플 I과 애플 II를 설계했어요. 잡스와 함께 1976년 애플을 세웠어요.",
+      "funFact": "애플 I은 처음에 키보드와 모니터, 케이스 없이 회로 기판만 판매됐어요."
+    },
+    {
+      "id": "space-829b9ee6",
+      "category": "space",
+      "difficulty": 3,
+      "question": "1971년 인텔이 내놓은 세계 최초의 상용 마이크로프로세서는?",
+      "choices": [
+        "인텔 8086",
+        "인텔 80286",
+        "인텔 4004",
+        "인텔 8080"
+      ],
+      "answerIndex": 2,
+      "explanation": "인텔 4004는 CPU의 핵심 기능을 칩 하나에 담은 최초의 상용 마이크로프로세서예요. 원래 일본 회사의 계산기용으로 개발됐어요.",
+      "funFact": "인텔 4004에는 트랜지스터가 약 2,300개 들어 있었어요."
+    },
+    {
+      "id": "space-1ac31343",
+      "category": "space",
+      "difficulty": 3,
+      "question": "1947년 진공관을 대신할 트랜지스터를 발명한 미국 연구소는?",
+      "choices": [
+        "IBM 연구소",
+        "제록스 PARC",
+        "벨 연구소",
+        "MIT 링컨 연구소"
+      ],
+      "answerIndex": 2,
+      "explanation": "벨 연구소의 바딘, 브래튼, 쇼클리가 1947년 트랜지스터를 발명했어요. 이 공로로 세 사람은 1956년 노벨 물리학상을 받았어요.",
+      "funFact": "트랜지스터 덕분에 방 하나만 하던 컴퓨터가 점점 작아져 오늘날 손안의 스마트폰까지 이어졌어요."
+    },
+    {
+      "id": "space-b13aade7",
+      "category": "space",
+      "difficulty": 3,
+      "question": "애플 매킨토시의 아이콘·창 화면에 영향을 준 GUI를 먼저 개발한 연구소는?",
+      "choices": [
+        "MIT 미디어랩",
+        "벨 연구소",
+        "제록스 PARC",
+        "IBM 왓슨 연구소"
+      ],
+      "answerIndex": 2,
+      "explanation": "복사기 회사 제록스의 팰로앨토 연구소(PARC)는 1970년대에 창과 아이콘을 마우스로 다루는 컴퓨터 '알토'를 만들었어요. 스티브 잡스가 이를 보고 큰 영감을 받았어요.",
+      "funFact": "제록스 PARC는 레이저 프린터와 이더넷도 개발한 곳이에요."
+    },
+    {
+      "id": "space-0db0a3c7",
+      "category": "space",
+      "difficulty": 3,
+      "question": "1969년 미국 국방부 지원으로 시작돼 인터넷의 원형이 된 네트워크는?",
+      "choices": [
+        "이더넷(Ethernet)",
+        "유즈넷(Usenet)",
+        "아파넷(ARPANET)",
+        "비트넷(BITNET)"
+      ],
+      "answerIndex": 2,
+      "explanation": "아파넷은 미국 국방부 고등연구계획국(ARPA)의 지원으로 대학 컴퓨터들을 연결한 네트워크예요. 오늘날 인터넷의 뿌리가 됐어요.",
+      "funFact": "아파넷의 첫 메시지로 'LOGIN'을 보내려 했지만 'LO' 두 글자만 전송되고 시스템이 멈췄어요."
+    },
+    {
+      "id": "space-07323459",
+      "category": "space",
+      "difficulty": 3,
+      "question": "1947년 컴퓨터 고장 원인으로 발견돼 '버그'라는 말을 유명하게 만든 곤충은?",
+      "choices": [
+        "개미",
+        "파리",
+        "나방",
+        "바퀴벌레"
+      ],
+      "answerIndex": 2,
+      "explanation": "미국 하버드 대학의 컴퓨터 '마크 II'의 계전기에 나방이 끼어 오작동한 일이 있었어요. 연구원들은 이 나방을 작업 일지에 붙여 '실제 버그 발견'이라고 적었어요.",
+      "funFact": "그 나방이 붙은 작업 일지는 지금 미국 스미스소니언 박물관에 보관돼 있어요."
+    },
+    {
+      "id": "space-80db2c2c",
+      "category": "space",
+      "difficulty": 3,
+      "question": "프로그래밍 언어 '파이썬'의 이름은 무엇에서 따왔을까요?",
+      "choices": [
+        "그리스 신화의 괴물",
+        "비단뱀",
+        "개발자의 반려동물",
+        "영국 코미디 '몬티 파이선'"
+      ],
+      "answerIndex": 3,
+      "explanation": "개발자 귀도 반 로섬은 즐겨 보던 영국 코미디 프로그램 '몬티 파이선의 비행 서커스'에서 이름을 따왔어요. 뱀 로고는 나중에 붙은 거예요.",
+      "funFact": "파이썬 공식 문서 예제에는 몬티 파이선 코미디에서 따온 'spam', 'eggs' 같은 단어가 자주 나와요."
+    },
+    {
+      "id": "space-58c98239",
+      "category": "space",
+      "difficulty": 3,
+      "question": "1995년 브렌던 아이크가 약 10일 만에 첫 버전을 만든 웹 언어는?",
+      "choices": [
+        "파이썬",
+        "PHP",
+        "자바스크립트",
+        "자바"
+      ],
+      "answerIndex": 2,
+      "explanation": "자바스크립트는 넷스케이프에서 일하던 브렌던 아이크가 아주 짧은 기간에 만든 언어예요. 지금은 거의 모든 웹 브라우저에서 돌아가요.",
+      "funFact": "이름 때문에 자주 헷갈리지만 자바스크립트와 자바는 전혀 다른 언어예요."
+    },
+    {
+      "id": "space-23c4cac6",
+      "category": "space",
+      "difficulty": 3,
+      "question": "1970년대 벨 연구소에서 C 언어를 만든 사람은?",
+      "choices": [
+        "데니스 리치",
+        "귀도 반 로섬",
+        "제임스 고슬링",
+        "리누스 토르발스"
+      ],
+      "answerIndex": 0,
+      "explanation": "데니스 리치는 C 언어를 만들고 켄 톰프슨과 함께 유닉스 운영체제를 개발했어요. C는 이후 수많은 언어의 바탕이 됐어요.",
+      "funFact": "C라는 이름은 그 전에 쓰던 'B 언어'의 다음이라는 뜻으로 붙였어요."
+    },
+    {
+      "id": "space-68d69a5b",
+      "category": "space",
+      "difficulty": 3,
+      "question": "영문자·숫자를 나타내는 표준 문자 코드 ASCII는 몇 비트 체계일까요?",
+      "choices": [
+        "32비트",
+        "8비트",
+        "16비트",
+        "7비트"
+      ],
+      "answerIndex": 3,
+      "explanation": "ASCII는 7비트로 128개의 문자를 정의한 표준 코드예요. 영문 대소문자, 숫자, 기호와 제어 문자가 들어 있어요.",
+      "funFact": "ASCII에서 대문자 A는 65, 소문자 a는 97로, 대소문자 사이가 정확히 32 차이 나요."
+    },
+    {
+      "id": "space-8b0fd0c9",
+      "category": "space",
+      "difficulty": 3,
+      "question": "1974년 미국 슈퍼마켓에서 처음으로 바코드가 스캔된 상품은?",
+      "choices": [
+        "식빵",
+        "콜라",
+        "껌",
+        "우유"
+      ],
+      "answerIndex": 2,
+      "explanation": "1974년 미국 오하이오주의 한 슈퍼마켓에서 리글리 껌 한 통이 처음으로 바코드 스캐너를 통과했어요.",
+      "funFact": "그 첫 껌 포장은 지금 미국 스미스소니언 박물관에 전시돼 있어요."
+    },
+    {
+      "id": "space-31fb6ea2",
+      "category": "space",
+      "difficulty": 3,
+      "question": "2005년 유튜브에 처음 올라온 영상의 촬영 장소는?",
+      "choices": [
+        "놀이공원",
+        "해변",
+        "동물원",
+        "대학 강의실"
+      ],
+      "answerIndex": 2,
+      "explanation": "유튜브 공동 창업자 자베드 카림이 샌디에이고 동물원에서 코끼리 앞에 서서 찍은 'Me at the zoo'가 첫 영상이에요.",
+      "funFact": "이 첫 영상은 길이가 20초도 안 되는 짧은 영상이에요."
+    },
+    {
+      "id": "space-9986bd64",
+      "category": "space",
+      "difficulty": 3,
+      "question": "1992년 세계 최초로 보낸 문자 메시지(SMS)의 내용은?",
+      "choices": [
+        "Happy New Year",
+        "I love you",
+        "Hello World",
+        "Merry Christmas"
+      ],
+      "answerIndex": 3,
+      "explanation": "1992년 12월 영국의 한 엔지니어가 컴퓨터로 휴대전화에 'Merry Christmas'라는 문자를 보낸 것이 최초의 SMS예요.",
+      "funFact": "당시 휴대전화에는 문자를 입력하는 기능이 없어서 답장을 보낼 수 없었어요."
+    },
+    {
+      "id": "space-ae3b56fb",
+      "category": "space",
+      "difficulty": 3,
+      "question": "19세기에 '해석기관'을 설계해 컴퓨터의 아버지로 불리는 영국 수학자는?",
+      "choices": [
+        "찰스 배비지",
+        "조지 불",
+        "블레즈 파스칼",
+        "앨런 튜링"
+      ],
+      "answerIndex": 0,
+      "explanation": "찰스 배비지는 천공 카드로 프로그램을 입력받아 계산하는 해석기관을 설계했어요. 오늘날 컴퓨터의 기본 구조를 100년 넘게 앞서 구상한 셈이에요.",
+      "funFact": "배비지의 해석기관은 당시 기술과 자금 문제로 끝내 완성되지 못했어요."
+    },
+    {
+      "id": "space-d57627d6",
+      "category": "space",
+      "difficulty": 1,
+      "question": "중력이 너무 강해 빛조차 빠져나올 수 없는 천체는?",
+      "choices": [
+        "퀘이사",
+        "블랙홀",
+        "중성자별",
+        "백색왜성"
+      ],
+      "answerIndex": 1,
+      "explanation": "블랙홀은 엄청난 질량이 아주 작은 공간에 모여 중력이 극도로 강한 천체예요. 빛도 빠져나오지 못해 검게 보여요.",
+      "funFact": "블랙홀이라는 이름은 1960년대 미국 물리학자 존 휠러가 널리 알렸어요."
+    },
+    {
+      "id": "space-5587d2cd",
+      "category": "space",
+      "difficulty": 1,
+      "question": "맑은 밤하늘에 강물처럼 길게 뻗은 뿌연 빛의 띠는?",
+      "choices": [
+        "황도광",
+        "유성우",
+        "은하수",
+        "오로라"
+      ],
+      "answerIndex": 2,
+      "explanation": "은하수는 우리 은하의 원반을 안쪽에서 바라볼 때 수많은 별이 띠처럼 겹쳐 보이는 모습이에요.",
+      "funFact": "우리말로는 은하수를 '미리내'라고도 불러요."
+    },
+    {
+      "id": "space-f313bac2",
+      "category": "space",
+      "difficulty": 1,
+      "question": "밤새 거의 제자리에 있어 옛날부터 방향을 찾는 데 쓰인 별은?",
+      "choices": [
+        "베가",
+        "금성",
+        "시리우스",
+        "북극성"
+      ],
+      "answerIndex": 3,
+      "explanation": "북극성은 지구 자전축의 북쪽 연장선 가까이에 있어서 밤새 거의 움직이지 않아요. 그래서 북쪽을 찾는 길잡이가 되었어요.",
+      "funFact": "북극성은 밤하늘에서 가장 밝은 별이 아니라 50번째 안팎의 밝기예요."
+    },
+    {
+      "id": "space-ba46c87b",
+      "category": "space",
+      "difficulty": 1,
+      "question": "큰곰자리에 있는 국자 모양의 별 무리로, 북극성 찾기에 쓰는 것은?",
+      "choices": [
+        "플레이아데스 성단",
+        "북두칠성",
+        "남두육성",
+        "카시오페이아자리"
+      ],
+      "answerIndex": 1,
+      "explanation": "북두칠성은 큰곰자리의 일부인 국자 모양 별 무리예요. 국자 끝 두 별을 이은 거리를 약 5배 늘이면 북극성이 나와요.",
+      "funFact": "옛사람들은 북두칠성이 사람의 수명을 맡는다고 믿어 칠성신에게 빌기도 했어요."
+    },
+    {
+      "id": "space-aca15d1d",
+      "category": "space",
+      "difficulty": 1,
+      "question": "우주가 매우 뜨겁고 밀도 높은 상태에서 팽창해 왔다는 이론은?",
+      "choices": [
+        "진화론",
+        "정상 우주론",
+        "판 구조론",
+        "빅뱅 이론"
+      ],
+      "answerIndex": 3,
+      "explanation": "빅뱅 이론은 우주가 약 138억 년 전 매우 뜨겁고 밀도 높은 상태에서 팽창하며 시작되었다는 이론이에요.",
+      "funFact": "'빅뱅'이라는 이름은 이 이론을 반대하던 천문학자 프레드 호일이 비꼬듯 붙인 말이었어요."
+    },
+    {
+      "id": "space-4d61a528",
+      "category": "space",
+      "difficulty": 1,
+      "question": "우리 은하에서 가장 가까운 거대한 나선 은하는?",
+      "choices": [
+        "솜브레로 은하",
+        "안드로메다은하",
+        "소용돌이 은하",
+        "마젤란운"
+      ],
+      "answerIndex": 1,
+      "explanation": "안드로메다은하는 약 250만 광년 떨어진 거대한 나선 은하예요. 맑은 가을밤에는 맨눈으로도 희미하게 보여요.",
+      "funFact": "안드로메다은하와 우리 은하는 수십억 년 뒤 서로 충돌해 합쳐질 것으로 예측돼요."
+    },
+    {
+      "id": "space-2e2a49ff",
+      "category": "space",
+      "difficulty": 1,
+      "question": "수백에서 수십만 개의 별이 가까이 모여 무리를 이룬 것은?",
+      "choices": [
+        "유성",
+        "성단",
+        "성운",
+        "혜성"
+      ],
+      "answerIndex": 1,
+      "explanation": "성단은 같은 가스 구름에서 함께 태어난 별들이 무리 지어 있는 것이에요. 산개 성단과 구상 성단으로 나눠요.",
+      "funFact": "황소자리의 플레이아데스 성단은 맨눈으로도 6~7개의 별이 보여요."
+    },
+    {
+      "id": "space-74387d73",
+      "category": "space",
+      "difficulty": 1,
+      "question": "무거운 별이 일생 마지막에 엄청나게 밝게 폭발하는 현상은?",
+      "choices": [
+        "유성",
+        "신성",
+        "적색거성",
+        "초신성"
+      ],
+      "answerIndex": 3,
+      "explanation": "초신성은 무거운 별이 마지막에 폭발하며 은하 전체만큼 밝게 빛나는 현상이에요. 이때 무거운 원소들이 우주로 퍼져요.",
+      "funFact": "우리 몸을 이루는 원소 중 일부도 오래전 초신성 폭발에서 만들어졌어요."
+    },
+    {
+      "id": "space-7b34a891",
+      "category": "space",
+      "difficulty": 1,
+      "question": "달이 지구에 가까울 때 떠서 평소보다 크고 밝게 보이는 보름달은?",
+      "choices": [
+        "블루문",
+        "블러드문",
+        "슈퍼문",
+        "하베스트문"
+      ],
+      "answerIndex": 2,
+      "explanation": "달의 궤도는 타원이라 지구와의 거리가 달라져요. 지구에 가까운 곳에서 보름달이 되면 더 크고 밝게 보이는데 이를 슈퍼문이라고 해요.",
+      "funFact": "슈퍼문은 가장 작은 보름달보다 지름이 약 14% 크고 약 30% 밝게 보여요."
+    },
+    {
+      "id": "space-f6076299",
+      "category": "space",
+      "difficulty": 1,
+      "question": "많은 별똥별이 한꺼번에 비처럼 쏟아지는 현상은?",
+      "choices": [
+        "유성우",
+        "오로라",
+        "혜성우",
+        "월식"
+      ],
+      "answerIndex": 0,
+      "explanation": "지구가 혜성이 남긴 먼지 띠를 지날 때 많은 유성이 한꺼번에 떨어지는 현상을 유성우라고 해요.",
+      "funFact": "매년 8월 중순의 페르세우스자리 유성우는 3대 유성우 중 하나로 유명해요."
+    },
+    {
+      "id": "space-04eb4509",
+      "category": "space",
+      "difficulty": 1,
+      "question": "남반구 밤하늘에서 남쪽 방향을 찾는 데 쓰는 대표 별자리는?",
+      "choices": [
+        "오리온자리",
+        "북두칠성",
+        "남십자자리",
+        "카시오페이아자리"
+      ],
+      "answerIndex": 2,
+      "explanation": "남반구에는 북극성 같은 밝은 별이 없어 남십자자리로 남쪽을 찾아요. 88개 별자리 중 가장 작은 별자리예요.",
+      "funFact": "남십자자리는 호주와 뉴질랜드 국기에도 그려져 있어요."
+    },
+    {
+      "id": "space-ae10228f",
+      "category": "space",
+      "difficulty": 1,
+      "question": "세 별이 나란히 놓인 허리띠로 유명한 겨울철 대표 별자리는?",
+      "choices": [
+        "거문고자리",
+        "백조자리",
+        "오리온자리",
+        "전갈자리"
+      ],
+      "answerIndex": 2,
+      "explanation": "오리온자리는 그리스 신화의 사냥꾼 모습을 한 겨울 별자리예요. 가운데 나란히 선 세 별이 허리띠예요.",
+      "funFact": "오리온자리의 리겔과 베텔게우스는 밤하늘에서 손꼽히게 밝은 별이에요."
+    },
+    {
+      "id": "space-bd983af6",
+      "category": "space",
+      "difficulty": 1,
+      "question": "알파벳 W 모양으로 보이며 북극성 찾기에도 쓰이는 별자리는?",
+      "choices": [
+        "페가수스자리",
+        "카시오페이아자리",
+        "사자자리",
+        "큰곰자리"
+      ],
+      "answerIndex": 1,
+      "explanation": "카시오페이아자리는 다섯 개의 밝은 별이 W 모양을 이뤄요. 북두칠성 반대편에 있어 북극성을 찾을 때 함께 쓰여요.",
+      "funFact": "카시오페이아는 그리스 신화에서 딸 안드로메다를 둔 에티오피아의 왕비예요."
+    },
+    {
+      "id": "space-5aca124c",
+      "category": "space",
+      "difficulty": 1,
+      "question": "우주에서 새로운 별이 태어나는 가스와 먼지 구름을 뭐라고 할까요?",
+      "choices": [
+        "성단",
+        "혜성",
+        "은하단",
+        "성운"
+      ],
+      "answerIndex": 3,
+      "explanation": "성운은 우주 공간의 가스와 먼지가 모인 구름이에요. 이 구름이 중력으로 뭉치면서 새로운 별이 만들어져요.",
+      "funFact": "오리온자리 허리띠 아래의 오리온 대성운은 맨눈으로도 희미하게 보여요."
+    },
+    {
+      "id": "space-5ae6babe",
+      "category": "space",
+      "difficulty": 1,
+      "question": "지구에서 보이는 천체 중 태양 다음으로 밝게 보이는 천체는?",
+      "choices": [
+        "시리우스",
+        "달",
+        "금성",
+        "목성"
+      ],
+      "answerIndex": 1,
+      "explanation": "달은 지구와 가까워 햇빛을 반사해 밤하늘에서 가장 밝게 보여요. 그다음으로 밝은 천체는 금성이에요.",
+      "funFact": "보름달은 반달보다 2배가 아니라 약 10배 가까이 더 밝아요."
+    },
+    {
+      "id": "space-269e30f2",
+      "category": "space",
+      "difficulty": 1,
+      "question": "수천억 개의 별과 가스가 중력으로 묶인 거대한 천체 집단은?",
+      "choices": [
+        "은하",
+        "성단",
+        "별자리",
+        "성운"
+      ],
+      "answerIndex": 0,
+      "explanation": "은하는 수많은 별, 가스, 먼지, 암흑 물질이 중력으로 묶인 거대한 집단이에요. 태양계는 우리 은하에 속해 있어요.",
+      "funFact": "관측 가능한 우주에는 은하가 수천억 개 넘게 있을 것으로 추정돼요."
+    },
+    {
+      "id": "space-2d65e4a8",
+      "category": "space",
+      "difficulty": 1,
+      "question": "천체 망원경을 일부러 우주에 올려 보내는 주된 이유는?",
+      "choices": [
+        "중력이 렌즈를 휘게 해서",
+        "망원경을 식히려고",
+        "별에 더 가까이 가려고",
+        "대기의 방해를 피하려고"
+      ],
+      "answerIndex": 3,
+      "explanation": "지구 대기는 별빛을 흔들고 자외선과 적외선을 많이 막아요. 우주에서는 이런 방해 없이 선명하게 관측할 수 있어요.",
+      "funFact": "지구 궤도까지 올라가도 별까지의 거리는 거의 그대로라 가까워지는 효과는 거의 없어요."
+    },
+    {
+      "id": "space-e7168f27",
+      "category": "space",
+      "difficulty": 1,
+      "question": "개기월식 때 붉게 물든 달을 부르는 말은?",
+      "choices": [
+        "블루문",
+        "슈퍼문",
+        "하프문",
+        "블러드문"
+      ],
+      "answerIndex": 3,
+      "explanation": "개기월식 때 달은 지구 대기를 지나며 굴절된 붉은빛을 받아 붉게 보여요. 이 모습을 블러드문이라고 불러요.",
+      "funFact": "달이 붉게 보이는 원리는 노을이 붉게 보이는 원리와 같아요."
+    },
+    {
+      "id": "space-fd54d775",
+      "category": "space",
+      "difficulty": 1,
+      "question": "별의 밝기를 나타내는 등급은 숫자가 작을수록 어떨까요?",
+      "choices": [
+        "더 밝다",
+        "더 어둡다",
+        "더 뜨겁다",
+        "더 멀다"
+      ],
+      "answerIndex": 0,
+      "explanation": "별의 등급은 숫자가 작을수록 밝아요. 아주 밝은 천체는 0이나 마이너스 등급으로 나타내요.",
+      "funFact": "보름달의 등급은 약 -12.7등급, 태양은 약 -26.7등급이에요."
+    },
+    {
+      "id": "space-d353e5a4",
+      "category": "space",
+      "difficulty": 1,
+      "question": "황도를 열두 구역으로 나눠 서양 별자리 운세에 사용하는 전통 체계는?",
+      "choices": [
+        "황도 12궁",
+        "십이지",
+        "88성좌",
+        "28수"
+      ],
+      "answerIndex": 0,
+      "explanation": "황도 12궁은 태양의 겉보기 경로인 황도를 열두 구역으로 나눈 전통 체계예요. 현대 천문학에서 황도가 지나는 실제 별자리 영역과는 달라요.",
+      "funFact": "태어난 날에 따라 정하는 서양의 '별자리 운세'가 황도 12궁에서 나왔어요."
+    },
+    {
+      "id": "space-f48c626d",
+      "category": "space",
+      "difficulty": 2,
+      "question": "표면 온도가 가장 높은 별은 어떤 색으로 보일까요?",
+      "choices": [
+        "붉은색",
+        "노란색",
+        "청백색",
+        "주황색"
+      ],
+      "answerIndex": 2,
+      "explanation": "별의 색은 표면 온도에 따라 달라져요. 뜨거울수록 푸른빛을, 차가울수록 붉은빛을 띠어요.",
+      "funFact": "태양은 표면 온도가 중간쯤인 노란색 별이에요."
+    },
+    {
+      "id": "space-b0a91195",
+      "category": "space",
+      "difficulty": 2,
+      "question": "태양 표면(광구)의 온도는 약 얼마일까요?",
+      "choices": [
+        "약 5,500℃",
+        "약 1,500만℃",
+        "약 550℃",
+        "약 5만 5천℃"
+      ],
+      "answerIndex": 0,
+      "explanation": "태양 표면 온도는 약 5,500℃예요. 핵융합이 일어나는 중심부는 약 1,500만℃에 이르러요.",
+      "funFact": "태양의 바깥 대기인 코로나는 표면보다 훨씬 뜨거운 100만℃가 넘어요."
+    },
+    {
+      "id": "space-a49fb9c2",
+      "category": "space",
+      "difficulty": 2,
+      "question": "태양의 흑점이 주변보다 검게 보이는 까닭은?",
+      "choices": [
+        "구멍이 뚫려 있어서",
+        "먼지구름이 가려서",
+        "행성 그림자가 생겨서",
+        "주변보다 온도가 낮아서"
+      ],
+      "answerIndex": 3,
+      "explanation": "흑점은 강한 자기장이 열의 흐름을 막아 주변보다 약 1,000~2,000℃ 낮아요. 그래서 상대적으로 어둡게 보여요.",
+      "funFact": "흑점만 따로 떼어 놓으면 보름달보다 훨씬 밝게 빛날 거예요."
+    },
+    {
+      "id": "space-2ee19fc4",
+      "category": "space",
+      "difficulty": 2,
+      "question": "개기일식 때 태양 둘레에 진줏빛으로 퍼져 보이는 태양의 바깥 대기는?",
+      "choices": [
+        "채층",
+        "코로나",
+        "홍염",
+        "광구"
+      ],
+      "answerIndex": 1,
+      "explanation": "코로나는 태양 대기의 가장 바깥층이에요. 평소에는 밝은 표면 때문에 안 보이다가 개기일식 때 드러나요.",
+      "funFact": "코로나라는 이름은 '왕관'을 뜻하는 라틴어에서 왔어요."
+    },
+    {
+      "id": "space-46d4d8ba",
+      "category": "space",
+      "difficulty": 2,
+      "question": "태양에서 사방으로 끊임없이 흘러나오는 전기를 띤 입자의 흐름은?",
+      "choices": [
+        "우주 배경 복사",
+        "제트 기류",
+        "중력파",
+        "태양풍"
+      ],
+      "answerIndex": 3,
+      "explanation": "태양풍은 태양 코로나에서 우주로 뿜어져 나오는 양성자와 전자 같은 입자의 흐름이에요. 오로라도 태양풍 때문에 생겨요.",
+      "funFact": "태양풍은 초속 수백km의 빠르기로 태양계 끝까지 퍼져 나가요."
+    },
+    {
+      "id": "space-c5ff14d1",
+      "category": "space",
+      "difficulty": 2,
+      "question": "블랙홀에서 빛도 되돌아 나올 수 없게 되는 경계를 뭐라고 할까요?",
+      "choices": [
+        "사건의 지평선",
+        "헬리오포즈",
+        "특이점",
+        "로슈 한계"
+      ],
+      "answerIndex": 0,
+      "explanation": "사건의 지평선은 블랙홀의 중력을 벗어날 수 없게 되는 경계예요. 이 안쪽에서 일어난 일은 바깥에서 알 수 없어요.",
+      "funFact": "지구를 블랙홀로 만들려면 지름 약 1.8cm 구슬만큼 압축해야 해요."
+    },
+    {
+      "id": "space-2e2b74e2",
+      "category": "space",
+      "difficulty": 2,
+      "question": "우리 은하는 모양으로 보아 어떤 종류의 은하일까요?",
+      "choices": [
+        "막대 나선 은하",
+        "불규칙 은하",
+        "렌즈형 은하",
+        "타원 은하"
+      ],
+      "answerIndex": 0,
+      "explanation": "우리 은하는 가운데에 막대 모양 구조가 있고 그 끝에서 나선팔이 뻗어 나온 막대 나선 은하예요.",
+      "funFact": "태양계는 우리 은하 중심에서 약 2만 6천 광년 떨어진 나선팔 근처에 있어요."
+    },
+    {
+      "id": "space-0570a0f6",
+      "category": "space",
+      "difficulty": 2,
+      "question": "멀리 있는 은하일수록 빨리 멀어진다는 사실을 밝힌 천문학자는?",
+      "choices": [
+        "윌리엄 허셜",
+        "칼 세이건",
+        "에드윈 허블",
+        "스티븐 호킹"
+      ],
+      "answerIndex": 2,
+      "explanation": "에드윈 허블은 1929년 은하들이 거리에 비례하는 속도로 멀어진다는 사실을 발표했어요. 우주가 팽창한다는 중요한 증거예요.",
+      "funFact": "허블 이전에는 우리 은하가 우주의 전부라고 생각하는 학자도 많았어요."
+    },
+    {
+      "id": "space-0fa4d846",
+      "category": "space",
+      "difficulty": 2,
+      "question": "현재 과학계가 추정하는 우주의 나이는 약 얼마일까요?",
+      "choices": [
+        "약 138억 년",
+        "약 1조 년",
+        "약 1,380만 년",
+        "약 46억 년"
+      ],
+      "answerIndex": 0,
+      "explanation": "우주 배경 복사 관측 등으로 계산한 우주의 나이는 약 138억 년이에요. 태양계의 나이는 약 46억 년이에요.",
+      "funFact": "우주 역사를 1년으로 줄이면 인류는 12월 31일 밤 늦게야 등장해요."
+    },
+    {
+      "id": "space-d2b810e2",
+      "category": "space",
+      "difficulty": 2,
+      "question": "태양을 빼고 지구 밤하늘에서 가장 밝게 보이는 항성은?",
+      "choices": [
+        "시리우스",
+        "북극성",
+        "베가",
+        "베텔게우스"
+      ],
+      "answerIndex": 0,
+      "explanation": "큰개자리의 시리우스는 밤하늘에서 가장 밝은 항성이에요. 지구에서 약 8.6광년으로 가까운 편이에요.",
+      "funFact": "고대 이집트에서는 새벽에 시리우스가 처음 보이는 시기로 나일강 범람을 예측했어요."
+    },
+    {
+      "id": "space-d056915e",
+      "category": "space",
+      "difficulty": 2,
+      "question": "국제천문연맹이 공식으로 정한 별자리는 모두 몇 개일까요?",
+      "choices": [
+        "12개",
+        "48개",
+        "88개",
+        "108개"
+      ],
+      "answerIndex": 2,
+      "explanation": "국제천문연맹은 1920년대에 온 하늘을 88개 별자리 영역으로 나눴어요. 이 경계는 지금도 그대로 쓰여요.",
+      "funFact": "가장 큰 별자리는 바다뱀자리이고, 가장 작은 별자리는 남십자자리예요."
+    },
+    {
+      "id": "space-d7088fe9",
+      "category": "space",
+      "difficulty": 2,
+      "question": "밤하늘의 별이 반짝반짝 깜빡이는 것처럼 보이는 주된 이유는?",
+      "choices": [
+        "별이 빠르게 자전해서",
+        "지구 대기가 흔들려서",
+        "별빛이 꺼졌다 켜져서",
+        "별이 점점 멀어져서"
+      ],
+      "answerIndex": 1,
+      "explanation": "별빛은 지구 대기를 지나면서 온도와 밀도가 다른 공기층에 의해 계속 굴절돼요. 그래서 반짝이는 것처럼 보여요.",
+      "funFact": "행성은 겉보기 크기가 있어서 별보다 덜 반짝여요."
+    },
+    {
+      "id": "space-4974c378",
+      "category": "space",
+      "difficulty": 2,
+      "question": "빛을 내지 않아 보이지 않지만 중력으로 존재가 드러나는 물질은?",
+      "choices": [
+        "플라스마",
+        "반물질",
+        "성간 먼지",
+        "암흑 물질"
+      ],
+      "answerIndex": 3,
+      "explanation": "암흑 물질은 빛과 상호작용하지 않아 보이지 않지만 은하의 회전 속도 등에서 중력 효과가 나타나요. 정체는 아직 밝혀지지 않았어요.",
+      "funFact": "암흑 물질은 우리가 아는 보통 물질보다 약 5배 많을 것으로 추정돼요."
+    },
+    {
+      "id": "space-95834986",
+      "category": "space",
+      "difficulty": 2,
+      "question": "태양이 약 50억 년 뒤 크게 부풀어 오르며 맞게 될 단계는?",
+      "choices": [
+        "적색거성",
+        "중성자별",
+        "블랙홀",
+        "백색왜성"
+      ],
+      "answerIndex": 0,
+      "explanation": "태양은 중심의 수소를 다 쓰면 바깥층이 크게 부풀어 적색거성이 돼요. 이때 수성과 금성은 삼켜질 것으로 예상돼요.",
+      "funFact": "적색거성 단계가 끝나면 태양은 지구만 한 크기의 백색왜성으로 남아요."
+    },
+    {
+      "id": "space-5da5207d",
+      "category": "space",
+      "difficulty": 2,
+      "question": "달 표면에서 어둡게 보이는 넓은 현무암 평원을 뭐라고 부를까요?",
+      "choices": [
+        "바다",
+        "계곡",
+        "고지",
+        "산맥"
+      ],
+      "answerIndex": 0,
+      "explanation": "달의 어두운 평원은 옛날 용암이 흘러 굳은 현무암 지대예요. 처음 관측한 사람들이 물이 있는 바다로 여겨 이렇게 불렀어요.",
+      "funFact": "아폴로 11호는 '고요의 바다'라는 평원에 착륙했어요."
+    },
+    {
+      "id": "space-3f84ffdc",
+      "category": "space",
+      "difficulty": 3,
+      "question": "1등성은 6등성보다 약 몇 배 밝을까요?",
+      "choices": [
+        "약 100배",
+        "약 1,000배",
+        "약 6배",
+        "약 10배"
+      ],
+      "answerIndex": 0,
+      "explanation": "별의 등급이 5등급 차이 나면 밝기는 정확히 100배 차이가 나요. 그래서 1등급 차이는 약 2.5배예요.",
+      "funFact": "등급 체계는 기원전 2세기 그리스의 히파르코스가 처음 만들었어요."
+    },
+    {
+      "id": "space-63fee093",
+      "category": "space",
+      "difficulty": 3,
+      "question": "천문학에서 쓰는 거리 단위 1파섹은 약 몇 광년일까요?",
+      "choices": [
+        "약 0.5광년",
+        "약 100광년",
+        "약 10광년",
+        "약 3.26광년"
+      ],
+      "answerIndex": 3,
+      "explanation": "1파섹은 연주 시차가 1초가 되는 거리로 약 3.26광년이에요. 별까지의 거리를 나타낼 때 많이 써요.",
+      "funFact": "파섹은 '시차(parallax)'와 '초(second)'를 합쳐 만든 말이에요."
+    },
+    {
+      "id": "space-43332569",
+      "category": "space",
+      "difficulty": 3,
+      "question": "태양 같은 별이 일생을 마친 뒤 남는 작고 뜨거운 천체는?",
+      "choices": [
+        "중성자별",
+        "백색왜성",
+        "갈색왜성",
+        "블랙홀"
+      ],
+      "answerIndex": 1,
+      "explanation": "태양 정도 질량의 별은 적색거성 단계 뒤 바깥층을 날려 보내고 중심부만 남아요. 이 지구만 한 천체가 백색왜성이에요.",
+      "funFact": "백색왜성 물질은 각설탕 하나 크기가 1톤쯤 될 만큼 빽빽해요."
+    },
+    {
+      "id": "space-b870220b",
+      "category": "space",
+      "difficulty": 3,
+      "question": "빠르게 돌며 규칙적인 전파 펄스를 내는 중성자별을 뭐라고 할까요?",
+      "choices": [
+        "세페이드",
+        "퀘이사",
+        "마그네타",
+        "펄서"
+      ],
+      "answerIndex": 3,
+      "explanation": "펄서는 빠르게 자전하는 중성자별이 등대처럼 전파를 내뿜는 천체예요. 1967년 조슬린 벨이 처음 발견했어요.",
+      "funFact": "신호가 너무 규칙적이라 처음엔 외계인 신호일지 몰라 'LGM(작은 녹색 인간)'이라는 별명이 붙었어요."
+    },
+    {
+      "id": "space-dbb88ad7",
+      "category": "space",
+      "difficulty": 3,
+      "question": "2019년 인류가 처음 공개한 블랙홀 사진은 어느 은하의 블랙홀일까요?",
+      "choices": [
+        "M87 은하",
+        "안드로메다은하",
+        "대마젤란운",
+        "우리 은하"
+      ],
+      "answerIndex": 0,
+      "explanation": "사건의 지평선 망원경(EHT) 연구진은 2019년 M87 은하 중심의 초대질량 블랙홀 그림자를 공개했어요.",
+      "funFact": "이 사진은 지구 곳곳의 전파 망원경을 묶어 지구 크기의 망원경처럼 써서 얻었어요."
+    },
+    {
+      "id": "space-15e5353d",
+      "category": "space",
+      "difficulty": 3,
+      "question": "우리 은하 중심에 있는 초대질량 블랙홀의 이름은?",
+      "choices": [
+        "백조자리 X-1",
+        "전갈자리 X-1",
+        "궁수자리 A*",
+        "M87*"
+      ],
+      "answerIndex": 2,
+      "explanation": "우리 은하 중심의 궁수자리 A*는 태양 질량의 약 400만 배인 초대질량 블랙홀이에요.",
+      "funFact": "이 블랙홀 주변 별들의 움직임을 추적한 연구가 2020년 노벨 물리학상을 받았어요."
+    },
+    {
+      "id": "space-01dee895",
+      "category": "space",
+      "difficulty": 3,
+      "question": "남반구에서 맨눈으로 보이는 우리 은하의 작은 동반 은하는?",
+      "choices": [
+        "안드로메다은하",
+        "마젤란운",
+        "삼각형자리은하",
+        "솜브레로 은하"
+      ],
+      "answerIndex": 1,
+      "explanation": "대마젤란운과 소마젤란운은 우리 은하 곁을 도는 작은 은하예요. 남반구 밤하늘에서 구름 조각처럼 보여요.",
+      "funFact": "마젤란의 세계 일주 항해 기록으로 유럽에 널리 알려져 그의 이름이 붙었어요."
+    },
+    {
+      "id": "space-829d427f",
+      "category": "space",
+      "difficulty": 3,
+      "question": "빅뱅의 흔적으로 우주 모든 방향에서 오는 약한 전파는?",
+      "choices": [
+        "태양풍",
+        "우주 배경 복사",
+        "감마선 폭발",
+        "중력파"
+      ],
+      "answerIndex": 1,
+      "explanation": "우주 배경 복사는 우주 초기의 빛이 팽창으로 식어 남은 전파예요. 1965년 펜지어스와 윌슨이 우연히 발견했어요.",
+      "funFact": "옛 아날로그 텔레비전 화면의 지지직거리는 잡음 중 일부가 우주 배경 복사였어요."
+    },
+    {
+      "id": "space-69b22454",
+      "category": "space",
+      "difficulty": 3,
+      "question": "멀어지는 천체의 빛이 긴 파장 쪽으로 치우치는 현상은?",
+      "choices": [
+        "적색편이",
+        "청색편이",
+        "굴절",
+        "중력 렌즈"
+      ],
+      "answerIndex": 0,
+      "explanation": "천체가 멀어지면 빛의 파장이 늘어나 붉은 쪽으로 치우쳐요. 이를 적색편이라고 하며 우주 팽창의 증거가 돼요.",
+      "funFact": "다가오는 천체의 빛은 반대로 파란 쪽으로 치우치는 청색편이가 나타나요."
+    },
+    {
+      "id": "space-2daf29aa",
+      "category": "space",
+      "difficulty": 3,
+      "question": "우주의 팽창을 점점 빠르게 만드는 것으로 여겨지는 미지의 에너지는?",
+      "choices": [
+        "영점 에너지",
+        "암흑 에너지",
+        "핵 에너지",
+        "운동 에너지"
+      ],
+      "answerIndex": 1,
+      "explanation": "1998년 먼 초신성 관측으로 우주 팽창이 빨라지고 있다는 사실이 밝혀졌어요. 그 원인으로 가정한 것이 암흑 에너지예요.",
+      "funFact": "우주 가속 팽창을 발견한 연구자들은 2011년 노벨 물리학상을 받았어요."
+    },
+    {
+      "id": "space-0fe8c87e",
+      "category": "space",
+      "difficulty": 3,
+      "question": "2015년 중력파를 처음으로 직접 검출한 미국의 관측 시설은?",
+      "choices": [
+        "아레시보",
+        "라이고(LIGO)",
+        "켁 천문대",
+        "알마(ALMA)"
+      ],
+      "answerIndex": 1,
+      "explanation": "라이고는 두 블랙홀이 합쳐지며 생긴 중력파를 2015년 처음 검출했어요. 아인슈타인이 예측한 지 약 100년 만이에요.",
+      "funFact": "라이고는 양성자 지름보다 훨씬 작은 길이 변화까지 잡아낼 수 있어요."
+    },
+    {
+      "id": "space-12b0e725",
+      "category": "space",
+      "difficulty": 3,
+      "question": "아주 먼 은하 중심에서 별처럼 보이지만 엄청난 에너지를 내는 천체는?",
+      "choices": [
+        "갈색왜성",
+        "퀘이사",
+        "마그네타",
+        "펄서"
+      ],
+      "answerIndex": 1,
+      "explanation": "퀘이사는 먼 은하 중심의 초대질량 블랙홀로 물질이 빨려 들며 막대한 빛을 내는 천체예요. 처음엔 별처럼 보여 '준항성체'라 불렸어요.",
+      "funFact": "밝은 퀘이사 하나는 우리 은하 전체보다 수백~수천 배 밝게 빛나기도 해요."
+    },
+    {
+      "id": "space-65e66b51",
+      "category": "space",
+      "difficulty": 3,
+      "question": "지구 공전 때문에 가까운 별의 위치가 조금씩 달라 보이는 현상은?",
+      "choices": [
+        "연주 시차",
+        "일주 운동",
+        "세차 운동",
+        "광행차"
+      ],
+      "answerIndex": 0,
+      "explanation": "지구가 태양을 돌면 가까운 별이 먼 배경 별에 비해 조금씩 위치가 바뀌어 보여요. 이 각도를 연주 시차라 하며 별까지 거리를 재는 데 써요.",
+      "funFact": "연주 시차는 1838년 베셀이 처음 측정에 성공했어요."
+    },
+    {
+      "id": "space-5351af29",
+      "category": "space",
+      "difficulty": 3,
+      "question": "오리온자리 어깨에서 붉게 빛나는 초거성의 이름은?",
+      "choices": [
+        "시리우스",
+        "리겔",
+        "베텔게우스",
+        "알데바란"
+      ],
+      "answerIndex": 2,
+      "explanation": "베텔게우스는 오리온자리의 붉은 초거성이에요. 태양 자리에 놓으면 화성 궤도를 넘어설 만큼 거대해요.",
+      "funFact": "베텔게우스는 언젠가 초신성으로 폭발할 것으로 예상돼요."
+    },
+    {
+      "id": "space-72a8609b",
+      "category": "space",
+      "difficulty": 3,
+      "question": "다음 중 '여름철 대삼각형'을 이루는 별이 아닌 것은?",
+      "choices": [
+        "시리우스",
+        "데네브",
+        "알타이르",
+        "베가"
+      ],
+      "answerIndex": 0,
+      "explanation": "여름철 대삼각형은 거문고자리 베가, 백조자리 데네브, 독수리자리 알타이르로 이뤄져요. 시리우스는 겨울철 별이에요.",
+      "funFact": "베가는 직녀성, 알타이르는 견우성으로 칠월칠석 이야기의 주인공이에요."
+    },
+    {
+      "id": "space-73eeda8e",
+      "category": "space",
+      "difficulty": 1,
+      "question": "1876년 전화기 특허를 받은 발명가는?",
+      "choices": [
+        "굴리엘모 마르코니",
+        "알렉산더 그레이엄 벨",
+        "새뮤얼 모스",
+        "토머스 에디슨"
+      ],
+      "answerIndex": 1,
+      "explanation": "알렉산더 그레이엄 벨은 1876년 미국에서 전화 관련 특허를 받았고, 같은 해 조수 왓슨에게 알아들을 수 있는 말을 전송했어요.",
+      "funFact": "벨이 전화로 처음 한 말은 조수에게 '왓슨 씨, 이리 와 주세요'라고 부른 말로 알려져 있어요."
+    },
+    {
+      "id": "space-a5e676db",
+      "category": "space",
+      "difficulty": 1,
+      "question": "1877년 소리를 녹음하고 재생하는 축음기를 발명한 사람은?",
+      "choices": [
+        "니콜라 테슬라",
+        "토머스 에디슨",
+        "라이트 형제",
+        "알렉산더 그레이엄 벨"
+      ],
+      "answerIndex": 1,
+      "explanation": "에디슨은 원통에 홈을 새겨 소리를 기록하는 축음기를 발명했어요. 사람이 처음으로 소리를 저장해 다시 들을 수 있게 됐어요.",
+      "funFact": "에디슨이 축음기에 처음 녹음한 소리는 동요 '메리에게는 작은 양이 있었네'였어요."
+    },
+    {
+      "id": "space-093a69be",
+      "category": "space",
+      "difficulty": 1,
+      "question": "'https://www.example.com' 같은 웹 주소를 뜻하는 약어는?",
+      "choices": [
+        "UPS",
+        "UHD",
+        "USB",
+        "URL"
+      ],
+      "answerIndex": 3,
+      "explanation": "URL은 인터넷에서 웹 페이지나 파일이 있는 위치를 나타내는 주소예요. 'Uniform Resource Locator'의 약자예요.",
+      "funFact": "URL의 모양을 정한 팀 버너스리는 주소 앞의 '//'가 사실 필요 없었다며 아쉬워했어요."
+    },
+    {
+      "id": "space-f2fddbf5",
+      "category": "space",
+      "difficulty": 1,
+      "question": "외부에서 허가되지 않은 접근을 막아 주는 네트워크 보안 장치는?",
+      "choices": [
+        "브라우저",
+        "드라이버",
+        "모뎀",
+        "방화벽"
+      ],
+      "answerIndex": 3,
+      "explanation": "방화벽은 들어오고 나가는 네트워크 신호를 검사해서 위험한 접근을 막아 줘요. 컴퓨터와 인터넷 사이의 문지기 역할이에요.",
+      "funFact": "방화벽이라는 이름은 건물에서 불이 번지지 않게 막는 벽에서 따왔어요."
+    },
+    {
+      "id": "space-8fbec4b7",
+      "category": "space",
+      "difficulty": 1,
+      "question": "컴퓨터 바이러스를 찾아 치료하는 프로그램을 흔히 부르는 말은?",
+      "choices": [
+        "위젯",
+        "백신",
+        "플러그인",
+        "패치"
+      ],
+      "answerIndex": 1,
+      "explanation": "악성코드를 찾아 없애는 프로그램을 우리나라에서는 흔히 백신이라고 불러요. 병을 막는 백신에 빗댄 이름이에요.",
+      "funFact": "영어권에서는 같은 프로그램을 주로 '안티바이러스(antivirus)'라고 불러요."
+    },
+    {
+      "id": "space-ab9a479c",
+      "category": "space",
+      "difficulty": 1,
+      "question": "비밀번호에 휴대폰 인증번호까지 더해 두 번 확인하는 보안 방식은?",
+      "choices": [
+        "비밀번호 찾기",
+        "자동 로그인",
+        "2단계 인증",
+        "간편 회원 가입"
+      ],
+      "answerIndex": 2,
+      "explanation": "2단계 인증은 비밀번호가 유출돼도 내 휴대폰 같은 두 번째 수단이 없으면 로그인할 수 없게 해 줘요.",
+      "funFact": "보안 전문가들은 중요한 계정일수록 2단계 인증을 꼭 켜 두라고 권해요."
+    },
+    {
+      "id": "space-09771d3f",
+      "category": "space",
+      "difficulty": 1,
+      "question": "다음 중 가장 안전한 비밀번호는?",
+      "choices": [
+        "qwerty",
+        "k7#Qm!2xLp9",
+        "password123",
+        "12345678"
+      ],
+      "answerIndex": 1,
+      "explanation": "대소문자, 숫자, 특수문자를 섞고 길게 만든 비밀번호가 가장 안전해요. 흔한 단어나 연속된 숫자는 금방 뚫려요.",
+      "funFact": "'123456'과 'password'는 매년 가장 많이 쓰이는 위험한 비밀번호 목록에 오르곤 해요."
+    },
+    {
+      "id": "space-c95d4b2b",
+      "category": "space",
+      "difficulty": 1,
+      "question": "정상 프로그램인 척 숨어 들어오는, 그리스 신화 속 목마의 이름을 딴 악성코드는?",
+      "choices": [
+        "웜",
+        "애드웨어",
+        "스파이웨어",
+        "트로이 목마"
+      ],
+      "answerIndex": 3,
+      "explanation": "트로이 목마는 쓸모 있는 프로그램으로 위장해 설치된 뒤 몰래 정보를 빼내거나 피해를 줘요. 트로이 전쟁의 목마처럼 속에 적이 숨어 있는 셈이에요.",
+      "funFact": "트로이 목마는 바이러스와 달리 스스로 다른 파일을 감염시키며 퍼지지는 않아요."
+    },
+    {
+      "id": "space-0ea76449",
+      "category": "space",
+      "difficulty": 1,
+      "question": "프로그래밍에서 값을 담아 두는 이름 붙은 저장 공간은?",
+      "choices": [
+        "반복문",
+        "주석",
+        "함수",
+        "변수"
+      ],
+      "answerIndex": 3,
+      "explanation": "변수는 숫자나 글자 같은 값을 담아 두는 상자예요. 이름을 붙여 두면 나중에 그 값을 꺼내 쓰거나 바꿀 수 있어요.",
+      "funFact": "변수 이름을 잘 짓는 일은 개발자들이 가장 어려워하는 일 중 하나로 꼽혀요."
+    },
+    {
+      "id": "space-12eb32b4",
+      "category": "space",
+      "difficulty": 1,
+      "question": "코드 안에 설명을 적어 두지만 실행되지는 않는 부분은?",
+      "choices": [
+        "함수",
+        "주석",
+        "변수",
+        "조건문"
+      ],
+      "answerIndex": 1,
+      "explanation": "주석은 사람이 읽으라고 남기는 메모예요. 컴퓨터는 주석을 무시하고 실행해요.",
+      "funFact": "언어마다 주석 표시가 달라서 파이썬은 #, C와 자바스크립트는 //를 써요."
+    },
+    {
+      "id": "space-e152ca66",
+      "category": "space",
+      "difficulty": 1,
+      "question": "같은 명령을 정해진 횟수나 조건만큼 되풀이하는 프로그램 구조는?",
+      "choices": [
+        "반복문",
+        "변수",
+        "주석",
+        "조건문"
+      ],
+      "answerIndex": 0,
+      "explanation": "반복문은 같은 작업을 여러 번 실행하게 해 줘요. 'for', 'while' 같은 명령어로 만들어요.",
+      "funFact": "끝나는 조건을 잘못 쓰면 프로그램이 영원히 멈추지 않는 '무한 루프'에 빠져요."
+    },
+    {
+      "id": "space-b733d847",
+      "category": "space",
+      "difficulty": 1,
+      "question": "프로그래밍을 처음 배울 때 화면에 출력해 보는 전통적인 문장은?",
+      "choices": [
+        "Nice to meet you!",
+        "Good Morning!",
+        "Welcome, User!",
+        "Hello, World!"
+      ],
+      "answerIndex": 3,
+      "explanation": "새 언어를 배울 때 'Hello, World!'를 화면에 띄우는 것이 첫 예제로 자리 잡았어요. 언어가 제대로 동작하는지 확인하는 가장 간단한 방법이에요.",
+      "funFact": "이 전통은 1978년 출간된 C 언어 입문서의 첫 예제에서 널리 퍼졌어요."
+    },
+    {
+      "id": "space-ae45eb24",
+      "category": "space",
+      "difficulty": 1,
+      "question": "2016년 이세돌 9단과 바둑 대결을 펼친 인공지능은?",
+      "choices": [
+        "알파고",
+        "시리",
+        "딥 블루",
+        "왓슨"
+      ],
+      "answerIndex": 0,
+      "explanation": "구글 딥마인드가 만든 알파고는 2016년 서울에서 이세돌 9단과 다섯 판을 두어 4승 1패를 거뒀어요.",
+      "funFact": "이 대국 이후 바둑계에서는 인공지능의 수를 연구하는 공부법이 널리 퍼졌어요."
+    },
+    {
+      "id": "space-9d98f598",
+      "category": "space",
+      "difficulty": 1,
+      "question": "마리오의 동생으로, 초록색 옷을 입은 캐릭터는?",
+      "choices": [
+        "루이지",
+        "와리오",
+        "쿠파",
+        "요시"
+      ],
+      "answerIndex": 0,
+      "explanation": "루이지는 마리오의 쌍둥이 동생으로, 초록색 모자와 옷을 입고 있어요. 마리오보다 키가 크고 날씬하게 그려져요.",
+      "funFact": "루이지는 2001년 자신이 주인공인 게임 '루이지 맨션'에서 유령 퇴치에 나섰어요."
+    },
+    {
+      "id": "space-eb016d4e",
+      "category": "space",
+      "difficulty": 1,
+      "question": "파란 고슴도치 '소닉'을 마스코트로 내세운 게임 회사는?",
+      "choices": [
+        "캡콤",
+        "닌텐도",
+        "소니",
+        "세가"
+      ],
+      "answerIndex": 3,
+      "explanation": "소닉 더 헤지혹은 1991년 세가가 닌텐도의 마리오에 맞서려고 만든 캐릭터예요. 엄청난 속도로 달리는 게 특징이에요.",
+      "funFact": "소닉의 파란색은 세가 로고 색깔에서 따왔다고 알려져 있어요."
+    },
+    {
+      "id": "space-03f52b18",
+      "category": "space",
+      "difficulty": 1,
+      "question": "피카츄는 어떤 타입의 포켓몬일까요?",
+      "choices": [
+        "노말",
+        "물",
+        "전기",
+        "불꽃"
+      ],
+      "answerIndex": 2,
+      "explanation": "피카츄는 볼에 있는 빨간 주머니에 전기를 모아 공격하는 전기 타입 포켓몬이에요.",
+      "funFact": "피카츄 이름은 일본어로 반짝이는 모양인 '피카'와 쥐 울음소리인 '츄'를 합친 거예요."
+    },
+    {
+      "id": "space-b61fc314",
+      "category": "space",
+      "difficulty": 1,
+      "question": "테트리스의 블록 하나는 정사각형 몇 개로 이루어져 있을까요?",
+      "choices": [
+        "6개",
+        "4개",
+        "3개",
+        "5개"
+      ],
+      "answerIndex": 1,
+      "explanation": "테트리스 블록은 모두 정사각형 4개를 이어 붙인 모양이에요. 모양은 모두 7가지예요.",
+      "funFact": "'테트리스'라는 이름은 그리스어로 4를 뜻하는 '테트라'와 개발자가 좋아한 테니스를 합친 말이에요."
+    },
+    {
+      "id": "space-1253e5ef",
+      "category": "space",
+      "difficulty": 1,
+      "question": "1989년 닌텐도가 내놓은 휴대용 게임기는?",
+      "choices": [
+        "게임보이",
+        "플레이스테이션",
+        "드림캐스트",
+        "엑스박스"
+      ],
+      "answerIndex": 0,
+      "explanation": "게임보이는 흑백 화면에 건전지로 움직이는 닌텐도의 휴대용 게임기예요. 테트리스와 포켓몬이 이 기기로 큰 인기를 얻었어요.",
+      "funFact": "걸프전 때 폭격을 맞아 그을린 게임보이가 여전히 작동해 뉴욕 닌텐도 매장에 전시되기도 했어요."
+    },
+    {
+      "id": "space-fd5d2256",
+      "category": "space",
+      "difficulty": 1,
+      "question": "게임기 '플레이스테이션'을 만든 회사는?",
+      "choices": [
+        "세가",
+        "마이크로소프트",
+        "소니",
+        "닌텐도"
+      ],
+      "answerIndex": 2,
+      "explanation": "플레이스테이션은 일본 소니가 1994년 처음 내놓은 가정용 게임기 시리즈예요. CD로 게임을 돌려 큰 용량의 게임을 즐길 수 있었어요.",
+      "funFact": "플레이스테이션은 원래 소니와 닌텐도가 함께 만들려던 게임기 계획이 틀어지면서 탄생했어요."
+    },
+    {
+      "id": "space-37d9cc7a",
+      "category": "space",
+      "difficulty": 1,
+      "question": "'스타크래프트'의 세 종족은 테란, 저그 그리고 무엇일까요?",
+      "choices": [
+        "언데드",
+        "오크",
+        "엘프",
+        "프로토스"
+      ],
+      "answerIndex": 3,
+      "explanation": "스타크래프트에는 인간인 테란, 외계 생물 저그, 고도 문명의 외계 종족 프로토스가 나와요. 세 종족이 전혀 다른 방식으로 싸우는 게 특징이에요.",
+      "funFact": "스타크래프트는 한국에서 프로 리그가 생기며 e스포츠라는 문화를 키우는 데 큰 역할을 했어요."
+    },
+    {
+      "id": "space-a3f20b7a",
+      "category": "space",
+      "difficulty": 2,
+      "question": "모스 부호로 '짧게 3번, 길게 3번, 짧게 3번'이 뜻하는 것은?",
+      "choices": [
+        "SOS",
+        "OK",
+        "HELP",
+        "STOP"
+      ],
+      "answerIndex": 0,
+      "explanation": "모스 부호에서 S는 짧은 신호 3개, O는 긴 신호 3개예요. 그래서 '··· --- ···'가 조난 신호 SOS예요.",
+      "funFact": "SOS는 특정 단어의 약자가 아니라 쉽게 보내고 알아듣기 쉬운 신호 조합으로 정해진 거예요."
+    },
+    {
+      "id": "space-f48038d1",
+      "category": "space",
+      "difficulty": 2,
+      "question": "제2차 세계대전 때 독일군이 쓴 회전판 방식의 암호 기계는?",
+      "choices": [
+        "유니박",
+        "에니악",
+        "콜로서스",
+        "에니그마"
+      ],
+      "answerIndex": 3,
+      "explanation": "에니그마는 회전하는 원판으로 글자를 바꿔 암호문을 만드는 기계였어요. 영국 블레츨리 파크의 연구진이 이 암호를 해독했어요.",
+      "funFact": "에니그마는 같은 글자가 절대 자기 자신으로 바뀌지 않는다는 약점이 해독의 실마리가 됐어요."
+    },
+    {
+      "id": "space-681afb5d",
+      "category": "space",
+      "difficulty": 2,
+      "question": "웹 색상 코드 '#FFFFFF'가 나타내는 색은?",
+      "choices": [
+        "회색",
+        "빨간색",
+        "검은색",
+        "흰색"
+      ],
+      "answerIndex": 3,
+      "explanation": "웹 색상 코드는 빨강·초록·파랑의 밝기를 16진수로 적어요. FF는 가장 밝은 값이라 세 색이 모두 최대인 #FFFFFF는 흰색이에요.",
+      "funFact": "반대로 세 색이 모두 0인 #000000은 검은색이에요."
+    },
+    {
+      "id": "space-80530645",
+      "category": "space",
+      "difficulty": 2,
+      "question": "웹 페이지의 글꼴·색·배치 같은 디자인을 꾸미는 언어는?",
+      "choices": [
+        "SQL",
+        "PHP",
+        "XML",
+        "CSS"
+      ],
+      "answerIndex": 3,
+      "explanation": "CSS는 HTML로 만든 웹 페이지 구조에 색, 크기, 위치 같은 스타일을 입히는 언어예요.",
+      "funFact": "CSS의 C는 'Cascading'으로, 스타일 규칙이 폭포처럼 위에서 아래로 덮어쓰며 적용된다는 뜻이에요."
+    },
+    {
+      "id": "space-aef1a2a8",
+      "category": "space",
+      "difficulty": 2,
+      "question": "아이콘과 창을 마우스로 눌러 쓰는 컴퓨터 화면 방식을 뜻하는 약어는?",
+      "choices": [
+        "CPU",
+        "API",
+        "CLI",
+        "GUI"
+      ],
+      "answerIndex": 3,
+      "explanation": "GUI는 그래픽 사용자 인터페이스의 약자예요. 글자 명령어를 쳐야 하는 CLI와 달리 그림을 보고 클릭해서 조작해요.",
+      "funFact": "GUI는 흔히 '구이'라고 읽어요."
+    },
+    {
+      "id": "space-fb8679c8",
+      "category": "space",
+      "difficulty": 2,
+      "question": "문서 파일 형식 'PDF'를 개발한 회사는?",
+      "choices": [
+        "애플",
+        "구글",
+        "어도비",
+        "마이크로소프트"
+      ],
+      "answerIndex": 2,
+      "explanation": "PDF는 어도비가 1993년 내놓은 문서 형식이에요. 어떤 기기에서 열어도 글꼴과 배치가 똑같이 보이는 게 장점이에요.",
+      "funFact": "PDF는 'Portable Document Format', 즉 '어디서나 들고 다니는 문서 형식'이라는 뜻이에요."
+    },
+    {
+      "id": "space-1cd02c2c",
+      "category": "space",
+      "difficulty": 2,
+      "question": "알파벳을 일정한 칸만큼 밀어 쓰는 고대 로마의 암호는?",
+      "choices": [
+        "모스 부호",
+        "카이사르 암호",
+        "에니그마 암호",
+        "점자"
+      ],
+      "answerIndex": 1,
+      "explanation": "카이사르 암호는 A를 D로, B를 E로 바꾸는 식으로 글자를 정해진 칸만큼 옮겨 써요. 율리우스 카이사르가 군사 연락에 썼다고 전해져요.",
+      "funFact": "알파벳을 13칸 미는 'ROT13'은 같은 방법을 두 번 쓰면 원래 글로 돌아와요."
+    },
+    {
+      "id": "space-af901480",
+      "category": "space",
+      "difficulty": 2,
+      "question": "블록을 끼워 맞춰 코딩을 배우는, 미국 MIT가 만든 교육용 언어는?",
+      "choices": [
+        "엔트리",
+        "스크래치",
+        "파이썬",
+        "자바"
+      ],
+      "answerIndex": 1,
+      "explanation": "스크래치는 MIT 미디어랩이 어린이 코딩 교육을 위해 만든 블록형 프로그래밍 도구예요. 블록을 끌어다 붙이면 캐릭터가 움직여요.",
+      "funFact": "스크래치의 마스코트는 주황색 고양이예요."
+    },
+    {
+      "id": "space-3e2db85a",
+      "category": "space",
+      "difficulty": 2,
+      "question": "커피 산지로 유명한 인도네시아 섬 이름을 딴 프로그래밍 언어는?",
+      "choices": [
+        "자바",
+        "루비",
+        "파이썬",
+        "스위프트"
+      ],
+      "answerIndex": 0,
+      "explanation": "자바는 1995년 썬 마이크로시스템즈가 발표한 언어로, 개발자들이 즐겨 마신 자바 커피에서 이름을 땄어요.",
+      "funFact": "그래서 자바의 로고는 김이 나는 커피잔 모양이에요."
+    },
+    {
+      "id": "space-da5301ec",
+      "category": "space",
+      "difficulty": 2,
+      "question": "'로봇'이라는 말을 처음 쓴 희곡 'R.U.R.'의 작가는 어느 나라 사람일까요?",
+      "choices": [
+        "체코",
+        "러시아",
+        "미국",
+        "독일"
+      ],
+      "answerIndex": 0,
+      "explanation": "체코 작가 카렐 차페크는 1920년 희곡 'R.U.R.'에서 인조 노동자를 '로봇'이라고 불렀어요. 체코어로 강제 노동을 뜻하는 말에서 따왔어요.",
+      "funFact": "차페크는 이 단어를 화가였던 형 요제프가 제안해 줬다고 밝혔어요."
+    },
+    {
+      "id": "space-7767cab5",
+      "category": "space",
+      "difficulty": 2,
+      "question": "1997년 체스 세계 챔피언 카스파로프에게 6국짜리 매치에서 승리한 IBM 컴퓨터는?",
+      "choices": [
+        "엘리자",
+        "알파고",
+        "딥 블루",
+        "왓슨"
+      ],
+      "answerIndex": 2,
+      "explanation": "딥 블루는 1997년 6국짜리 매치에서 카스파로프에게 2승 3무 1패로 승리했어요. 1996년에는 한 판을 이겼지만 매치 전체에서는 졌어요.",
+      "funFact": "딥 블루는 1초에 2억 가지 정도의 수를 계산할 수 있었다고 해요."
+    },
+    {
+      "id": "space-fffd8026",
+      "category": "space",
+      "difficulty": 2,
+      "question": "1972년 아타리가 내놓아 큰 인기를 끈 탁구 게임은?",
+      "choices": [
+        "퐁",
+        "갤러그",
+        "테트리스",
+        "팩맨"
+      ],
+      "answerIndex": 0,
+      "explanation": "퐁은 막대 두 개로 공을 주고받는 단순한 탁구 게임이에요. 상업적으로 크게 성공해 비디오 게임 산업의 출발점이 됐어요.",
+      "funFact": "퐁 오락기를 처음 술집에 설치했을 때 동전이 너무 많이 들어가 고장이 났다는 일화가 있어요."
+    },
+    {
+      "id": "space-c9a8c338",
+      "category": "space",
+      "difficulty": 2,
+      "question": "1978년 일본에서 나온, 줄지어 내려오는 외계인을 쏘는 게임은?",
+      "choices": [
+        "스페이스 인베이더",
+        "갤러그",
+        "동키콩",
+        "퐁"
+      ],
+      "answerIndex": 0,
+      "explanation": "스페이스 인베이더는 일본 타이토가 1978년 출시한 슈팅 게임이에요. 점점 빨라지며 내려오는 외계인을 맞혀야 해요.",
+      "funFact": "외계인이 줄어들수록 빨라지는 것은 원래 컴퓨터 처리 속도가 남아서 생긴 현상인데, 오히려 재미 요소가 됐어요."
+    },
+    {
+      "id": "space-6191eb2a",
+      "category": "space",
+      "difficulty": 2,
+      "question": "'젤다의 전설' 시리즈에서 플레이어가 조종하는 주인공의 이름은?",
+      "choices": [
+        "링크",
+        "마리오",
+        "젤다",
+        "가논돌프"
+      ],
+      "answerIndex": 0,
+      "explanation": "젤다의 전설의 주인공은 초록 옷을 입은 소년 링크예요. 젤다는 게임 속 공주의 이름이에요.",
+      "funFact": "게임 제목 때문에 주인공 이름을 젤다로 착각하는 사람이 많아요."
+    },
+    {
+      "id": "space-12afcfc8",
+      "category": "space",
+      "difficulty": 2,
+      "question": "퍼즐 게임 '테트리스'가 처음 만들어진 나라는?",
+      "choices": [
+        "소련",
+        "미국",
+        "일본",
+        "영국"
+      ],
+      "answerIndex": 0,
+      "explanation": "테트리스는 1984년 소련 과학아카데미의 연구원 알렉세이 파지트노프가 만들었어요.",
+      "funFact": "파지트노프는 테트리스 저작권을 오랫동안 갖지 못하다가 1996년에야 권리를 되찾았어요."
+    },
+    {
+      "id": "space-50f26f0c",
+      "category": "space",
+      "difficulty": 3,
+      "question": "프로그램과 데이터를 같은 메모리에 저장하는 컴퓨터 구조에 이름이 붙은 과학자는?",
+      "choices": [
+        "찰스 배비지",
+        "앨런 튜링",
+        "클로드 섀넌",
+        "존 폰 노이만"
+      ],
+      "answerIndex": 3,
+      "explanation": "프로그램도 데이터처럼 메모리에 넣어 실행하는 '프로그램 내장 방식'을 폰 노이만 구조라고 불러요. 오늘날 대부분의 컴퓨터가 이 방식이에요.",
+      "funFact": "폰 노이만은 어린 시절 전화번호부 한 페이지를 외워 보이곤 했다는 일화가 있을 만큼 천재로 유명했어요."
+    },
+    {
+      "id": "space-3ab7f5f3",
+      "category": "space",
+      "difficulty": 3,
+      "question": "17세기, 세무 관리였던 아버지를 돕기 위해 톱니바퀴 계산기를 만든 프랑스 수학자는?",
+      "choices": [
+        "블레즈 파스칼",
+        "르네 데카르트",
+        "고트프리트 라이프니츠",
+        "피에르 드 페르마"
+      ],
+      "answerIndex": 0,
+      "explanation": "파스칼은 십대 후반에 덧셈과 뺄셈을 하는 톱니바퀴 계산기 '파스칼린'을 만들었어요.",
+      "funFact": "프로그래밍 언어 '파스칼'은 그의 이름을 따서 지었어요."
+    },
+    {
+      "id": "space-bba52641",
+      "category": "space",
+      "difficulty": 3,
+      "question": "다른 파일에 붙지 않고 스스로 복제해 네트워크로 퍼지는 악성코드는?",
+      "choices": [
+        "애드웨어",
+        "바이러스",
+        "웜",
+        "트로이 목마"
+      ],
+      "answerIndex": 2,
+      "explanation": "웜은 숙주 파일 없이 혼자서 자기 복사본을 만들어 네트워크를 타고 퍼져요. 반면 바이러스는 다른 파일에 붙어야 퍼져요.",
+      "funFact": "웜(worm)은 영어로 '벌레'라는 뜻으로, 기어다니듯 퍼져 나간다는 의미를 담았어요."
+    },
+    {
+      "id": "space-3ac27506",
+      "category": "space",
+      "difficulty": 3,
+      "question": "키보드로 입력하는 내용을 몰래 기록해 비밀번호를 훔치는 프로그램은?",
+      "choices": [
+        "크롤러",
+        "키로거",
+        "봇넷",
+        "애드웨어"
+      ],
+      "answerIndex": 1,
+      "explanation": "키로거는 사용자가 누르는 키를 하나하나 기록해 해커에게 보내요. 그래서 금융 사이트는 화면 키보드를 쓰게 하기도 해요.",
+      "funFact": "이름은 '키(key)'와 '기록하는 것(logger)'을 합친 말이에요."
+    },
+    {
+      "id": "space-99bef6c2",
+      "category": "space",
+      "difficulty": 3,
+      "question": "공개키 암호 방식 'RSA'의 이름은 무엇에서 왔을까요?",
+      "choices": [
+        "암호 알고리즘 원리의 약자",
+        "개발된 연구소의 약자",
+        "처음 쓴 회사의 약자",
+        "세 개발자의 성 머리글자"
+      ],
+      "answerIndex": 3,
+      "explanation": "RSA는 1977년 이 방식을 만든 리베스트(Rivest), 샤미르(Shamir), 애들먼(Adleman)의 성 첫 글자를 딴 이름이에요.",
+      "funFact": "RSA의 안전성은 아주 큰 수를 두 소수의 곱으로 나누기가 매우 어렵다는 점에 기대고 있어요."
+    },
+    {
+      "id": "space-3d996031",
+      "category": "space",
+      "difficulty": 3,
+      "question": "'알고리즘'이라는 말은 어느 지역 출신 수학자의 이름에서 왔을까요?",
+      "choices": [
+        "인도",
+        "페르시아",
+        "그리스",
+        "이탈리아"
+      ],
+      "answerIndex": 1,
+      "explanation": "9세기 페르시아 출신 수학자 알콰리즈미의 이름이 라틴어로 옮겨지며 '알고리즘'이라는 말이 생겼어요.",
+      "funFact": "'대수학'을 뜻하는 영어 algebra도 알콰리즈미가 쓴 책 제목에서 나왔어요."
+    },
+    {
+      "id": "space-326f7e69",
+      "category": "space",
+      "difficulty": 3,
+      "question": "1956년 '인공지능'이라는 이름을 내건 학술회의가 열린 미국 대학은?",
+      "choices": [
+        "하버드 대학",
+        "MIT",
+        "스탠퍼드 대학",
+        "다트머스 대학"
+      ],
+      "answerIndex": 3,
+      "explanation": "1956년 여름 다트머스 대학에서 열린 학술회의에서 '인공지능(Artificial Intelligence)'이라는 말이 공식적으로 쓰이기 시작했어요.",
+      "funFact": "회의를 제안한 존 매카시는 이 분야에 '인공지능'이라는 이름을 붙인 사람으로 꼽혀요."
+    },
+    {
+      "id": "space-8fc9279f",
+      "category": "space",
+      "difficulty": 3,
+      "question": "2016년 알파고와의 다섯 판 대국에서 이세돌 9단이 이긴 판은 몇 국일까요?",
+      "choices": [
+        "4국",
+        "1국",
+        "5국",
+        "3국"
+      ],
+      "answerIndex": 0,
+      "explanation": "이세돌 9단은 1~3국을 내리 진 뒤 4국에서 승리했어요. 이 판은 인간이 알파고를 이긴 유일한 공식 대국으로 남았어요.",
+      "funFact": "4국에서 나온 이세돌의 78수는 '신의 한 수'라는 별명을 얻었어요."
+    },
+    {
+      "id": "space-73597905",
+      "category": "space",
+      "difficulty": 3,
+      "question": "1981년 '동키콩'에 처음 등장했을 때 마리오의 직업은?",
+      "choices": [
+        "배관공",
+        "경찰관",
+        "목수",
+        "요리사"
+      ],
+      "answerIndex": 2,
+      "explanation": "마리오는 동키콩에서 공사장을 오르는 목수로 처음 등장했어요. 배관공이라는 설정은 1983년 '마리오브라더스'부터 붙었어요.",
+      "funFact": "동키콩 시절 마리오의 이름은 '점프맨'이었어요."
+    },
+    {
+      "id": "space-2aa203fe",
+      "category": "space",
+      "difficulty": 3,
+      "question": "포켓몬 전국 도감 1번 포켓몬은?",
+      "choices": [
+        "피카츄",
+        "꼬부기",
+        "이상해씨",
+        "파이리"
+      ],
+      "answerIndex": 2,
+      "explanation": "전국 도감 1번은 등에 씨앗을 짊어진 풀·독 타입 포켓몬 이상해씨예요. 피카츄는 25번이에요.",
+      "funFact": "이상해씨, 파이리, 꼬부기는 첫 포켓몬 게임에서 고를 수 있던 스타팅 포켓몬이에요."
+    },
+    {
+      "id": "space-f2bf89d5",
+      "category": "space",
+      "difficulty": 3,
+      "question": "블록 쌓기 게임 '마인크래프트'를 처음 개발한 나라는?",
+      "choices": [
+        "스웨덴",
+        "핀란드",
+        "캐나다",
+        "미국"
+      ],
+      "answerIndex": 0,
+      "explanation": "마인크래프트는 스웨덴 개발자 마르쿠스 페르손이 만들고 스웨덴 회사 모장이 출시했어요.",
+      "funFact": "마인크래프트 개발사 모장은 2014년 마이크로소프트에 인수됐어요."
+    },
+    {
+      "id": "space-c068ba30",
+      "category": "space",
+      "difficulty": 3,
+      "question": "1996년 서비스를 시작해 최장수 상용 그래픽 MMORPG로 기네스에 오른 한국 게임은?",
+      "choices": [
+        "리니지",
+        "메이플스토리",
+        "뮤 온라인",
+        "바람의 나라"
+      ],
+      "answerIndex": 3,
+      "explanation": "넥슨의 바람의 나라는 1996년 서비스를 시작해 가장 오래 운영된 상용 그래픽 온라인 게임으로 기네스 세계 기록에 올랐어요.",
+      "funFact": "바람의 나라는 김진 작가의 같은 이름 만화를 바탕으로 만들어졌어요."
+    },
+    {
+      "id": "space-4434ab4c",
+      "category": "space",
+      "difficulty": 3,
+      "question": "음악 CD의 표준 지름은 얼마일까요?",
+      "choices": [
+        "12cm",
+        "15cm",
+        "10cm",
+        "8cm"
+      ],
+      "answerIndex": 0,
+      "explanation": "일반 음악 CD의 지름은 12cm예요. 이 크기로 약 74~80분의 음악을 담을 수 있어요.",
+      "funFact": "CD 한 장에 베토벤 교향곡 9번이 다 들어가도록 재생 시간을 정했다는 이야기가 유명해요."
+    },
+    {
+      "id": "space-e74ee92b",
+      "category": "space",
+      "difficulty": 3,
+      "question": "1975년 세계 최초의 디지털카메라를 개발한 회사는?",
+      "choices": [
+        "코닥",
+        "소니",
+        "니콘",
+        "캐논"
+      ],
+      "answerIndex": 0,
+      "explanation": "필름 회사 코닥의 엔지니어 스티븐 새슨이 1975년 최초의 디지털카메라를 만들었어요. 흑백 사진 한 장을 저장하는 데 23초가 걸렸어요.",
+      "funFact": "정작 코닥은 필름 사업을 지키려다 디지털카메라 시대에 뒤처지고 말았어요."
+    },
+    {
+      "id": "space-0e38d8a6",
+      "category": "space",
+      "difficulty": 3,
+      "question": "1948년 논문으로 정보이론을 세워 '정보이론의 아버지'로 불리는 미국 학자는?",
+      "choices": [
+        "노버트 위너",
+        "클로드 섀넌",
+        "존 폰 노이만",
+        "앨런 튜링"
+      ],
+      "answerIndex": 1,
+      "explanation": "클로드 섀넌은 1948년 논문 '통신의 수학적 이론'에서 정보를 0과 1의 비트로 측정하는 방법을 제시했어요. 오늘날 디지털 통신의 이론적 바탕이 됐어요.",
+      "funFact": "섀넌은 외발자전거를 타고 저글링을 하며 연구소 복도를 다닌 괴짜로도 유명했어요."
+    },
+    {
+      "id": "space-1b52f051",
+      "category": "space",
+      "difficulty": 1,
+      "question": "1957년 소련이 쏘아 올린 인류 최초의 인공위성은?",
+      "choices": [
+        "보스토크 1호",
+        "익스플로러 1호",
+        "보이저 1호",
+        "스푸트니크 1호"
+      ],
+      "answerIndex": 3,
+      "explanation": "스푸트니크 1호는 1957년 10월 소련이 발사한 첫 인공위성이에요. 이 일로 미국과 소련의 우주 경쟁이 본격적으로 시작되었어요.",
+      "funFact": "스푸트니크 1호는 지름 58cm 공 모양에 안테나 4개가 달린 단순한 모습이었어요."
+    },
+    {
+      "id": "space-6cd53e3c",
+      "category": "space",
+      "difficulty": 1,
+      "question": "1961년 인류 최초로 우주 비행에 성공한 소련 우주인은?",
+      "choices": [
+        "존 글렌",
+        "닐 암스트롱",
+        "유리 가가린",
+        "알렉세이 레오노프"
+      ],
+      "answerIndex": 2,
+      "explanation": "유리 가가린은 1961년 4월 보스토크 1호를 타고 지구를 한 바퀴 돌았어요. 비행 시간은 약 108분이었어요.",
+      "funFact": "가가린은 우주에서 '지구는 푸르다'는 말을 남긴 것으로 알려져 있어요."
+    },
+    {
+      "id": "space-f5a3dfb7",
+      "category": "space",
+      "difficulty": 1,
+      "question": "1958년 세워진 미국의 항공우주국을 영문 약자로 뭐라고 할까요?",
+      "choices": [
+        "JAXA",
+        "NASA",
+        "NOAA",
+        "ESA"
+      ],
+      "answerIndex": 1,
+      "explanation": "NASA는 미국 항공우주국의 약자로, 소련의 스푸트니크 발사 이듬해인 1958년 세워졌어요. 아폴로 계획을 이끈 기관이에요.",
+      "funFact": "ESA는 유럽 우주국, JAXA는 일본 우주항공연구개발기구의 약자예요."
+    }
+  ]
+}

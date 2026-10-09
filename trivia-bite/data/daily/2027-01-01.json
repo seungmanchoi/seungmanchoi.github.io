@@ -1,0 +1,154 @@
+{
+  "version": 1,
+  "id": "daily-2027-01-01",
+  "date": "2027-01-01",
+  "questions": [
+    {
+      "id": "history-b9529749",
+      "category": "history",
+      "difficulty": 1,
+      "question": "멕시코 유카탄반도 일대에서 0의 개념을 쓰며 발달한 고대 문명은?",
+      "choices": [
+        "잉카 문명",
+        "인더스 문명",
+        "마야 문명",
+        "이집트 문명"
+      ],
+      "answerIndex": 2,
+      "explanation": "마야 사람들은 정교한 달력과 문자를 만들고 피라미드 모양 신전을 세웠어요. 0을 나타내는 기호도 썼어요.",
+      "funFact": "치첸이트사의 쿠쿨칸 신전은 춘분·추분에 계단에 뱀 모양 그림자가 생겨요."
+    },
+    {
+      "id": "life-aeadeffb",
+      "category": "life",
+      "difficulty": 1,
+      "question": "자동 변속기 자동차의 기어 'P'는 무엇을 뜻할까요?",
+      "choices": [
+        "중립",
+        "주행",
+        "주차",
+        "후진"
+      ],
+      "answerIndex": 2,
+      "explanation": "P는 Parking의 머리글자로, 차를 세워 둘 때 바퀴가 굴러가지 않게 고정해요. R은 후진, N은 중립, D는 주행이에요.",
+      "funFact": "경사진 곳에서는 P에 두고도 주차 브레이크를 함께 거는 게 안전해요."
+    },
+    {
+      "id": "korean-bb5bd125",
+      "category": "korean",
+      "difficulty": 1,
+      "question": "속담 '남의 떡이 커 보인다'의 뜻은?",
+      "choices": [
+        "남을 잘 도와줌",
+        "남의 것이 더 좋아 보임",
+        "작은 것을 아낌",
+        "욕심이 화를 부름"
+      ],
+      "answerIndex": 1,
+      "explanation": "남의 것이 자기 것보다 더 좋아 보이고, 남의 일이 더 쉬워 보이는 마음을 이르는 말이에요."
+    },
+    {
+      "id": "science-d923ec17",
+      "category": "science",
+      "difficulty": 1,
+      "question": "빛이 물체에 가로막혀 그림자가 생기는 것은 빛의 어떤 성질 때문일까요?",
+      "choices": [
+        "빛의 굴절",
+        "빛의 분산",
+        "빛의 직진",
+        "빛의 간섭"
+      ],
+      "answerIndex": 2,
+      "explanation": "빛은 곧게 나아가기 때문에 물체에 막힌 뒤쪽에는 빛이 닿지 않아요. 그래서 그림자가 생겨요.",
+      "funFact": "해시계는 그림자의 방향으로 시간을 읽는 도구예요."
+    },
+    {
+      "id": "culture-62b87859",
+      "category": "culture",
+      "difficulty": 2,
+      "question": "소설 『어린 왕자』에서 어린 왕자가 떠나온 고향 별은?",
+      "choices": [
+        "화성",
+        "북극성",
+        "시리우스",
+        "소행성 B612"
+      ],
+      "answerIndex": 3,
+      "explanation": "어린 왕자는 장미 한 송이와 화산 세 개가 있는 작은 소행성 B612에서 왔어요.",
+      "funFact": "화자는 이 소행성이 1909년 터키 천문학자에게 처음 관측됐다고 소개해요."
+    },
+    {
+      "id": "economy-437defa7",
+      "category": "economy",
+      "difficulty": 2,
+      "question": "미국의 기술주 중심 주식시장은?",
+      "choices": [
+        "나스닥",
+        "런던증권거래소",
+        "뉴욕증권거래소",
+        "다우존스"
+      ],
+      "answerIndex": 0,
+      "explanation": "나스닥은 1971년 세계 첫 전자 주식시장으로 문을 열었어요. 기술 기업이 많이 상장돼 있어요."
+    },
+    {
+      "id": "geography-b239e77d",
+      "category": "geography",
+      "difficulty": 2,
+      "question": "전북 군산~부안 앞바다를 33km 넘게 막은 방조제는?",
+      "choices": [
+        "영산강 하굿둑",
+        "새만금 방조제",
+        "시화 방조제",
+        "아산만 방조제"
+      ],
+      "answerIndex": 1,
+      "explanation": "새만금 방조제는 군산과 부안을 잇는 33.9km의 방조제예요. 바다를 막아 넓은 간척지를 만들었어요."
+    },
+    {
+      "id": "space-682e3d04",
+      "category": "space",
+      "difficulty": 3,
+      "question": "2015년 명왕성을 처음으로 가까이 지나며 하트 모양 지형을 찍은 탐사선은?",
+      "choices": [
+        "뉴허라이즌스",
+        "주노",
+        "보이저 2호",
+        "카시니"
+      ],
+      "answerIndex": 0,
+      "explanation": "뉴허라이즌스는 2006년 발사되어 9년 반 만인 2015년 7월 명왕성을 근접 통과했어요. 표면의 커다란 하트 모양 평원이 화제가 되었어요.",
+      "funFact": "명왕성의 하트 모양 지역에는 발견자 이름을 딴 '톰보 영역'이라는 별칭이 붙었어요."
+    },
+    {
+      "id": "sports-4eae7931",
+      "category": "sports",
+      "difficulty": 3,
+      "question": "근력 운동에서 '1RM'이 뜻하는 것은?",
+      "choices": [
+        "1세트 휴식 시간",
+        "1분 동안의 반복 횟수",
+        "하루 권장 운동량",
+        "한 번 들 수 있는 최대 무게"
+      ],
+      "answerIndex": 3,
+      "explanation": "1RM(One Repetition Maximum)은 바른 자세로 딱 한 번 들어 올릴 수 있는 최대 무게예요.",
+      "funFact": "운동 강도를 '1RM의 70%'처럼 이 값의 비율로 정하는 경우가 많아요."
+    },
+    {
+      "id": "nature-afe19aea",
+      "category": "nature",
+      "difficulty": 3,
+      "question": "크로커다일과 앨리게이터를 구별할 때, 입을 다물어도 아래턱 넷째 이빨이 밖으로 드러나는 무리는?",
+      "choices": [
+        "앨리게이터",
+        "카이만",
+        "거북",
+        "크로커다일"
+      ],
+      "answerIndex": 3,
+      "explanation": "크로커다일은 입을 다물면 아래턱 넷째 이빨이 밖으로 드러나지만, 앨리게이터는 위턱에 가려 잘 안 보여요.",
+      "funFact": "앨리게이터는 주둥이가 U자로 넓고 크로커다일은 V자로 좁은 편이에요."
+    }
+  ]
+}

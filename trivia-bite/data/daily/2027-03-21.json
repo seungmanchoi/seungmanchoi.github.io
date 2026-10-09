@@ -1,0 +1,149 @@
+{
+  "version": 1,
+  "id": "daily-2027-03-21",
+  "date": "2027-03-21",
+  "questions": [
+    {
+      "id": "korean-6bd4d57f",
+      "category": "korean",
+      "difficulty": 1,
+      "question": "속담 '밑 빠진 독에 물 붓기'의 뜻은?",
+      "choices": [
+        "아무리 해도 보람 없는 일",
+        "남의 탓을 함",
+        "욕심이 끝이 없음",
+        "준비 없이 일을 시작함"
+      ],
+      "answerIndex": 0,
+      "explanation": "아무리 힘이나 돈을 들여도 보람 없이 헛되게 되는 일을 이르는 말이에요."
+    },
+    {
+      "id": "science-4badac17",
+      "category": "science",
+      "difficulty": 1,
+      "question": "날지 못하는 펭귄은 어느 동물 무리에 속할까요?",
+      "choices": [
+        "파충류",
+        "조류",
+        "어류",
+        "포유류"
+      ],
+      "answerIndex": 1,
+      "explanation": "펭귄은 깃털이 있고 알을 낳는 새, 즉 조류예요. 날개가 지느러미처럼 바뀌어 물속을 날듯이 헤엄쳐요."
+    },
+    {
+      "id": "economy-88a5f4c7",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "전쟁 뒤 한국의 빠른 경제 성장을 이르는 말은?",
+      "choices": [
+        "라인강의 기적",
+        "한강의 기적",
+        "아시아의 용",
+        "녹색 혁명"
+      ],
+      "answerIndex": 1,
+      "explanation": "한강의 기적은 한국전쟁 뒤 한국이 짧은 기간에 산업화와 고속 성장을 이룬 것을 가리켜요. 서독의 '라인강의 기적'에 빗댄 표현이에요."
+    },
+    {
+      "id": "life-b19508e0",
+      "category": "life",
+      "difficulty": 1,
+      "question": "섬유유연제의 주된 역할은?",
+      "choices": [
+        "때 빼기",
+        "표백하기",
+        "옷감을 부드럽게",
+        "색 입히기"
+      ],
+      "answerIndex": 2,
+      "explanation": "섬유유연제는 섬유 표면을 매끄럽게 코팅해 감촉을 부드럽게 하고 정전기를 줄여요. 때를 빼는 건 세제의 역할이에요."
+    },
+    {
+      "id": "history-fbdfe7d6",
+      "category": "history",
+      "difficulty": 2,
+      "question": "청교도 혁명을 이끌고 찰스 1세를 처형한 영국 정치가는?",
+      "choices": [
+        "처칠",
+        "넬슨",
+        "윌리엄 3세",
+        "크롬웰"
+      ],
+      "answerIndex": 3,
+      "explanation": "올리버 크롬웰은 의회파 군대를 이끌고 왕당파를 이겼어요. 1649년 찰스 1세를 처형한 뒤 호국경이 되어 나라를 다스렸어요."
+    },
+    {
+      "id": "culture-f9905a5e",
+      "category": "culture",
+      "difficulty": 2,
+      "question": "비잔틴 제국 때 대성당으로 지어져 훗날 모스크가 된 이스탄불의 건축물은?",
+      "choices": [
+        "갈라타 탑",
+        "아야 소피아",
+        "블루 모스크",
+        "톱카프 궁전"
+      ],
+      "answerIndex": 1,
+      "explanation": "아야 소피아는 537년 유스티니아누스 황제 때 완공된 대성당이에요. 오스만 제국이 콘스탄티노폴리스를 점령한 뒤 모스크로 바뀌었어요."
+    },
+    {
+      "id": "geography-c247af36",
+      "category": "geography",
+      "difficulty": 2,
+      "question": "스칸디나비아반도의 대부분을 차지하는 두 나라는?",
+      "choices": [
+        "스웨덴·덴마크",
+        "덴마크·노르웨이",
+        "노르웨이·스웨덴",
+        "덴마크·아이슬란드"
+      ],
+      "answerIndex": 2,
+      "explanation": "스칸디나비아반도는 대부분 노르웨이와 스웨덴이 차지하고 있어요. 덴마크는 이 반도가 아니라 유틀란트반도에 있어요."
+    },
+    {
+      "id": "culture-427d7aac",
+      "category": "culture",
+      "difficulty": 3,
+      "question": "사자춤과 먹중춤이 나오는 탈춤 '봉산탈춤'이 전해 온 지역은?",
+      "choices": [
+        "함경도",
+        "경상도",
+        "전라도",
+        "황해도"
+      ],
+      "answerIndex": 3,
+      "explanation": "봉산탈춤은 황해도 봉산에서 전해 온 탈춤이에요. 국가무형유산이며 2022년 '한국의 탈춤'으로 유네스코 인류무형유산에 올랐어요."
+    },
+    {
+      "id": "korean-df383e18",
+      "category": "korean",
+      "difficulty": 3,
+      "question": "안개 낀 고향을 찾는 이야기 「무진기행」의 작가는?",
+      "choices": [
+        "김승옥",
+        "이청준",
+        "황순원",
+        "최인훈"
+      ],
+      "answerIndex": 0,
+      "explanation": "「무진기행」은 김승옥이 1964년에 발표한 단편소설이에요.",
+      "funFact": "작품 속 '무진'은 실제 지명이 아니라 작가가 지어낸 고장이에요."
+    },
+    {
+      "id": "economy-b9ef4d98",
+      "category": "economy",
+      "difficulty": 3,
+      "question": "상품·서비스·소득 거래를 모두 담은 국제수지 항목은?",
+      "choices": [
+        "금융수지",
+        "자본수지",
+        "경상수지",
+        "무역수지"
+      ],
+      "answerIndex": 2,
+      "explanation": "경상수지는 상품수지, 서비스수지, 본원소득수지, 이전소득수지를 합한 거예요.",
+      "funFact": "해외 주식에서 받은 배당금도 본원소득수지로 경상수지에 들어가요."
+    }
+  ]
+}

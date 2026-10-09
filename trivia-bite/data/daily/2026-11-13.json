@@ -18,20 +18,6 @@
       "explanation": "신라는 당나라와 손잡고 백제와 고구려를 차례로 무너뜨렸어요. 이후 당의 세력까지 몰아내며 676년에 삼국 통일을 마무리했어요."
     },
     {
-      "id": "geography-a35dee1c",
-      "category": "geography",
-      "difficulty": 1,
-      "question": "우리나라에서 가장 큰 섬은?",
-      "choices": [
-        "거제도",
-        "울릉도",
-        "강화도",
-        "제주도"
-      ],
-      "answerIndex": 3,
-      "explanation": "제주도는 우리나라에서 면적이 가장 넓은 섬이에요. 한가운데에는 한라산이 우뚝 솟아 있어요."
-    },
-    {
       "id": "korean-bea1e4d8",
       "category": "korean",
       "difficulty": 1,
@@ -46,18 +32,33 @@
       "explanation": "동문서답은 동쪽을 묻는데 서쪽을 답한다는 뜻이에요. 질문과 상관없는 엉뚱한 대답을 할 때 쓰는 말이에요."
     },
     {
-      "id": "economy-4765774c",
-      "category": "economy",
+      "id": "culture-9ae98896",
+      "category": "culture",
       "difficulty": 1,
-      "question": "한 나라 안에서 일정 기간 생산한 재화·서비스의 총가치는?",
+      "question": "윷놀이에서 윷가락 네 개가 모두 엎어지면 무엇일까요?",
       "choices": [
-        "국내총생산(GDP)",
-        "무역수지",
-        "소비자물가지수",
-        "기준금리"
+        "도",
+        "모",
+        "윷",
+        "걸"
       ],
-      "answerIndex": 0,
-      "explanation": "국내총생산은 한 나라의 경제 규모를 나타내는 대표 지표예요. 영어 약자로 GDP라고 불러요."
+      "answerIndex": 1,
+      "explanation": "네 개가 모두 엎어지면 모, 모두 젖혀지면 윷이에요. 모는 다섯 칸을 가고 한 번 더 던질 수 있어요."
+    },
+    {
+      "id": "life-744802ae",
+      "category": "life",
+      "difficulty": 1,
+      "question": "차멀미를 줄이는 데 도움이 되는 행동은?",
+      "choices": [
+        "휴대폰 화면 보기",
+        "책 읽기",
+        "먼 경치 바라보기",
+        "뒷좌석에서 엎드리기"
+      ],
+      "answerIndex": 2,
+      "explanation": "멀리 보면 눈이 느끼는 움직임과 몸이 느끼는 흔들림이 비슷해져 멀미가 덜해요. 가까운 글씨를 보면 오히려 심해져요.",
+      "funFact": "차 안에서는 흔들림이 적은 앞좌석이 멀미에 유리해요."
     },
     {
       "id": "science-5ff09b20",
@@ -102,21 +103,6 @@
       "explanation": "'봬요'는 '뵈어요'가 줄어든 말이에요. '뵈요'는 '뵈다'에 '요'만 붙인 것이라 틀린 표기예요."
     },
     {
-      "id": "culture-b3724222",
-      "category": "culture",
-      "difficulty": 3,
-      "question": "베토벤 교향곡 9번 '합창'에 쓰인 가사의 원작 시인은?",
-      "choices": [
-        "괴테",
-        "횔덜린",
-        "하이네",
-        "실러"
-      ],
-      "answerIndex": 3,
-      "explanation": "4악장 합창에는 독일 시인 프리드리히 실러의 시 '환희에 부쳐'가 쓰였어요. 베토벤은 이 시의 일부를 골라 곡을 붙였어요.",
-      "funFact": "이 곡의 선율은 유럽 연합의 공식 찬가로도 쓰여요."
-    },
-    {
       "id": "science-a5426bc2",
       "category": "science",
       "difficulty": 3,
@@ -143,6 +129,21 @@
       ],
       "answerIndex": 3,
       "explanation": "노루잠은 깊이 들지 못하고 자꾸 깨는 선잠을 뜻하는 우리말이에요. 푹 자지 못하고 뒤척일 때 쓸 수 있어요."
+    },
+    {
+      "id": "economy-02bdae56",
+      "category": "economy",
+      "difficulty": 3,
+      "question": "은행이 예금 중 일부를 꼭 남겨 둬야 하는 비율은?",
+      "choices": [
+        "지급준비율",
+        "유동성 비율",
+        "예대율",
+        "BIS 비율"
+      ],
+      "answerIndex": 0,
+      "explanation": "지급준비율은 예금 인출에 대비해 중앙은행 등에 쌓아 둬야 하는 비율이에요. 중앙은행이 통화량을 조절하는 수단이기도 해요.",
+      "funFact": "지급준비율을 낮추면 은행이 대출해 줄 수 있는 돈이 늘어나요."
     }
   ]
 }

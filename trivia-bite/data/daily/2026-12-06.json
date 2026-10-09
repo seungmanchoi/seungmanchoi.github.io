@@ -4,20 +4,6 @@
   "date": "2026-12-06",
   "questions": [
     {
-      "id": "history-f39e50cc",
-      "category": "history",
-      "difficulty": 1,
-      "question": "우리나라가 일본의 식민 지배에서 벗어난 광복의 해는?",
-      "choices": [
-        "1943년",
-        "1950년",
-        "1948년",
-        "1945년"
-      ],
-      "answerIndex": 3,
-      "explanation": "우리나라는 1945년 8월 15일에 광복을 맞았어요. 1948년에는 대한민국 정부가 수립됐고, 1950년에는 6·25 전쟁이 일어났어요."
-    },
-    {
       "id": "economy-cd5d7512",
       "category": "economy",
       "difficulty": 1,
@@ -60,6 +46,20 @@
       "explanation": "농구는 한 팀 다섯 명이 코트에서 경기를 해요. 교체 선수는 따로 벤치에서 대기해요."
     },
     {
+      "id": "science-8d73cdb1",
+      "category": "science",
+      "difficulty": 1,
+      "question": "목소리를 낼 때 공기가 지나가며 떨리는 목 속 기관은?",
+      "choices": [
+        "기관지",
+        "편도",
+        "후두개",
+        "성대"
+      ],
+      "answerIndex": 3,
+      "explanation": "성대는 후두 안의 두 겹 주름이에요. 폐에서 나온 공기가 지나갈 때 떨리며 목소리를 만들어요."
+    },
+    {
       "id": "korean-748a392e",
       "category": "korean",
       "difficulty": 2,
@@ -73,21 +73,6 @@
       "answerIndex": 3,
       "explanation": "수어지교는 물과 물고기처럼 아주 친밀해 떨어질 수 없는 사이를 뜻해요. 부부나 친구 사이의 깊은 정을 말할 때 써요.",
       "funFact": "『삼국지』에서 유비가 제갈량과의 관계를 이렇게 말했어요."
-    },
-    {
-      "id": "science-34a72604",
-      "category": "science",
-      "difficulty": 2,
-      "question": "식물의 잎 뒷면에 많은, 수증기가 빠져나가는 작은 구멍은?",
-      "choices": [
-        "물관",
-        "기공",
-        "뿌리털",
-        "엽록체"
-      ],
-      "answerIndex": 1,
-      "explanation": "기공은 잎 표면에 있는 작은 구멍으로 수증기와 기체가 드나들어요. 증산 작용으로 물이 빠져나가는 통로이기도 해요.",
-      "funFact": "기공은 한 쌍의 공변세포가 열고 닫아요."
     },
     {
       "id": "history-051d4f73",
@@ -105,6 +90,21 @@
       "funFact": "고창·화순·강화 고인돌 유적은 2000년 유네스코 세계유산에 올랐어요."
     },
     {
+      "id": "sports-2634fe6d",
+      "category": "sports",
+      "difficulty": 2,
+      "question": "테니스에서 네트 가까이 온 상대의 머리 위로 높이 넘기는 타구는?",
+      "choices": [
+        "로브",
+        "슬라이스",
+        "드롭샷",
+        "발리"
+      ],
+      "answerIndex": 0,
+      "explanation": "로브는 공을 높게 띄워 네트 앞 상대의 머리 위를 넘기는 타구예요.",
+      "funFact": "상대가 로브를 받아 머리 위에서 내리치는 것을 스매시라고 해요."
+    },
+    {
       "id": "geography-f341a3b0",
       "category": "geography",
       "difficulty": 3,
@@ -119,33 +119,34 @@
       "explanation": "발트 3국은 발트해 동쪽의 에스토니아, 라트비아, 리투아니아예요. 폴란드는 이 세 나라의 남쪽에 있지만 발트 3국에는 들지 않아요."
     },
     {
-      "id": "economy-07ad423d",
-      "category": "economy",
+      "id": "space-d193fca0",
+      "category": "space",
       "difficulty": 3,
-      "question": "경기 침체와 물가 상승이 동시에 나타나는 현상은?",
+      "question": "'이모지(emoji)'라는 말은 어느 나라 말에서 왔을까요?",
       "choices": [
-        "디스인플레이션",
-        "디플레이션",
-        "스태그플레이션",
-        "리플레이션"
+        "영어",
+        "중국어",
+        "일본어",
+        "프랑스어"
       ],
       "answerIndex": 2,
-      "explanation": "스태그플레이션은 경기가 침체되는데도 물가가 계속 오르는 현상이에요. 보통은 경기가 나쁘면 물가가 안정되기 때문에 이례적이에요.",
-      "funFact": "1970년대 석유 파동 때 크게 주목받은 말이에요."
+      "explanation": "이모지는 일본어로 그림을 뜻하는 '에(絵)'와 글자를 뜻하는 '모지(文字)'를 합친 말이에요. 영어 'emotion'과는 관계가 없어요.",
+      "funFact": "초기 휴대폰용 이모지 176개 세트는 미국 뉴욕 현대미술관(MoMA)에 소장돼 있어요."
     },
     {
-      "id": "history-e30b3b9d",
-      "category": "history",
+      "id": "nature-98eb86b6",
+      "category": "nature",
       "difficulty": 3,
-      "question": "정조가 학문 연구와 왕실 도서 관리를 위해 설치한 기관은?",
+      "question": "금강 미호천에서 처음 발견된 한국 고유종 멸종위기 물고기는?",
       "choices": [
-        "성균관",
-        "홍문관",
-        "규장각",
-        "집현전"
+        "흰수마자",
+        "미호종개",
+        "감돌고기",
+        "꼬치동자개"
       ],
-      "answerIndex": 2,
-      "explanation": "규장각은 정조가 즉위하며 설치한 왕실 도서관 겸 학술 기관이에요. 인재를 길러 개혁 정치의 바탕으로 삼았어요."
+      "answerIndex": 1,
+      "explanation": "미호종개는 충북 미호천에서 처음 발견된 한국 고유종으로, 모래 속에 몸을 묻고 살아요.",
+      "funFact": "미호종개는 놀라면 순식간에 모래 속으로 파고들어 숨어요."
     }
   ]
 }

@@ -1,0 +1,153 @@
+{
+  "version": 1,
+  "id": "daily-2027-01-07",
+  "date": "2027-01-07",
+  "questions": [
+    {
+      "id": "history-d1dfaccd",
+      "category": "history",
+      "difficulty": 1,
+      "question": "독배를 마시고 생을 마친 고대 아테네의 철학자는?",
+      "choices": [
+        "디오게네스",
+        "소크라테스",
+        "플라톤",
+        "아리스토텔레스"
+      ],
+      "answerIndex": 1,
+      "explanation": "소크라테스는 신을 믿지 않고 젊은이를 타락시켰다는 죄로 사형 선고를 받았어요. 제자 플라톤이 그 마지막 모습을 기록했어요."
+    },
+    {
+      "id": "life-869372fc",
+      "category": "life",
+      "difficulty": 1,
+      "question": "스마트폰이 물에 빠졌을 때 먼저 할 일은?",
+      "choices": [
+        "계속 켜 두기",
+        "뜨거운 바람 쐬기",
+        "전원 끄기",
+        "바로 충전하기"
+      ],
+      "answerIndex": 2,
+      "explanation": "물이 들어간 채 전기가 흐르면 회로가 망가질 수 있어요. 전원을 끄고 충전하지 말고 서비스센터에서 점검받는 게 좋아요."
+    },
+    {
+      "id": "economy-23098e16",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "대기업·고소득층 성장의 혜택이 아래로 퍼진다는 주장은?",
+      "choices": [
+        "낙수효과",
+        "분수효과",
+        "기저효과",
+        "풍선효과"
+      ],
+      "answerIndex": 0,
+      "explanation": "낙수효과는 위에서 넘친 물이 아래로 흐르듯 성장의 과실이 퍼진다는 주장이에요. 반대로 저소득층 소득을 늘려 경제를 키운다는 것은 분수효과예요."
+    },
+    {
+      "id": "sports-e41e5a7d",
+      "category": "sports",
+      "difficulty": 1,
+      "question": "복싱에서 쓰러진 선수가 심판이 몇까지 셀 때까지 못 일어나면 KO일까요?",
+      "choices": [
+        "10",
+        "8",
+        "12",
+        "5"
+      ],
+      "answerIndex": 0,
+      "explanation": "다운된 선수가 10카운트 안에 싸울 자세로 일어나지 못하면 녹아웃(KO)패가 돼요.",
+      "funFact": "선수가 일어나도 심판은 보통 8까지 센 뒤 경기를 다시 시작해요."
+    },
+    {
+      "id": "culture-2d15ae37",
+      "category": "culture",
+      "difficulty": 2,
+      "question": "1920년대 미국 재즈 시대를 그린 『위대한 개츠비』의 작가는?",
+      "choices": [
+        "헤밍웨이",
+        "스타인벡",
+        "피츠제럴드",
+        "포크너"
+      ],
+      "answerIndex": 2,
+      "explanation": "『위대한 개츠비』는 F. 스콧 피츠제럴드가 1925년에 펴낸 소설이에요. 옛사랑 데이지를 되찾으려는 개츠비의 꿈과 몰락을 그렸어요."
+    },
+    {
+      "id": "korean-436c643c",
+      "category": "korean",
+      "difficulty": 2,
+      "question": "특정 물질에 몸이 지나치게 반응하는 현상의 올바른 표기는?",
+      "choices": [
+        "알레르지",
+        "알러지",
+        "앨러지",
+        "알레르기"
+      ],
+      "answerIndex": 3,
+      "explanation": "독일어 'Allergie'에서 온 말로 '알레르기'가 표준 표기예요.",
+      "funFact": "꽃가루 알레르기는 봄철에 특히 많이 나타나요."
+    },
+    {
+      "id": "science-8a2ef51d",
+      "category": "science",
+      "difficulty": 2,
+      "question": "달걀을 품기 시작해 병아리가 깨어나기까지 걸리는 기간은 약 얼마일까요?",
+      "choices": [
+        "약 21일",
+        "약 100일",
+        "약 60일",
+        "약 7일"
+      ],
+      "answerIndex": 0,
+      "explanation": "닭의 알은 알맞은 온도로 품으면 약 21일 만에 병아리가 깨어나요.",
+      "funFact": "병아리는 부리 끝의 작은 돌기인 난치로 껍데기를 깨고 나와요."
+    },
+    {
+      "id": "geography-cc263d1d",
+      "category": "geography",
+      "difficulty": 3,
+      "question": "플로리다 해협을 빠져나와 미국 동해안을 따라 북상하는 강한 난류는?",
+      "choices": [
+        "래브라도 해류",
+        "멕시코만류",
+        "쿠로시오 해류",
+        "캘리포니아 해류"
+      ],
+      "answerIndex": 1,
+      "explanation": "멕시코만류는 멕시코만에서 나와 북아메리카 동해안을 따라 북쪽으로 흐르는 난류예요.",
+      "funFact": "이 해류의 따뜻한 물은 북대서양 해류로 이어져 서유럽 겨울을 덜 춥게 해 줘요."
+    },
+    {
+      "id": "space-6043a252",
+      "category": "space",
+      "difficulty": 3,
+      "question": "보안 패치가 나오기 전, 알려지지 않은 취약점을 노리는 공격은?",
+      "choices": [
+        "크리덴셜 스터핑",
+        "스미싱",
+        "무차별 대입 공격",
+        "제로데이 공격"
+      ],
+      "answerIndex": 3,
+      "explanation": "제로데이 공격은 개발사가 취약점을 알고 대응할 시간이 '0일'인 상태에서 벌어지는 공격이에요. 막을 패치가 없어 특히 위험해요.",
+      "funFact": "제로데이 취약점은 암시장에서 비싼 값에 거래되기도 해요."
+    },
+    {
+      "id": "nature-a20df14c",
+      "category": "nature",
+      "difficulty": 3,
+      "question": "거북이 등딱지에서 몸을 빼낼 수 없는 이유는?",
+      "choices": [
+        "근육이 너무 짧아서",
+        "피부가 접착돼서",
+        "등딱지가 계속 자라서",
+        "갈비뼈와 척추가 붙어 있어서"
+      ],
+      "answerIndex": 3,
+      "explanation": "거북의 등딱지는 갈비뼈와 척추뼈가 넓게 붙어 만들어진 몸의 일부라 벗을 수 없어요.",
+      "funFact": "거북 등딱지 겉을 덮은 판은 사람 손톱과 같은 케라틴으로 되어 있어요."
+    }
+  ]
+}

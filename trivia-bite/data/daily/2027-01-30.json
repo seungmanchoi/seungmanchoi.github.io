@@ -1,0 +1,153 @@
+{
+  "version": 1,
+  "id": "daily-2027-01-30",
+  "date": "2027-01-30",
+  "questions": [
+    {
+      "id": "economy-4cafc479",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "정부가 소유·지배하며 공공 서비스를 하는 기업은?",
+      "choices": [
+        "벤처기업",
+        "사기업",
+        "협동조합",
+        "공기업"
+      ],
+      "answerIndex": 3,
+      "explanation": "공기업은 국가나 지방자치단체가 출자해 운영하는 기업이에요. 전기, 도로, 철도처럼 공공성이 큰 분야에 많아요."
+    },
+    {
+      "id": "space-a4aa75e1",
+      "category": "space",
+      "difficulty": 1,
+      "question": "보안 취약점을 찾아내 시스템을 지키는 선의의 해커를 부르는 말은?",
+      "choices": [
+        "스크립트 키디",
+        "크래커",
+        "화이트 해커",
+        "블랙 해커"
+      ],
+      "answerIndex": 2,
+      "explanation": "화이트 해커는 해킹 기술로 약점을 미리 찾아 고치도록 돕는 보안 전문가예요. 나쁜 목적의 해커는 블랙 해커라고 불러요.",
+      "funFact": "많은 기업이 취약점을 찾아 신고한 해커에게 상금을 주는 '버그 바운티' 제도를 운영해요."
+    },
+    {
+      "id": "life-f1e9b7aa",
+      "category": "life",
+      "difficulty": 1,
+      "question": "산에서 본 야생 버섯에 대한 올바른 태도는?",
+      "choices": [
+        "익혀서 먹기",
+        "색이 수수하면 먹기",
+        "벌레 먹은 것은 먹기",
+        "함부로 먹지 않기"
+      ],
+      "answerIndex": 3,
+      "explanation": "독버섯은 색이나 벌레 먹은 흔적으로 가려낼 수 없고, 익혀도 독이 남는 것이 많아요. 야생 버섯은 따거나 먹지 않는 게 안전해요.",
+      "funFact": "독버섯 가운데는 식용 버섯과 아주 닮은 것도 많아요."
+    },
+    {
+      "id": "korean-992c0ed8",
+      "category": "korean",
+      "difficulty": 1,
+      "question": "관용구 '발 벗고 나서다'의 뜻으로 알맞은 것은?",
+      "choices": [
+        "적극적으로 나서다",
+        "하던 일을 그만두다",
+        "모른 척 물러서다",
+        "서둘러 도망치다"
+      ],
+      "answerIndex": 0,
+      "explanation": "'발 벗고 나서다'는 어떤 일에 적극적으로 나선다는 뜻이에요.",
+      "funFact": "'팔을 걷어붙이다'도 적극적으로 나선다는 비슷한 뜻으로 써요."
+    },
+    {
+      "id": "culture-c491277f",
+      "category": "culture",
+      "difficulty": 2,
+      "question": "발레 무희들의 연습과 무대 뒤 모습을 즐겨 그린 프랑스 화가는?",
+      "choices": [
+        "르누아르",
+        "세잔",
+        "로트레크",
+        "드가"
+      ],
+      "answerIndex": 3,
+      "explanation": "에드가 드가는 발레리나를 소재로 한 그림과 조각을 많이 남겼어요. 순간을 포착한 듯한 독특한 구도가 특징이에요."
+    },
+    {
+      "id": "history-b401df33",
+      "category": "history",
+      "difficulty": 2,
+      "question": "1506년 중종반정으로 왕위에서 쫓겨난 조선의 왕은?",
+      "choices": [
+        "성종",
+        "연산군",
+        "단종",
+        "광해군"
+      ],
+      "answerIndex": 1,
+      "explanation": "연산군은 두 차례 사화를 일으키고 폭정을 일삼다 신하들의 반정으로 쫓겨났어요. 그래서 '왕'이 아닌 '군'으로 불려요.",
+      "funFact": "연산군 시대의 기록은 '실록'이 아니라 『연산군일기』로 남아 있어요."
+    },
+    {
+      "id": "sports-69882af8",
+      "category": "sports",
+      "difficulty": 2,
+      "question": "배구에서 한 선수가 공을 연속으로 두 번 건드리는 반칙은?",
+      "choices": [
+        "포히트",
+        "캐치볼",
+        "더블 콘택트",
+        "오버네트"
+      ],
+      "answerIndex": 2,
+      "explanation": "한 선수가 연달아 두 번 공에 닿으면 더블 콘택트 반칙이에요. 다만 팀의 첫 터치에서 한 동작 중 닿는 것은 허용돼요.",
+      "funFact": "우리나라 중계에서는 흔히 '드리블 반칙'이라고도 불러요."
+    },
+    {
+      "id": "geography-be8e8a64",
+      "category": "geography",
+      "difficulty": 3,
+      "question": "충남 태안의 대표적인 해안 모래언덕은?",
+      "choices": [
+        "신두리 해안사구",
+        "안면도 갯벌",
+        "꽃지 해변",
+        "만리포 해변"
+      ],
+      "answerIndex": 0,
+      "explanation": "신두리 해안사구는 바닷바람이 모래를 날라 쌓은 모래언덕이에요. 천연기념물로 지정돼 있어요."
+    },
+    {
+      "id": "science-2a5afc81",
+      "category": "science",
+      "difficulty": 3,
+      "question": "바다 표층 해류를 일으키는 가장 큰 원인은?",
+      "choices": [
+        "바람",
+        "지구 자기장",
+        "해저 화산",
+        "달의 인력"
+      ],
+      "answerIndex": 0,
+      "explanation": "표층 해류는 대기 대순환의 바람이 바다 표면을 꾸준히 밀어서 생겨요. 달의 인력은 밀물과 썰물을 만들어요."
+    },
+    {
+      "id": "korean-ccd93f04",
+      "category": "korean",
+      "difficulty": 3,
+      "question": "속담 '벼룩도 ○○이 있다'의 빈칸에 들어갈 말은?",
+      "choices": [
+        "간",
+        "낯짝",
+        "쓸개",
+        "배짱"
+      ],
+      "answerIndex": 1,
+      "explanation": "작은 벼룩도 낯짝이 있는데 하물며 사람이 체면이 없느냐며 염치없는 사람을 꾸짖는 말이에요.",
+      "funFact": "'벼룩의 간을 내먹는다'는 가난한 이를 뜯어먹는다는 다른 속담이에요."
+    }
+  ]
+}

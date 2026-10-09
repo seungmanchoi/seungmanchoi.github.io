@@ -1,0 +1,150 @@
+{
+  "version": 1,
+  "id": "daily-2027-03-31",
+  "date": "2027-03-31",
+  "questions": [
+    {
+      "id": "culture-d79b8519",
+      "category": "culture",
+      "difficulty": 1,
+      "question": "『심청전』에서 심청이 제물이 되어 몸을 던진 바다는?",
+      "choices": [
+        "백마강",
+        "용궁포",
+        "벽란도",
+        "인당수"
+      ],
+      "answerIndex": 3,
+      "explanation": "심청은 공양미를 마련하려고 뱃사람들에게 몸을 팔아 인당수에 뛰어들어요.",
+      "funFact": "심청은 용궁에서 연꽃을 타고 다시 세상으로 돌아와 왕비가 돼요."
+    },
+    {
+      "id": "economy-8d0ff7ad",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "다른 기업의 우수 사례를 배워 자기 것에 적용하는 경영 기법은?",
+      "choices": [
+        "벤치마킹",
+        "다운사이징",
+        "리엔지니어링",
+        "아웃소싱"
+      ],
+      "answerIndex": 0,
+      "explanation": "벤치마킹은 잘하는 곳을 기준점으로 삼아 비교하고 배우는 방법이에요. 원래 측량에서 기준점을 뜻하던 말이에요."
+    },
+    {
+      "id": "space-969d0f2c",
+      "category": "space",
+      "difficulty": 1,
+      "question": "인공위성이나 우주선을 우주 궤도까지 실어 나르는 로켓을 이르는 말은?",
+      "choices": [
+        "궤도선",
+        "착륙선",
+        "발사체",
+        "탐사선"
+      ],
+      "answerIndex": 2,
+      "explanation": "발사체는 위성 같은 짐을 우주로 올려 주는 로켓이에요. 누리호와 나로호가 한국의 우주 발사체예요.",
+      "funFact": "발사체 무게의 대부분은 연료와 산화제가 차지해요."
+    },
+    {
+      "id": "korean-cb47c558",
+      "category": "korean",
+      "difficulty": 1,
+      "question": "사자성어 '죽마고우'의 뜻으로 알맞은 것은?",
+      "choices": [
+        "어릴 때부터 함께 자란 벗",
+        "늙어서 사귄 친구",
+        "말을 잘 타는 사람",
+        "목숨을 건 친구"
+      ],
+      "answerIndex": 0,
+      "explanation": "대나무 말을 타고 놀던 옛 친구라는 뜻으로, 어릴 때부터 같이 놀며 자란 친구를 말해요."
+    },
+    {
+      "id": "life-faeb12cc",
+      "category": "life",
+      "difficulty": 2,
+      "question": "사랑니는 치아 가운데 무엇에 해당할까요?",
+      "choices": [
+        "송곳니",
+        "앞니",
+        "작은어금니",
+        "셋째 큰어금니"
+      ],
+      "answerIndex": 3,
+      "explanation": "사랑니는 입안 가장 안쪽에 나는 세 번째 큰어금니예요. 보통 10대 후반에서 20대에 나요."
+    },
+    {
+      "id": "history-9902fd4f",
+      "category": "history",
+      "difficulty": 2,
+      "question": "일본에 『천자문』과 『논어』를 전했다고 알려진 백제 학자는?",
+      "choices": [
+        "담징",
+        "고흥",
+        "혜자",
+        "왕인"
+      ],
+      "answerIndex": 3,
+      "explanation": "『일본서기』 등에 따르면 백제의 왕인이 일본에 건너가 『논어』와 『천자문』을 전했어요. 일본 태자의 스승이 되어 학문을 가르쳤다고 해요."
+    },
+    {
+      "id": "korean-5cdbff5b",
+      "category": "korean",
+      "difficulty": 2,
+      "question": "달걀 '한 꾸러미'는 몇 개일까요?",
+      "choices": [
+        "20개",
+        "10개",
+        "12개",
+        "30개"
+      ],
+      "answerIndex": 1,
+      "explanation": "달걀 열 개를 짚으로 묶은 것을 '한 꾸러미'라고 해요."
+    },
+    {
+      "id": "geography-388df8be",
+      "category": "geography",
+      "difficulty": 3,
+      "question": "캄차카반도·사할린·홋카이도로 둘러싸인 바다는?",
+      "choices": [
+        "동해",
+        "오호츠크해",
+        "동중국해",
+        "베링해"
+      ],
+      "answerIndex": 1,
+      "explanation": "오호츠크해는 러시아 동부와 일본 홋카이도 사이의 바다예요. 겨울이면 유빙이 떠내려와요."
+    },
+    {
+      "id": "korean-5d4bc098",
+      "category": "korean",
+      "difficulty": 3,
+      "question": "'눈엣가시'가 가리키는 사람은?",
+      "choices": [
+        "몹시 미워 거슬리는 사람",
+        "몹시 아끼는 사람",
+        "잔소리 많은 사람",
+        "눈치 빠른 사람"
+      ],
+      "answerIndex": 0,
+      "explanation": "눈에 박힌 가시처럼 몹시 밉거나 싫어서 늘 눈에 거슬리는 사람을 말해요."
+    },
+    {
+      "id": "korean-7536eac9",
+      "category": "korean",
+      "difficulty": 3,
+      "question": "사자성어 '반포지효'의 뜻으로 알맞은 것은?",
+      "choices": [
+        "스승의 은혜를 갚음",
+        "형제끼리 우애함",
+        "자식이 자라 부모를 봉양함",
+        "나라에 충성을 다함"
+      ],
+      "answerIndex": 2,
+      "explanation": "반포지효(反哺之孝)는 까마귀 새끼가 자라 늙은 어미에게 먹이를 물어다 준다는 데서 나왔어요.",
+      "funFact": "그래서 까마귀를 '반포조'라고 부르기도 해요."
+    }
+  ]
+}

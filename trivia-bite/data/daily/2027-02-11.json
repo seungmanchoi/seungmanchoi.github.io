@@ -1,0 +1,151 @@
+{
+  "version": 1,
+  "id": "daily-2027-02-11",
+  "date": "2027-02-11",
+  "questions": [
+    {
+      "id": "sports-3a06dea6",
+      "category": "sports",
+      "difficulty": 1,
+      "question": "일반적인 4인제 컬링에서는 한 팀이 몇 명으로 경기할까요?",
+      "choices": [
+        "4명",
+        "5명",
+        "2명",
+        "6명"
+      ],
+      "answerIndex": 0,
+      "explanation": "컬링 정식 경기는 한 팀 4명이 한 엔드에 두 개씩 모두 여덟 개의 스톤을 던져요.",
+      "funFact": "믹스더블 컬링은 남녀 한 명씩 두 명이 팀을 이뤄요."
+    },
+    {
+      "id": "space-beaae52d",
+      "category": "space",
+      "difficulty": 1,
+      "question": "2022년 발사된 한국 최초의 달 탐사선(달 궤도선) 이름은?",
+      "choices": [
+        "누리호",
+        "우리별",
+        "다누리",
+        "나로호"
+      ],
+      "answerIndex": 2,
+      "explanation": "다누리는 2022년 8월 발사되어 그해 12월 달 궤도에 들어간 한국 최초의 달 탐사선이에요.",
+      "funFact": "다누리는 연료를 아끼려고 먼 길을 돌아가는 궤적을 택해 약 4개월 반 만에 달에 도착했어요."
+    },
+    {
+      "id": "history-c15df97e",
+      "category": "history",
+      "difficulty": 1,
+      "question": "1653년 제주도에 표류한 뒤 조선 기록을 남긴 네덜란드인은?",
+      "choices": [
+        "하멜",
+        "알렌",
+        "벨테브레",
+        "오페르트"
+      ],
+      "answerIndex": 0,
+      "explanation": "하멜 일행은 13년 넘게 조선에 머물다 탈출했어요. 그가 쓴 보고서는 『하멜 표류기』로 알려져 조선을 유럽에 소개했어요."
+    },
+    {
+      "id": "economy-8a4f90da",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "조선 후기 지방에서 닷새마다 열리던 시장은?",
+      "choices": [
+        "난전",
+        "육의전",
+        "시전",
+        "오일장"
+      ],
+      "answerIndex": 3,
+      "explanation": "조선 후기에는 5일마다 열리는 장시가 전국에 퍼졌어요. 지금도 여러 지역에 오일장 전통이 남아 있어요."
+    },
+    {
+      "id": "life-819495a2",
+      "category": "life",
+      "difficulty": 2,
+      "question": "상처 소독약 '빨간약'으로 흔히 쓰는 것의 주성분은?",
+      "choices": [
+        "과산화수소",
+        "포비돈 요오드",
+        "에탄올",
+        "붕산"
+      ],
+      "answerIndex": 1,
+      "explanation": "흔히 빨간약이라 부르는 갈색 소독약은 포비돈 요오드가 주성분이에요. 요오드가 균을 죽여 상처를 소독해요.",
+      "funFact": "예전에는 머큐로크롬이라는 다른 약도 빨간약으로 불렸어요."
+    },
+    {
+      "id": "korean-fa46967f",
+      "category": "korean",
+      "difficulty": 2,
+      "question": "'실력을 ○○○ 위해 매일 연습해요'의 빈칸에 알맞은 표기는?",
+      "choices": [
+        "늘이기",
+        "늘리기",
+        "늘리끼",
+        "느리기"
+      ],
+      "answerIndex": 1,
+      "explanation": "수나 양, 힘을 크게 할 때는 '늘리다', 길이를 길게 할 때는 '늘이다'를 써요.",
+      "funFact": "'고무줄을 늘이다'처럼 길이가 길어질 때만 '늘이다'를 써요."
+    },
+    {
+      "id": "culture-bfa3908f",
+      "category": "culture",
+      "difficulty": 2,
+      "question": "다음 중 현악 4중주에 들어가지 않는 악기는?",
+      "choices": [
+        "비올라",
+        "첼로",
+        "콘트라베이스",
+        "바이올린"
+      ],
+      "answerIndex": 2,
+      "explanation": "현악 4중주는 바이올린 2대, 비올라, 첼로로 연주해요. 하이든이 이 형식을 확립해 '현악 4중주의 아버지'라고도 불려요."
+    },
+    {
+      "id": "geography-c1134dde",
+      "category": "geography",
+      "difficulty": 3,
+      "question": "동서로 넓은 중국이 전국에서 쓰는 표준시는 몇 개일까요?",
+      "choices": [
+        "5개",
+        "3개",
+        "2개",
+        "1개"
+      ],
+      "answerIndex": 3,
+      "explanation": "중국은 땅이 넓지만 베이징 기준의 표준시 하나만 전국에서 써요. 그래서 서쪽 지역은 해가 아주 늦게 떠요."
+    },
+    {
+      "id": "korean-bc3baad8",
+      "category": "korean",
+      "difficulty": 3,
+      "question": "서울 '종로'의 로마자 표기로 알맞은 것은?",
+      "choices": [
+        "Chongro",
+        "Jongnoh",
+        "Jongro",
+        "Jongno"
+      ],
+      "answerIndex": 3,
+      "explanation": "로마자 표기는 소리 나는 대로 적어요. '종로'는 [종노]로 발음하니 'Jongno'예요."
+    },
+    {
+      "id": "culture-776e3c04",
+      "category": "culture",
+      "difficulty": 3,
+      "question": "이범선의 소설을 원작으로 한 1961년 영화 '오발탄'의 감독은?",
+      "choices": [
+        "유현목",
+        "신상옥",
+        "이만희",
+        "김기영"
+      ],
+      "answerIndex": 0,
+      "explanation": "'오발탄'은 유현목 감독의 작품이에요. 전쟁 뒤 피폐한 서울 서민의 삶을 사실적으로 그려 한국 리얼리즘 영화의 걸작으로 꼽혀요."
+    }
+  ]
+}

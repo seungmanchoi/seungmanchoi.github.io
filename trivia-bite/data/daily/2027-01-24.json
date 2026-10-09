@@ -1,0 +1,151 @@
+{
+  "version": 1,
+  "id": "daily-2027-01-24",
+  "date": "2027-01-24",
+  "questions": [
+    {
+      "id": "geography-0f2bb27b",
+      "category": "geography",
+      "difficulty": 1,
+      "question": "설악산의 최고봉은?",
+      "choices": [
+        "인수봉",
+        "천왕봉",
+        "대청봉",
+        "비로봉"
+      ],
+      "answerIndex": 2,
+      "explanation": "설악산의 최고봉은 대청봉이에요. 가을 단풍이 가장 먼저 시작되는 곳으로 자주 소개돼요."
+    },
+    {
+      "id": "korean-7abbc733",
+      "category": "korean",
+      "difficulty": 1,
+      "question": "사자성어 '동고동락'의 뜻으로 알맞은 것은?",
+      "choices": [
+        "함께 먼 길을 떠남",
+        "괴로움과 즐거움을 함께함",
+        "같은 곳에서 함께 자람",
+        "함께 공부하며 겨룸"
+      ],
+      "answerIndex": 1,
+      "explanation": "동고동락(同苦同樂)은 괴로움도 즐거움도 함께한다는 뜻이에요.",
+      "funFact": "오랜 세월 함께한 동료나 가족 사이를 말할 때 자주 써요."
+    },
+    {
+      "id": "science-ef0a148f",
+      "category": "science",
+      "difficulty": 1,
+      "question": "씨앗에서 싹이 터 나오는 것을 무엇이라 할까요?",
+      "choices": [
+        "증산",
+        "발아",
+        "결실",
+        "개화"
+      ],
+      "answerIndex": 1,
+      "explanation": "씨앗이 알맞은 물, 온도, 공기를 만나 싹을 틔우는 것을 발아라고 해요."
+    },
+    {
+      "id": "history-fc62e76a",
+      "category": "history",
+      "difficulty": 1,
+      "question": "중세 유럽에서 왕이 영주에게 땅을 주고 충성을 받은 사회 제도는?",
+      "choices": [
+        "봉건 제도",
+        "카스트 제도",
+        "군현제",
+        "공화정"
+      ],
+      "answerIndex": 0,
+      "explanation": "봉건 제도에서 영주는 땅을 받는 대신 왕에게 군사로 봉사했어요. 농노는 영주의 땅을 경작했어요.",
+      "funFact": "영주에게 충성을 맹세하고 싸운 전사가 바로 기사예요."
+    },
+    {
+      "id": "life-53e3d716",
+      "category": "life",
+      "difficulty": 2,
+      "question": "마요네즈에서 기름과 식초가 섞이게 해 주는 재료는?",
+      "choices": [
+        "후추",
+        "달걀노른자",
+        "소금",
+        "설탕"
+      ],
+      "answerIndex": 1,
+      "explanation": "노른자 속 레시틴이 물과 기름을 이어 주는 유화제 역할을 해요. 덕분에 기름과 식초가 분리되지 않아요."
+    },
+    {
+      "id": "culture-34abd55f",
+      "category": "culture",
+      "difficulty": 2,
+      "question": "크레타섬 미궁에 들어가 괴물 미노타우로스를 물리친 그리스 영웅은?",
+      "choices": [
+        "이아손",
+        "오디세우스",
+        "테세우스",
+        "페르세우스"
+      ],
+      "answerIndex": 2,
+      "explanation": "테세우스는 아리아드네 공주가 준 실타래를 풀며 미궁에 들어가 미노타우로스를 물리쳤어요. 실을 따라 길을 되짚어 빠져나왔어요."
+    },
+    {
+      "id": "sports-bb7b77b3",
+      "category": "sports",
+      "difficulty": 2,
+      "question": "MLB 전 구단이 영구 결번한 재키 로빈슨의 등번호는?",
+      "choices": [
+        "42번",
+        "99번",
+        "3번",
+        "7번"
+      ],
+      "answerIndex": 0,
+      "explanation": "1947년 흑인 선수로 메이저리그의 인종 장벽을 깬 재키 로빈슨을 기려 1997년 42번이 전 구단 영구 결번됐어요.",
+      "funFact": "매년 4월 15일 '재키 로빈슨 데이'에는 모든 선수가 42번을 달고 뛰어요."
+    },
+    {
+      "id": "economy-3aac381e",
+      "category": "economy",
+      "difficulty": 3,
+      "question": "1997년 아시아 외환위기가 처음 시작된 나라는?",
+      "choices": [
+        "한국",
+        "말레이시아",
+        "인도네시아",
+        "태국"
+      ],
+      "answerIndex": 3,
+      "explanation": "1997년 7월 태국 바트화가 폭락하며 위기가 시작됐어요. 이후 인도네시아, 한국 등으로 번졌어요."
+    },
+    {
+      "id": "space-85eb51b9",
+      "category": "space",
+      "difficulty": 3,
+      "question": "10세기 덴마크 왕의 별명에서 이름을 딴 근거리 무선 기술은?",
+      "choices": [
+        "지그비",
+        "와이파이",
+        "NFC",
+        "블루투스"
+      ],
+      "answerIndex": 3,
+      "explanation": "블루투스는 덴마크와 노르웨이를 통일한 하랄 왕의 별명 '블루투스(푸른 이빨)'에서 따왔어요. 여러 기기를 하나로 잇는다는 뜻을 담았어요.",
+      "funFact": "블루투스 로고는 하랄 왕 이름의 머리글자 두 개를 옛 북유럽 룬 문자로 겹쳐 만든 모양이에요."
+    },
+    {
+      "id": "life-f9051bed",
+      "category": "life",
+      "difficulty": 3,
+      "question": "골프에서 쓰는 거리 단위 1야드는 약 몇 m일까요?",
+      "choices": [
+        "약 0.91m",
+        "약 1.6m",
+        "약 2.54m",
+        "약 0.3m"
+      ],
+      "answerIndex": 0,
+      "explanation": "1야드는 3피트, 약 0.914m예요. 그래서 100야드는 약 91m예요."
+    }
+  ]
+}

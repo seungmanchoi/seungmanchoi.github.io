@@ -1,0 +1,151 @@
+{
+  "version": 1,
+  "id": "daily-2027-02-02",
+  "date": "2027-02-02",
+  "questions": [
+    {
+      "id": "economy-26a71443",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "갑작스러운 일에 대비해 따로 모아 두는 돈은?",
+      "choices": [
+        "보증금",
+        "착수금",
+        "계약금",
+        "비상금"
+      ],
+      "answerIndex": 3,
+      "explanation": "비상금은 실직이나 병원비처럼 예상 못 한 지출에 대비해 떼어 둔 돈이에요.",
+      "funFact": "재무 전문가들은 보통 생활비 몇 달 치를 비상금으로 두라고 권해요."
+    },
+    {
+      "id": "sports-2dfdf952",
+      "category": "sports",
+      "difficulty": 1,
+      "question": "1877년 시작된 가장 오래된 테니스 메이저 대회는?",
+      "choices": [
+        "프랑스 오픈",
+        "호주 오픈",
+        "윔블던",
+        "US 오픈"
+      ],
+      "answerIndex": 2,
+      "explanation": "윔블던은 1877년 영국 런던에서 시작된 대회예요. 4대 메이저 가운데 유일하게 잔디 코트에서 열려요.",
+      "funFact": "윔블던 선수들은 전통에 따라 거의 흰색으로만 된 옷을 입어야 해요."
+    },
+    {
+      "id": "geography-8bf50089",
+      "category": "geography",
+      "difficulty": 1,
+      "question": "지구본에서 적도와 나란하게 가로로 그은 선은?",
+      "choices": [
+        "자오선",
+        "날짜변경선",
+        "경선",
+        "위선"
+      ],
+      "answerIndex": 3,
+      "explanation": "위선은 같은 위도를 이은 가로선이고, 경선은 북극과 남극을 잇는 세로선이에요.",
+      "funFact": "위선은 극으로 갈수록 둘레가 짧아지지만 경선은 길이가 모두 같아요."
+    },
+    {
+      "id": "history-761c58c6",
+      "category": "history",
+      "difficulty": 1,
+      "question": "베르사유 궁전을 짓고 '태양왕'이라 불린 프랑스 왕은?",
+      "choices": [
+        "샤를 10세",
+        "루이 14세",
+        "앙리 4세",
+        "루이 16세"
+      ],
+      "answerIndex": 1,
+      "explanation": "루이 14세는 72년 동안 프랑스를 다스린 절대 군주예요. 베르사유 궁전을 짓고 귀족들을 궁정에 모아 통제했어요."
+    },
+    {
+      "id": "life-35862cd6",
+      "category": "life",
+      "difficulty": 2,
+      "question": "식빵을 만들 때 주로 쓰는 밀가루는?",
+      "choices": [
+        "쌀가루",
+        "중력분",
+        "강력분",
+        "박력분"
+      ],
+      "answerIndex": 2,
+      "explanation": "강력분은 단백질이 많아 글루텐이 잘 생겨 빵이 잘 부풀어요. 박력분은 케이크·쿠키, 중력분은 국수에 주로 써요."
+    },
+    {
+      "id": "culture-0d0eaebd",
+      "category": "culture",
+      "difficulty": 2,
+      "question": "『안네의 일기』의 안네 가족이 숨어 지낸 은신처가 있던 도시는?",
+      "choices": [
+        "브뤼셀",
+        "암스테르담",
+        "베를린",
+        "빈"
+      ],
+      "answerIndex": 1,
+      "explanation": "안네 프랑크 가족은 나치를 피해 암스테르담 건물 뒤쪽 은신처에 2년 넘게 숨어 지냈어요. 그곳은 지금 안네 프랑크의 집 박물관이에요."
+    },
+    {
+      "id": "korean-a87b91fc",
+      "category": "korean",
+      "difficulty": 2,
+      "question": "관용구 '뒷북을 치다'의 뜻은?",
+      "choices": [
+        "뒤늦게 쓸데없이 수선 떪",
+        "남을 뒤에서 험담함",
+        "몰래 뒤를 봐줌",
+        "앞장서서 이끎"
+      ],
+      "answerIndex": 0,
+      "explanation": "일이 다 끝난 뒤에 뒤늦게 나서서 쓸데없이 떠드는 것을 말해요."
+    },
+    {
+      "id": "science-43bdd19d",
+      "category": "science",
+      "difficulty": 3,
+      "question": "온도가 일정할 때 기체의 부피가 압력에 반비례한다는 법칙은?",
+      "choices": [
+        "샤를 법칙",
+        "훅의 법칙",
+        "옴의 법칙",
+        "보일 법칙"
+      ],
+      "answerIndex": 3,
+      "explanation": "보일 법칙에 따르면 온도가 같을 때 기체에 가하는 압력을 두 배로 하면 부피는 절반이 돼요.",
+      "funFact": "높은 산에 가져간 과자 봉지가 빵빵하게 부푸는 것도 바깥 압력이 낮아졌기 때문이에요."
+    },
+    {
+      "id": "economy-5c36480f",
+      "category": "economy",
+      "difficulty": 3,
+      "question": "채권 발행 때 정해 액면 금액에 매기는 이자율은?",
+      "choices": [
+        "표면금리",
+        "시장금리",
+        "실질금리",
+        "기준금리"
+      ],
+      "answerIndex": 0,
+      "explanation": "표면금리는 채권 액면금액에 적용하는 이자율이에요. 고정금리부 채권에서는 만기까지 일정하지만, 변동금리부 채권에서는 정해진 조건에 따라 바뀌어요."
+    },
+    {
+      "id": "korean-cd5121fe",
+      "category": "korean",
+      "difficulty": 3,
+      "question": "서울 '독립문'의 로마자 표기로 알맞은 것은?",
+      "choices": [
+        "Dongnimmun",
+        "Dokrimmun",
+        "Dongnipmun",
+        "Doknipmun"
+      ],
+      "answerIndex": 0,
+      "explanation": "'독립문'은 [동님문]으로 발음해요. 로마자 표기는 발음대로 적어 'Dongnimmun'이에요."
+    }
+  ]
+}

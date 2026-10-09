@@ -1,0 +1,3007 @@
+{
+  "version": 1,
+  "id": "bank-nature",
+  "category": "nature",
+  "questions": [
+    {
+      "id": "nature-f6cb2850",
+      "category": "nature",
+      "difficulty": 1,
+      "question": "박쥐가 잠을 자거나 쉴 때 흔히 취하는 자세는?",
+      "choices": [
+        "땅에 엎드리기",
+        "물 위에 떠 있기",
+        "한 다리로 서기",
+        "거꾸로 매달리기"
+      ],
+      "answerIndex": 3,
+      "explanation": "박쥐는 뒷발로 천장이나 나뭇가지에 거꾸로 매달려 쉬어요. 매달린 상태에서 바로 떨어지며 날아오를 수 있어요.",
+      "funFact": "박쥐 발의 힘줄은 매달리면 저절로 잠겨서 힘을 들이지 않아도 떨어지지 않아요."
+    },
+    {
+      "id": "nature-1ca91cce",
+      "category": "nature",
+      "difficulty": 1,
+      "question": "꿀벌이 동료에게 꽃이 있는 방향과 거리를 알리는 방법은?",
+      "choices": [
+        "날개 색 바꾸기",
+        "춤",
+        "울음소리",
+        "빛 깜빡이기"
+      ],
+      "answerIndex": 1,
+      "explanation": "꿀벌은 벌집 안에서 엉덩이를 흔드는 8자 춤으로 꽃의 방향과 거리를 알려요.",
+      "funFact": "춤의 기울어진 각도가 태양을 기준으로 한 꽃의 방향을 나타내요."
+    },
+    {
+      "id": "nature-75d66329",
+      "category": "nature",
+      "difficulty": 1,
+      "question": "캥거루처럼 배의 주머니에서 새끼를 키우는 포유류 무리는?",
+      "choices": [
+        "영장류",
+        "설치류",
+        "단공류",
+        "유대류"
+      ],
+      "answerIndex": 3,
+      "explanation": "캥거루, 코알라, 웜뱃 같은 유대류는 덜 자란 새끼를 낳아 주머니 속에서 젖을 먹여 키워요.",
+      "funFact": "갓 태어난 캥거루 새끼는 젤리빈 정도 크기밖에 안 돼요."
+    },
+    {
+      "id": "nature-33c93a1d",
+      "category": "nature",
+      "difficulty": 1,
+      "question": "뱀이 혀를 날름거리는 주된 이유는?",
+      "choices": [
+        "소리를 내려고",
+        "몸을 식히려고",
+        "물을 마시려고",
+        "냄새를 맡으려고"
+      ],
+      "answerIndex": 3,
+      "explanation": "뱀은 혀로 공기 중 냄새 입자를 모아 입천장의 야콥슨 기관으로 전달해 냄새를 느껴요.",
+      "funFact": "뱀 혀가 두 갈래로 갈라진 덕분에 냄새가 어느 쪽에서 오는지도 알 수 있어요."
+    },
+    {
+      "id": "nature-17a21a32",
+      "category": "nature",
+      "difficulty": 1,
+      "question": "카멜레온이 가진 능력으로 가장 잘 알려진 것은?",
+      "choices": [
+        "꼬리로 날기",
+        "몸 색 바꾸기",
+        "독 뿜기",
+        "물 위 달리기"
+      ],
+      "answerIndex": 1,
+      "explanation": "카멜레온은 피부 속 세포 구조를 바꿔 몸 색을 바꿔요. 기분이나 체온, 신호를 보낼 때 색이 달라져요.",
+      "funFact": "카멜레온의 두 눈은 따로따로 움직여서 앞과 뒤를 동시에 볼 수 있어요."
+    },
+    {
+      "id": "nature-fd37e84b",
+      "category": "nature",
+      "difficulty": 1,
+      "question": "바다에서 자란 연어가 알을 낳으러 돌아가는 곳은?",
+      "choices": [
+        "따뜻한 산호초",
+        "가장 가까운 호수",
+        "자기가 태어난 강",
+        "가장 깊은 바다"
+      ],
+      "answerIndex": 2,
+      "explanation": "연어는 바다에서 몇 년을 자란 뒤 태어난 강으로 거슬러 올라가 알을 낳아요. 이를 모천회귀라고 해요.",
+      "funFact": "연어는 태어난 강물의 냄새를 기억해 길을 찾는다고 알려져 있어요."
+    },
+    {
+      "id": "nature-81bcedb3",
+      "category": "nature",
+      "difficulty": 1,
+      "question": "반딧불이가 빛을 내는 곳은 몸의 어느 부분일까요?",
+      "choices": [
+        "날개",
+        "배 끝",
+        "머리",
+        "다리"
+      ],
+      "answerIndex": 1,
+      "explanation": "반딧불이는 배 끝에 있는 발광 기관에서 화학 반응으로 빛을 내요.",
+      "funFact": "반딧불이 빛은 열이 거의 나지 않아 '차가운 빛'이라고 불려요."
+    },
+    {
+      "id": "nature-0426c4f2",
+      "category": "nature",
+      "difficulty": 1,
+      "question": "고슴도치가 위협을 느낄 때 하는 행동은?",
+      "choices": [
+        "가시를 멀리 쏘기",
+        "큰 소리로 짖기",
+        "몸을 공처럼 둥글게 말기",
+        "땅속으로 숨기"
+      ],
+      "answerIndex": 2,
+      "explanation": "고슴도치는 위험하면 몸을 둥글게 말아 가시만 바깥으로 드러내 자신을 지켜요.",
+      "funFact": "고슴도치 가시는 속이 빈 털이 단단해진 것이라 생각보다 가벼워요."
+    },
+    {
+      "id": "nature-62a74c4f",
+      "category": "nature",
+      "difficulty": 1,
+      "question": "개미가 동료에게 먹이까지 가는 길을 알릴 때 남기는 것은?",
+      "choices": [
+        "발자국 소리",
+        "페로몬",
+        "거미줄",
+        "빛 신호"
+      ],
+      "answerIndex": 1,
+      "explanation": "개미는 페로몬이라는 화학 물질을 길에 묻혀 동료가 냄새를 따라오게 해요.",
+      "funFact": "개미 행렬이 한 줄로 이어지는 것은 모두 같은 페로몬 길을 따라가기 때문이에요."
+    },
+    {
+      "id": "nature-dda5da71",
+      "category": "nature",
+      "difficulty": 1,
+      "question": "봄에 우리나라에 와서 새끼를 기르고 가을에 떠나는 새는?",
+      "choices": [
+        "제비",
+        "까치",
+        "참새",
+        "직박구리"
+      ],
+      "answerIndex": 0,
+      "explanation": "제비는 봄에 와서 번식하고 가을에 남쪽으로 떠나는 대표적인 여름 철새예요.",
+      "funFact": "제비는 진흙과 지푸라기를 침으로 붙여 처마 밑에 둥지를 지어요."
+    },
+    {
+      "id": "nature-788d3d59",
+      "category": "nature",
+      "difficulty": 1,
+      "question": "코알라가 거의 유일하게 먹는 먹이는?",
+      "choices": [
+        "개미",
+        "유칼립투스 잎",
+        "대나무 잎",
+        "바나나"
+      ],
+      "answerIndex": 1,
+      "explanation": "코알라는 유칼립투스 잎을 주식으로 해요. 영양이 적은 잎이라 하루 대부분을 자면서 에너지를 아껴요.",
+      "funFact": "코알라는 하루에 18~20시간 정도를 잠으로 보낸다고 해요."
+    },
+    {
+      "id": "nature-9810e161",
+      "category": "nature",
+      "difficulty": 1,
+      "question": "모기 가운데 사람의 피를 빠는 쪽은?",
+      "choices": [
+        "애벌레",
+        "암수 모두",
+        "암컷",
+        "수컷"
+      ],
+      "answerIndex": 2,
+      "explanation": "피를 빠는 모기는 암컷이에요. 알을 만드는 데 필요한 단백질을 피에서 얻어요.",
+      "funFact": "수컷 모기는 피 대신 꽃꿀이나 식물 즙을 먹고 살아요."
+    },
+    {
+      "id": "nature-b4cd9f64",
+      "category": "nature",
+      "difficulty": 1,
+      "question": "펭귄이 날개를 주로 쓰는 곳은?",
+      "choices": [
+        "하늘 비행",
+        "물속 헤엄",
+        "알 굴리기",
+        "굴 파기"
+      ],
+      "answerIndex": 1,
+      "explanation": "펭귄의 날개는 지느러미처럼 납작하고 단단해서 물속에서 노를 젓듯 헤엄치는 데 쓰여요.",
+      "funFact": "펭귄의 뼈는 다른 새와 달리 속이 꽉 차 있어서 물에 잘 잠수할 수 있어요."
+    },
+    {
+      "id": "nature-59336ec6",
+      "category": "nature",
+      "difficulty": 1,
+      "question": "날지 못하는 새 '키위'가 사는 나라는?",
+      "choices": [
+        "뉴질랜드",
+        "오스트레일리아",
+        "브라질",
+        "남아프리카공화국"
+      ],
+      "answerIndex": 0,
+      "explanation": "키위는 뉴질랜드에만 사는 날지 못하는 새로, 뉴질랜드를 상징하는 동물이에요.",
+      "funFact": "키위는 부리 끝에 콧구멍이 있어서 땅속 먹이를 냄새로 찾아요."
+    },
+    {
+      "id": "nature-45c9bd1a",
+      "category": "nature",
+      "difficulty": 1,
+      "question": "예부터 반가운 손님이 올 징조라 여긴 한국 텃새는?",
+      "choices": [
+        "까마귀",
+        "까치",
+        "뻐꾸기",
+        "부엉이"
+      ],
+      "answerIndex": 1,
+      "explanation": "까치가 울면 반가운 손님이 온다고 여겨 길조로 대접받았어요.",
+      "funFact": "까치는 거울 속 자기 모습을 알아보는 몇 안 되는 새로 알려져 있어요."
+    },
+    {
+      "id": "nature-9fd0c2f5",
+      "category": "nature",
+      "difficulty": 1,
+      "question": "수컷의 큰 턱이 사슴뿔처럼 생긴 딱정벌레는?",
+      "choices": [
+        "장수풍뎅이",
+        "하늘소",
+        "사슴벌레",
+        "무당벌레"
+      ],
+      "answerIndex": 2,
+      "explanation": "사슴벌레 수컷은 사슴뿔을 닮은 큰 턱으로 다른 수컷과 싸워요.",
+      "funFact": "장수풍뎅이의 뿔은 머리에서 자란 것이고, 사슴벌레의 '뿔'은 사실 턱이에요."
+    },
+    {
+      "id": "nature-a561ba6e",
+      "category": "nature",
+      "difficulty": 1,
+      "question": "고치를 지을 때 뽑는 실로 비단을 만드는 곤충 애벌레는?",
+      "choices": [
+        "누에",
+        "굼벵이",
+        "송충이",
+        "장구벌레"
+      ],
+      "answerIndex": 0,
+      "explanation": "누에나방의 애벌레인 누에는 고치를 지을 때 실을 뽑는데, 이 실로 비단을 짜요.",
+      "funFact": "누에고치 하나에서 풀어낸 실 길이는 1km가 넘기도 해요."
+    },
+    {
+      "id": "nature-2b6df60a",
+      "category": "nature",
+      "difficulty": 1,
+      "question": "도마뱀이 천적에게 붙잡혔을 때 끊고 달아나는 몸 부분은?",
+      "choices": [
+        "꼬리",
+        "다리",
+        "비늘 전체",
+        "혀"
+      ],
+      "answerIndex": 0,
+      "explanation": "도마뱀은 꼬리를 스스로 끊어 천적의 눈을 돌린 사이 도망쳐요. 끊긴 꼬리는 한동안 꿈틀거려요.",
+      "funFact": "다시 자란 꼬리는 뼈 대신 연골로 채워져 원래 꼬리와 조금 달라요."
+    },
+    {
+      "id": "nature-b0eded40",
+      "category": "nature",
+      "difficulty": 1,
+      "question": "흰동가리가 몸을 숨기며 함께 사는 바다 동물은?",
+      "choices": [
+        "불가사리",
+        "성게",
+        "해삼",
+        "말미잘"
+      ],
+      "answerIndex": 3,
+      "explanation": "흰동가리는 독이 있는 말미잘 촉수 사이에 숨어 천적을 피하고, 말미잘은 먹이 찌꺼기를 얻어요.",
+      "funFact": "흰동가리 몸을 덮은 점액 덕분에 말미잘 독침에 쏘이지 않아요."
+    },
+    {
+      "id": "nature-5ee5139c",
+      "category": "nature",
+      "difficulty": 2,
+      "question": "문어의 심장은 모두 몇 개일까요?",
+      "choices": [
+        "8개",
+        "2개",
+        "3개",
+        "1개"
+      ],
+      "answerIndex": 2,
+      "explanation": "문어는 아가미에 피를 보내는 심장 2개와 온몸에 피를 보내는 심장 1개를 가지고 있어요.",
+      "funFact": "문어가 헤엄칠 때는 온몸으로 피를 보내는 심장이 잠시 멈춘다고 해요."
+    },
+    {
+      "id": "nature-650dfa96",
+      "category": "nature",
+      "difficulty": 2,
+      "question": "하얀 털로 덮인 북극곰의 피부색은?",
+      "choices": [
+        "분홍색",
+        "노란색",
+        "검은색",
+        "흰색"
+      ],
+      "answerIndex": 2,
+      "explanation": "북극곰 피부는 검은색이라 햇볕의 열을 잘 흡수해요. 털은 사실 속이 빈 투명한 털이에요.",
+      "funFact": "북극곰 털이 하얗게 보이는 것은 투명한 털이 빛을 흩뜨리기 때문이에요."
+    },
+    {
+      "id": "nature-5453725d",
+      "category": "nature",
+      "difficulty": 2,
+      "question": "해마는 암수 중 누가 새끼를 몸속에 품어 낳을까요?",
+      "choices": [
+        "수컷",
+        "암수가 번갈아",
+        "둘 다 품지 않는다",
+        "암컷"
+      ],
+      "answerIndex": 0,
+      "explanation": "해마는 암컷이 수컷의 배 주머니에 알을 넣으면 수컷이 품었다가 새끼를 낳아요.",
+      "funFact": "수컷 해마 한 마리가 한 번에 수백 마리의 새끼를 내보내기도 해요."
+    },
+    {
+      "id": "nature-b80c35a6",
+      "category": "nature",
+      "difficulty": 2,
+      "question": "지리산에서 복원 사업이 이뤄진 가슴에 V자 무늬가 있는 곰은?",
+      "choices": [
+        "반달가슴곰",
+        "말레이곰",
+        "안경곰",
+        "불곰"
+      ],
+      "answerIndex": 0,
+      "explanation": "반달가슴곰은 가슴의 흰 반달 무늬가 특징인 한국 토종 곰으로, 지리산에서 복원 사업이 진행됐어요.",
+      "funFact": "반달가슴곰은 나무를 잘 타서 열매를 따 먹으러 높은 나무에도 올라가요."
+    },
+    {
+      "id": "nature-c98da32e",
+      "category": "nature",
+      "difficulty": 2,
+      "question": "수컷에게 뿔 대신 길게 튀어나온 송곳니가 있는 사슴과 동물은?",
+      "choices": [
+        "꽃사슴",
+        "고라니",
+        "노루",
+        "순록"
+      ],
+      "answerIndex": 1,
+      "explanation": "고라니는 사슴과지만 뿔이 없고, 수컷은 입 밖으로 나온 긴 송곳니가 있어요.",
+      "funFact": "고라니는 원래 한국과 중국 일부에만 사는 동물이라 세계적으로는 보호가 필요한 종이에요."
+    },
+    {
+      "id": "nature-fa981ecc",
+      "category": "nature",
+      "difficulty": 2,
+      "question": "1999년 한국 영화 제목으로도 쓰인 한국 고유종 민물고기는?",
+      "choices": [
+        "피라미",
+        "꺽지",
+        "쉬리",
+        "버들치"
+      ],
+      "answerIndex": 2,
+      "explanation": "쉬리는 한국에만 사는 고유종으로, 맑은 하천의 여울에 살아요.",
+      "funFact": "쉬리는 몸에 노랑, 검정, 주황 줄무늬가 있어 '한국의 열대어'라고도 불려요."
+    },
+    {
+      "id": "nature-66a42cb0",
+      "category": "nature",
+      "difficulty": 2,
+      "question": "침팬지가 도구를 쓰는 모습을 처음 기록한 영장류학자는?",
+      "choices": [
+        "제인 구달",
+        "다이앤 포시",
+        "찰스 다윈",
+        "레이첼 카슨"
+      ],
+      "answerIndex": 0,
+      "explanation": "제인 구달은 1960년 탄자니아에서 침팬지가 풀줄기로 흰개미를 낚아 먹는 모습을 관찰했어요.",
+      "funFact": "이 발견 전에는 도구 사용이 사람만의 특징이라고 여겨졌어요."
+    },
+    {
+      "id": "nature-c9219935",
+      "category": "nature",
+      "difficulty": 2,
+      "question": "바다거북 새끼의 성별을 정하는 주된 요인은?",
+      "choices": [
+        "달의 모양",
+        "어미의 나이",
+        "알의 크기",
+        "모래 속 알의 온도"
+      ],
+      "answerIndex": 3,
+      "explanation": "바다거북은 알이 묻힌 모래의 온도가 높으면 암컷, 낮으면 수컷이 많이 태어나요.",
+      "funFact": "그래서 기온이 오르면 암컷만 많이 태어날까 걱정하는 연구자들이 있어요."
+    },
+    {
+      "id": "nature-d3a4a268",
+      "category": "nature",
+      "difficulty": 2,
+      "question": "'좌광우도'에서 눈이 몸 왼쪽에 몰려 있는 물고기는?",
+      "choices": [
+        "참돔",
+        "고등어",
+        "넙치(광어)",
+        "도다리"
+      ],
+      "answerIndex": 2,
+      "explanation": "좌광우도는 넙치(광어)는 눈이 왼쪽에, 도다리는 오른쪽에 있다는 구별법이에요. 가자미류 전체에 적용되는 법칙은 아니에요.",
+      "funFact": "넙치도 어릴 때는 눈이 양쪽에 있다가 자라면서 한쪽으로 옮겨 가요."
+    },
+    {
+      "id": "nature-7beed924",
+      "category": "nature",
+      "difficulty": 2,
+      "question": "파리의 날개는 모두 몇 장일까요?",
+      "choices": [
+        "4장",
+        "1장",
+        "2장",
+        "6장"
+      ],
+      "answerIndex": 2,
+      "explanation": "파리는 앞날개 2장으로 날고, 뒷날개는 작은 곤봉 모양(평균곤)으로 바뀌어 균형을 잡아요.",
+      "funFact": "평균곤 덕분에 파리는 공중에서 갑자기 방향을 틀어도 균형을 잃지 않아요."
+    },
+    {
+      "id": "nature-c3004ba9",
+      "category": "nature",
+      "difficulty": 2,
+      "question": "장마철 밤에 두 마리가 번갈아 울어 독특한 소리를 내는 멸종위기 양서류는?",
+      "choices": [
+        "참개구리",
+        "청개구리",
+        "맹꽁이",
+        "두꺼비"
+      ],
+      "answerIndex": 2,
+      "explanation": "맹꽁이는 한 마리가 '맹' 하면 다른 한 마리가 '꽁' 하듯 번갈아 울어요. 멸종위기 야생생물로 보호받아요.",
+      "funFact": "맹꽁이는 1년 중 대부분을 땅속에서 지내다 장마철에만 나와 짝짓기를 해요."
+    },
+    {
+      "id": "nature-7e2ce37c",
+      "category": "nature",
+      "difficulty": 2,
+      "question": "충남 예산에서 복원해 자연으로 돌려보낸 천연기념물 새는?",
+      "choices": [
+        "황새",
+        "저어새",
+        "따오기",
+        "두루미"
+      ],
+      "answerIndex": 0,
+      "explanation": "우리나라 야생에서 사라졌던 황새는 충남 예산에서 복원 사업을 거쳐 다시 자연으로 돌아갔어요.",
+      "funFact": "황새는 울음소리가 거의 없고 부리를 부딪쳐 '딱딱' 소리로 소통해요."
+    },
+    {
+      "id": "nature-bb4b2001",
+      "category": "nature",
+      "difficulty": 2,
+      "question": "얼룩말의 줄무늬에 대한 설명으로 옳은 것은?",
+      "choices": [
+        "개체마다 무늬가 다르다",
+        "모든 개체가 똑같다",
+        "나이 들면 사라진다",
+        "수컷에게만 있다"
+      ],
+      "answerIndex": 0,
+      "explanation": "얼룩말 줄무늬는 사람 지문처럼 개체마다 모양이 달라 서로를 구별하는 데 쓰여요.",
+      "funFact": "줄무늬가 파리나 등에 같은 흡혈 곤충이 내려앉는 것을 막아 준다는 연구도 있어요."
+    },
+    {
+      "id": "nature-1eef07be",
+      "category": "nature",
+      "difficulty": 2,
+      "question": "해파리에게 없는 기관은?",
+      "choices": [
+        "촉수",
+        "신경",
+        "뇌",
+        "입"
+      ],
+      "answerIndex": 2,
+      "explanation": "해파리는 뇌가 없고, 몸 전체에 퍼진 신경망으로 자극에 반응해요.",
+      "funFact": "해파리 몸은 95% 이상이 물로 이루어져 있어요."
+    },
+    {
+      "id": "nature-471c41da",
+      "category": "nature",
+      "difficulty": 2,
+      "question": "꿀벌 일벌이 사람을 쏜 뒤 대부분 죽는 이유는?",
+      "choices": [
+        "여왕벌이 쫓아내서",
+        "날개가 부러져서",
+        "독이 자신에게도 퍼져서",
+        "침이 빠지며 내장이 찢어져서"
+      ],
+      "answerIndex": 3,
+      "explanation": "일벌의 침에는 갈고리가 있어 사람 피부에 박히면 빠지지 않고, 침과 함께 내장이 떨어져 나가요.",
+      "funFact": "여왕벌의 침은 갈고리가 거의 없어 여러 번 쏠 수 있어요."
+    },
+    {
+      "id": "nature-cfced318",
+      "category": "nature",
+      "difficulty": 3,
+      "question": "수컷 오리너구리가 뒷다리에 지닌 것은?",
+      "choices": [
+        "전기를 내는 기관",
+        "알을 품는 주머니",
+        "독이 나오는 며느리발톱",
+        "물갈퀴 대신 지느러미"
+      ],
+      "answerIndex": 2,
+      "explanation": "수컷 오리너구리 뒷발에는 독샘과 연결된 며느리발톱이 있어 찔리면 심한 통증이 생겨요.",
+      "funFact": "오리너구리는 부리로 먹이 몸에서 나오는 약한 전기를 느껴 사냥해요."
+    },
+    {
+      "id": "nature-f92b33fd",
+      "category": "nature",
+      "difficulty": 3,
+      "question": "아홀로틀(우파루파)이 다 자라서도 아가미를 지니는 현상은?",
+      "choices": [
+        "완전변태",
+        "유형성숙",
+        "의태",
+        "동면"
+      ],
+      "answerIndex": 1,
+      "explanation": "아홀로틀은 올챙이 같은 어린 모습을 유지한 채 번식할 수 있는데, 이를 유형성숙(네오테니)이라고 해요.",
+      "funFact": "아홀로틀은 다리와 꼬리는 물론 척수와 뇌 일부까지 다시 자라게 하는 재생력으로 유명해요."
+    },
+    {
+      "id": "nature-23f3de0e",
+      "category": "nature",
+      "difficulty": 3,
+      "question": "하마 피부에서 나와 '피땀'이라 불리는 붉은 분비물의 역할은?",
+      "choices": [
+        "햇빛 차단과 세균 억제",
+        "먹이 소화",
+        "물에 뜨기",
+        "짝 부르기 소리"
+      ],
+      "answerIndex": 0,
+      "explanation": "하마 피부의 특수한 샘에서 나오는 붉은 분비물은 피나 일반적인 땀이 아니에요. 자외선을 흡수하고 일부 세균의 성장을 억제해요.",
+      "funFact": "처음엔 무색이던 분비물이 공기와 만나 몇 분 만에 붉게, 다시 갈색으로 변해요."
+    },
+    {
+      "id": "nature-3d0735e3",
+      "category": "nature",
+      "difficulty": 3,
+      "question": "대나무를 쥐는 판다의 '여섯째 손가락'은 사실 무엇일까요?",
+      "choices": [
+        "커진 손목뼈",
+        "발톱 뭉치",
+        "굳은 피부",
+        "갈라진 엄지"
+      ],
+      "answerIndex": 0,
+      "explanation": "판다의 여섯째 손가락은 손목뼈(요측종자골)가 길게 커진 것으로, 엄지처럼 대나무를 붙잡는 데 써요.",
+      "funFact": "판다는 곰과 동물이라 원래 육식 동물 소화기관을 갖고 있어 대나무를 아주 많이 먹어야 해요."
+    },
+    {
+      "id": "nature-a51dff12",
+      "category": "nature",
+      "difficulty": 3,
+      "question": "알을 낳은 뒤 자갈을 쌓아 '산란탑'을 만드는 한국 고유종 물고기는?",
+      "choices": [
+        "어름치",
+        "열목어",
+        "황쏘가리",
+        "쏘가리"
+      ],
+      "answerIndex": 0,
+      "explanation": "어름치는 강바닥에 알을 낳고 그 위에 자갈을 쌓아 탑을 만들어 알을 보호해요. 천연기념물이에요.",
+      "funFact": "어름치 몸 옆에는 검은 점이 줄지어 7~8줄 늘어서 있어요."
+    },
+    {
+      "id": "nature-bd51c5db",
+      "category": "nature",
+      "difficulty": 3,
+      "question": "광릉숲에 살았지만 남한에서 오랫동안 관찰되지 않은 대형 딱따구리는?",
+      "choices": [
+        "오색딱따구리",
+        "청딱다구리",
+        "쇠딱따구리",
+        "크낙새"
+      ],
+      "answerIndex": 3,
+      "explanation": "크낙새는 광릉숲에서 번식하던 대형 딱따구리로, 남한에서는 1990년대 이후 확인된 기록이 거의 없어요.",
+      "funFact": "크낙새는 검은 몸과 흰 배가 특징인 대형 딱따구리예요."
+    },
+    {
+      "id": "nature-ce3f7efd",
+      "category": "nature",
+      "difficulty": 3,
+      "question": "2003년 대전에서 발견돼 아시아 최초로 기록된 폐 없는 도롱뇽은?",
+      "choices": [
+        "고리도롱뇽",
+        "이끼도롱뇽",
+        "꼬리치레도롱뇽",
+        "제주도롱뇽"
+      ],
+      "answerIndex": 1,
+      "explanation": "이끼도롱뇽은 폐가 없어 피부로 숨을 쉬어요. 이 무리는 아메리카에만 있다고 여겨졌기에 큰 발견이었어요.",
+      "funFact": "이 도롱뇽을 처음 찾은 사람은 국내에서 일하던 미국인 교사였어요."
+    },
+    {
+      "id": "nature-8c83e3a5",
+      "category": "nature",
+      "difficulty": 3,
+      "question": "물속에 사는 잠자리 애벌레를 부르는 우리말 이름은?",
+      "choices": [
+        "굼벵이",
+        "장구벌레",
+        "학배기",
+        "물방개"
+      ],
+      "answerIndex": 2,
+      "explanation": "잠자리 애벌레는 학배기(수채)라고 불러요. 물속에서 아래턱을 쭉 뻗어 먹이를 잡아요.",
+      "funFact": "학배기는 엉덩이로 물을 빨아들였다 뿜어내며 제트 추진하듯 이동해요."
+    },
+    {
+      "id": "nature-aeabb09b",
+      "category": "nature",
+      "difficulty": 3,
+      "question": "쇠똥구리가 밤에 똥 덩이를 곧게 굴릴 때 방향 잡는 데 쓰는 것은?",
+      "choices": [
+        "지구 자기장",
+        "땅의 진동",
+        "바람 방향",
+        "은하수"
+      ],
+      "answerIndex": 3,
+      "explanation": "남아프리카 쇠똥구리 연구에서 이들이 은하수 빛을 보고 방향을 잡는다는 사실이 밝혀졌어요.",
+      "funFact": "연구진은 쇠똥구리에게 작은 모자를 씌워 하늘을 가리는 실험으로 이를 확인했어요."
+    },
+    {
+      "id": "nature-f3a6a57c",
+      "category": "nature",
+      "difficulty": 3,
+      "question": "뻐꾸기가 알을 맡기는 새로 유명한 '뱁새'의 정식 이름은?",
+      "choices": [
+        "오목눈이",
+        "굴뚝새",
+        "붉은머리오목눈이",
+        "박새"
+      ],
+      "answerIndex": 2,
+      "explanation": "'뱁새가 황새 따라가다 가랑이 찢어진다'의 뱁새는 붉은머리오목눈이예요. 뻐꾸기의 대표적인 숙주예요.",
+      "funFact": "붉은머리오목눈이는 몸길이가 13cm 정도로 작아서, 자기보다 훨씬 큰 뻐꾸기 새끼를 먹여 키우게 돼요."
+    },
+    {
+      "id": "nature-ff6ae4e5",
+      "category": "nature",
+      "difficulty": 3,
+      "question": "1936년 마지막 개체가 동물원에서 죽은 '태즈메이니아늑대'의 실제 분류는?",
+      "choices": [
+        "하이에나과",
+        "고양잇과",
+        "개과",
+        "유대류"
+      ],
+      "answerIndex": 3,
+      "explanation": "태즈메이니아늑대(타일라신)는 늑대를 닮았지만 새끼를 주머니에서 키우는 유대류였어요.",
+      "funFact": "등에 호랑이 같은 줄무늬가 있어 '태즈메이니아호랑이'라고도 불렸어요."
+    },
+    {
+      "id": "nature-bdcec12f",
+      "category": "nature",
+      "difficulty": 3,
+      "question": "웜뱃의 똥이 가진 독특한 모양은?",
+      "choices": [
+        "납작한 원반",
+        "정육면체",
+        "나선형",
+        "구슬 모양"
+      ],
+      "answerIndex": 1,
+      "explanation": "웜뱃 창자 벽의 탄력이 부위마다 달라서 똥이 각진 정육면체 모양으로 만들어져요.",
+      "funFact": "웜뱃은 이 각진 똥을 바위나 통나무 위에 올려 영역을 표시해요."
+    },
+    {
+      "id": "nature-38648a9d",
+      "category": "nature",
+      "difficulty": 3,
+      "question": "물개와 물범을 구별하는 특징으로 알맞은 것은?",
+      "choices": [
+        "물범만 바다에 산다",
+        "물범만 수염이 있다",
+        "물개는 털이 없다",
+        "물개는 귓바퀴가 있다"
+      ],
+      "answerIndex": 3,
+      "explanation": "물개는 작은 귓바퀴가 있고 뒷지느러미를 앞으로 접어 걸을 수 있지만, 물범은 귓바퀴 없이 구멍만 있어요.",
+      "funFact": "물범은 땅에서 배를 대고 애벌레처럼 꿈틀대며 움직여요."
+    },
+    {
+      "id": "nature-5e6b1153",
+      "category": "nature",
+      "difficulty": 3,
+      "question": "귀뚜라미의 귀(고막)가 있는 곳은?",
+      "choices": [
+        "앞다리",
+        "더듬이",
+        "배 끝",
+        "머리 옆"
+      ],
+      "answerIndex": 0,
+      "explanation": "귀뚜라미는 앞다리 종아리 마디에 고막이 있어 그곳으로 소리를 들어요.",
+      "funFact": "귀뚜라미 울음은 날개를 비벼서 내는 소리이고, 기온이 높을수록 빨라져요."
+    },
+    {
+      "id": "nature-9987ea8f",
+      "category": "nature",
+      "difficulty": 3,
+      "question": "일제강점기 호랑이·표범을 '해로운 짐승'이라며 대량 포획한 정책은?",
+      "choices": [
+        "산미증식 계획",
+        "토지조사 사업",
+        "산림녹화 사업",
+        "해수구제 사업"
+      ],
+      "answerIndex": 3,
+      "explanation": "일제는 해수구제라는 이름으로 호랑이와 표범 등을 대량으로 잡았고, 이것이 한반도 대형 맹수가 사라진 큰 원인이 됐어요.",
+      "funFact": "이 시기 기록에 따르면 표범은 호랑이보다 몇 배나 많이 포획됐어요."
+    },
+    {
+      "id": "nature-b06e485b",
+      "category": "nature",
+      "difficulty": 1,
+      "question": "가을에 잎이 노랗게 물들고, 열매에서 고약한 냄새가 나는 가로수는?",
+      "choices": [
+        "느티나무",
+        "플라타너스",
+        "은행나무",
+        "단풍나무"
+      ],
+      "answerIndex": 2,
+      "explanation": "은행나무 열매의 겉껍질에는 부티르산 같은 성분이 들어 있어 고약한 냄새가 나요.",
+      "funFact": "은행나무는 공룡 시대부터 모습이 거의 변하지 않아 '살아 있는 화석'으로 불려요."
+    },
+    {
+      "id": "nature-2993665c",
+      "category": "nature",
+      "difficulty": 1,
+      "question": "사막에서 잎이 가시로 바뀌어 물이 빠져나가는 것을 줄이는 식물은?",
+      "choices": [
+        "해바라기",
+        "고사리",
+        "선인장",
+        "벼"
+      ],
+      "answerIndex": 2,
+      "explanation": "선인장은 잎을 가시로 바꿔 증발하는 면적을 줄이고, 두꺼운 줄기에 물을 저장해요.",
+      "funFact": "선인장은 낮에는 기공을 닫고 서늘한 밤에 열어 이산화탄소를 받아들이는 방식으로 물을 아껴요."
+    },
+    {
+      "id": "nature-54e805f1",
+      "category": "nature",
+      "difficulty": 1,
+      "question": "큰 노란 꽃이 피고, 씨앗을 간식으로 먹거나 기름을 짜는 식물은?",
+      "choices": [
+        "민들레",
+        "해바라기",
+        "유채",
+        "코스모스"
+      ],
+      "answerIndex": 1,
+      "explanation": "해바라기 씨앗은 그대로 볶아 먹거나 기름을 짜서 식용유로 써요.",
+      "funFact": "어린 해바라기는 낮 동안 해를 따라 고개를 돌리지만, 다 자라면 대부분 동쪽을 향한 채 멈춰요."
+    },
+    {
+      "id": "nature-41966244",
+      "category": "nature",
+      "difficulty": 1,
+      "question": "우리나라를 상징하는 나라꽃으로 애국가에도 나오는 꽃은?",
+      "choices": [
+        "개나리",
+        "진달래",
+        "벚꽃",
+        "무궁화"
+      ],
+      "answerIndex": 3,
+      "explanation": "무궁화는 '끝없이 피고 또 피는 꽃'이라는 뜻을 가진 우리나라의 나라꽃이에요.",
+      "funFact": "무궁화 한 송이는 보통 하루 만에 지지만, 한 그루에서 여름부터 가을까지 새 꽃이 계속 피어나요."
+    },
+    {
+      "id": "nature-909bcbe1",
+      "category": "nature",
+      "difficulty": 1,
+      "question": "소나무·전나무처럼 바늘 모양 잎을 가진 나무를 부르는 말은?",
+      "choices": [
+        "활엽수",
+        "덩굴식물",
+        "침엽수",
+        "관목"
+      ],
+      "answerIndex": 2,
+      "explanation": "잎이 바늘처럼 가늘고 뾰족한 나무를 침엽수, 잎이 넓적한 나무를 활엽수라고 해요.",
+      "funFact": "침엽수 잎은 표면이 좁고 두꺼운 왁스층이 있어 추운 겨울에도 물을 덜 잃어요."
+    },
+    {
+      "id": "nature-70d487f6",
+      "category": "nature",
+      "difficulty": 1,
+      "question": "식물의 잎에서 물이 수증기가 되어 빠져나가는 현상은?",
+      "choices": [
+        "호흡",
+        "삼투",
+        "광합성",
+        "증산 작용"
+      ],
+      "answerIndex": 3,
+      "explanation": "잎의 기공으로 물이 수증기가 되어 나가는 것을 증산 작용이라고 해요. 이 힘으로 뿌리의 물이 위로 끌려 올라가요.",
+      "funFact": "큰 참나무 한 그루는 무더운 여름날 하루에 수백 L의 물을 증산할 수 있어요."
+    },
+    {
+      "id": "nature-6f610faa",
+      "category": "nature",
+      "difficulty": 1,
+      "question": "민들레 씨앗이 멀리 퍼지는 주된 방법은?",
+      "choices": [
+        "물에 떠내려가서",
+        "동물 털에 붙어서",
+        "솜털을 달고 바람에 날려서",
+        "꼬투리가 터져 튕겨서"
+      ],
+      "answerIndex": 2,
+      "explanation": "민들레 씨앗은 낙하산 같은 솜털(갓털)을 달고 있어 바람을 타고 멀리 날아가요.",
+      "funFact": "민들레 솜털 위에는 작은 공기 소용돌이 고리가 생겨, 씨앗이 낙하산처럼 오래 떠 있을 수 있어요."
+    },
+    {
+      "id": "nature-9c24cbf2",
+      "category": "nature",
+      "difficulty": 1,
+      "question": "진흙탕 물에 뿌리를 두고도 깨끗한 꽃을 피워 불교에서 귀하게 여기는 식물은?",
+      "choices": [
+        "국화",
+        "연꽃",
+        "장미",
+        "난초"
+      ],
+      "answerIndex": 1,
+      "explanation": "연꽃은 연못이나 논의 진흙 속에 뿌리를 내리고 물 위로 꽃을 피워 깨끗함의 상징이 됐어요.",
+      "funFact": "연근에 뚫린 구멍은 물속 진흙에 묻힌 줄기까지 공기를 보내는 통로예요."
+    },
+    {
+      "id": "nature-722e303a",
+      "category": "nature",
+      "difficulty": 1,
+      "question": "버섯이 번식할 때 퍼뜨리는 아주 작은 생식 세포는?",
+      "choices": [
+        "꽃가루",
+        "포자",
+        "씨앗",
+        "알뿌리"
+      ],
+      "answerIndex": 1,
+      "explanation": "버섯은 꽃과 씨앗이 없고, 갓 아래에서 만든 수많은 포자를 퍼뜨려 번식해요.",
+      "funFact": "버섯 갓을 종이 위에 하룻밤 엎어 두면 떨어진 포자가 무늬를 그리는데, 이를 '포자문'이라고 해요."
+    },
+    {
+      "id": "nature-9fdb5e01",
+      "category": "nature",
+      "difficulty": 1,
+      "question": "꽃이 진 뒤 씨방이 자라서 만들어지는 것은?",
+      "choices": [
+        "잎",
+        "뿌리",
+        "꽃받침",
+        "열매"
+      ],
+      "answerIndex": 3,
+      "explanation": "수정이 끝나면 씨방이 자라 열매가 되고, 씨방 속 밑씨는 씨앗이 돼요.",
+      "funFact": "사과에서 우리가 먹는 부분은 씨방이 아니라 꽃받기가 부풀어 오른 것이라 '헛열매'라고 불러요."
+    },
+    {
+      "id": "nature-405475cd",
+      "category": "nature",
+      "difficulty": 1,
+      "question": "손으로 건드리면 잎을 재빨리 오므리는 식물은?",
+      "choices": [
+        "미모사",
+        "담쟁이덩굴",
+        "강아지풀",
+        "클로버"
+      ],
+      "answerIndex": 0,
+      "explanation": "미모사는 자극을 받으면 잎자루 아래 세포의 물이 빠져나가 잎이 순식간에 접혀요.",
+      "funFact": "미모사의 학명 'Mimosa pudica'에서 pudica는 '부끄러워하는'이라는 뜻이에요."
+    },
+    {
+      "id": "nature-171c1408",
+      "category": "nature",
+      "difficulty": 1,
+      "question": "초콜릿의 원료는 어떤 식물의 씨앗일까요?",
+      "choices": [
+        "카카오나무",
+        "커피나무",
+        "바닐라",
+        "코코넛야자"
+      ],
+      "answerIndex": 0,
+      "explanation": "카카오나무 열매 속 씨앗(카카오 콩)을 발효·건조·볶아서 초콜릿을 만들어요.",
+      "funFact": "카카오 열매는 굵은 줄기와 가지에 직접 매달려 열려요."
+    },
+    {
+      "id": "nature-65affdfd",
+      "category": "nature",
+      "difficulty": 1,
+      "question": "숲에서 나무가 내뿜어 상쾌함을 주는 항균 물질을 뭐라 할까요?",
+      "choices": [
+        "엽록소",
+        "피톤치드",
+        "멜라토닌",
+        "카페인"
+      ],
+      "answerIndex": 1,
+      "explanation": "피톤치드는 나무가 해충과 세균을 막으려고 내뿜는 물질로, 숲 냄새의 원인이기도 해요.",
+      "funFact": "피톤치드는 '식물'과 '죽이다'라는 뜻의 말을 합쳐 만든 이름이에요."
+    },
+    {
+      "id": "nature-1d067db7",
+      "category": "nature",
+      "difficulty": 1,
+      "question": "봄에 잎보다 먼저 노란 꽃이 피어 울타리로 많이 심는 나무는?",
+      "choices": [
+        "목련",
+        "벚나무",
+        "진달래",
+        "개나리"
+      ],
+      "answerIndex": 3,
+      "explanation": "개나리는 이른 봄 잎이 나기 전에 가지 가득 노란 꽃을 피워요.",
+      "funFact": "개나리는 열매를 잘 맺지 않아 주로 가지를 잘라 꽂는 꺾꽂이로 번식시켜요."
+    },
+    {
+      "id": "nature-3bafe829",
+      "category": "nature",
+      "difficulty": 1,
+      "question": "봄 산에 분홍 꽃을 피우고, 꽃잎을 먹을 수 있어 '참꽃'이라 불린 꽃은?",
+      "choices": [
+        "코스모스",
+        "무궁화",
+        "진달래",
+        "철쭉"
+      ],
+      "answerIndex": 2,
+      "explanation": "진달래는 꽃잎으로 화전을 부쳐 먹어 참꽃이라 했고, 독이 있는 철쭉은 개꽃이라 불렀어요.",
+      "funFact": "진달래는 잎이 나기 전에 꽃이 먼저 피고, 철쭉은 잎과 꽃이 함께 피어 둘을 구별할 수 있어요."
+    },
+    {
+      "id": "nature-d78ac2c5",
+      "category": "nature",
+      "difficulty": 1,
+      "question": "파리지옥·끈끈이주걱처럼 곤충을 잡아 양분을 얻는 식물은?",
+      "choices": [
+        "식충식물",
+        "수생식물",
+        "다육식물",
+        "기생식물"
+      ],
+      "answerIndex": 0,
+      "explanation": "식충식물은 잎을 덫처럼 써서 곤충을 잡고 소화해 양분을 얻어요.",
+      "funFact": "식충식물은 주로 질소가 부족한 습지에서 자라, 모자란 양분을 곤충으로 보충해요."
+    },
+    {
+      "id": "nature-ac28dfc7",
+      "category": "nature",
+      "difficulty": 1,
+      "question": "잎이 네 장인 것을 '행운'의 상징으로 찾는 풀은?",
+      "choices": [
+        "쑥",
+        "토끼풀(클로버)",
+        "강아지풀",
+        "민들레"
+      ],
+      "answerIndex": 1,
+      "explanation": "토끼풀은 보통 잎이 세 장인데, 드물게 네 장짜리가 나와 행운의 상징이 됐어요.",
+      "funFact": "네잎클로버는 세잎클로버 약 1만 개 중 1개꼴로 나온다고 알려져 있어요."
+    },
+    {
+      "id": "nature-bd0b0cf5",
+      "category": "nature",
+      "difficulty": 1,
+      "question": "나무줄기를 가로로 자르면 보이는, 해마다 하나씩 생기는 둥근 무늬는?",
+      "choices": [
+        "나이테",
+        "잎맥",
+        "옹이",
+        "물관"
+      ],
+      "answerIndex": 0,
+      "explanation": "계절에 따라 자라는 속도가 달라 1년에 한 줄씩 둥근 무늬가 생기는데, 이것이 나이테예요.",
+      "funFact": "나이테 폭을 비교하면 그해 비가 많았는지 가물었는지 같은 옛날 기후를 알아낼 수 있어요."
+    },
+    {
+      "id": "nature-41a6f477",
+      "category": "nature",
+      "difficulty": 2,
+      "question": "잎 뒷면에 많아 이산화탄소·산소·수증기가 드나드는 작은 구멍은?",
+      "choices": [
+        "엽록체",
+        "기공",
+        "체관",
+        "물관"
+      ],
+      "answerIndex": 1,
+      "explanation": "기공은 공변세포 두 개가 열고 닫으며 기체가 드나드는 양을 조절해요.",
+      "funFact": "대부분의 식물은 잎 앞면보다 뒷면에 기공이 훨씬 많아 햇빛에 의한 수분 손실을 줄여요."
+    },
+    {
+      "id": "nature-c17306ac",
+      "category": "nature",
+      "difficulty": 2,
+      "question": "창가 화분의 식물이 빛이 들어오는 쪽으로 휘어 자라는 성질은?",
+      "choices": [
+        "굴지성",
+        "굴촉성",
+        "굴광성",
+        "굴수성"
+      ],
+      "answerIndex": 2,
+      "explanation": "빛 반대쪽에 생장 호르몬 옥신이 몰려 그쪽 세포가 더 길게 자라면서 줄기가 빛 쪽으로 휘어요.",
+      "funFact": "다윈은 아들과 함께 새싹 끝을 가리는 실험으로, 빛을 느끼는 곳이 줄기 끝이라는 사실을 밝혔어요."
+    },
+    {
+      "id": "nature-92f74da9",
+      "category": "nature",
+      "difficulty": 2,
+      "question": "콩과 식물의 뿌리혹에 사는 세균이 하는 일은?",
+      "choices": [
+        "공기 중 질소 고정",
+        "해충 퇴치",
+        "광합성 대행",
+        "수분 증발 조절"
+      ],
+      "answerIndex": 0,
+      "explanation": "뿌리혹박테리아는 공기 중 질소를 식물이 쓸 수 있는 형태로 바꿔 주고, 대신 당분을 얻어요.",
+      "funFact": "그래서 콩을 심은 밭은 땅이 기름져져, 예부터 다른 작물과 번갈아 심는 돌려짓기를 했어요."
+    },
+    {
+      "id": "nature-84b6f806",
+      "category": "nature",
+      "difficulty": 2,
+      "question": "고사리처럼 꽃 없이 포자로 번식하고 관다발이 있는 식물 무리는?",
+      "choices": [
+        "이끼식물",
+        "겉씨식물",
+        "양치식물",
+        "속씨식물"
+      ],
+      "answerIndex": 2,
+      "explanation": "양치식물은 뿌리·줄기·잎과 관다발을 갖췄지만 꽃과 씨앗 없이 포자로 번식해요.",
+      "funFact": "석탄의 상당 부분은 약 3억 년 전 거대한 양치식물 숲이 땅에 묻혀 만들어졌어요."
+    },
+    {
+      "id": "nature-6dce3d89",
+      "category": "nature",
+      "difficulty": 2,
+      "question": "동남아 열대우림에 자라며 세계에서 가장 큰 단일 꽃을 피우는 식물은?",
+      "choices": [
+        "해바라기",
+        "목련",
+        "빅토리아수련",
+        "라플레시아"
+      ],
+      "answerIndex": 3,
+      "explanation": "라플레시아 아르놀디의 꽃은 지름이 1m 가까이 자라요. 잎·줄기·뿌리 없이 덩굴식물에 기생해 살아요.",
+      "funFact": "라플레시아는 썩은 고기 냄새를 풍겨 파리를 불러들여 꽃가루를 옮겨요."
+    },
+    {
+      "id": "nature-8f77b061",
+      "category": "nature",
+      "difficulty": 2,
+      "question": "아프리카의 바오바브나무가 굵은 줄기 속에 주로 저장하는 것은?",
+      "choices": [
+        "소금",
+        "기름",
+        "송진",
+        "물"
+      ],
+      "answerIndex": 3,
+      "explanation": "바오바브는 긴 건기를 버티려고 스펀지 같은 줄기에 많은 물을 저장해요.",
+      "funFact": "바오바브는 잎이 진 건기에 가지가 뿌리처럼 보여 '거꾸로 심은 나무'라는 별명이 있어요."
+    },
+    {
+      "id": "nature-37ca2fdf",
+      "category": "nature",
+      "difficulty": 2,
+      "question": "고무나무 껍질에 상처를 내면 흘러나와 천연고무 원료가 되는 하얀 액체는?",
+      "choices": [
+        "메이플 시럽",
+        "송진",
+        "라텍스",
+        "옻"
+      ],
+      "answerIndex": 2,
+      "explanation": "파라고무나무 껍질을 비스듬히 긁으면 흘러나오는 하얀 라텍스를 굳혀 천연고무를 만들어요.",
+      "funFact": "천연고무를 얻는 파라고무나무의 원래 고향은 남아메리카 아마존 지역이에요."
+    },
+    {
+      "id": "nature-3a2defa9",
+      "category": "nature",
+      "difficulty": 2,
+      "question": "메이플 시럽은 주로 어떤 나무의 수액을 졸여 만들까요?",
+      "choices": [
+        "소나무",
+        "사탕단풍나무",
+        "야자나무",
+        "자작나무"
+      ],
+      "answerIndex": 1,
+      "explanation": "이른 봄 사탕단풍나무에서 받은 수액을 오래 끓여 졸이면 메이플 시럽이 돼요.",
+      "funFact": "시럽 1L를 만들려면 수액이 약 40L나 필요해요."
+    },
+    {
+      "id": "nature-df417f71",
+      "category": "nature",
+      "difficulty": 2,
+      "question": "와인 병마개로 쓰는 코르크는 어떤 나무의 껍질에서 얻을까요?",
+      "choices": [
+        "자작나무",
+        "대나무",
+        "코르크참나무",
+        "소나무"
+      ],
+      "answerIndex": 2,
+      "explanation": "코르크는 지중해 지역에서 자라는 코르크참나무의 두꺼운 껍질을 벗겨 만들어요.",
+      "funFact": "코르크참나무는 껍질을 벗겨도 죽지 않고, 약 9년마다 다시 벗길 수 있어요."
+    },
+    {
+      "id": "nature-9ffbda3b",
+      "category": "nature",
+      "difficulty": 2,
+      "question": "은행나무 중 열매(은행)가 열리는 것은?",
+      "choices": [
+        "암나무",
+        "수나무",
+        "50년 넘은 나무만",
+        "암수 모두"
+      ],
+      "answerIndex": 0,
+      "explanation": "은행나무는 암나무와 수나무가 따로 있는 암수딴그루라 암나무에서만 은행이 열려요.",
+      "funFact": "요즘은 DNA 검사로 어린 은행나무의 암수를 미리 가려 가로수로 수나무를 심기도 해요."
+    },
+    {
+      "id": "nature-49c8887c",
+      "category": "nature",
+      "difficulty": 2,
+      "question": "종류에 따라 하루에 수십 cm씩 자라 가장 빨리 자라는 식물로 꼽히는 것은?",
+      "choices": [
+        "대나무",
+        "소나무",
+        "느티나무",
+        "선인장"
+      ],
+      "answerIndex": 0,
+      "explanation": "대나무는 마디마다 생장하는 부분이 있어 여러 곳이 동시에 자라기 때문에 매우 빨리 커요.",
+      "funFact": "대나무는 이름과 달리 나무가 아니라 벼과에 속하는 풀이에요."
+    },
+    {
+      "id": "nature-6ec93ca8",
+      "category": "nature",
+      "difficulty": 2,
+      "question": "송이버섯은 주로 어떤 나무 숲에서 자랄까요?",
+      "choices": [
+        "소나무",
+        "참나무",
+        "대나무",
+        "은행나무"
+      ],
+      "answerIndex": 0,
+      "explanation": "송이버섯은 살아 있는 소나무 뿌리와 공생하며 자라서 소나무 숲에서 나요.",
+      "funFact": "송이는 인공 재배가 매우 어려워 지금도 대부분 산에서 직접 채취해요."
+    },
+    {
+      "id": "nature-ed1f861d",
+      "category": "nature",
+      "difficulty": 3,
+      "question": "가을에 엽록소가 분해되면서 드러나 잎을 노랗게 보이게 하는 색소는?",
+      "choices": [
+        "헤모글로빈",
+        "카로티노이드",
+        "엽록소",
+        "안토시아닌"
+      ],
+      "answerIndex": 1,
+      "explanation": "카로티노이드는 여름에도 잎에 있지만 엽록소의 초록색에 가려 있다가, 엽록소가 사라지면 드러나요.",
+      "funFact": "당근의 주황색을 내는 베타카로틴도 카로티노이드의 한 종류예요."
+    },
+    {
+      "id": "nature-4a611378",
+      "category": "nature",
+      "difficulty": 3,
+      "question": "해바라기처럼 작은 꽃 수백 개가 모여 한 송이처럼 보이는 꽃차례는?",
+      "choices": [
+        "원추꽃차례",
+        "총상꽃차례",
+        "산형꽃차례",
+        "두상꽃차례"
+      ],
+      "answerIndex": 3,
+      "explanation": "해바라기·국화·민들레는 작은 꽃들이 납작한 꽃받기 위에 빽빽이 모인 두상꽃차례예요.",
+      "funFact": "해바라기 씨앗은 피보나치 수와 관련된 나선 모양으로 배열돼 있어요."
+    },
+    {
+      "id": "nature-f2dd482c",
+      "category": "nature",
+      "difficulty": 3,
+      "question": "파리지옥이 원래 야생에서 자라는 곳은?",
+      "choices": [
+        "아마존 열대우림",
+        "마다가스카르 섬",
+        "호주 내륙 사막",
+        "미국 남동부 습지"
+      ],
+      "answerIndex": 3,
+      "explanation": "파리지옥은 미국 노스캐롤라이나와 사우스캐롤라이나의 일부 습지에서만 자생해요.",
+      "funFact": "파리지옥은 덫 안의 감각털을 짧은 시간에 두 번 건드려야 닫혀서, 빗방울 같은 헛된 자극을 걸러내요."
+    },
+    {
+      "id": "nature-af50ceac",
+      "category": "nature",
+      "difficulty": 3,
+      "question": "미국 캘리포니아에 있는 거대한 나무 제너럴 셔먼은 어떤 종일까요?",
+      "choices": [
+        "자이언트세쿼이아",
+        "삼나무",
+        "유칼립투스",
+        "바오바브"
+      ],
+      "answerIndex": 0,
+      "explanation": "제너럴 셔먼은 자이언트세쿼이아예요. 거대한 줄기 부피로 유명한 나무예요.",
+      "funFact": "자이언트세쿼이아의 솔방울은 산불의 열을 받으면 잘 벌어져 씨앗을 퍼뜨려요."
+    },
+    {
+      "id": "nature-80dac5a2",
+      "category": "nature",
+      "difficulty": 3,
+      "question": "한라산·지리산 등에 자라는 한국 특산 나무로, 크리스마스트리로 세계에 퍼진 것은?",
+      "choices": [
+        "주목",
+        "전나무",
+        "구상나무",
+        "가문비나무"
+      ],
+      "answerIndex": 2,
+      "explanation": "구상나무(Abies koreana)는 한국에만 자생하는 나무로, 해외에서 '코리안 퍼'라 불리며 크리스마스트리로 인기예요.",
+      "funFact": "구상나무는 기후 변화로 고사목이 늘어 세계자연보전연맹(IUCN) 멸종위기종으로 올라 있어요."
+    },
+    {
+      "id": "nature-676ceebf",
+      "category": "nature",
+      "difficulty": 3,
+      "question": "대나무에 꽃이 피면 흔히 어떤 일이 일어날까요?",
+      "choices": [
+        "숲 전체가 한꺼번에 말라 죽음",
+        "해마다 열매가 많이 열림",
+        "줄기가 두 배로 굵어짐",
+        "잎이 붉게 변함"
+      ],
+      "answerIndex": 0,
+      "explanation": "대나무는 수십~백여 년에 한 번 꽃을 피우는데, 뿌리로 이어진 숲이 한꺼번에 꽃을 피운 뒤 말라 죽는 경우가 많아요.",
+      "funFact": "인도 북동부에서는 약 50년마다 대나무 꽃이 필 때 열매를 먹은 쥐가 급증해 기근이 들기도 했어요."
+    },
+    {
+      "id": "nature-df3806a8",
+      "category": "nature",
+      "difficulty": 3,
+      "question": "무화과의 꽃은 어디에 있을까요?",
+      "choices": [
+        "꽃이 전혀 없음",
+        "뿌리 끝",
+        "잎 뒷면",
+        "열매처럼 생긴 주머니 안쪽"
+      ],
+      "answerIndex": 3,
+      "explanation": "무화과는 '꽃이 없는 열매'라는 뜻이지만, 실제로는 주머니 모양 꽃받기 안쪽에 작은 꽃이 빽빽이 피어요.",
+      "funFact": "야생 무화과는 아주 작은 무화과말벌이 주머니 속으로 들어가 꽃가루를 옮겨 줘요."
+    },
+    {
+      "id": "nature-a11dedac",
+      "category": "nature",
+      "difficulty": 3,
+      "question": "딸기 겉에 박힌 깨알 같은 작은 알갱이의 정체는?",
+      "choices": [
+        "잎이 변한 것",
+        "꽃가루 덩어리",
+        "기공 구멍",
+        "하나하나가 진짜 열매"
+      ],
+      "answerIndex": 3,
+      "explanation": "딸기 알갱이는 각각 씨를 하나씩 품은 열매(수과)이고, 우리가 먹는 빨간 부분은 꽃받기가 부푼 것이에요.",
+      "funFact": "딸기 하나의 겉에는 보통 200개 안팎의 알갱이가 붙어 있어요."
+    },
+    {
+      "id": "nature-32321470",
+      "category": "nature",
+      "difficulty": 3,
+      "question": "꽃이 진 뒤 씨방자루가 땅속으로 파고들어 꼬투리를 맺는 식물은?",
+      "choices": [
+        "강낭콩",
+        "호박",
+        "땅콩",
+        "완두"
+      ],
+      "answerIndex": 2,
+      "explanation": "땅콩은 땅 위에서 꽃이 핀 뒤 씨방자루가 아래로 길게 자라 흙 속에서 꼬투리를 키워요.",
+      "funFact": "땅콩은 이름과 달리 견과류가 아니라 콩과 식물의 씨앗이에요."
+    },
+    {
+      "id": "nature-7e01e89a",
+      "category": "nature",
+      "difficulty": 3,
+      "question": "영어로 '죽음의 모자(death cap)'라 불리는 맹독 버섯은?",
+      "choices": [
+        "알광대버섯",
+        "느타리버섯",
+        "표고버섯",
+        "노루궁뎅이"
+      ],
+      "answerIndex": 0,
+      "explanation": "알광대버섯은 아마톡신이라는 독으로 간을 망가뜨려, 버섯 중독 사망의 대부분을 차지해요.",
+      "funFact": "알광대버섯 독은 익혀도 없어지지 않고, 증상이 반나절쯤 지나서야 나타나 더 위험해요."
+    },
+    {
+      "id": "nature-48a9b5ff",
+      "category": "nature",
+      "difficulty": 3,
+      "question": "미국 오리건주 숲 땅속에 약 9㎢로 퍼져 '가장 큰 생물'로 꼽히는 균류는?",
+      "choices": [
+        "영지버섯",
+        "뽕나무버섯속 균",
+        "송이버섯",
+        "푸른곰팡이"
+      ],
+      "answerIndex": 1,
+      "explanation": "말루어 국유림의 뽕나무버섯속(꿀버섯류) 균 한 개체는 땅속 균사가 축구장 1,000개 넘는 넓이로 퍼져 있어요.",
+      "funFact": "이 균은 수천 년 동안 자라 온 것으로 추정되고, 나무뿌리를 썩게 하는 병원균이기도 해요."
+    },
+    {
+      "id": "nature-ad9b15fb",
+      "category": "nature",
+      "difficulty": 3,
+      "question": "균류가 식물 뿌리와 공생해 물과 양분 흡수를 돕는 구조는?",
+      "choices": [
+        "뿌리털",
+        "뿌리골무",
+        "뿌리혹",
+        "균근"
+      ],
+      "answerIndex": 3,
+      "explanation": "균근의 가는 균사가 흙 속으로 넓게 뻗어 인 같은 양분을 모아 주고, 식물은 대신 당분을 나눠 줘요.",
+      "funFact": "육상 식물의 대부분이 균근과 공생하는 것으로 알려져 있어요."
+    },
+    {
+      "id": "nature-019e9a8a",
+      "category": "nature",
+      "difficulty": 3,
+      "question": "세계에서 한국에만 자라는 1속 1종 식물로, 열매가 둥근 부채를 닮은 나무는?",
+      "choices": [
+        "진달래",
+        "회양목",
+        "미선나무",
+        "개나리"
+      ],
+      "answerIndex": 2,
+      "explanation": "미선나무는 한국 특산 1속 1종 식물이고, 열매 모양이 미선(둥근 부채)을 닮아 이름이 붙었어요.",
+      "funFact": "미선나무 자생지 여러 곳은 천연기념물로 지정돼 보호받고 있어요."
+    },
+    {
+      "id": "nature-7a3ca12f",
+      "category": "nature",
+      "difficulty": 1,
+      "question": "포유류 가운데 스스로 날갯짓을 해서 날 수 있는 유일한 무리는?",
+      "choices": [
+        "하늘다람쥐",
+        "날다람쥐",
+        "날여우원숭이",
+        "박쥐"
+      ],
+      "answerIndex": 3,
+      "explanation": "박쥐는 손가락 사이의 얇은 막을 펄럭여 나는 유일한 포유류예요. 날다람쥐 같은 동물은 활공만 할 수 있어요.",
+      "funFact": "박쥐 날개는 사실 길게 늘어난 손가락뼈 사이에 피부막이 붙은 '손'이에요."
+    },
+    {
+      "id": "nature-d04ef5dc",
+      "category": "nature",
+      "difficulty": 1,
+      "question": "개구리 중 울음주머니를 부풀려 우는 쪽은 주로?",
+      "choices": [
+        "암컷",
+        "올챙이",
+        "암수 똑같이",
+        "수컷"
+      ],
+      "answerIndex": 3,
+      "explanation": "개구리 울음은 주로 수컷이 암컷을 부르려고 내는 소리예요. 울음주머니가 소리를 크게 울려 줘요.",
+      "funFact": "개구리 종마다 울음소리가 달라서 소리만 듣고도 종을 구별할 수 있어요."
+    },
+    {
+      "id": "nature-d3004119",
+      "category": "nature",
+      "difficulty": 1,
+      "question": "곤충의 더듬이가 주로 하는 일은?",
+      "choices": [
+        "알 낳기",
+        "냄새와 촉감 느끼기",
+        "먹이 씹기",
+        "날개 접기"
+      ],
+      "answerIndex": 1,
+      "explanation": "곤충은 더듬이로 냄새를 맡고 주변을 더듬어 느껴요. 일부 곤충은 소리나 온도도 감지해요.",
+      "funFact": "수컷 누에나방은 더듬이로 멀리 떨어진 암컷의 페로몬도 알아챈다고 해요."
+    },
+    {
+      "id": "nature-bcd65cbe",
+      "category": "nature",
+      "difficulty": 1,
+      "question": "여름에 '맴맴' 우는 매미는 암수 중 누구일까요?",
+      "choices": [
+        "암수 모두",
+        "암컷",
+        "수컷",
+        "애벌레"
+      ],
+      "answerIndex": 2,
+      "explanation": "여름에 크게 들리는 매미의 노래는 주로 수컷이 배의 발음 기관으로 암컷을 부르는 소리예요.",
+      "funFact": "매미 수컷의 배 속은 대부분 비어 있어서 소리를 크게 울리는 울림통 역할을 해요."
+    },
+    {
+      "id": "nature-66acc407",
+      "category": "nature",
+      "difficulty": 1,
+      "question": "나뭇가지와 진흙으로 개울에 댐을 쌓는 동물은?",
+      "choices": [
+        "해달",
+        "비버",
+        "너구리",
+        "수달"
+      ],
+      "answerIndex": 1,
+      "explanation": "비버는 날카로운 앞니로 나무를 갉아 쓰러뜨리고 댐과 집을 지어 물을 막아요.",
+      "funFact": "비버 집의 입구는 물속에 있어서 천적이 쉽게 들어오지 못해요."
+    },
+    {
+      "id": "nature-739a5cde",
+      "category": "nature",
+      "difficulty": 1,
+      "question": "지금 살아 있는 펭귄 가운데 가장 큰 종은?",
+      "choices": [
+        "임금펭귄",
+        "황제펭귄",
+        "젠투펭귄",
+        "아델리펭귄"
+      ],
+      "answerIndex": 1,
+      "explanation": "황제펭귄은 키가 1m를 넘기도 하는 가장 큰 펭귄이에요. 남극에서 겨울에 번식해요.",
+      "funFact": "임금펭귄은 황제펭귄과 닮았지만 조금 더 작고 아남극 섬에서 번식해요."
+    },
+    {
+      "id": "nature-321ee608",
+      "category": "nature",
+      "difficulty": 1,
+      "question": "지금 살아 있는 영장류 가운데 가장 큰 동물은?",
+      "choices": [
+        "고릴라",
+        "오랑우탄",
+        "개코원숭이",
+        "침팬지"
+      ],
+      "answerIndex": 0,
+      "explanation": "고릴라는 가장 큰 영장류로, 다 자란 수컷은 몸무게가 150kg을 넘기도 해요.",
+      "funFact": "나이 든 수컷 고릴라는 등의 털이 은색으로 변해 '실버백'이라고 불려요."
+    },
+    {
+      "id": "nature-d3033c19",
+      "category": "nature",
+      "difficulty": 1,
+      "question": "고급 음식 '캐비아'는 어떤 물고기의 알일까요?",
+      "choices": [
+        "철갑상어",
+        "연어",
+        "대구",
+        "명태"
+      ],
+      "answerIndex": 0,
+      "explanation": "캐비아는 철갑상어 알을 소금에 절인 음식이에요.",
+      "funFact": "철갑상어는 공룡 시대부터 큰 모습 변화 없이 살아와 '살아 있는 화석'이라고 불려요."
+    },
+    {
+      "id": "nature-be5df393",
+      "category": "nature",
+      "difficulty": 1,
+      "question": "혼례 때 금슬 좋은 부부를 상징하는 새는?",
+      "choices": [
+        "원앙",
+        "두루미",
+        "까치",
+        "비둘기"
+      ],
+      "answerIndex": 0,
+      "explanation": "원앙은 늘 암수가 붙어 다닌다고 해서 사이좋은 부부를 상징해요. 혼례 때 나무 원앙을 주고받기도 해요.",
+      "funFact": "실제 원앙은 해마다 짝을 새로 고르는 경우가 많다고 해요."
+    },
+    {
+      "id": "nature-f4854737",
+      "category": "nature",
+      "difficulty": 1,
+      "question": "공작 가운데 화려한 꼬리깃을 부채처럼 펼치는 쪽은?",
+      "choices": [
+        "암수 모두",
+        "새끼",
+        "수컷",
+        "암컷"
+      ],
+      "answerIndex": 2,
+      "explanation": "화려한 깃털을 펼치는 공작은 수컷이에요. 암컷에게 잘 보이려고 깃을 펼쳐 흔들어요.",
+      "funFact": "공작 수컷의 꼬리깃에 있는 눈알 무늬가 많을수록 암컷에게 인기가 많다는 연구가 있어요."
+    },
+    {
+      "id": "nature-38e9a064",
+      "category": "nature",
+      "difficulty": 1,
+      "question": "쥐 같은 설치류의 앞니가 가진 특징은?",
+      "choices": [
+        "평생 계속 자란다",
+        "한 번 빠지면 끝이다",
+        "어릴 때만 있다",
+        "독이 나온다"
+      ],
+      "answerIndex": 0,
+      "explanation": "설치류의 앞니는 평생 자라서 딱딱한 것을 갉으며 닳게 해야 알맞은 길이로 유지돼요.",
+      "funFact": "설치류 앞니의 앞면은 단단하고 뒷면은 무르기 때문에 갉을수록 끌처럼 날카로워져요."
+    },
+    {
+      "id": "nature-28d413fb",
+      "category": "nature",
+      "difficulty": 1,
+      "question": "세계에서 가장 큰 도마뱀인 코모도왕도마뱀이 사는 나라는?",
+      "choices": [
+        "필리핀",
+        "인도네시아",
+        "마다가스카르",
+        "오스트레일리아"
+      ],
+      "answerIndex": 1,
+      "explanation": "코모도왕도마뱀은 인도네시아 코모도섬 등 몇몇 섬에만 살아요.",
+      "funFact": "코모도왕도마뱀 암컷은 수컷 없이 알을 낳아 새끼를 얻은 사례도 있어요."
+    },
+    {
+      "id": "nature-393b3257",
+      "category": "nature",
+      "difficulty": 1,
+      "question": "꼬리 끝을 흔들어 '촤르르' 경고음을 내는 뱀은?",
+      "choices": [
+        "아나콘다",
+        "살모사",
+        "코브라",
+        "방울뱀"
+      ],
+      "answerIndex": 3,
+      "explanation": "방울뱀 꼬리 끝에는 허물이 남아 생긴 마디가 있어, 흔들면 서로 부딪쳐 소리가 나요.",
+      "funFact": "방울뱀은 허물을 벗을 때마다 꼬리 마디가 하나씩 늘어나요."
+    },
+    {
+      "id": "nature-abb0382b",
+      "category": "nature",
+      "difficulty": 1,
+      "question": "식용으로 들여왔다가 생태계를 어지럽히는 외래종이 된 개구리는?",
+      "choices": [
+        "무당개구리",
+        "참개구리",
+        "황소개구리",
+        "청개구리"
+      ],
+      "answerIndex": 2,
+      "explanation": "북아메리카에서 들여온 황소개구리는 토종 개구리와 물고기, 뱀까지 잡아먹어 생태계교란 생물로 지정됐어요.",
+      "funFact": "황소개구리라는 이름은 울음소리가 황소 울음처럼 굵고 크다고 해서 붙었어요."
+    },
+    {
+      "id": "nature-05784421",
+      "category": "nature",
+      "difficulty": 1,
+      "question": "물가에 살며 물고기를 잡아먹는 족제비과 천연기념물은?",
+      "choices": [
+        "너구리",
+        "수달",
+        "오소리",
+        "담비"
+      ],
+      "answerIndex": 1,
+      "explanation": "수달은 물갈퀴가 있는 발로 헤엄을 잘 치는 족제비과 동물로, 천연기념물이자 멸종위기 야생생물이에요.",
+      "funFact": "수달은 촘촘한 털 사이에 공기를 머금어 차가운 물속에서도 체온을 지켜요."
+    },
+    {
+      "id": "nature-5ebcc9ee",
+      "category": "nature",
+      "difficulty": 1,
+      "question": "농작물에 해로운 진딧물을 잡아먹어 이로운 곤충으로 꼽히는 것은?",
+      "choices": [
+        "무당벌레",
+        "풍뎅이",
+        "노린재",
+        "메뚜기"
+      ],
+      "answerIndex": 0,
+      "explanation": "무당벌레는 애벌레와 어른벌레 모두 진딧물을 많이 먹어 해충을 줄여 줘요.",
+      "funFact": "무당벌레의 빨간 몸 색은 '나는 맛이 없다'고 천적에게 알리는 경고색이에요."
+    },
+    {
+      "id": "nature-e9da3d9d",
+      "category": "nature",
+      "difficulty": 1,
+      "question": "몸이 나뭇가지처럼 가늘고 길어 숲에서 잘 안 보이는 곤충은?",
+      "choices": [
+        "방아깨비",
+        "대벌레",
+        "소금쟁이",
+        "사마귀"
+      ],
+      "answerIndex": 1,
+      "explanation": "대벌레는 나뭇가지와 똑같이 생겨 천적의 눈을 피해요. 이렇게 주변 사물을 흉내 내는 것을 의태라고 해요.",
+      "funFact": "대벌레는 바람에 흔들리는 나뭇가지처럼 몸을 앞뒤로 살랑살랑 흔들기도 해요."
+    },
+    {
+      "id": "nature-9149170c",
+      "category": "nature",
+      "difficulty": 1,
+      "question": "지금 사는 새 가운데 가장 큰 알을 낳는 새는?",
+      "choices": [
+        "독수리",
+        "에뮤",
+        "펭귄",
+        "타조"
+      ],
+      "answerIndex": 3,
+      "explanation": "타조 알은 길이가 15cm 정도, 무게는 1.5kg 안팎으로 살아 있는 새 중 가장 커요.",
+      "funFact": "타조 알 하나는 달걀 20개가 넘는 양이라고 해요."
+    },
+    {
+      "id": "nature-d70584d0",
+      "category": "nature",
+      "difficulty": 1,
+      "question": "고래가 숨을 쉬는 기관은?",
+      "choices": [
+        "폐",
+        "부레",
+        "피부",
+        "아가미"
+      ],
+      "answerIndex": 0,
+      "explanation": "고래는 포유류라 폐로 숨을 쉬어요. 머리 위 숨구멍으로 수면에서 공기를 들이마셔요.",
+      "funFact": "고래가 숨을 내쉴 때 보이는 물기둥은 따뜻한 날숨 속 수증기가 식어서 생긴 거예요."
+    },
+    {
+      "id": "nature-a4524471",
+      "category": "nature",
+      "difficulty": 1,
+      "question": "나무에 매달려 지내며 아주 느리게 움직이기로 유명한 동물은?",
+      "choices": [
+        "코알라",
+        "나무늘보",
+        "판다",
+        "오랑우탄"
+      ],
+      "answerIndex": 1,
+      "explanation": "나무늘보는 에너지를 아끼려고 아주 천천히 움직이고 대부분의 시간을 나무에 매달려 보내요.",
+      "funFact": "나무늘보는 일주일에 한 번쯤 땅으로 내려와 배변을 해요."
+    },
+    {
+      "id": "nature-787dff22",
+      "category": "nature",
+      "difficulty": 2,
+      "question": "코끼리의 긴 코는 무엇이 합쳐져 늘어난 것일까요?",
+      "choices": [
+        "코와 윗입술",
+        "윗입술과 턱",
+        "코와 아랫입술",
+        "코와 혀"
+      ],
+      "answerIndex": 0,
+      "explanation": "코끼리 코는 코와 윗입술이 합쳐져 길게 늘어난 기관으로, 뼈 없이 근육으로 이루어져 있어요.",
+      "funFact": "코끼리는 코로 물을 빨아올린 뒤 입에 뿜어 넣어 마셔요."
+    },
+    {
+      "id": "nature-308481bd",
+      "category": "nature",
+      "difficulty": 2,
+      "question": "소의 위는 모두 몇 개의 구획으로 나뉠까요?",
+      "choices": [
+        "2개",
+        "1개",
+        "6개",
+        "4개"
+      ],
+      "answerIndex": 3,
+      "explanation": "소의 위는 혹위, 벌집위, 겹주름위, 주름위의 네 구획으로 나뉘어요.",
+      "funFact": "우리가 먹는 '양'은 첫째 위, '천엽'은 셋째 위예요."
+    },
+    {
+      "id": "nature-d87a4b9b",
+      "category": "nature",
+      "difficulty": 2,
+      "question": "홍학(플라밍고)의 깃털이 분홍빛을 띠는 이유는?",
+      "choices": [
+        "타고난 유전만으로",
+        "먹이 속 색소 때문",
+        "햇빛에 타서",
+        "피가 비쳐서"
+      ],
+      "answerIndex": 1,
+      "explanation": "홍학은 새우나 조류에 든 카로티노이드 색소를 먹어 깃털이 분홍빛이 돼요.",
+      "funFact": "동물원에서 먹이에 색소를 넣어 주지 않으면 홍학의 색이 점점 옅어져요."
+    },
+    {
+      "id": "nature-3f284dd9",
+      "category": "nature",
+      "difficulty": 2,
+      "question": "코뿔소의 뿔을 이루는 주된 물질은?",
+      "choices": [
+        "케라틴",
+        "상아질",
+        "칼슘 뼈",
+        "키틴"
+      ],
+      "answerIndex": 0,
+      "explanation": "코뿔소 뿔은 뼈가 아니라 사람 손톱이나 머리카락과 같은 케라틴으로 되어 있어요.",
+      "funFact": "코뿔소 뿔은 잘려도 손톱처럼 다시 자라요."
+    },
+    {
+      "id": "nature-a96c35c0",
+      "category": "nature",
+      "difficulty": 2,
+      "question": "공중에 멈춰 있거나 뒤로도 날 수 있는 작은 새는?",
+      "choices": [
+        "제비",
+        "참새",
+        "물총새",
+        "벌새"
+      ],
+      "answerIndex": 3,
+      "explanation": "벌새는 날개를 아주 빠르게 흔들고 8자로 움직여 정지 비행과 뒤로 날기를 할 수 있어요.",
+      "funFact": "벌새는 에너지를 많이 써서 밤에는 체온을 크게 낮춘 채 깊은 휴면에 들어가요."
+    },
+    {
+      "id": "nature-004d244f",
+      "category": "nature",
+      "difficulty": 2,
+      "question": "꿀벌 애벌레 중 여왕벌이 될 애벌레만 계속 먹는 먹이는?",
+      "choices": [
+        "로열젤리",
+        "밀랍",
+        "꽃가루",
+        "프로폴리스"
+      ],
+      "answerIndex": 0,
+      "explanation": "일벌이 머리샘에서 만든 로열젤리를 계속 먹은 애벌레가 여왕벌로 자라요.",
+      "funFact": "여왕벌과 일벌은 같은 알에서 태어나지만 먹이가 달라 몸과 수명이 크게 달라져요."
+    },
+    {
+      "id": "nature-2d90e36d",
+      "category": "nature",
+      "difficulty": 2,
+      "question": "나비가 앉은 곳의 맛을 느끼는 기관이 있는 곳은?",
+      "choices": [
+        "더듬이 끝",
+        "발",
+        "날개",
+        "눈"
+      ],
+      "answerIndex": 1,
+      "explanation": "나비는 발에 맛을 느끼는 감각기가 있어 앉자마자 먹이인지, 알을 낳을 식물인지 알 수 있어요.",
+      "funFact": "암나비는 잎을 발로 톡톡 두드려 애벌레가 먹을 수 있는 식물인지 확인해요."
+    },
+    {
+      "id": "nature-fe12f3a2",
+      "category": "nature",
+      "difficulty": 2,
+      "question": "물속에서 거꾸로 매달려 숨관으로 숨 쉬는 모기 애벌레는?",
+      "choices": [
+        "굼벵이",
+        "학배기",
+        "송충이",
+        "장구벌레"
+      ],
+      "answerIndex": 3,
+      "explanation": "모기 애벌레인 장구벌레는 고인 물에 살며 꼬리 쪽 숨관을 물 밖에 내밀어 숨을 쉬어요.",
+      "funFact": "화분 받침이나 버려진 타이어에 고인 적은 물에서도 장구벌레가 자랄 수 있어요."
+    },
+    {
+      "id": "nature-f519aada",
+      "category": "nature",
+      "difficulty": 2,
+      "question": "개미가 진딧물을 지켜 주는 대가로 얻는 것은?",
+      "choices": [
+        "날개",
+        "진딧물의 알",
+        "따뜻한 집",
+        "달콤한 분비물"
+      ],
+      "answerIndex": 3,
+      "explanation": "진딧물은 식물 즙을 빨고 단물(감로)을 내보내는데, 개미는 이를 얻는 대신 천적을 쫓아 줘요.",
+      "funFact": "개미는 더듬이로 진딧물을 톡톡 건드려 단물을 '짜내기'도 해요."
+    },
+    {
+      "id": "nature-ac686b62",
+      "category": "nature",
+      "difficulty": 2,
+      "question": "옛 그림 속 장수의 상징 '학'의 표준 이름은?",
+      "choices": [
+        "백로",
+        "두루미",
+        "왜가리",
+        "황새"
+      ],
+      "answerIndex": 1,
+      "explanation": "학은 두루미를 가리키는 말이에요. 머리 꼭대기가 붉은 두루미는 천연기념물이자 멸종위기종이에요.",
+      "funFact": "두루미의 붉은 정수리는 깃털이 아니라 맨살이 드러난 부분이에요."
+    },
+    {
+      "id": "nature-114ca216",
+      "category": "nature",
+      "difficulty": 2,
+      "question": "소백산에서 복원 사업으로 자연에 풀어 준 개과 토종 동물은?",
+      "choices": [
+        "승냥이",
+        "너구리",
+        "여우",
+        "늑대"
+      ],
+      "answerIndex": 2,
+      "explanation": "한반도 남쪽에서 거의 사라졌던 여우는 소백산 일대에서 복원 사업이 진행됐어요.",
+      "funFact": "여우는 눈 덮인 땅속 쥐 소리를 듣고 높이 뛰어올라 머리부터 내리꽂으며 사냥해요."
+    },
+    {
+      "id": "nature-b088f034",
+      "category": "nature",
+      "difficulty": 2,
+      "question": "서해 백령도 바위에서 무리 지어 쉬는 멸종위기 해양 포유류는?",
+      "choices": [
+        "물개",
+        "바다사자",
+        "점박이물범",
+        "듀공"
+      ],
+      "answerIndex": 2,
+      "explanation": "점박이물범은 중국 랴오둥만에서 번식하고 봄부터 가을까지 백령도 일대에 머물러요.",
+      "funFact": "점박이물범 새끼는 흰 털을 입고 태어나 얼음 위에서 눈에 잘 띄지 않아요."
+    },
+    {
+      "id": "nature-6af573cf",
+      "category": "nature",
+      "difficulty": 2,
+      "question": "애완용으로 들여왔다가 생태계교란 생물이 된 외래 거북은?",
+      "choices": [
+        "남생이",
+        "자라",
+        "바다거북",
+        "붉은귀거북"
+      ],
+      "answerIndex": 3,
+      "explanation": "붉은귀거북은 미국 원산으로, 방생되거나 버려진 개체가 토종 생물을 위협해 생태계교란 생물로 지정됐어요.",
+      "funFact": "눈 뒤에 있는 붉은 무늬가 귀처럼 보여 이런 이름이 붙었어요."
+    },
+    {
+      "id": "nature-0cd3c042",
+      "category": "nature",
+      "difficulty": 2,
+      "question": "수컷이 둥지를 짓고 알과 새끼를 지키는 것으로 유명한 물고기는?",
+      "choices": [
+        "미꾸라지",
+        "잉어",
+        "붕어",
+        "가시고기"
+      ],
+      "answerIndex": 3,
+      "explanation": "가시고기 수컷은 둥지를 짓고 알을 지키며, 지느러미로 물을 보내 알에 산소를 공급해요.",
+      "funFact": "가시고기 수컷은 번식기에 몸의 색이 선명해져요."
+    },
+    {
+      "id": "nature-7ac4d0c3",
+      "category": "nature",
+      "difficulty": 2,
+      "question": "갓 깬 새끼 거위가 처음 본 대상을 어미로 따르는 '각인'을 연구한 학자는?",
+      "choices": [
+        "그레고어 멘델",
+        "이반 파블로프",
+        "찰스 다윈",
+        "콘라트 로렌츠"
+      ],
+      "answerIndex": 3,
+      "explanation": "동물행동학자 콘라트 로렌츠는 새끼 회색기러기가 처음 본 자신을 어미처럼 따라다니는 현상을 연구했어요.",
+      "funFact": "로렌츠는 이 연구 등으로 1973년 노벨 생리의학상을 받았어요."
+    },
+    {
+      "id": "nature-6ead7f00",
+      "category": "nature",
+      "difficulty": 3,
+      "question": "상어에게 없어서 계속 헤엄치거나 큰 간으로 부력을 얻게 만드는 기관은?",
+      "choices": [
+        "부레",
+        "지느러미",
+        "아가미",
+        "옆줄"
+      ],
+      "answerIndex": 0,
+      "explanation": "상어는 부레가 없는 대신 기름이 많은 커다란 간으로 몸이 가라앉지 않게 도와요.",
+      "funFact": "상어 간은 몸무게의 4분의 1 가까이 차지하기도 해요."
+    },
+    {
+      "id": "nature-a16d6a57",
+      "category": "nature",
+      "difficulty": 3,
+      "question": "흰동가리 무리에서 암컷이 사라지면 생기는 일은?",
+      "choices": [
+        "가장 큰 수컷이 암컷이 된다",
+        "새끼가 암컷이 된다",
+        "다른 무리 암컷이 온다",
+        "무리가 흩어진다"
+      ],
+      "answerIndex": 0,
+      "explanation": "흰동가리는 모두 수컷으로 태어나고, 무리의 암컷이 죽으면 가장 큰 수컷이 암컷으로 성전환해요.",
+      "funFact": "한 말미잘에 사는 흰동가리 무리는 몸 크기 순서대로 서열이 정해져 있어요."
+    },
+    {
+      "id": "nature-9b1cbf57",
+      "category": "nature",
+      "difficulty": 3,
+      "question": "물속에 사는 애반딧불이 애벌레가 주로 먹는 것은?",
+      "choices": [
+        "올챙이",
+        "다슬기",
+        "물풀",
+        "모기 애벌레"
+      ],
+      "answerIndex": 1,
+      "explanation": "애반딧불이 애벌레는 맑은 물에 살며 다슬기를 잡아먹고 자라요.",
+      "funFact": "반딧불이는 알과 애벌레, 번데기도 빛을 낼 수 있어요."
+    },
+    {
+      "id": "nature-f527122d",
+      "category": "nature",
+      "difficulty": 3,
+      "question": "모래에 깔때기 함정을 파 개미를 잡는 '개미귀신'의 어른벌레는?",
+      "choices": [
+        "풀잠자리",
+        "실잠자리",
+        "밀잠자리",
+        "명주잠자리"
+      ],
+      "answerIndex": 3,
+      "explanation": "개미귀신은 명주잠자리의 애벌레로, 모래 구덩이 바닥에 숨어 미끄러져 내려온 곤충을 잡아먹어요.",
+      "funFact": "개미귀신은 먹이를 먹는 동안 배설을 하지 않다가 어른벌레가 된 뒤에 몰아서 해요."
+    },
+    {
+      "id": "nature-b1b9eac7",
+      "category": "nature",
+      "difficulty": 3,
+      "question": "하루살이 어른벌레가 짧게 사는 동안 하지 않는 일은?",
+      "choices": [
+        "날기",
+        "알 낳기",
+        "먹이 먹기",
+        "짝짓기"
+      ],
+      "answerIndex": 2,
+      "explanation": "하루살이 어른벌레는 입이 퇴화해 아무것도 먹지 않고 짝짓기와 알 낳기만 하다 죽어요.",
+      "funFact": "하루살이는 애벌레로 물속에서 1년 이상 사는 종도 많아 전체 수명은 꽤 길어요."
+    },
+    {
+      "id": "nature-79f71cfe",
+      "category": "nature",
+      "difficulty": 3,
+      "question": "날개를 편 길이가 3m를 넘기도 해 현생 조류 중 가장 긴 새는?",
+      "choices": [
+        "안데스콘도르",
+        "흰머리수리",
+        "나그네알바트로스",
+        "큰고니"
+      ],
+      "answerIndex": 2,
+      "explanation": "나그네알바트로스는 날개폭이 가장 긴 새로, 바다 위를 날갯짓 없이 오래 활공해요.",
+      "funFact": "알바트로스는 바람을 타며 거의 쉬지 않고 수천 km를 날 수 있어요."
+    },
+    {
+      "id": "nature-2c0c0eeb",
+      "category": "nature",
+      "difficulty": 3,
+      "question": "딱따구리의 긴 혀를 지탱하는 설골 장치의 특징은?",
+      "choices": [
+        "길게 뻗어 두개골 뒤쪽을 돌아간다",
+        "혀를 지탱하는 뼈가 전혀 없다",
+        "두 갈래 혀끝에 독샘이 있다",
+        "부리 밖에서만 접힌다"
+      ],
+      "answerIndex": 0,
+      "explanation": "딱따구리의 혀를 지탱하는 설골 장치는 길게 뻗어 두개골 뒤쪽을 돌아가며, 혀를 멀리 내미는 데 도움을 줘요.",
+      "funFact": "딱따구리 혀끝에는 작은 가시가 있어 나무 구멍 속 애벌레를 꿰어 꺼내요."
+    },
+    {
+      "id": "nature-46b2fed8",
+      "category": "nature",
+      "difficulty": 3,
+      "question": "기린 혀의 색으로 알맞은 것은?",
+      "choices": [
+        "분홍색",
+        "하얀색",
+        "검푸른색",
+        "노란색"
+      ],
+      "answerIndex": 2,
+      "explanation": "기린 혀는 검푸른빛(짙은 보라색)을 띠어요. 햇볕 아래 오래 내놓아도 타지 않게 돕는다는 설명이 있어요.",
+      "funFact": "기린 혀는 50cm 가까이 되어 가시 많은 아카시아 잎도 감아 따 먹어요."
+    },
+    {
+      "id": "nature-aea20b81",
+      "category": "nature",
+      "difficulty": 3,
+      "question": "돌고래가 잠잘 때 보이는 특징은?",
+      "choices": [
+        "뇌의 반쪽씩 번갈아 잔다",
+        "겨울에만 잔다",
+        "바닥에 누워 잔다",
+        "잠을 전혀 자지 않는다"
+      ],
+      "answerIndex": 0,
+      "explanation": "돌고래는 뇌의 한쪽만 잠들게 해서 숨쉬기와 경계를 계속할 수 있어요.",
+      "funFact": "잠자는 동안 돌고래는 잠든 뇌 반대편의 눈을 감는다고 해요."
+    },
+    {
+      "id": "nature-f7697708",
+      "category": "nature",
+      "difficulty": 3,
+      "question": "육상 포유류 가운데 임신 기간이 약 22개월로 가장 긴 동물은?",
+      "choices": [
+        "기린",
+        "코뿔소",
+        "코끼리",
+        "하마"
+      ],
+      "answerIndex": 2,
+      "explanation": "코끼리의 임신 기간은 약 22개월로, 육지에 사는 포유류 중 가장 길어요.",
+      "funFact": "갓 태어난 아기 코끼리는 몸무게가 100kg 안팎이에요."
+    },
+    {
+      "id": "nature-6fd0df10",
+      "category": "nature",
+      "difficulty": 3,
+      "question": "이름에 '판다'가 들어가는 레서판다가 속한 과는?",
+      "choices": [
+        "족제비과",
+        "레서판다과",
+        "곰과",
+        "너구리과"
+      ],
+      "answerIndex": 1,
+      "explanation": "레서판다는 대왕판다(곰과)와 다른, 자기만의 레서판다과에 속하는 동물이에요.",
+      "funFact": "'판다'라는 이름은 원래 레서판다를 부르던 말이었고, 나중에 대왕판다에게도 쓰였어요."
+    },
+    {
+      "id": "nature-c9c388ad",
+      "category": "nature",
+      "difficulty": 3,
+      "question": "개과 동물 가운데 겨울잠을 자는 것으로 알려진 한국 토종 동물은?",
+      "choices": [
+        "여우",
+        "늑대",
+        "너구리",
+        "승냥이"
+      ],
+      "answerIndex": 2,
+      "explanation": "너구리는 개과 동물 중 드물게 겨울에 활동을 크게 줄이고 겨울잠과 비슷한 휴면에 들어가요.",
+      "funFact": "너구리는 '라쿤'과 생김새가 닮았지만 라쿤은 아메리카너구리과로 전혀 다른 동물이에요."
+    },
+    {
+      "id": "nature-7ba1edd2",
+      "category": "nature",
+      "difficulty": 3,
+      "question": "무리 지어 사냥해 한반도 숲의 최상위 포식자로 꼽히는 족제비과 동물은?",
+      "choices": [
+        "오소리",
+        "족제비",
+        "수달",
+        "노란목도리담비"
+      ],
+      "answerIndex": 3,
+      "explanation": "노란목도리담비는 2~3마리가 함께 사냥해 고라니 새끼나 멧돼지 새끼도 잡을 만큼 강한 포식자예요.",
+      "funFact": "이름처럼 목에 노란 털이 목도리를 두른 것처럼 나 있어요."
+    },
+    {
+      "id": "nature-f67d8120",
+      "category": "nature",
+      "difficulty": 3,
+      "question": "수컷이 나뭇가지로 '정자'를 짓고 색깔 있는 물건으로 꾸며 구애하는 새는?",
+      "choices": [
+        "금계",
+        "베짜기새",
+        "바우어새",
+        "극락조"
+      ],
+      "answerIndex": 2,
+      "explanation": "오스트레일리아와 뉴기니에 사는 바우어새 수컷은 정자를 짓고 꽃, 열매, 플라스틱 조각 등으로 꾸며 암컷을 불러요.",
+      "funFact": "어떤 바우어새는 파란색 물건만 골라 모으는 취향을 보여요."
+    },
+    {
+      "id": "nature-89a82de1",
+      "category": "nature",
+      "difficulty": 3,
+      "question": "2006년 조사 뒤 사실상 멸종됐다고 발표된 중국 양쯔강의 돌고래는?",
+      "choices": [
+        "분홍돌고래",
+        "바이지",
+        "남방큰돌고래",
+        "이라와디돌고래"
+      ],
+      "answerIndex": 1,
+      "explanation": "2006년 양쯔강 조사에서 바이지가 발견되지 않았고, 연구진은 2007년 기능적으로 멸종한 것으로 보인다고 발표했어요.",
+      "funFact": "바이지는 사람 때문에 멸종한 첫 고래류로 여겨져요."
+    },
+    {
+      "id": "nature-78872bb5",
+      "category": "nature",
+      "difficulty": 1,
+      "question": "맑은 날 새벽, 풀잎에 맺히는 작은 물방울은?",
+      "choices": [
+        "서리",
+        "우박",
+        "이슬",
+        "안개"
+      ],
+      "answerIndex": 2,
+      "explanation": "밤사이 차가워진 풀잎 표면에 공기 중 수증기가 물방울로 맺힌 것이 이슬이에요.",
+      "funFact": "바람이 세거나 흐린 밤에는 땅이 덜 식어서 이슬이 잘 맺히지 않아요."
+    },
+    {
+      "id": "nature-096ca869",
+      "category": "nature",
+      "difficulty": 1,
+      "question": "기온이 0℃ 아래인 새벽, 수증기가 얼음 결정으로 풀이나 땅에 달라붙은 것은?",
+      "choices": [
+        "진눈깨비",
+        "이슬",
+        "서리",
+        "우박"
+      ],
+      "answerIndex": 2,
+      "explanation": "수증기가 물을 거치지 않고 바로 얼음 결정이 되어 물체 표면에 붙은 것이 서리예요.",
+      "funFact": "늦봄에 내리는 서리는 갓 핀 꽃과 새싹을 얼려 과수 농가에 큰 피해를 줘요."
+    },
+    {
+      "id": "nature-e2799afc",
+      "category": "nature",
+      "difficulty": 1,
+      "question": "주로 초여름 소나기구름에서 떨어지는 콩알만 한 얼음덩어리는?",
+      "choices": [
+        "진눈깨비",
+        "우박",
+        "싸락눈",
+        "서리"
+      ],
+      "answerIndex": 1,
+      "explanation": "우박은 강한 상승 기류를 타고 구름 속을 오르내리며 얼음층이 겹겹이 쌓여 커진 거예요.",
+      "funFact": "우박을 반으로 자르면 양파처럼 여러 겹의 층이 보이기도 해요."
+    },
+    {
+      "id": "nature-7519eb71",
+      "category": "nature",
+      "difficulty": 1,
+      "question": "우리나라에서 초여름에 오랫동안 비가 이어지는 시기는?",
+      "choices": [
+        "가뭄",
+        "늦더위",
+        "꽃샘추위",
+        "장마"
+      ],
+      "answerIndex": 3,
+      "explanation": "장마는 북쪽의 찬 공기와 남쪽의 덥고 습한 공기가 만나 생긴 전선이 오래 머물며 비를 뿌리는 시기예요.",
+      "funFact": "일본에서는 장마를 '매실이 익을 무렵의 비'라는 뜻으로 '바이우(梅雨)'라고 불러요."
+    },
+    {
+      "id": "nature-cb3fc90c",
+      "category": "nature",
+      "difficulty": 1,
+      "question": "북태평양 서쪽 열대 바다에서 생겨 우리나라에도 찾아오는 강한 열대 저기압은?",
+      "choices": [
+        "태풍",
+        "계절풍",
+        "토네이도",
+        "허리케인"
+      ],
+      "answerIndex": 0,
+      "explanation": "북서태평양에서 발생해 중심 최대 풍속이 초속 17m 이상인 열대 저기압을 태풍이라고 해요.",
+      "funFact": "태풍은 따뜻한 바닷물에서 증발한 수증기를 연료로 삼아, 육지에 오르면 빠르게 약해져요."
+    },
+    {
+      "id": "nature-f4b8894a",
+      "category": "nature",
+      "difficulty": 1,
+      "question": "땅에서 구름까지 깔때기 모양으로 이어지는 매우 강한 회오리바람은?",
+      "choices": [
+        "돌풍",
+        "토네이도",
+        "태풍",
+        "해풍"
+      ],
+      "answerIndex": 1,
+      "explanation": "토네이도는 강한 뇌우 구름 아래에서 생기는 회오리로, 폭은 좁지만 바람이 매우 세요.",
+      "funFact": "미국 중부 평원은 토네이도가 특히 자주 생겨 '토네이도 앨리(골목)'라 불려요."
+    },
+    {
+      "id": "nature-9d02db93",
+      "category": "nature",
+      "difficulty": 1,
+      "question": "비가 내린 양(강수량)을 나타낼 때 주로 쓰는 단위는?",
+      "choices": [
+        "mm",
+        "hPa",
+        "℃",
+        "m/s"
+      ],
+      "answerIndex": 0,
+      "explanation": "강수량은 내린 비가 흘러가지 않고 고였을 때의 깊이를 mm로 나타내요.",
+      "funFact": "눈은 녹여서 물의 깊이로 재는데, 대략 눈 1cm가 녹으면 물 1mm 정도가 돼요."
+    },
+    {
+      "id": "nature-97768dbf",
+      "category": "nature",
+      "difficulty": 1,
+      "question": "오로라를 가장 자주 볼 수 있는 곳은?",
+      "choices": [
+        "적도 부근",
+        "극지방에 가까운 고위도",
+        "중위도 해안",
+        "사막 한가운데"
+      ],
+      "answerIndex": 1,
+      "explanation": "오로라는 지구 자기장을 따라 들어온 입자 때문에 극지방 주변 하늘에서 주로 나타나요.",
+      "funFact": "북반구의 오로라는 '북극광', 남반구의 오로라는 '남극광'이라고도 불러요."
+    },
+    {
+      "id": "nature-78260522",
+      "category": "nature",
+      "difficulty": 1,
+      "question": "일반적인 무지개(1차 무지개)의 가장 바깥쪽 색은?",
+      "choices": [
+        "파란색",
+        "초록색",
+        "빨간색",
+        "보라색"
+      ],
+      "answerIndex": 2,
+      "explanation": "물방울 속에서 빛이 꺾이는 정도가 색마다 달라, 1차 무지개는 바깥쪽이 빨강, 안쪽이 보라예요.",
+      "funFact": "무지개는 항상 태양의 반대편 하늘에 생겨서, 무지개를 보려면 해를 등지고 서야 해요."
+    },
+    {
+      "id": "nature-3bfcca82",
+      "category": "nature",
+      "difficulty": 1,
+      "question": "지면 가까이에 작은 물방울이 떠 있어 앞이 뿌옇게 보이는 현상은?",
+      "choices": [
+        "황사",
+        "우박",
+        "안개",
+        "이슬"
+      ],
+      "answerIndex": 2,
+      "explanation": "지표 근처 공기가 식어 수증기가 작은 물방울로 맺혀 떠 있는 것이 안개예요.",
+      "funFact": "안개와 구름은 성분이 같아서, 땅에 닿아 있으면 안개, 하늘에 떠 있으면 구름이라고 불러요."
+    },
+    {
+      "id": "nature-38b96849",
+      "category": "nature",
+      "difficulty": 1,
+      "question": "공기가 모여 위로 올라가 구름이 잘 생기고 날씨가 흐린 곳은?",
+      "choices": [
+        "저기압",
+        "무풍대",
+        "고기압",
+        "등압선"
+      ],
+      "answerIndex": 0,
+      "explanation": "저기압에서는 공기가 올라가며 식어 구름이 만들어지기 쉬워 흐리거나 비가 와요.",
+      "funFact": "옛날 기압계에는 바늘이 가리키는 곳에 '비', '맑음' 같은 글자가 새겨지기도 했어요."
+    },
+    {
+      "id": "nature-83827ca5",
+      "category": "nature",
+      "difficulty": 2,
+      "question": "인도양과 남태평양에서 생기는 강한 열대 저기압을 부르는 이름은?",
+      "choices": [
+        "토네이도",
+        "사이클론",
+        "허리케인",
+        "태풍"
+      ],
+      "answerIndex": 1,
+      "explanation": "인도양과 남태평양에서 발생하는 열대 저기압은 사이클론이라고 불러요.",
+      "funFact": "벵골만의 사이클론은 바닷물을 크게 밀어 올리는 폭풍 해일로 큰 피해를 주곤 해요."
+    },
+    {
+      "id": "nature-3a4679f4",
+      "category": "nature",
+      "difficulty": 2,
+      "question": "젖은 천을 감은 온도계와 마른 온도계의 온도 차이로 습도를 재는 기구는?",
+      "choices": [
+        "우량계",
+        "기압계",
+        "풍속계",
+        "건습구 습도계"
+      ],
+      "answerIndex": 3,
+      "explanation": "젖은 천에서 물이 증발하며 열을 빼앗아 가는 정도로 공기의 습도를 알아내요.",
+      "funFact": "공기가 건조할수록 물이 빨리 증발해 두 온도계의 온도 차이가 커져요."
+    },
+    {
+      "id": "nature-838ca0c6",
+      "category": "nature",
+      "difficulty": 2,
+      "question": "겨울에 충청·호남 서해안 지역에 폭설이 잦은 주된 이유는?",
+      "choices": [
+        "산이 높아 눈이 안 녹아서",
+        "황사가 눈을 만들어서",
+        "찬 바람이 서해에서 수증기를 얻어서",
+        "남쪽 태풍이 올라와서"
+      ],
+      "answerIndex": 2,
+      "explanation": "차가운 북서풍이 상대적으로 따뜻한 서해 위를 지나며 수증기를 얻어 눈구름이 만들어져요.",
+      "funFact": "같은 원리로 미국 오대호 주변에도 '호수 효과 눈'이라 부르는 폭설이 내려요."
+    },
+    {
+      "id": "nature-8879b460",
+      "category": "nature",
+      "difficulty": 2,
+      "question": "오로라가 생기는 주된 원인은?",
+      "choices": [
+        "화산재가 빛을 내서",
+        "번개 빛이 하늘에 남아서",
+        "태양풍 입자가 대기와 부딪혀서",
+        "달빛이 얼음에 반사돼서"
+      ],
+      "answerIndex": 2,
+      "explanation": "태양에서 날아온 전기를 띤 입자가 대기의 산소·질소와 부딪히며 빛을 내는 것이 오로라예요.",
+      "funFact": "오로라의 초록빛과 붉은빛은 주로 산소, 푸른빛과 보랏빛은 질소가 내는 빛이에요."
+    },
+    {
+      "id": "nature-d4e61157",
+      "category": "nature",
+      "difficulty": 2,
+      "question": "쌍무지개가 떴을 때 바깥쪽 두 번째 무지개의 색 순서는?",
+      "choices": [
+        "빨강만 보임",
+        "안쪽 무지개와 같음",
+        "모두 흰색",
+        "안쪽 무지개와 반대"
+      ],
+      "answerIndex": 3,
+      "explanation": "2차 무지개는 물방울 속에서 빛이 두 번 반사돼 색 순서가 뒤바뀌고 더 흐리게 보여요.",
+      "funFact": "두 무지개 사이의 하늘은 유난히 어둡게 보이는데, 이를 '알렉산더의 어두운 띠'라고 해요."
+    },
+    {
+      "id": "nature-94d5f373",
+      "category": "nature",
+      "difficulty": 2,
+      "question": "소의 트림과 논에서 많이 나오는 온실가스는?",
+      "choices": [
+        "이산화황",
+        "수소",
+        "질소",
+        "메테인"
+      ],
+      "answerIndex": 3,
+      "explanation": "메테인은 이산화탄소보다 양은 적지만, 같은 양일 때 열을 가두는 힘이 훨씬 강한 온실가스예요.",
+      "funFact": "소의 위 속 미생물이 풀을 분해할 때 생긴 메테인은 대부분 방귀가 아니라 트림으로 나와요."
+    },
+    {
+      "id": "nature-b64f31fe",
+      "category": "nature",
+      "difficulty": 3,
+      "question": "바람의 세기를 0부터 12까지 단계로 나눈 기준은?",
+      "choices": [
+        "사피어-심프슨 등급",
+        "리히터 규모",
+        "보퍼트 풍력 계급",
+        "후지타 등급"
+      ],
+      "answerIndex": 2,
+      "explanation": "보퍼트 풍력 계급은 바다 물결이나 나뭇가지가 흔들리는 모습 등으로 바람 세기를 0~12로 나눠요.",
+      "funFact": "영국 해군 장교 프랜시스 보퍼트가 1805년 무렵 배의 돛과 바다 모습을 보고 만들었어요."
+    },
+    {
+      "id": "nature-68d99ba6",
+      "category": "nature",
+      "difficulty": 3,
+      "question": "높이 올라갈수록 기온이 오히려 높아지는 대기 상태는?",
+      "choices": [
+        "푄 현상",
+        "단열 팽창",
+        "열섬",
+        "기온 역전"
+      ],
+      "answerIndex": 3,
+      "explanation": "보통은 위로 갈수록 기온이 낮아지지만, 지면이 크게 식은 밤 등에는 위쪽이 더 따뜻한 층이 생겨요.",
+      "funFact": "기온 역전층이 생기면 공기가 위로 잘 퍼지지 않아 미세먼지와 스모그가 땅 가까이 갇히기 쉬워요."
+    },
+    {
+      "id": "nature-3cbc7954",
+      "category": "nature",
+      "difficulty": 3,
+      "question": "구름 없는 맑은 밤에 땅의 열이 하늘로 빠져나가 기온이 크게 떨어지는 현상은?",
+      "choices": [
+        "대류 가열",
+        "온실 효과",
+        "복사 냉각",
+        "단열 압축"
+      ],
+      "answerIndex": 2,
+      "explanation": "구름이 없으면 땅이 내보내는 열이 우주로 그대로 빠져나가 밤사이 기온이 크게 떨어져요.",
+      "funFact": "그래서 흐린 밤보다 맑은 밤에 서리가 더 잘 내려요."
+    },
+    {
+      "id": "nature-e2498758",
+      "category": "nature",
+      "difficulty": 3,
+      "question": "해나 달 주위에 둥근 빛의 고리(무리)를 만드는 엷은 구름은?",
+      "choices": [
+        "난층운",
+        "적란운",
+        "적운",
+        "권층운"
+      ],
+      "answerIndex": 3,
+      "explanation": "권층운 속 얼음 알갱이를 통과한 빛이 꺾이면서 해나 달 둘레에 둥근 무리가 생겨요.",
+      "funFact": "'달무리가 지면 비가 온다'는 말은 권층운 뒤에 저기압이 다가오는 경우가 많아서 생겼어요."
+    },
+    {
+      "id": "nature-bdf6e992",
+      "category": "nature",
+      "difficulty": 3,
+      "question": "기상 현상 '엘니뇨'는 스페인어로 무슨 뜻일까요?",
+      "choices": [
+        "큰 바람",
+        "남자아이(아기 예수)",
+        "따뜻한 바다",
+        "여자아이"
+      ],
+      "answerIndex": 1,
+      "explanation": "크리스마스 무렵 페루 앞바다 수온이 오르는 현상을 아기 예수에 빗대 '남자아이'라는 뜻의 엘니뇨라 불렀어요.",
+      "funFact": "반대 현상인 라니냐는 '여자아이'라는 뜻이에요."
+    },
+    {
+      "id": "nature-c30cc558",
+      "category": "nature",
+      "difficulty": 3,
+      "question": "24절기 중 서리가 내리기 시작한다는 뜻을 가진 가을 절기는?",
+      "choices": [
+        "상강",
+        "한로",
+        "백로",
+        "입동"
+      ],
+      "answerIndex": 0,
+      "explanation": "상강(霜降)은 '서리가 내린다'는 뜻으로 양력 10월 23일 무렵이에요.",
+      "funFact": "상강 무렵에는 단풍이 절정에 이르고 농가는 가을걷이를 서둘러요."
+    },
+    {
+      "id": "nature-6fb928de",
+      "category": "nature",
+      "difficulty": 3,
+      "question": "공기가 위로 올라가면 구름이 생기는 까닭은?",
+      "choices": [
+        "기압이 낮아져 팽창하며 식어서",
+        "바람이 수증기를 압축해서",
+        "태양에 가까워져 데워져서",
+        "산소가 줄어 무거워져서"
+      ],
+      "answerIndex": 0,
+      "explanation": "올라간 공기는 주변 기압이 낮아 부풀며 식고(단열 팽창), 이슬점 아래로 식으면 구름이 생겨요.",
+      "funFact": "탄산음료 병을 딸 때 입구에 생기는 하얀 김도 기체가 갑자기 팽창하며 식어서 생겨요."
+    },
+    {
+      "id": "nature-7e7ce354",
+      "category": "nature",
+      "difficulty": 3,
+      "question": "마지막 빙기가 절정이던 때는 지금부터 약 몇 년 전일까요?",
+      "choices": [
+        "약 200만 년 전",
+        "약 2만 년 전",
+        "약 20만 년 전",
+        "약 2천 년 전"
+      ],
+      "answerIndex": 1,
+      "explanation": "약 2만 년 전 마지막 빙기 최성기에는 해수면이 지금보다 100m 넘게 낮았어요.",
+      "funFact": "그때는 해수면이 낮아 황해 대부분이 육지였고, 한반도와 중국이 땅으로 이어져 있었어요."
+    },
+    {
+      "id": "nature-5961cd19",
+      "category": "nature",
+      "difficulty": 3,
+      "question": "산을 오를 때 고도가 100m 높아지면 기온은 평균 약 몇 ℃ 떨어질까요?",
+      "choices": [
+        "약 6℃",
+        "약 2℃",
+        "약 0.6℃",
+        "약 0.06℃"
+      ],
+      "answerIndex": 2,
+      "explanation": "대류권에서는 높이 올라갈수록 평균적으로 100m마다 약 0.6℃씩 기온이 낮아져요.",
+      "funFact": "그래서 한라산 정상은 해안보다 기온이 10℃ 이상 낮을 때가 많아요."
+    },
+    {
+      "id": "nature-46f36f79",
+      "category": "nature",
+      "difficulty": 1,
+      "question": "자이언트판다가 하루 대부분 먹는 먹이는?",
+      "choices": [
+        "대나무",
+        "유칼립투스 잎",
+        "꿀",
+        "물고기"
+      ],
+      "answerIndex": 0,
+      "explanation": "자이언트판다는 곰과 동물이지만 먹이의 대부분이 대나무예요. 하루에 10kg 넘게 먹기도 해요.",
+      "funFact": "영양이 적은 대나무를 먹다 보니 판다는 하루 절반 넘게 먹는 데 시간을 써요."
+    },
+    {
+      "id": "nature-8207f637",
+      "category": "nature",
+      "difficulty": 1,
+      "question": "앞발로 땅을 파며 땅속 굴에서 지렁이를 잡아먹는 동물은?",
+      "choices": [
+        "족제비",
+        "다람쥐",
+        "두더지",
+        "고슴도치"
+      ],
+      "answerIndex": 2,
+      "explanation": "두더지는 삽처럼 넓은 앞발로 땅속에 굴을 파고 다니며 지렁이와 곤충 애벌레를 먹어요.",
+      "funFact": "두더지는 눈이 아주 작고 거의 보이지 않지만 코와 수염으로 먹이를 찾아요."
+    },
+    {
+      "id": "nature-0927019d",
+      "category": "nature",
+      "difficulty": 1,
+      "question": "오징어의 다리(팔)는 모두 몇 개일까요?",
+      "choices": [
+        "10개",
+        "6개",
+        "8개",
+        "12개"
+      ],
+      "answerIndex": 0,
+      "explanation": "오징어는 다리 8개와 길게 뻗는 촉완 2개를 합쳐 10개의 다리를 가지고 있어요.",
+      "funFact": "문어는 다리가 8개라 오징어와 개수로 쉽게 구별할 수 있어요."
+    },
+    {
+      "id": "nature-2f90e245",
+      "category": "nature",
+      "difficulty": 1,
+      "question": "사냥감을 향해 내리꽂을 때 가장 빠른 동물로 알려진 새는?",
+      "choices": [
+        "갈매기",
+        "매",
+        "독수리",
+        "제비"
+      ],
+      "answerIndex": 1,
+      "explanation": "매는 먹이를 향해 급강하할 때 시속 300km가 넘는 속도를 내요.",
+      "funFact": "매는 빠르게 내려갈 때 콧구멍 속 작은 돌기가 거센 바람을 막아 숨을 쉴 수 있어요."
+    },
+    {
+      "id": "nature-0eebec28",
+      "category": "nature",
+      "difficulty": 1,
+      "question": "꿀벌이 밀랍으로 짓는 벌집 방 하나의 모양은?",
+      "choices": [
+        "삼각형",
+        "사각형",
+        "원형",
+        "육각형"
+      ],
+      "answerIndex": 3,
+      "explanation": "육각형 방은 빈틈없이 붙일 수 있고 적은 밀랍으로 넓은 공간을 만들 수 있어요.",
+      "funFact": "밀랍은 일벌의 배에 있는 샘에서 비늘 조각처럼 나와요."
+    },
+    {
+      "id": "nature-3e884265",
+      "category": "nature",
+      "difficulty": 1,
+      "question": "몸에서 강한 전기를 내 먹이를 기절시키는 남아메리카 물고기는?",
+      "choices": [
+        "피라냐",
+        "아로와나",
+        "전기뱀장어",
+        "메기"
+      ],
+      "answerIndex": 2,
+      "explanation": "전기뱀장어는 몸의 발전 기관에서 수백 볼트의 전기를 내 사냥하고 몸을 지켜요.",
+      "funFact": "이름과 달리 전기뱀장어는 뱀장어 무리가 아니라 칼고기 무리에 더 가까워요."
+    },
+    {
+      "id": "nature-60803981",
+      "category": "nature",
+      "difficulty": 1,
+      "question": "북극여우의 털 색이 겨울에 바뀌는 모습은?",
+      "choices": [
+        "검은색이 된다",
+        "흰색이 된다",
+        "빨간색이 된다",
+        "털이 모두 빠진다"
+      ],
+      "answerIndex": 1,
+      "explanation": "북극여우는 여름에는 갈색이나 회색 털이었다가 겨울이 되면 눈과 같은 흰 털로 바뀌어 몸을 숨겨요.",
+      "funFact": "북극여우는 발바닥까지 털이 덮여 있어 얼음 위에서도 발이 시리지 않아요."
+    },
+    {
+      "id": "nature-c6151714",
+      "category": "nature",
+      "difficulty": 1,
+      "question": "문어가 천적을 만났을 때 시야를 가리려고 뿜는 것은?",
+      "choices": [
+        "거품",
+        "독침",
+        "전기",
+        "먹물"
+      ],
+      "answerIndex": 3,
+      "explanation": "문어는 먹물을 뿜어 천적의 눈을 가리고 그 틈에 재빨리 도망쳐요.",
+      "funFact": "문어 먹물에는 천적의 후각을 둔하게 하는 성분도 들어 있다고 해요."
+    },
+    {
+      "id": "nature-f3811dfe",
+      "category": "nature",
+      "difficulty": 1,
+      "question": "고양이 수염이 주로 하는 일은?",
+      "choices": [
+        "소리 내기",
+        "주변을 느껴 감지하기",
+        "먹이 씹기 돕기",
+        "체온 내리기"
+      ],
+      "answerIndex": 1,
+      "explanation": "고양이 수염은 아주 예민한 감각 털이라 공기 흐름이나 물체를 느껴 좁은 곳을 지날 수 있는지 알려 줘요.",
+      "funFact": "고양이 수염은 앞발 뒤쪽에도 몇 가닥 나 있어요."
+    },
+    {
+      "id": "nature-1e020078",
+      "category": "nature",
+      "difficulty": 1,
+      "question": "위협을 받으면 엉덩이에서 고약한 냄새의 액체를 뿜는 동물은?",
+      "choices": [
+        "오소리",
+        "라쿤",
+        "너구리",
+        "스컹크"
+      ],
+      "answerIndex": 3,
+      "explanation": "스컹크는 항문 근처 샘에서 지독한 냄새의 액체를 뿜어 천적을 쫓아내요.",
+      "funFact": "스컹크는 액체를 뿜기 전에 발을 구르거나 꼬리를 치켜들어 먼저 경고해요."
+    },
+    {
+      "id": "nature-50abffcb",
+      "category": "nature",
+      "difficulty": 1,
+      "question": "멀리서도 집을 찾아오는 능력 덕분에 편지를 나르던 새는?",
+      "choices": [
+        "까마귀",
+        "앵무새",
+        "참새",
+        "비둘기"
+      ],
+      "answerIndex": 3,
+      "explanation": "비둘기는 귀소 본능이 뛰어나 옛날부터 편지를 나르는 전서구로 쓰였어요.",
+      "funFact": "비둘기는 해의 위치와 지구 자기장을 함께 이용해 방향을 찾는다고 알려져 있어요."
+    },
+    {
+      "id": "nature-0fb3fe2d",
+      "category": "nature",
+      "difficulty": 1,
+      "question": "바다거북이 알을 낳는 곳은?",
+      "choices": [
+        "바닷가 모래밭",
+        "깊은 바닷속",
+        "산호 틈",
+        "얕은 갯바위 웅덩이"
+      ],
+      "answerIndex": 0,
+      "explanation": "바다거북 암컷은 밤에 해변으로 올라와 모래 구덩이를 파고 알을 낳은 뒤 바다로 돌아가요.",
+      "funFact": "알에서 깬 새끼 거북은 밝은 수평선 쪽을 향해 바다로 기어가요."
+    },
+    {
+      "id": "nature-4f3386d6",
+      "category": "nature",
+      "difficulty": 1,
+      "question": "매미 애벌레가 몇 년 동안 지내는 곳은?",
+      "choices": [
+        "나무껍질 속",
+        "꽃 속",
+        "땅속",
+        "물속"
+      ],
+      "answerIndex": 2,
+      "explanation": "매미 애벌레는 땅속에서 나무뿌리 즙을 빨며 여러 해를 보낸 뒤 땅 위로 올라와 날개돋이를 해요.",
+      "funFact": "어른 매미로 사는 기간은 보통 몇 주에 불과해요."
+    },
+    {
+      "id": "nature-66eb4acc",
+      "category": "nature",
+      "difficulty": 1,
+      "question": "상어 무리이면서 세계에서 가장 큰 물고기는?",
+      "choices": [
+        "귀상어",
+        "고래상어",
+        "돌묵상어",
+        "백상아리"
+      ],
+      "answerIndex": 1,
+      "explanation": "고래상어는 몸길이가 10m를 넘기도 하는 가장 큰 어류지만, 플랑크톤과 작은 물고기를 걸러 먹는 순한 상어예요.",
+      "funFact": "고래상어 등의 흰 점무늬는 개체마다 달라 사진으로 개체를 구별해요."
+    },
+    {
+      "id": "nature-a16ff34d",
+      "category": "nature",
+      "difficulty": 1,
+      "question": "전라남도의 섬 이름이 붙은 천연기념물 토종개는?",
+      "choices": [
+        "풍산개",
+        "진돗개",
+        "동경이",
+        "삽살개"
+      ],
+      "answerIndex": 1,
+      "explanation": "진돗개는 전남 진도에서 자란 토종개로, 주인에게 충성스럽고 영리하기로 유명해요.",
+      "funFact": "풍산개는 북한의 함경도 풍산 지역에서 온 토종개예요."
+    },
+    {
+      "id": "nature-c40134fd",
+      "category": "nature",
+      "difficulty": 1,
+      "question": "야생 얼룩말이 사는 대륙은?",
+      "choices": [
+        "아프리카",
+        "오스트레일리아",
+        "유럽",
+        "남아메리카"
+      ],
+      "answerIndex": 0,
+      "explanation": "얼룩말은 아프리카 초원과 산지에 사는 말과 동물이에요.",
+      "funFact": "얼룩말 피부는 사실 검은색이고, 그 위에 흰 털 줄무늬가 나 있어요."
+    },
+    {
+      "id": "nature-1e24067a",
+      "category": "nature",
+      "difficulty": 1,
+      "question": "개미 무리에서 알을 낳는 일을 맡은 개미는?",
+      "choices": [
+        "여왕개미",
+        "수개미",
+        "병정개미",
+        "일개미"
+      ],
+      "answerIndex": 0,
+      "explanation": "개미 무리에서는 여왕개미가 알을 낳고, 일개미는 먹이 모으기와 새끼 돌보기를 해요.",
+      "funFact": "일개미는 모두 암컷이고, 수개미는 짝짓기 때만 나타나요."
+    },
+    {
+      "id": "nature-af38d412",
+      "category": "nature",
+      "difficulty": 1,
+      "question": "뱀이 자라면서 통째로 벗어 버리는 바깥 껍질은?",
+      "choices": [
+        "껍데기",
+        "고치",
+        "비늘판",
+        "허물"
+      ],
+      "answerIndex": 3,
+      "explanation": "뱀은 몸이 자라면 낡은 피부를 허물로 통째로 벗어요.",
+      "funFact": "뱀 허물에는 눈을 덮던 투명한 비늘까지 함께 붙어 나와요."
+    },
+    {
+      "id": "nature-1b00a787",
+      "category": "nature",
+      "difficulty": 1,
+      "question": "올빼미처럼 주로 밤에 활동하는 동물의 성질은?",
+      "choices": [
+        "야행성",
+        "잡식성",
+        "주행성",
+        "정주성"
+      ],
+      "answerIndex": 0,
+      "explanation": "밤에 깨어 먹이를 찾고 낮에 쉬는 성질을 야행성이라고 해요.",
+      "funFact": "올빼미는 눈이 너무 커서 눈알을 굴리지 못해 대신 고개를 크게 돌려요."
+    },
+    {
+      "id": "nature-db8f8e09",
+      "category": "nature",
+      "difficulty": 1,
+      "question": "긴 엄니로 얼음 위에 몸을 끌어올리는 북극 바다 포유류는?",
+      "choices": [
+        "바다사자",
+        "바다코끼리",
+        "물범",
+        "해달"
+      ],
+      "answerIndex": 1,
+      "explanation": "바다코끼리는 긴 송곳니(엄니)를 얼음에 걸어 몸을 끌어올리고, 싸움에도 써요.",
+      "funFact": "바다코끼리는 예민한 수염으로 바닥을 더듬어 조개를 찾아 빨아 먹어요."
+    },
+    {
+      "id": "nature-5a49f01d",
+      "category": "nature",
+      "difficulty": 2,
+      "question": "짝짓기 중이나 뒤에 암컷이 수컷을 잡아먹기도 하는 곤충은?",
+      "choices": [
+        "잠자리",
+        "사마귀",
+        "여치",
+        "메뚜기"
+      ],
+      "answerIndex": 1,
+      "explanation": "사마귀 암컷은 짝짓기 때 수컷을 잡아먹는 경우가 있어요. 늘 그러는 것은 아니에요.",
+      "funFact": "사마귀는 곤충 가운데 드물게 고개를 돌려 뒤쪽을 볼 수 있어요."
+    },
+    {
+      "id": "nature-5c78a496",
+      "category": "nature",
+      "difficulty": 2,
+      "question": "말레이어로 '숲의 사람'이라는 뜻을 가진 유인원은?",
+      "choices": [
+        "고릴라",
+        "침팬지",
+        "긴팔원숭이",
+        "오랑우탄"
+      ],
+      "answerIndex": 3,
+      "explanation": "오랑우탄은 보르네오섬과 수마트라섬에 사는 유인원으로, 이름은 '숲의 사람'이라는 뜻이에요.",
+      "funFact": "오랑우탄은 큰 나뭇잎을 우산처럼 써서 비를 피하기도 해요."
+    },
+    {
+      "id": "nature-38c0fae2",
+      "category": "nature",
+      "difficulty": 2,
+      "question": "사슴과 동물 중 암수 모두 뿔이 나는 동물은?",
+      "choices": [
+        "노루",
+        "말코손바닥사슴",
+        "꽃사슴",
+        "순록"
+      ],
+      "answerIndex": 3,
+      "explanation": "대부분의 사슴은 수컷만 뿔이 있지만 순록은 암컷도 뿔이 나요.",
+      "funFact": "순록 수컷은 겨울에 뿔이 빠지지만 암컷은 봄까지 뿔을 지녀 먹이 다툼에서 유리해요."
+    },
+    {
+      "id": "nature-86e9d35b",
+      "category": "nature",
+      "difficulty": 2,
+      "question": "온몸이 단단한 비늘로 덮인 포유류는?",
+      "choices": [
+        "아르마딜로",
+        "고슴도치",
+        "개미핥기",
+        "천산갑"
+      ],
+      "answerIndex": 3,
+      "explanation": "천산갑은 케라틴으로 된 비늘이 몸을 덮은 포유류로, 위험하면 몸을 둥글게 말아요.",
+      "funFact": "천산갑은 이빨이 없어서 긴 혀로 개미와 흰개미를 핥아 먹어요."
+    },
+    {
+      "id": "nature-76e70ba4",
+      "category": "nature",
+      "difficulty": 2,
+      "question": "아프리카코끼리 무리를 이끄는 우두머리는 주로?",
+      "choices": [
+        "나이 많은 암컷",
+        "어린 새끼",
+        "가장 젊은 수컷",
+        "가장 큰 수컷"
+      ],
+      "answerIndex": 0,
+      "explanation": "코끼리 무리는 경험 많은 늙은 암컷이 이끌며, 물웅덩이 위치 같은 기억으로 무리를 안내해요.",
+      "funFact": "다 자란 수컷 코끼리는 보통 무리를 떠나 혼자 또는 수컷끼리 지내요."
+    },
+    {
+      "id": "nature-a0282680",
+      "category": "nature",
+      "difficulty": 2,
+      "question": "머리 위 낚싯대 같은 돌기로 먹이를 꾀어 잡는 물고기는?",
+      "choices": [
+        "복어",
+        "메기",
+        "아귀",
+        "쏨뱅이"
+      ],
+      "answerIndex": 2,
+      "explanation": "아귀는 등지느러미 가시가 변한 낚싯대 끝을 흔들어 작은 물고기를 유인한 뒤 큰 입으로 삼켜요.",
+      "funFact": "아귀는 자기 몸만 한 먹이도 삼킬 만큼 입과 위가 커요."
+    },
+    {
+      "id": "nature-d2e73d87",
+      "category": "nature",
+      "difficulty": 2,
+      "question": "화려한 색과 피부 독으로 유명한 중남미 개구리는?",
+      "choices": [
+        "독화살개구리",
+        "청개구리",
+        "무당개구리",
+        "황소개구리"
+      ],
+      "answerIndex": 0,
+      "explanation": "독화살개구리는 중남미 열대 우림에 살며, 원주민이 그 독을 화살촉에 묻혀 써서 이름이 붙었어요.",
+      "funFact": "사육장에서 다른 먹이를 먹고 자란 독화살개구리는 독이 거의 없어요."
+    },
+    {
+      "id": "nature-64a35ffd",
+      "category": "nature",
+      "difficulty": 2,
+      "question": "천연기념물로 지정된 한국 토종 민물거북은?",
+      "choices": [
+        "붉은귀거북",
+        "남생이",
+        "장수거북",
+        "자라"
+      ],
+      "answerIndex": 1,
+      "explanation": "남생이는 한국 토종 민물거북으로, 수가 크게 줄어 천연기념물이자 멸종위기 야생생물로 보호받아요.",
+      "funFact": "남생이는 햇볕을 쬐려고 물가 바위나 통나무 위에 올라와 오래 머물러요."
+    },
+    {
+      "id": "nature-7ffe6931",
+      "category": "nature",
+      "difficulty": 2,
+      "question": "'귀신 쫓는 개'라 불린 털 긴 천연기념물 토종개는?",
+      "choices": [
+        "풍산개",
+        "진돗개",
+        "삽살개",
+        "동경이"
+      ],
+      "answerIndex": 2,
+      "explanation": "삽살개는 '삽(쫓다)+살(귀신·액운)'이라는 뜻으로, 경산의 삽살개가 천연기념물이에요.",
+      "funFact": "삽살개는 한때 거의 사라질 뻔했다가 1980년대부터 이어진 복원 노력으로 다시 늘어났어요."
+    },
+    {
+      "id": "nature-047c1c8b",
+      "category": "nature",
+      "difficulty": 2,
+      "question": "주걱 모양 부리를 좌우로 저으며 먹이를 찾는 멸종위기 새는?",
+      "choices": [
+        "두루미",
+        "왜가리",
+        "저어새",
+        "노랑부리백로"
+      ],
+      "answerIndex": 2,
+      "explanation": "저어새는 넓적한 부리를 물속에서 휘저어 먹이를 잡아요. 서해안 무인도에서 번식하는 멸종위기종이에요.",
+      "funFact": "전 세계 저어새의 상당수가 한반도 서해안에서 번식해요."
+    },
+    {
+      "id": "nature-4ced7eb0",
+      "category": "nature",
+      "difficulty": 2,
+      "question": "경남 창녕 우포늪에서 복원 사업이 이뤄진 새는?",
+      "choices": [
+        "따오기",
+        "저어새",
+        "황새",
+        "두루미"
+      ],
+      "answerIndex": 0,
+      "explanation": "한반도에서 사라졌던 따오기는 중국에서 들여온 개체로 창녕 우포늪에서 복원돼 야생에 다시 풀려났어요.",
+      "funFact": "따오기는 번식기가 되면 몸에서 나온 분비물을 깃털에 발라 몸빛이 잿빛으로 변해요."
+    },
+    {
+      "id": "nature-e872ec55",
+      "category": "nature",
+      "difficulty": 2,
+      "question": "'살쾡이'라고도 부르는 한국 토종 야생 고양잇과 동물은?",
+      "choices": [
+        "오소리",
+        "족제비",
+        "삵",
+        "담비"
+      ],
+      "answerIndex": 2,
+      "explanation": "삵은 집고양이와 비슷한 크기의 야생 고양잇과 동물로, 멸종위기 야생생물로 보호받아요.",
+      "funFact": "삵은 헤엄도 잘 쳐서 물가에서 물고기나 개구리를 잡아먹기도 해요."
+    }
+  ]
+}

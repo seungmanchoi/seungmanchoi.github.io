@@ -1,0 +1,153 @@
+{
+  "version": 1,
+  "id": "daily-2027-02-16",
+  "date": "2027-02-16",
+  "questions": [
+    {
+      "id": "economy-04ae4f35",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "우리나라 5원 동전에 새겨진 그림은?",
+      "choices": [
+        "학",
+        "거북선",
+        "무궁화",
+        "첨성대"
+      ],
+      "answerIndex": 1,
+      "explanation": "5원 동전에는 임진왜란 때 활약한 거북선이 새겨져 있어요.",
+      "funFact": "5원 동전도 1원처럼 지금은 일상에서 거의 쓰이지 않아요."
+    },
+    {
+      "id": "culture-9285f95a",
+      "category": "culture",
+      "difficulty": 1,
+      "question": "24절기 가운데 1년 중 밤이 가장 긴 절기는?",
+      "choices": [
+        "춘분",
+        "동지",
+        "추분",
+        "하지"
+      ],
+      "answerIndex": 1,
+      "explanation": "동지는 양력 12월 22일 무렵으로 북반구에서 낮이 가장 짧고 밤이 가장 길어요.",
+      "funFact": "예부터 동지를 '작은 설'이라 부르며 새해가 시작되는 날처럼 여겼어요."
+    },
+    {
+      "id": "history-5a21bbf5",
+      "category": "history",
+      "difficulty": 1,
+      "question": "1896년 고종이 러시아 공사관으로 거처를 옮긴 사건은?",
+      "choices": [
+        "임오군란",
+        "을미사변",
+        "갑신정변",
+        "아관파천"
+      ],
+      "answerIndex": 3,
+      "explanation": "을미사변 뒤 위협을 느낀 고종은 1896년 러시아 공사관으로 옮겨 약 1년간 머물렀어요. 이 기간 열강이 많은 이권을 가져갔어요."
+    },
+    {
+      "id": "life-cb0aa549",
+      "category": "life",
+      "difficulty": 1,
+      "question": "길이 단위 1인치는 약 몇 cm일까요?",
+      "choices": [
+        "약 2.54cm",
+        "약 30cm",
+        "약 1cm",
+        "약 5cm"
+      ],
+      "answerIndex": 0,
+      "explanation": "1인치는 정확히 2.54cm예요. 모니터·TV 화면이나 바퀴 크기를 말할 때 자주 써요."
+    },
+    {
+      "id": "korean-bfe92056",
+      "category": "korean",
+      "difficulty": 2,
+      "question": "사자성어 '형설지공'의 뜻으로 알맞은 것은?",
+      "choices": [
+        "고생하며 부지런히 공부함",
+        "스승의 은혜를 갚음",
+        "형제가 힘을 합침",
+        "눈 속에서 공을 세움"
+      ],
+      "answerIndex": 0,
+      "explanation": "반딧불과 눈빛으로 책을 읽었다는 옛이야기에서, 어려움 속에서도 열심히 공부함을 뜻해요."
+    },
+    {
+      "id": "sports-c5829c47",
+      "category": "sports",
+      "difficulty": 2,
+      "question": "철인 3종 '아이언맨' 대회가 처음 열린 미국 주는?",
+      "choices": [
+        "캘리포니아",
+        "플로리다",
+        "하와이",
+        "텍사스"
+      ],
+      "answerIndex": 2,
+      "explanation": "아이언맨 대회는 1978년 하와이 오아후섬에서 처음 열렸어요. 수영 3.8km, 자전거 180km, 마라톤을 이어서 해요.",
+      "funFact": "첫 대회는 하와이의 수영, 자전거, 마라톤 대회 중 어느 선수가 가장 강한지 따지다 시작됐어요."
+    },
+    {
+      "id": "geography-5b820e4c",
+      "category": "geography",
+      "difficulty": 2,
+      "question": "'경상도'라는 이름은 어느 두 도시 이름에서 따왔을까요?",
+      "choices": [
+        "경산·상주",
+        "경주·성주",
+        "경주·상주",
+        "김천·상주"
+      ],
+      "answerIndex": 2,
+      "explanation": "경상도는 신라의 옛 수도 경주와 큰 고을 상주의 첫 글자를 따서 지었어요.",
+      "funFact": "상주는 예부터 쌀·누에고치·곶감이 많이 나 '삼백(三白)의 고장'이라 불렸어요."
+    },
+    {
+      "id": "economy-edcf7649",
+      "category": "economy",
+      "difficulty": 3,
+      "question": "고려 때 은으로 우리 땅 모양을 본떠 만든 병 모양 화폐는?",
+      "choices": [
+        "당백전",
+        "건원중보",
+        "활구",
+        "저화"
+      ],
+      "answerIndex": 2,
+      "explanation": "활구는 은병이라고도 하며 고려 숙종 때 만들어졌어요. 입구가 넓은 병 모양이라 활구라 불렸어요."
+    },
+    {
+      "id": "life-8d53a9b9",
+      "category": "life",
+      "difficulty": 3,
+      "question": "우유를 데우면 표면에 얇은 막이 생기는 현상의 이름은?",
+      "choices": [
+        "틴들 현상",
+        "라이덴프로스트 현상",
+        "마이야르 반응",
+        "람스덴 현상"
+      ],
+      "answerIndex": 3,
+      "explanation": "우유를 40℃ 넘게 데우면 단백질과 지방이 굳어 표면에 막이 생겨요. 이를 람스덴 현상이라고 해요.",
+      "funFact": "데우는 동안 저어 주면 막이 잘 생기지 않아요."
+    },
+    {
+      "id": "economy-1563768e",
+      "category": "economy",
+      "difficulty": 3,
+      "question": "소득이 줄어도 한번 높아진 소비는 잘 줄지 않는 현상은?",
+      "choices": [
+        "전시 효과",
+        "톱니효과",
+        "기저 효과",
+        "잠금 효과"
+      ],
+      "answerIndex": 1,
+      "explanation": "톱니효과는 소비 수준이 톱니바퀴처럼 거꾸로 잘 돌아가지 않는다는 뜻이에요. 래칫 효과라고도 해요.",
+      "funFact": "미국 경제학자 제임스 듀젠베리가 소비 이론에서 설명했어요."
+    }
+  ]
+}

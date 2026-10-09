@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "id": "daily-2027-02-19",
+  "date": "2027-02-19",
+  "questions": [
+    {
+      "id": "culture-903aa74a",
+      "category": "culture",
+      "difficulty": 1,
+      "question": "판타지 소설 『반지의 제왕』을 쓴 영국 작가는?",
+      "choices": [
+        "J. K. 롤링",
+        "로알드 달",
+        "톨킨",
+        "C. S. 루이스"
+      ],
+      "answerIndex": 2,
+      "explanation": "『반지의 제왕』은 옥스퍼드 대학 교수였던 J. R. R. 톨킨이 쓴 판타지 소설이에요.",
+      "funFact": "톨킨은 작품 속 요정들을 위해 직접 언어까지 만들었어요."
+    },
+    {
+      "id": "geography-9493dc3d",
+      "category": "geography",
+      "difficulty": 1,
+      "question": "1만 개가 넘는 섬으로 이루어진 동남아시아 나라는?",
+      "choices": [
+        "베트남",
+        "말레이시아",
+        "필리핀",
+        "인도네시아"
+      ],
+      "answerIndex": 3,
+      "explanation": "인도네시아는 1만 7천여 개의 섬으로 이루어진 나라예요. 필리핀도 섬나라지만 섬 수는 7천여 개예요."
+    },
+    {
+      "id": "history-2b698db0",
+      "category": "history",
+      "difficulty": 1,
+      "question": "당에서 '토황소격문'을 지어 이름을 떨친 신라 학자는?",
+      "choices": [
+        "김대문",
+        "강수",
+        "설총",
+        "최치원"
+      ],
+      "answerIndex": 3,
+      "explanation": "최치원은 열두 살에 당으로 유학 가 외국인 대상 과거인 빈공과에 합격했어요. 황소의 난 때 쓴 토황소격문으로 문장가로 이름을 떨쳤어요."
+    },
+    {
+      "id": "life-d3ed51bf",
+      "category": "life",
+      "difficulty": 1,
+      "question": "소고기를 날로 양념해 먹는 음식은?",
+      "choices": [
+        "장조림",
+        "육회",
+        "불고기",
+        "수육"
+      ],
+      "answerIndex": 1,
+      "explanation": "육회는 신선한 소고기 살코기를 가늘게 썰어 양념해 날로 먹는 음식이에요. 배와 달걀노른자를 곁들이곤 해요."
+    },
+    {
+      "id": "korean-ebf6a16c",
+      "category": "korean",
+      "difficulty": 2,
+      "question": "'내 마음은 호수요'에 쓰인 표현법은?",
+      "choices": [
+        "직유법",
+        "과장법",
+        "은유법",
+        "의인법"
+      ],
+      "answerIndex": 2,
+      "explanation": "'~처럼' 같은 연결어 없이 'A는 B'처럼 빗대는 것을 은유법이라고 해요.",
+      "funFact": "이 구절은 김동명의 시 「내 마음은」의 첫 구절이에요."
+    },
+    {
+      "id": "economy-fea755ee",
+      "category": "economy",
+      "difficulty": 2,
+      "question": "새 주식을 발행해 투자자에게 팔아 돈을 모으는 것은?",
+      "choices": [
+        "유상증자",
+        "액면분할",
+        "무상증자",
+        "자사주 매입"
+      ],
+      "answerIndex": 0,
+      "explanation": "유상증자는 주식을 돈 받고 새로 팔아 자금을 마련해요. 주식 수가 늘어나 기존 주주 지분이 희석될 수 있어요."
+    },
+    {
+      "id": "space-690ca4db",
+      "category": "space",
+      "difficulty": 2,
+      "question": "적도 상공에서 지구 자전과 같은 빠르기로 돌아 한곳에 멈춘 듯 보이는 위성은?",
+      "choices": [
+        "정지궤도 위성",
+        "극궤도 위성",
+        "태양 동기 위성",
+        "저궤도 위성"
+      ],
+      "answerIndex": 0,
+      "explanation": "정지궤도 위성은 약 3만 6천km 높이에서 하루에 한 바퀴씩 지구를 돌아 지상에서 보면 늘 같은 자리에 있어요. 기상 위성과 방송 위성에 많이 쓰여요.",
+      "funFact": "위성 방송 접시 안테나를 한 방향으로 고정해 둬도 되는 이유가 바로 이 위성 덕분이에요."
+    },
+    {
+      "id": "korean-d227b6f3",
+      "category": "korean",
+      "difficulty": 3,
+      "question": "'껍데기는 가라'로 시작하는 시를 쓴 시인은?",
+      "choices": [
+        "김수영",
+        "고은",
+        "신동엽",
+        "신경림"
+      ],
+      "answerIndex": 2,
+      "explanation": "「껍데기는 가라」는 신동엽이 1967년에 발표한 시예요.",
+      "funFact": "신동엽은 동학 농민 운동을 다룬 장편 서사시 『금강』도 썼어요."
+    },
+    {
+      "id": "economy-a3d351c6",
+      "category": "economy",
+      "difficulty": 3,
+      "question": "금리를 아무리 내려도 투자·소비가 살아나지 않는 상태는?",
+      "choices": [
+        "구축 효과",
+        "유동성 함정",
+        "절약의 역설",
+        "승자의 저주"
+      ],
+      "answerIndex": 1,
+      "explanation": "유동성 함정은 사람들이 돈을 쓰지 않고 쥐고만 있어 통화정책이 효과를 잃는 상황이에요.",
+      "funFact": "케인스가 처음 제시했고, 1990년대 일본 장기 불황의 설명에 자주 쓰였어요."
+    },
+    {
+      "id": "economy-8a76fd94",
+      "category": "economy",
+      "difficulty": 3,
+      "question": "덤핑 수입품에 정상 가격과의 차이만큼 매기는 관세는?",
+      "choices": [
+        "상계관세",
+        "반덤핑관세",
+        "보복관세",
+        "할당관세"
+      ],
+      "answerIndex": 1,
+      "explanation": "반덤핑관세는 수출국이 지나치게 싸게 판 만큼을 관세로 메워 국내 산업 피해를 막아요. 보조금에 맞서는 관세는 상계관세라 해요."
+    }
+  ]
+}

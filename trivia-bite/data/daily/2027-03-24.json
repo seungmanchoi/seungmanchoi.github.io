@@ -1,0 +1,151 @@
+{
+  "version": 1,
+  "id": "daily-2027-03-24",
+  "date": "2027-03-24",
+  "questions": [
+    {
+      "id": "culture-ca83cbf0",
+      "category": "culture",
+      "difficulty": 1,
+      "question": "피아노 소품 '엘리제를 위하여'를 작곡한 사람은?",
+      "choices": [
+        "쇼팽",
+        "모차르트",
+        "베토벤",
+        "리스트"
+      ],
+      "answerIndex": 2,
+      "explanation": "'엘리제를 위하여'는 베토벤의 피아노 소품이에요. 악보는 그가 세상을 떠난 뒤에 발견되어 출판됐어요."
+    },
+    {
+      "id": "history-a67843f2",
+      "category": "history",
+      "difficulty": 1,
+      "question": "1944년 6월 연합군이 프랑스 북부 해안에 상륙한 작전은?",
+      "choices": [
+        "갈리폴리 상륙 작전",
+        "됭케르크 철수 작전",
+        "노르망디 상륙 작전",
+        "인천 상륙 작전"
+      ],
+      "answerIndex": 2,
+      "explanation": "노르망디 상륙 작전은 역사상 최대 규모의 상륙 작전으로 꼽혀요. 이후 연합군은 파리를 되찾고 독일로 진격했어요.",
+      "funFact": "작전 개시일을 뜻하는 'D-데이'라는 말이 이 작전으로 널리 알려졌어요."
+    },
+    {
+      "id": "geography-ec5eb5e6",
+      "category": "geography",
+      "difficulty": 1,
+      "question": "유럽과 아시아를 하나의 대륙으로 합쳐 부르는 이름은?",
+      "choices": [
+        "오세아니아",
+        "아메리카",
+        "아나톨리아",
+        "유라시아"
+      ],
+      "answerIndex": 3,
+      "explanation": "유럽(Europe)과 아시아(Asia)는 땅이 이어져 있어 둘을 합쳐 유라시아라고 불러요.",
+      "funFact": "유라시아는 지구 육지 면적의 약 3분의 1을 차지해요."
+    },
+    {
+      "id": "space-6a5ea96c",
+      "category": "space",
+      "difficulty": 1,
+      "question": "정식 출시 전 일반 사용자에게 미리 공개해 시험하는 버전은?",
+      "choices": [
+        "감마 버전",
+        "델타 버전",
+        "베타 버전",
+        "오메가 버전"
+      ],
+      "answerIndex": 2,
+      "explanation": "베타 버전은 정식 출시 전에 사용자들이 써 보며 오류를 찾도록 공개하는 시험판이에요. 그 전에 내부에서만 시험하는 단계는 알파 버전이라고 해요.",
+      "funFact": "구글의 지메일은 2004년 공개된 뒤 5년 넘게 '베타' 꼬리표를 달고 있었어요."
+    },
+    {
+      "id": "life-279cdb04",
+      "category": "life",
+      "difficulty": 2,
+      "question": "비행기를 탈 때 보조배터리는 어떻게 가져가야 할까요?",
+      "choices": [
+        "화물칸에 따로 맡기기",
+        "전원 켜고 부치기",
+        "부치는 짐에 넣기",
+        "직접 들고 탑승"
+      ],
+      "answerIndex": 3,
+      "explanation": "리튬 배터리는 불이 나면 화물칸에선 끄기 어려워요. 그래서 보조배터리는 위탁 수하물에 넣을 수 없고 기내에만 들고 타요."
+    },
+    {
+      "id": "korean-5de1c82a",
+      "category": "korean",
+      "difficulty": 2,
+      "question": "사자성어 '아전인수'의 뜻으로 알맞은 것은?",
+      "choices": [
+        "남을 위해 희생함",
+        "자기에게만 이롭게 함",
+        "공평하게 나눔",
+        "물을 아껴 씀"
+      ],
+      "answerIndex": 1,
+      "explanation": "제 논에 물 대기라는 뜻으로, 자기에게 이롭게만 생각하거나 행동하는 것을 말해요."
+    },
+    {
+      "id": "economy-f49e21b8",
+      "category": "economy",
+      "difficulty": 2,
+      "question": "불황일수록 저렴한 사치품이 잘 팔리는 현상은?",
+      "choices": [
+        "립스틱 효과",
+        "디드로 효과",
+        "베블런 효과",
+        "스놉 효과"
+      ],
+      "answerIndex": 0,
+      "explanation": "립스틱 효과는 비싼 물건 대신 작은 사치로 만족을 얻으려는 소비 심리예요.",
+      "funFact": "1930년대 대공황 때 립스틱 판매가 늘었다는 데서 이름이 붙었어요."
+    },
+    {
+      "id": "culture-0efec966",
+      "category": "culture",
+      "difficulty": 3,
+      "question": "중산층 가정에 들어온 가정부 이야기를 그린 1960년 영화 '하녀'의 감독은?",
+      "choices": [
+        "김기영",
+        "이만희",
+        "신상옥",
+        "유현목"
+      ],
+      "answerIndex": 0,
+      "explanation": "'하녀'는 김기영 감독의 대표작이에요. 강렬한 연출로 지금도 한국 영화사의 걸작으로 평가받아요."
+    },
+    {
+      "id": "economy-8e441ed1",
+      "category": "economy",
+      "difficulty": 3,
+      "question": "기업 인수 때 순자산 가치보다 더 치른 웃돈을 회계상 부르는 말은?",
+      "choices": [
+        "자본잉여금",
+        "영업권",
+        "특허권",
+        "상표권"
+      ],
+      "answerIndex": 1,
+      "explanation": "영업권은 브랜드, 고객 관계처럼 장부에 안 잡히는 가치에 낸 대가예요. 인수 가격에서 순자산 공정가치를 뺀 금액으로 잡아요."
+    },
+    {
+      "id": "history-b66298b7",
+      "category": "history",
+      "difficulty": 3,
+      "question": "『로마법 대전』 편찬을 명한 비잔티움 황제는?",
+      "choices": [
+        "테오도시우스",
+        "유스티니아누스",
+        "헤라클레이오스",
+        "콘스탄티누스"
+      ],
+      "answerIndex": 1,
+      "explanation": "유스티니아누스 황제는 로마법을 집대성한 『로마법 대전』을 펴내게 했어요. 하기아 소피아 성당을 다시 지은 것으로도 유명해요."
+    }
+  ]
+}

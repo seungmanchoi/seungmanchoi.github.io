@@ -1,0 +1,154 @@
+{
+  "version": 1,
+  "id": "daily-2027-01-12",
+  "date": "2027-01-12",
+  "questions": [
+    {
+      "id": "sports-5762b777",
+      "category": "sports",
+      "difficulty": 1,
+      "question": "1903년 시작된 프랑스 일주 자전거 경주는?",
+      "choices": [
+        "부엘타 아 에스파냐",
+        "지로 디탈리아",
+        "파리-루베",
+        "투르 드 프랑스"
+      ],
+      "answerIndex": 3,
+      "explanation": "투르 드 프랑스는 1903년 한 스포츠 신문의 판매를 늘리려고 시작된 자전거 경주예요. 약 3주 동안 프랑스를 돌아요.",
+      "funFact": "종합 선두 선수가 입는 노란 셔츠는 대회를 만든 신문의 종이 색에서 따왔어요."
+    },
+    {
+      "id": "life-a9d724fa",
+      "category": "life",
+      "difficulty": 1,
+      "question": "국물용 멸치의 머리와 내장을 떼는 주된 이유는?",
+      "choices": [
+        "색을 내려고",
+        "빨리 끓이려고",
+        "쓴맛을 줄이려고",
+        "짠맛을 더하려고"
+      ],
+      "answerIndex": 2,
+      "explanation": "멸치 내장은 쓴맛과 비린 맛을 내서 떼고 쓰면 국물이 깔끔해져요. 마른 팬에 살짝 볶으면 비린내가 더 줄어요.",
+      "funFact": "멸치는 크기에 따라 세멸, 자멸, 소멸, 중멸, 대멸로 나눠요."
+    },
+    {
+      "id": "culture-8fae2928",
+      "category": "culture",
+      "difficulty": 1,
+      "question": "『아기 돼지 삼 형제』에서 늑대가 끝내 무너뜨리지 못한 집은?",
+      "choices": [
+        "짚으로 지은 집",
+        "흙으로 지은 집",
+        "벽돌집",
+        "나무로 지은 집"
+      ],
+      "answerIndex": 2,
+      "explanation": "짚집과 나무집은 늑대 입김에 날아갔지만 막내가 지은 벽돌집은 끄떡없었어요.",
+      "funFact": "이 이야기는 서두르지 말고 성실하게 준비하라는 교훈으로 자주 쓰여요."
+    },
+    {
+      "id": "economy-e5b58f82",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "기업이 자금을 빌리려고 발행하는 채권은?",
+      "choices": [
+        "지방채",
+        "회사채",
+        "국채",
+        "통화안정증권"
+      ],
+      "answerIndex": 1,
+      "explanation": "회사채는 기업이 투자자에게 돈을 빌리며 발행하는 채권이에요. 신용도가 낮을수록 높은 이자를 줘야 해요."
+    },
+    {
+      "id": "history-4fe6365a",
+      "category": "history",
+      "difficulty": 2,
+      "question": "춤추는 사람들 그림과 사냥 그림으로 유명한 고구려 고분은?",
+      "choices": [
+        "무령왕릉",
+        "천마총",
+        "장군총",
+        "무용총"
+      ],
+      "answerIndex": 3,
+      "explanation": "무용총은 중국 지린성 지안에 있는 고구려 굴식 돌방무덤이에요. 벽에 춤추는 사람들과 말 타고 사냥하는 수렵도가 그려져 있어요."
+    },
+    {
+      "id": "korean-4ca07226",
+      "category": "korean",
+      "difficulty": 2,
+      "question": "시에서 몇 개의 행이 모여 이룬 덩어리를 무엇이라 할까요?",
+      "choices": [
+        "구",
+        "연",
+        "장",
+        "편"
+      ],
+      "answerIndex": 1,
+      "explanation": "시의 한 줄은 '행', 행이 모여 한 덩어리를 이룬 것은 '연'이라고 해요.",
+      "funFact": "연과 연 사이는 보통 한 줄을 비워 구분해요."
+    },
+    {
+      "id": "space-6211c379",
+      "category": "space",
+      "difficulty": 2,
+      "question": "한국 발사체 누리호는 모두 몇 단으로 이뤄져 있을까요?",
+      "choices": [
+        "4단",
+        "1단",
+        "2단",
+        "3단"
+      ],
+      "answerIndex": 3,
+      "explanation": "누리호는 3단형 발사체예요. 1단과 2단은 75톤급 엔진, 3단은 7톤급 엔진을 써요.",
+      "funFact": "누리호 1단은 75톤급 엔진 4개를 한데 묶은 '클러스터링' 방식이에요."
+    },
+    {
+      "id": "geography-278b7b2b",
+      "category": "geography",
+      "difficulty": 3,
+      "question": "그리스에 속한 섬 가운데 가장 큰 섬은?",
+      "choices": [
+        "로도스섬",
+        "코르푸섬",
+        "크레타섬",
+        "산토리니섬"
+      ],
+      "answerIndex": 2,
+      "explanation": "크레타섬은 그리스에서 가장 큰 섬으로, 지중해 동부에 있어요.",
+      "funFact": "크레타섬은 유럽 최초의 문명으로 꼽히는 미노스 문명의 무대예요."
+    },
+    {
+      "id": "science-f7ed56ae",
+      "category": "science",
+      "difficulty": 3,
+      "question": "바다에서 깊이에 따라 수온이 급격히 낮아지는 층은?",
+      "choices": [
+        "수온 약층",
+        "혼합층",
+        "대류권",
+        "심해층"
+      ],
+      "answerIndex": 0,
+      "explanation": "바다는 바람에 섞여 수온이 고른 혼합층, 수온이 급히 떨어지는 수온 약층, 차가운 심해층으로 나뉘어요."
+    },
+    {
+      "id": "nature-4b49a200",
+      "category": "nature",
+      "difficulty": 3,
+      "question": "등지느러미가 없고 웃는 얼굴로 유명한 우리 서해·남해의 소형 고래는?",
+      "choices": [
+        "상괭이",
+        "참돌고래",
+        "남방큰돌고래",
+        "낫돌고래"
+      ],
+      "answerIndex": 0,
+      "explanation": "상괭이는 등지느러미 대신 낮은 돌기만 있고, 입 모양이 웃는 얼굴처럼 보여 '웃는 돌고래'라 불려요.",
+      "funFact": "상괭이는 그물에 걸려 죽는 일이 많아 해양보호생물로 지정돼 있어요."
+    }
+  ]
+}

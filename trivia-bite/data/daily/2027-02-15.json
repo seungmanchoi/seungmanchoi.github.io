@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "id": "daily-2027-02-15",
+  "date": "2027-02-15",
+  "questions": [
+    {
+      "id": "economy-197cc3a0",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "법을 어기고 소득을 숨겨 세금을 안 내는 것은?",
+      "choices": [
+        "감세",
+        "탈세",
+        "면세",
+        "절세"
+      ],
+      "answerIndex": 1,
+      "explanation": "탈세는 불법으로 세금을 피하는 거예요. 법이 허용하는 공제를 활용해 세금을 줄이는 것은 절세라고 해요."
+    },
+    {
+      "id": "science-faf74537",
+      "category": "science",
+      "difficulty": 1,
+      "question": "떨어지는 사과 일화로 유명한, 만유인력 법칙을 세운 과학자는?",
+      "choices": [
+        "알베르트 아인슈타인",
+        "요하네스 케플러",
+        "갈릴레오 갈릴레이",
+        "아이작 뉴턴"
+      ],
+      "answerIndex": 3,
+      "explanation": "뉴턴은 모든 물체가 서로 끌어당긴다는 만유인력 법칙을 1687년 『프린키피아』에 발표했어요.",
+      "funFact": "뉴턴의 고향집 사과나무에서 접붙인 나무가 세계 여러 곳에 심겨 있어요."
+    },
+    {
+      "id": "sports-cc47d40b",
+      "category": "sports",
+      "difficulty": 1,
+      "question": "야구장 내야에 놓인 베이스는 홈플레이트 포함 몇 개?",
+      "choices": [
+        "5개",
+        "6개",
+        "3개",
+        "4개"
+      ],
+      "answerIndex": 3,
+      "explanation": "야구장 내야에는 1루, 2루, 3루와 홈플레이트까지 네 개의 베이스가 있어요.",
+      "funFact": "네 베이스를 이은 모양이 마름모라서 내야를 '다이아몬드'라고 불러요."
+    },
+    {
+      "id": "korean-e605ae37",
+      "category": "korean",
+      "difficulty": 1,
+      "question": "속담 '말 한마디에 ○ 냥 빚 갚는다'의 빈칸에 들어갈 말은?",
+      "choices": [
+        "열",
+        "만",
+        "백",
+        "천"
+      ],
+      "answerIndex": 3,
+      "explanation": "말만 잘하면 어려운 일도 해결할 수 있다는 뜻이에요. 말의 힘을 강조하는 속담이에요."
+    },
+    {
+      "id": "life-710c8b99",
+      "category": "life",
+      "difficulty": 2,
+      "question": "콧물약을 먹으면 졸음이 오는 주된 원인 성분은?",
+      "choices": [
+        "항히스타민제",
+        "철분제",
+        "비타민 C",
+        "카페인"
+      ],
+      "answerIndex": 0,
+      "explanation": "콧물과 재채기를 줄이는 항히스타민제는 뇌에도 작용해 졸음을 부르기 쉬워요. 약을 먹고 운전할 때 조심해야 해요.",
+      "funFact": "졸음이 덜한 2세대 항히스타민제도 나와 있어요."
+    },
+    {
+      "id": "geography-484a9188",
+      "category": "geography",
+      "difficulty": 2,
+      "question": "여름은 덥고 건조하며 겨울에 비가 내려 올리브 재배에 알맞은 기후는?",
+      "choices": [
+        "지중해성 기후",
+        "온대 계절풍 기후",
+        "툰드라 기후",
+        "열대 우림 기후"
+      ],
+      "answerIndex": 0,
+      "explanation": "지중해성 기후는 여름에 건조하고 겨울에 비가 와서 올리브·포도 같은 작물이 잘 자라요.",
+      "funFact": "미국 캘리포니아와 칠레 중부도 지중해성 기후예요."
+    },
+    {
+      "id": "culture-38ba49f2",
+      "category": "culture",
+      "difficulty": 2,
+      "question": "1917년 매일신보에 연재된 근대 장편소설 『무정』의 작가는?",
+      "choices": [
+        "최남선",
+        "김동인",
+        "이광수",
+        "염상섭"
+      ],
+      "answerIndex": 2,
+      "explanation": "『무정』은 이광수가 1917년 연재한 장편소설이에요. 한국 근대 장편소설의 출발점으로 평가받아요."
+    },
+    {
+      "id": "history-3389f821",
+      "category": "history",
+      "difficulty": 3,
+      "question": "1862년 진주에서 시작돼 삼남 지방으로 번진 농민 봉기는?",
+      "choices": [
+        "임술 농민 봉기",
+        "동학 농민 운동",
+        "이괄의 난",
+        "홍경래의 난"
+      ],
+      "answerIndex": 0,
+      "explanation": "삼정의 문란과 관리들의 수탈에 맞서 농민들이 들고일어났어요. 정부는 삼정이정청을 두어 수습하려 했어요.",
+      "funFact": "1862년이 임술년이어서 '임술 농민 봉기'라는 이름이 붙었어요."
+    },
+    {
+      "id": "economy-75ca9581",
+      "category": "economy",
+      "difficulty": 3,
+      "question": "정해진 날에 정해진 값으로 살 수 있는 권리는?",
+      "choices": [
+        "풋옵션",
+        "콜옵션",
+        "선물",
+        "스왑"
+      ],
+      "answerIndex": 1,
+      "explanation": "콜옵션은 사는 권리라 기초자산 값이 오를수록 가치가 커져요. 권리라서 불리하면 행사하지 않아도 돼요."
+    },
+    {
+      "id": "life-0ce445e3",
+      "category": "life",
+      "difficulty": 3,
+      "question": "손발에 나는 사마귀의 원인은?",
+      "choices": [
+        "진드기",
+        "세균",
+        "바이러스",
+        "곰팡이"
+      ],
+      "answerIndex": 2,
+      "explanation": "피부 사마귀는 사람유두종바이러스(HPV) 감염으로 생겨요. 다른 부위나 다른 사람에게 옮을 수 있어요."
+    }
+  ]
+}

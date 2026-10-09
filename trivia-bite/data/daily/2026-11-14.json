@@ -4,34 +4,6 @@
   "date": "2026-11-14",
   "questions": [
     {
-      "id": "history-19bb0cbe",
-      "category": "history",
-      "difficulty": 1,
-      "question": "1392년 조선을 세우고 초대 왕이 된 인물은?",
-      "choices": [
-        "왕건",
-        "정도전",
-        "이성계",
-        "이방원"
-      ],
-      "answerIndex": 2,
-      "explanation": "이성계는 고려 말 위화도 회군으로 권력을 잡았어요. 1392년 조선을 세우고 초대 왕이 되었어요."
-    },
-    {
-      "id": "geography-f7f111e4",
-      "category": "geography",
-      "difficulty": 1,
-      "question": "세계에서 가장 넓은 바다(대양)는 무엇일까요?",
-      "choices": [
-        "태평양",
-        "인도양",
-        "대서양",
-        "북극해"
-      ],
-      "answerIndex": 0,
-      "explanation": "태평양은 전 세계 바다 면적의 약 절반을 차지하는 가장 넓은 대양이에요. 대서양과 인도양이 그다음으로 커요."
-    },
-    {
       "id": "economy-b0154e54",
       "category": "economy",
       "difficulty": 1,
@@ -58,6 +30,36 @@
       ],
       "answerIndex": 0,
       "explanation": "119는 화재, 구조, 구급 신고 번호예요. 112는 경찰 신고 번호예요."
+    },
+    {
+      "id": "sports-99243df2",
+      "category": "sports",
+      "difficulty": 1,
+      "question": "1891년 복숭아 바구니를 골대로 써서 시작된 구기 종목은?",
+      "choices": [
+        "농구",
+        "배구",
+        "핸드볼",
+        "넷볼"
+      ],
+      "answerIndex": 0,
+      "explanation": "캐나다 출신 체육 교사 제임스 네이스미스가 1891년 미국 YMCA에서 겨울 실내 운동으로 농구를 만들었어요.",
+      "funFact": "초기에는 골이 들어갈 때마다 사다리를 타고 올라가 공을 꺼내야 했어요."
+    },
+    {
+      "id": "space-c7097b23",
+      "category": "space",
+      "difficulty": 1,
+      "question": "돌아가는 원판 없이 반도체 메모리에 데이터를 저장하는 장치는?",
+      "choices": [
+        "CD-ROM",
+        "SSD",
+        "HDD",
+        "플로피디스크"
+      ],
+      "answerIndex": 1,
+      "explanation": "SSD는 플래시 메모리에 데이터를 저장해서 하드디스크(HDD)보다 훨씬 빠르고 소음이 없어요.",
+      "funFact": "SSD는 움직이는 부품이 없어 떨어뜨려도 하드디스크보다 충격에 강한 편이에요."
     },
     {
       "id": "science-cd0db43b",
@@ -116,20 +118,6 @@
       "explanation": "미켈란젤로는 바티칸의 시스티나 성당 천장에 '천지창조'를 그렸어요. 이 성당은 교황을 뽑는 선거가 열리는 곳으로도 유명해요."
     },
     {
-      "id": "history-5fe8ccf5",
-      "category": "history",
-      "difficulty": 3,
-      "question": "세종 때 우리 풍토에 맞는 농법을 담아 편찬한 농서는?",
-      "choices": [
-        "농가집성",
-        "산림경제",
-        "임원경제지",
-        "농사직설"
-      ],
-      "answerIndex": 3,
-      "explanation": "농사직설은 1429년 세종 때 정초 등이 편찬한 농서예요. 각 지방 농부의 경험을 모아 우리 풍토에 맞는 농법을 정리했어요."
-    },
-    {
       "id": "science-89e9d935",
       "category": "science",
       "difficulty": 3,
@@ -142,6 +130,21 @@
       ],
       "answerIndex": 0,
       "explanation": "DNA의 염기는 아데닌, 구아닌, 사이토신, 티민 네 가지예요. 우라실은 티민 대신 RNA에 들어 있어요."
+    },
+    {
+      "id": "nature-ef1f6408",
+      "category": "nature",
+      "difficulty": 3,
+      "question": "제주 해안의 육각형 돌기둥 절벽(주상절리)이 생긴 원리는?",
+      "choices": [
+        "빙하가 바위를 잘라서",
+        "지진으로 땅이 쪼개져서",
+        "용암이 식으며 수축해 갈라져서",
+        "파도가 돌을 육각형으로 깎아서"
+      ],
+      "answerIndex": 2,
+      "explanation": "두꺼운 용암이 천천히 식으며 부피가 줄어들 때 규칙적인 틈이 생겨 기둥 모양으로 갈라져요.",
+      "funFact": "북아일랜드의 '자이언츠 코즈웨이'도 같은 원리로 생긴 주상절리예요."
     }
   ]
 }

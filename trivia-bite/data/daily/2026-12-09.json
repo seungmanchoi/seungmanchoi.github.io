@@ -4,50 +4,6 @@
   "date": "2026-12-09",
   "questions": [
     {
-      "id": "history-70e8cad0",
-      "category": "history",
-      "difficulty": 1,
-      "question": "조선이 한양에 도읍을 정하고 가장 먼저 지은 궁궐은?",
-      "choices": [
-        "덕수궁",
-        "경복궁",
-        "창경궁",
-        "창덕궁"
-      ],
-      "answerIndex": 1,
-      "explanation": "경복궁은 1395년 태조 때 완성된 조선의 법궁이에요. 창덕궁은 1405년 태종 때 이궁으로 지었어요.",
-      "funFact": "경복궁이라는 이름은 정도전이 '큰 복을 누리라'는 뜻으로 지었어요."
-    },
-    {
-      "id": "science-15cd3791",
-      "category": "science",
-      "difficulty": 1,
-      "question": "원소 가운데 가장 가볍고 우주에 가장 많은 것은?",
-      "choices": [
-        "수소",
-        "산소",
-        "헬륨",
-        "탄소"
-      ],
-      "answerIndex": 0,
-      "explanation": "수소는 원자번호 1번으로 가장 가벼운 원소예요. 우주 질량의 대부분을 차지해요.",
-      "funFact": "태양은 수소가 헬륨으로 융합하면서 빛과 열을 내요."
-    },
-    {
-      "id": "geography-acfb3a00",
-      "category": "geography",
-      "difficulty": 1,
-      "question": "이탈리아 로마 안에 있는, 세계에서 가장 작은 나라는?",
-      "choices": [
-        "산마리노",
-        "모나코",
-        "바티칸 시국",
-        "리히텐슈타인"
-      ],
-      "answerIndex": 2,
-      "explanation": "바티칸 시국은 로마 시내에 둘러싸인 독립국이에요. 면적이 약 0.44㎢로 세계에서 가장 작아요."
-    },
-    {
       "id": "economy-835dec62",
       "category": "economy",
       "difficulty": 1,
@@ -60,6 +16,50 @@
       ],
       "answerIndex": 1,
       "explanation": "관세는 수입품이 국경을 넘을 때 내는 세금이에요. 국내 산업을 보호하거나 나라 수입을 늘리려고 매겨요."
+    },
+    {
+      "id": "geography-95d0b2e5",
+      "category": "geography",
+      "difficulty": 1,
+      "question": "노르웨이의 수도는 어디일까요?",
+      "choices": [
+        "베르겐",
+        "헬싱키",
+        "스톡홀름",
+        "오슬로"
+      ],
+      "answerIndex": 3,
+      "explanation": "노르웨이의 수도는 오슬로예요. 스톡홀름은 스웨덴, 헬싱키는 핀란드의 수도예요."
+    },
+    {
+      "id": "sports-00260cbe",
+      "category": "sports",
+      "difficulty": 1,
+      "question": "표준 육상 트랙의 1레인 한 바퀴 거리는?",
+      "choices": [
+        "300m",
+        "200m",
+        "400m",
+        "500m"
+      ],
+      "answerIndex": 2,
+      "explanation": "표준 육상 트랙은 가장 안쪽 1레인 기준 한 바퀴가 400m예요.",
+      "funFact": "바깥 레인일수록 한 바퀴가 길어서 400m 경기는 바깥 레인 선수가 앞에서 출발해요."
+    },
+    {
+      "id": "space-a0257fa9",
+      "category": "space",
+      "difficulty": 1,
+      "question": "인공위성이 햇빛으로 전기를 얻으려고 날개처럼 펼치는 장치는?",
+      "choices": [
+        "태양 전지판",
+        "안테나",
+        "방열판",
+        "추진기"
+      ],
+      "answerIndex": 0,
+      "explanation": "태양 전지판은 햇빛을 받아 전기를 만드는 장치예요. 대부분의 인공위성과 우주 정거장이 이것으로 전기를 얻어요.",
+      "funFact": "ISS는 태양 전지판까지 합치면 전체 크기가 축구장만 해요."
     },
     {
       "id": "korean-b147d854",
@@ -92,18 +92,19 @@
       "funFact": "파상풍은 사람에서 사람으로 옮지 않는 감염병이에요."
     },
     {
-      "id": "history-5e20dfc0",
-      "category": "history",
+      "id": "nature-af757af4",
+      "category": "nature",
       "difficulty": 2,
-      "question": "세종 때 만든 솥 모양의 해시계 이름은?",
+      "question": "평야를 흐르는 강이 뱀처럼 구불구불 휘어 흐르는 것을 무엇이라 할까요?",
       "choices": [
-        "혼천의",
-        "자격루",
-        "측우기",
-        "앙부일구"
+        "폭포",
+        "곡류(사행천)",
+        "삼각주",
+        "급류"
       ],
-      "answerIndex": 3,
-      "explanation": "앙부일구는 오목한 솥 모양 면에 시각선을 그은 해시계예요. '하늘을 우러러보는 가마솥'이라는 뜻이고, 자격루는 물시계예요."
+      "answerIndex": 1,
+      "explanation": "경사가 완만한 곳에서 강은 바깥쪽을 깎고 안쪽에 퇴적하며 점점 크게 휘어 흘러요.",
+      "funFact": "곡류하는 강은 해마다 바깥쪽은 깎이고 안쪽에는 모래가 쌓이며 조금씩 모양이 바뀌어요."
     },
     {
       "id": "culture-e15d9229",

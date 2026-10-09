@@ -4,50 +4,6 @@
   "date": "2026-12-16",
   "questions": [
     {
-      "id": "history-e5212753",
-      "category": "history",
-      "difficulty": 1,
-      "question": "고조선을 세웠다고 전해지는 건국 시조는?",
-      "choices": [
-        "온조",
-        "단군왕검",
-        "박혁거세",
-        "김수로"
-      ],
-      "answerIndex": 1,
-      "explanation": "단군왕검은 『삼국유사』 등에 기록된 고조선의 건국 시조예요. 기원전 2333년에 나라를 세웠다고 전해져요.",
-      "funFact": "개천절인 10월 3일은 단군의 건국을 기념하는 날이에요."
-    },
-    {
-      "id": "economy-8f46f9bf",
-      "category": "economy",
-      "difficulty": 1,
-      "question": "정부가 한 해 동안 쓸 돈과 걷을 돈을 미리 짠 계획은?",
-      "choices": [
-        "예산",
-        "무역수지",
-        "감가상각",
-        "결산"
-      ],
-      "answerIndex": 0,
-      "explanation": "예산은 정부가 한 해 동안 거둘 수입과 쓸 지출을 미리 계획한 거예요. 결산은 한 해가 끝난 뒤 실제 쓴 내역을 정리하는 일이에요."
-    },
-    {
-      "id": "life-657afc87",
-      "category": "life",
-      "difficulty": 1,
-      "question": "야외에서 번개가 칠 때 가장 안전한 곳은?",
-      "choices": [
-        "큰 나무 아래",
-        "물가나 갯벌",
-        "탁 트인 들판",
-        "튼튼한 건물 안"
-      ],
-      "answerIndex": 3,
-      "explanation": "번개는 높고 뾰족한 곳이나 탁 트인 곳, 물가에 떨어지기 쉬워요. 튼튼한 건물 안으로 피하는 게 가장 안전해요.",
-      "funFact": "지붕이 단단한 자동차 안도 비교적 안전해요."
-    },
-    {
       "id": "culture-6d87d98e",
       "category": "culture",
       "difficulty": 1,
@@ -61,6 +17,49 @@
       "answerIndex": 1,
       "explanation": "FIFA 월드컵은 4년마다 열리는 세계 최대 규모의 축구 대회예요. 1930년 우루과이에서 첫 대회가 열렸어요.",
       "funFact": "제2차 세계대전 때문에 1942년과 1946년 대회는 열리지 못했어요."
+    },
+    {
+      "id": "korean-694bc78a",
+      "category": "korean",
+      "difficulty": 1,
+      "question": "어른이 되어 뒤늦게 어떤 일을 시작한 사람을 뜻하는 말은?",
+      "choices": [
+        "늦깎이",
+        "늦둥이",
+        "늦바람",
+        "늦잠꾸러기"
+      ],
+      "answerIndex": 0,
+      "explanation": "원래 나이 들어 출가한 승려를 이르던 말로, 나이 들어 어떤 일을 시작한 사람을 뜻해요.",
+      "funFact": "'늦둥이'는 나이 들어 낳은 자식이에요."
+    },
+    {
+      "id": "geography-a430c888",
+      "category": "geography",
+      "difficulty": 1,
+      "question": "태극기 네 모서리에 그려진 검은 괘 네 가지를 묶어 부르는 말은?",
+      "choices": [
+        "천지일월",
+        "건곤감리",
+        "춘하추동",
+        "동서남북"
+      ],
+      "answerIndex": 1,
+      "explanation": "태극기 네 모서리에는 건·곤·감·리 4괘가 있어요. 각각 하늘, 땅, 물, 불을 뜻해요."
+    },
+    {
+      "id": "economy-b60b0635",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "실적이 좋고 재무가 탄탄한 대형 우량주를 부르는 말은?",
+      "choices": [
+        "테마주",
+        "블루칩",
+        "동전주",
+        "옐로칩"
+      ],
+      "answerIndex": 1,
+      "explanation": "블루칩은 오랫동안 안정적인 실적을 낸 대표 우량주예요. 이름은 포커 게임에서 가장 비싼 파란 칩에서 왔어요."
     },
     {
       "id": "history-26a7c35a",
@@ -77,21 +76,6 @@
       "explanation": "프랑스 혁명은 1789년 7월 14일 바스티유 감옥 습격을 계기로 크게 번졌어요. 이후 인권 선언이 발표됐어요."
     },
     {
-      "id": "economy-22b996ef",
-      "category": "economy",
-      "difficulty": 2,
-      "question": "소득 분배의 불평등 정도를 0과 1 사이 수로 나타낸 지표는?",
-      "choices": [
-        "소비자물가지수",
-        "경제성장률",
-        "엥겔계수",
-        "지니계수"
-      ],
-      "answerIndex": 3,
-      "explanation": "지니계수는 0에 가까울수록 소득이 고르게 나뉘고, 1에 가까울수록 불평등하다는 뜻이에요.",
-      "funFact": "이탈리아 통계학자 코라도 지니가 제안한 지표예요."
-    },
-    {
       "id": "life-8c10ee04",
       "category": "life",
       "difficulty": 2,
@@ -104,6 +88,21 @@
       ],
       "answerIndex": 0,
       "explanation": "냉장실에서 천천히 녹이면 세균이 불어나는 것을 막을 수 있어요. 실온이나 뜨거운 물에서는 겉부터 녹아 세균이 빨리 늘어요."
+    },
+    {
+      "id": "sports-e80e3a1c",
+      "category": "sports",
+      "difficulty": 2,
+      "question": "육상 경보에서 꼭 지켜야 하는 규칙은?",
+      "choices": [
+        "무릎을 계속 굽혀야 한다",
+        "두 발이 동시에 떠야 한다",
+        "한 발은 늘 땅에 닿아 있어야 한다",
+        "팔을 흔들면 안 된다"
+      ],
+      "answerIndex": 2,
+      "explanation": "경보는 두 발이 동시에 땅에서 떨어지면 안 되고, 앞발이 땅에 닿을 때 무릎을 곧게 펴야 해요.",
+      "funFact": "심판이 눈으로 직접 보고 판정해서, 경고가 쌓이면 레이스 도중 실격되기도 해요."
     },
     {
       "id": "science-a29856b0",
@@ -120,25 +119,10 @@
       "explanation": "전사는 DNA의 염기 서열을 바탕으로 RNA를 만드는 과정이에요. 이후 RNA의 정보로 단백질을 만드는 과정은 번역이라고 해요."
     },
     {
-      "id": "geography-c8b07ab1",
-      "category": "geography",
-      "difficulty": 3,
-      "question": "아프리카 최고봉 킬리만자로가 있는 나라는?",
-      "choices": [
-        "우간다",
-        "에티오피아",
-        "탄자니아",
-        "케냐"
-      ],
-      "answerIndex": 2,
-      "explanation": "킬리만자로는 탄자니아 북동부에 있는 산으로, 해발 약 5,895m예요. 아프리카에서 가장 높은 산이에요.",
-      "funFact": "케냐 국경과 가까워 케냐 쪽에서도 멀리 보여요."
-    },
-    {
       "id": "history-e178a39f",
       "category": "history",
       "difficulty": 3,
-      "question": "1215년 마그나 카르타에 서명한 영국 왕은?",
+      "question": "1215년 마그나 카르타를 승인한 영국 왕은?",
       "choices": [
         "존 왕",
         "윌리엄 1세",
@@ -146,7 +130,22 @@
         "헨리 8세"
       ],
       "answerIndex": 0,
-      "explanation": "귀족들의 압박으로 존 왕이 마그나 카르타에 서명했어요. 왕의 권한을 법으로 제한한 문서로, 영국 입헌주의의 출발점으로 꼽혀요."
+      "explanation": "귀족들의 압박으로 존 왕이 마그나 카르타를 왕의 인장으로 봉인해 승인했어요. 왕의 권한을 법으로 제한한 문서로, 영국 입헌주의의 출발점으로 꼽혀요."
+    },
+    {
+      "id": "nature-6434f7ec",
+      "category": "nature",
+      "difficulty": 3,
+      "question": "자외선을 비추면 몸이 청록색으로 빛나는 절지동물은?",
+      "choices": [
+        "가재",
+        "지네",
+        "거미",
+        "전갈"
+      ],
+      "answerIndex": 3,
+      "explanation": "전갈의 겉껍질에는 자외선을 받으면 형광을 내는 물질이 있어 밤에 자외선 등으로 찾을 수 있어요.",
+      "funFact": "화석이 된 전갈 껍질에서도 형광이 나타나는 경우가 있어요."
     }
   ]
 }

@@ -4,35 +4,6 @@
   "date": "2026-12-04",
   "questions": [
     {
-      "id": "history-efdd9f0f",
-      "category": "history",
-      "difficulty": 1,
-      "question": "고려 시대를 대표하는 푸른빛 도자기는?",
-      "choices": [
-        "고려청자",
-        "가야토기",
-        "빗살무늬토기",
-        "조선백자"
-      ],
-      "answerIndex": 0,
-      "explanation": "고려청자는 푸른 옥빛(비색)이 나는 도자기예요. 표면을 파고 흙을 채워 무늬를 넣는 상감 기법으로 유명해요.",
-      "funFact": "송나라 사신 서긍도 고려청자의 비색을 칭찬하는 기록을 남겼어요."
-    },
-    {
-      "id": "economy-50a15239",
-      "category": "economy",
-      "difficulty": 1,
-      "question": "물건을 살 때 가격에 포함해 내는 세금은?",
-      "choices": [
-        "상속세",
-        "소득세",
-        "부가가치세",
-        "재산세"
-      ],
-      "answerIndex": 2,
-      "explanation": "부가가치세는 상품을 사고팔 때 가격에 포함돼 소비자가 내는 세금이에요. 영수증에 '부가세'로 표시되는 경우가 많아요."
-    },
-    {
       "id": "life-c731d696",
       "category": "life",
       "difficulty": 1,
@@ -61,6 +32,36 @@
       "explanation": "표준 피아노는 흰 건반 52개와 검은 건반 36개를 합쳐 모두 88개예요. 음역이 넓어서 대부분의 곡을 연주할 수 있어요."
     },
     {
+      "id": "space-03d7f592",
+      "category": "space",
+      "difficulty": 1,
+      "question": "현실 화면 위에 가상 이미지를 겹쳐 보여 주는 기술은?",
+      "choices": [
+        "인공지능(AI)",
+        "사물인터넷(IoT)",
+        "증강현실(AR)",
+        "가상현실(VR)"
+      ],
+      "answerIndex": 2,
+      "explanation": "증강현실은 카메라로 보는 실제 장면 위에 가상 정보를 덧입혀요. 가상현실(VR)은 아예 가상의 세계로 들어가는 기술이에요.",
+      "funFact": "2016년 큰 인기를 끈 '포켓몬 GO'가 대표적인 AR 게임이에요."
+    },
+    {
+      "id": "sports-d5a2b8fa",
+      "category": "sports",
+      "difficulty": 1,
+      "question": "골프에서 선수의 가방을 메고 코스 조언도 해 주는 사람은?",
+      "choices": [
+        "캐디",
+        "스타터",
+        "갤러리",
+        "마셜"
+      ],
+      "answerIndex": 0,
+      "explanation": "캐디는 골프백을 들고 다니며 거리, 바람, 그린 경사 같은 정보를 알려 줘요.",
+      "funFact": "프로 대회에서는 선수와 캐디가 상금을 나누는 경우가 많아요."
+    },
+    {
       "id": "korean-970348f1",
       "category": "korean",
       "difficulty": 2,
@@ -75,32 +76,33 @@
       "explanation": "'사흘'은 3일을 뜻해요. 이틀은 2일, 나흘은 4일, 열흘은 10일이에요."
     },
     {
-      "id": "history-0da6dfd8",
-      "category": "history",
-      "difficulty": 2,
-      "question": "고대 그리스에서 민주 정치가 발달한 도시국가는?",
-      "choices": [
-        "아테네",
-        "테베",
-        "코린토스",
-        "스파르타"
-      ],
-      "answerIndex": 0,
-      "explanation": "아테네에서는 시민들이 직접 모여 정치를 결정하는 직접 민주 정치가 발달했어요. 다만 여성과 노예는 시민에서 제외됐어요."
-    },
-    {
-      "id": "economy-a9fa05d2",
+      "id": "economy-d4849014",
       "category": "economy",
       "difficulty": 2,
-      "question": "시장에서 수요량과 공급량이 일치할 때의 가격은?",
+      "question": "투자 비중이 처음 정한 비율과 달라지면 다시 맞추는 것은?",
       "choices": [
-        "최고 가격",
-        "소비자 가격",
-        "독점 가격",
-        "균형 가격"
+        "손절매",
+        "리밸런싱",
+        "레버리지",
+        "헤지"
+      ],
+      "answerIndex": 1,
+      "explanation": "주식이 많이 올라 비중이 커지면 일부를 팔고 채권을 사는 식으로 원래 비율을 되찾아요. 위험 관리를 위한 방법이에요."
+    },
+    {
+      "id": "nature-15620e1f",
+      "category": "nature",
+      "difficulty": 2,
+      "question": "플랑크톤이 갑자기 크게 늘어 바닷물이 붉게 물드는 현상은?",
+      "choices": [
+        "백화",
+        "녹조",
+        "해무",
+        "적조"
       ],
       "answerIndex": 3,
-      "explanation": "수요량과 공급량이 같아지는 가격을 균형 가격이라고 해요. 이때 거래되는 양은 균형 거래량이라고 불러요."
+      "explanation": "질소·인 같은 영양분이 많아지고 수온이 높으면 일부 플랑크톤이 폭발적으로 늘어 적조가 생겨요.",
+      "funFact": "적조가 생기면 바닷물 속 산소가 부족해지거나 독소가 생겨 양식장 물고기가 떼죽음을 당하기도 해요."
     },
     {
       "id": "science-1c48fb6a",

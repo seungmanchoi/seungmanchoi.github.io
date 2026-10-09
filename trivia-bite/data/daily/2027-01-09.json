@@ -1,0 +1,154 @@
+{
+  "version": 1,
+  "id": "daily-2027-01-09",
+  "date": "2027-01-09",
+  "questions": [
+    {
+      "id": "history-7729aa96",
+      "category": "history",
+      "difficulty": 1,
+      "question": "2차 세계대전이 끝난 1945년 세계 평화를 위해 세운 국제기구는?",
+      "choices": [
+        "세계 무역 기구",
+        "유럽 연합(EU)",
+        "국제 연합(UN)",
+        "국제 연맹"
+      ],
+      "answerIndex": 2,
+      "explanation": "국제 연합은 1945년 10월 24일 공식 출범했어요. 1차 대전 뒤 세운 국제 연맹이 전쟁을 막지 못한 것을 거울삼았어요.",
+      "funFact": "남한과 북한은 1991년 유엔에 함께 가입했어요."
+    },
+    {
+      "id": "life-425c509f",
+      "category": "life",
+      "difficulty": 1,
+      "question": "전기요금 고지서에 표시되는 전력 사용량 단위는?",
+      "choices": [
+        "Hz",
+        "kWh",
+        "V",
+        "mAh"
+      ],
+      "answerIndex": 1,
+      "explanation": "kWh(킬로와트시)는 1kW의 전력을 1시간 쓴 양이에요. 전기요금은 이 사용량을 기준으로 매겨요."
+    },
+    {
+      "id": "nature-1465892b",
+      "category": "nature",
+      "difficulty": 1,
+      "question": "화산 꼭대기에 움푹 파여 마그마와 가스가 뿜어져 나오는 구멍은?",
+      "choices": [
+        "협곡",
+        "분화구",
+        "선상지",
+        "해구"
+      ],
+      "answerIndex": 1,
+      "explanation": "분화구는 화산이 폭발할 때 용암과 화산 가스, 화산재가 뿜어져 나오는 출구예요.",
+      "funFact": "제주 물영아리오름 분화구에는 물이 고인 습지가 있어 람사르 습지로 지정됐어요."
+    },
+    {
+      "id": "geography-38e8ed3e",
+      "category": "geography",
+      "difficulty": 1,
+      "question": "남한 땅에서만 흐르는 강 가운데 가장 긴 강은?",
+      "choices": [
+        "낙동강",
+        "금강",
+        "한강",
+        "영산강"
+      ],
+      "answerIndex": 0,
+      "explanation": "낙동강은 강원 태백에서 시작해 부산까지 약 510km를 흘러요.",
+      "funFact": "낙동강이라는 이름은 옛 가야 땅 '낙양의 동쪽'이라는 뜻에서 왔다는 설이 있어요."
+    },
+    {
+      "id": "culture-10659c58",
+      "category": "culture",
+      "difficulty": 2,
+      "question": "아기가 태어나면 부정한 것을 막으려고 대문에 걸던 새끼줄은?",
+      "choices": [
+        "금줄",
+        "동아줄",
+        "두레박줄",
+        "그넷줄"
+      ],
+      "answerIndex": 0,
+      "explanation": "금줄은 왼쪽으로 꼰 새끼줄로 출산을 알리고 외부인 출입을 막았어요. 아들이면 고추, 딸이면 숯과 솔가지를 끼웠어요."
+    },
+    {
+      "id": "korean-750c0c5c",
+      "category": "korean",
+      "difficulty": 2,
+      "question": "속담 '서울 가서 김 서방 찾기'의 뜻은?",
+      "choices": [
+        "쉽게 이룰 수 있는 일",
+        "남의 이름을 빌림",
+        "친척을 찾아가는 일",
+        "막연하게 찾아다니는 일"
+      ],
+      "answerIndex": 3,
+      "explanation": "이름만 알고 주소도 모른 채 넓은 서울에서 사람을 찾는 것처럼 막연한 일을 뜻해요.",
+      "funFact": "'김 서방'은 흔한 성씨라 더 찾기 어렵다는 뜻이 담겨 있어요."
+    },
+    {
+      "id": "economy-34b0e49e",
+      "category": "economy",
+      "difficulty": 2,
+      "question": "화폐 가치를 일정량의 금에 묶어 두는 통화 제도는?",
+      "choices": [
+        "고정환율제",
+        "관리통화제",
+        "복본위제",
+        "금본위제"
+      ],
+      "answerIndex": 3,
+      "explanation": "금본위제에서는 화폐를 정해진 비율로 금과 바꿀 수 있어요. 19세기 영국을 중심으로 퍼졌다가 20세기에 사라졌어요."
+    },
+    {
+      "id": "science-2eee07e7",
+      "category": "science",
+      "difficulty": 3,
+      "question": "직접 만든 현미경으로 세균을 처음 관찰한 네덜란드 사람은?",
+      "choices": [
+        "갈릴레이",
+        "로버트 훅",
+        "레이우엔훅",
+        "파스퇴르"
+      ],
+      "answerIndex": 2,
+      "explanation": "레이우엔훅은 17세기에 손수 렌즈를 깎아 만든 현미경으로 세균과 원생생물을 처음 관찰했어요.",
+      "funFact": "그는 정규 과학 교육을 받지 않은 옷감 상인 출신의 연구자였어요."
+    },
+    {
+      "id": "sports-10094a2a",
+      "category": "sports",
+      "difficulty": 3,
+      "question": "이덕무·박제가와 함께 『무예도보통지』를 만든 무관은?",
+      "choices": [
+        "신립",
+        "백동수",
+        "김종서",
+        "임경업"
+      ],
+      "answerIndex": 1,
+      "explanation": "백동수는 조선 정조 때 장용영 무관으로, 실기 검증을 맡아 『무예도보통지』 편찬에 참여했어요.",
+      "funFact": "백동수의 이야기는 2011년 드라마 '무사 백동수'로도 만들어졌어요."
+    },
+    {
+      "id": "space-d52468c0",
+      "category": "space",
+      "difficulty": 3,
+      "question": "'메타버스'라는 말을 처음 쓴 1992년 SF 소설은?",
+      "choices": [
+        "스노 크래시",
+        "멋진 신세계",
+        "레디 플레이어 원",
+        "뉴로맨서"
+      ],
+      "answerIndex": 0,
+      "explanation": "닐 스티븐슨의 소설 '스노 크래시'에서 사람들이 아바타로 들어가는 가상 세계를 메타버스라고 불렀어요.",
+      "funFact": "'아바타'라는 말을 가상 세계 속 분신이라는 뜻으로 널리 퍼뜨린 것도 이 소설이에요."
+    }
+  ]
+}

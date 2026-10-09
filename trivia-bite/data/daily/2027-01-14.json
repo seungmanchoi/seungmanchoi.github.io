@@ -1,0 +1,151 @@
+{
+  "version": 1,
+  "id": "daily-2027-01-14",
+  "date": "2027-01-14",
+  "questions": [
+    {
+      "id": "life-97126a61",
+      "category": "life",
+      "difficulty": 1,
+      "question": "향신료 계피는 육계나무 등 녹나무속 식물의 어느 부분일까요?",
+      "choices": [
+        "잎",
+        "나무껍질",
+        "열매",
+        "뿌리"
+      ],
+      "answerIndex": 1,
+      "explanation": "계피는 육계나무 등 녹나무과 식물의 껍질을 벗겨 말린 향신료예요. 계수나무라는 이름의 다른 식물과는 구별해야 해요."
+    },
+    {
+      "id": "science-9afd7be3",
+      "category": "science",
+      "difficulty": 1,
+      "question": "전기 에너지를 빛으로 바꾸는 반도체 소자, LED의 우리말은?",
+      "choices": [
+        "축전기",
+        "태양 전지",
+        "발광 다이오드",
+        "트랜지스터"
+      ],
+      "answerIndex": 2,
+      "explanation": "LED는 발광 다이오드의 줄임말이에요. 전류가 흐르면 반도체에서 빛이 나와 백열전구보다 열 손실이 훨씬 적어요."
+    },
+    {
+      "id": "economy-b92276d4",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "가장 높은 값을 부른 사람에게 물건을 파는 방식은?",
+      "choices": [
+        "역경매",
+        "정가 판매",
+        "공동구매",
+        "경매"
+      ],
+      "answerIndex": 3,
+      "explanation": "경매는 여러 사람이 값을 불러 가장 높은 값을 제시한 사람이 사는 방식이에요. 미술품, 수산물 거래 등에 쓰여요."
+    },
+    {
+      "id": "culture-f150c585",
+      "category": "culture",
+      "difficulty": 1,
+      "question": "인력거꾼 김첨지가 등장하는 단편소설 『운수 좋은 날』의 작가는?",
+      "choices": [
+        "이효석",
+        "김동인",
+        "현진건",
+        "염상섭"
+      ],
+      "answerIndex": 2,
+      "explanation": "『운수 좋은 날』은 현진건이 1924년에 발표한 단편이에요. 돈을 많이 번 날 아내를 잃는 비극을 반어적으로 그렸어요."
+    },
+    {
+      "id": "history-df702600",
+      "category": "history",
+      "difficulty": 2,
+      "question": "조선 후기 왕의 외척 가문이 권력을 독차지한 정치 형태는?",
+      "choices": [
+        "탕평 정치",
+        "수렴청정",
+        "붕당 정치",
+        "세도 정치"
+      ],
+      "answerIndex": 3,
+      "explanation": "순조, 헌종, 철종 3대 60여 년 동안 안동 김씨, 풍양 조씨 등이 권력을 독점했어요. 벼슬을 사고파는 일과 세금 수탈이 심해졌어요."
+    },
+    {
+      "id": "korean-8068028a",
+      "category": "korean",
+      "difficulty": 2,
+      "question": "사자성어 '삼고초려'의 뜻으로 알맞은 것은?",
+      "choices": [
+        "세 번 생각하고 행동함",
+        "인재를 정성껏 모셔 옴",
+        "초가집에서 검소하게 삶",
+        "세 사람이 힘을 합침"
+      ],
+      "answerIndex": 1,
+      "explanation": "유비가 제갈량의 초가를 세 번 찾아간 고사에서, 인재를 맞으려 참을성 있게 정성을 다하는 것을 뜻해요."
+    },
+    {
+      "id": "sports-776a6712",
+      "category": "sports",
+      "difficulty": 2,
+      "question": "핸드볼은 골키퍼를 포함해 한 팀이 몇 명 뛸까요?",
+      "choices": [
+        "6명",
+        "7명",
+        "9명",
+        "5명"
+      ],
+      "answerIndex": 1,
+      "explanation": "핸드볼은 골키퍼 1명과 필드 플레이어 6명, 모두 7명이 한 팀으로 뛰어요.",
+      "funFact": "핸드볼 선수는 공을 들고 최대 세 걸음까지만 걸을 수 있어요."
+    },
+    {
+      "id": "geography-d6588e9f",
+      "category": "geography",
+      "difficulty": 3,
+      "question": "미국 동부를 남북으로 길게 뻗은 오래된 산맥은?",
+      "choices": [
+        "애팔래치아산맥",
+        "시에라네바다산맥",
+        "우랄산맥",
+        "캐스케이드산맥"
+      ],
+      "answerIndex": 0,
+      "explanation": "애팔래치아산맥은 미국 동부를 따라 뻗은 산맥으로, 오랜 침식으로 낮고 완만해요.",
+      "funFact": "이 산맥을 따라 3,000km가 넘는 장거리 등산로 '애팔래치안 트레일'이 있어요."
+    },
+    {
+      "id": "space-c9615770",
+      "category": "space",
+      "difficulty": 3,
+      "question": "1940년대 1세대 전자식 컴퓨터의 핵심 부품은?",
+      "choices": [
+        "진공관",
+        "트랜지스터",
+        "집적회로",
+        "마이크로프로세서"
+      ],
+      "answerIndex": 0,
+      "explanation": "1세대 컴퓨터는 전구처럼 생긴 진공관으로 신호를 켜고 껐어요. 크고 열이 많이 나며 자주 고장 났어요.",
+      "funFact": "컴퓨터는 진공관, 트랜지스터, 집적회로 순서로 핵심 부품이 바뀌며 세대가 나뉘어요."
+    },
+    {
+      "id": "nature-bc9f9cd5",
+      "category": "nature",
+      "difficulty": 3,
+      "question": "빙하가 밀고 와 녹은 자리에 남긴 돌과 흙 더미는?",
+      "choices": [
+        "모레인(빙퇴석)",
+        "석순",
+        "사구",
+        "주상절리"
+      ],
+      "answerIndex": 0,
+      "explanation": "빙하는 움직이며 바위와 흙을 깎아 운반하다가, 녹은 자리에 크고 작은 돌을 뒤섞어 쌓아 둬요.",
+      "funFact": "북유럽과 북아메리카의 많은 언덕과 호수는 마지막 빙기의 빙하가 남긴 모레인과 관련 있어요."
+    }
+  ]
+}

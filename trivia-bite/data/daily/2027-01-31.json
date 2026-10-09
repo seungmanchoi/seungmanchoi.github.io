@@ -1,0 +1,155 @@
+{
+  "version": 1,
+  "id": "daily-2027-01-31",
+  "date": "2027-01-31",
+  "questions": [
+    {
+      "id": "economy-3e419adb",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "전화로 검찰·은행 등을 사칭해 돈을 가로채는 사기는?",
+      "choices": [
+        "다단계",
+        "스미싱",
+        "파밍",
+        "보이스피싱"
+      ],
+      "answerIndex": 3,
+      "explanation": "보이스피싱은 목소리(voice)와 피싱(phishing)을 합친 말로, 전화로 속여 돈을 빼앗는 범죄예요.",
+      "funFact": "공공기관은 전화로 계좌 이체나 현금 전달을 요구하지 않아요."
+    },
+    {
+      "id": "life-9b2d82eb",
+      "category": "life",
+      "difficulty": 1,
+      "question": "쌀을 씻을 때 나오는 뿌연 물을 부르는 말은?",
+      "choices": [
+        "식혜",
+        "쌀뜨물",
+        "미음",
+        "숭늉"
+      ],
+      "answerIndex": 1,
+      "explanation": "쌀을 씻으면 표면의 전분 입자 등이 물에 섞여 뿌옇게 보여요. 이 물을 쌀뜨물이라고 하고 된장국에 쓰기도 해요.",
+      "funFact": "쌀뜨물은 설거지나 화분 물로도 다시 쓰곤 해요."
+    },
+    {
+      "id": "history-f3f824e7",
+      "category": "history",
+      "difficulty": 1,
+      "question": "\"나에게는 꿈이 있습니다\" 연설로 유명한 미국 흑인 민권 운동가는?",
+      "choices": [
+        "마틴 루서 킹",
+        "맬컴 엑스",
+        "프레더릭 더글러스",
+        "로자 파크스"
+      ],
+      "answerIndex": 0,
+      "explanation": "마틴 루서 킹은 비폭력으로 인종 차별 철폐를 이끈 목사예요. 1963년 워싱턴 대행진에서 이 연설을 했어요.",
+      "funFact": "그는 1964년 노벨 평화상을 받았어요."
+    },
+    {
+      "id": "korean-306e7407",
+      "category": "korean",
+      "difficulty": 1,
+      "question": "속담 '공든 탑이 무너지랴'의 뜻으로 알맞은 것은?",
+      "choices": [
+        "정성 들인 일은 헛되지 않다",
+        "높이 쌓을수록 위험하다",
+        "큰일은 혼자 못 한다",
+        "시작이 가장 어렵다"
+      ],
+      "answerIndex": 0,
+      "explanation": "정성과 힘을 다한 일은 결코 헛되이 무너지지 않는다는 뜻이에요.",
+      "funFact": "여기서 '공'은 '공을 들이다'의 공으로, 정성과 노력을 뜻해요."
+    },
+    {
+      "id": "culture-53a4533f",
+      "category": "culture",
+      "difficulty": 2,
+      "question": "피아노 모음곡 '어린이 정경' 속 '트로이메라이'의 작곡가는?",
+      "choices": [
+        "브람스",
+        "슈만",
+        "리스트",
+        "슈베르트"
+      ],
+      "answerIndex": 1,
+      "explanation": "'트로이메라이'는 독일 작곡가 로베르트 슈만이 쓴 '어린이 정경'의 일곱째 곡이에요.",
+      "funFact": "'트로이메라이'는 독일어로 '꿈꾸기'라는 뜻이에요."
+    },
+    {
+      "id": "geography-dc0ea39d",
+      "category": "geography",
+      "difficulty": 2,
+      "question": "몽골과 중국 북부에 걸쳐 있는 사막은?",
+      "choices": [
+        "칼라하리 사막",
+        "사하라 사막",
+        "고비 사막",
+        "타클라마칸 사막"
+      ],
+      "answerIndex": 2,
+      "explanation": "고비 사막은 몽골 남부와 중국 북부에 걸친 사막이에요. 공룡 화석이 많이 나오는 곳으로도 유명해요."
+    },
+    {
+      "id": "science-e6f1fdd7",
+      "category": "science",
+      "difficulty": 2,
+      "question": "혈액에서 혈구를 뺀, 엷은 노란색 액체 성분은?",
+      "choices": [
+        "혈소판",
+        "림프",
+        "혈장",
+        "골수"
+      ],
+      "answerIndex": 2,
+      "explanation": "혈장은 혈액의 절반 이상을 차지하는 액체 성분이에요. 영양분, 호르몬, 노폐물을 실어 날라요.",
+      "funFact": "혈장의 약 90%는 물이에요."
+    },
+    {
+      "id": "economy-0eb4bf84",
+      "category": "economy",
+      "difficulty": 3,
+      "question": "정부 지출이 그보다 더 큰 소득 증가를 부르는 효과는?",
+      "choices": [
+        "구축 효과",
+        "기저 효과",
+        "승수효과",
+        "낙수효과"
+      ],
+      "answerIndex": 2,
+      "explanation": "승수효과는 늘어난 지출이 누군가의 소득이 되고, 그 소득이 다시 쓰이며 효과가 커지는 거예요.",
+      "funFact": "사람들이 번 돈을 많이 쓸수록 승수효과는 커져요."
+    },
+    {
+      "id": "life-16277bc4",
+      "category": "life",
+      "difficulty": 3,
+      "question": "마른 다시마 표면의 하얀 가루에 포함될 수 있는 단맛의 당알코올 성분은?",
+      "choices": [
+        "석회",
+        "소금 결정",
+        "곰팡이",
+        "만니톨"
+      ],
+      "answerIndex": 3,
+      "explanation": "마른 다시마 표면에는 만니톨 같은 성분이 하얗게 나타날 수 있어요. 만니톨은 단맛을 내는 당알코올이에요.",
+      "funFact": "만니톨은 단맛이 나지만 열량이 낮아 감미료로도 써요."
+    },
+    {
+      "id": "korean-53cab2e2",
+      "category": "korean",
+      "difficulty": 3,
+      "question": "고유어 '하릴없다'의 뜻으로 알맞은 것은?",
+      "choices": [
+        "할 일이 없어 한가함",
+        "어떻게 할 도리가 없음",
+        "쓸모가 전혀 없음",
+        "힘이 하나도 없음"
+      ],
+      "answerIndex": 1,
+      "explanation": "'하릴없다'는 달리 어떻게 할 도리가 없다는 뜻이에요. 한가하다는 뜻의 '할 일 없다'와 달라요."
+    }
+  ]
+}

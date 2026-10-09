@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "id": "daily-2027-03-02",
+  "date": "2027-03-02",
+  "questions": [
+    {
+      "id": "history-cac07838",
+      "category": "history",
+      "difficulty": 1,
+      "question": "분단됐던 동독과 서독이 하나의 나라로 통일된 해는?",
+      "choices": [
+        "1991년",
+        "1990년",
+        "1985년",
+        "1989년"
+      ],
+      "answerIndex": 1,
+      "explanation": "1989년 베를린 장벽이 무너진 뒤, 이듬해 10월 3일 독일이 통일됐어요.",
+      "funFact": "10월 3일은 지금 독일의 국경일 '독일 통일의 날'이에요."
+    },
+    {
+      "id": "life-105f25b2",
+      "category": "life",
+      "difficulty": 1,
+      "question": "먹다 남은 약은 어떻게 버리는 게 맞을까요?",
+      "choices": [
+        "음식물 쓰레기",
+        "재활용 분리함",
+        "전용 수거함에",
+        "변기에 흘려보내기"
+      ],
+      "answerIndex": 2,
+      "explanation": "폐의약품이 하수나 흙으로 들어가면 환경을 오염시켜요. 약국·보건소 등의 폐의약품 수거함에 버려요."
+    },
+    {
+      "id": "space-ca22ba87",
+      "category": "space",
+      "difficulty": 1,
+      "question": "1957년 지구 궤도에 오른 최초의 동물로 유명한 소련의 개는?",
+      "choices": [
+        "벨카",
+        "라이카",
+        "스트렐카",
+        "하치코"
+      ],
+      "answerIndex": 1,
+      "explanation": "라이카는 1957년 11월 스푸트니크 2호를 타고 지구 궤도에 올랐어요. 생명체가 우주 비행을 견딜 수 있는지 알아보려는 실험이었어요.",
+      "funFact": "1960년 벨카와 스트렐카는 우주에 다녀와 살아 돌아온 첫 개가 되었어요."
+    },
+    {
+      "id": "culture-8d6b66cd",
+      "category": "culture",
+      "difficulty": 1,
+      "question": "'비디오 아트의 아버지'로 불리는 한국 출신 예술가는?",
+      "choices": [
+        "이중섭",
+        "박수근",
+        "김환기",
+        "백남준"
+      ],
+      "answerIndex": 3,
+      "explanation": "백남준은 텔레비전을 예술 재료로 삼아 비디오 아트를 개척했어요. 독일과 미국을 무대로 활동했어요.",
+      "funFact": "국립현대미술관 과천관에는 TV 1,003대로 쌓은 그의 작품 '다다익선'이 있어요."
+    },
+    {
+      "id": "economy-4b21ee70",
+      "category": "economy",
+      "difficulty": 2,
+      "question": "남들이 많이 사면 오히려 사기 싫어지는 소비 심리는?",
+      "choices": [
+        "스놉 효과",
+        "기저 효과",
+        "전시 효과",
+        "밴드왜건 효과"
+      ],
+      "answerIndex": 0,
+      "explanation": "스놉 효과는 남과 달라 보이고 싶어 흔한 상품을 피하는 심리예요. 까마귀 떼 속 백로에 비유해 백로 효과라고도 해요.",
+      "funFact": "'스놉(snob)'은 잘난 체하는 속물을 뜻하는 영어예요."
+    },
+    {
+      "id": "geography-5a19c9fd",
+      "category": "geography",
+      "difficulty": 2,
+      "question": "미국 성조기의 빨간·흰 줄무늬는 모두 몇 줄일까요?",
+      "choices": [
+        "12줄",
+        "10줄",
+        "13줄",
+        "50줄"
+      ],
+      "answerIndex": 2,
+      "explanation": "성조기의 줄무늬 13줄은 독립 당시의 13개 식민지를 뜻해요. 별은 현재의 주를, 줄은 처음 주를 나타내요."
+    },
+    {
+      "id": "korean-7e6938e6",
+      "category": "korean",
+      "difficulty": 2,
+      "question": "속담 '빛 좋은 개살구'의 뜻은?",
+      "choices": [
+        "겉만 그럴듯하고 실속 없음",
+        "늦게 핀 꽃이 아름다움",
+        "남의 것이 탐남",
+        "노력 없이 얻은 행운"
+      ],
+      "answerIndex": 0,
+      "explanation": "빛깔은 먹음직스럽지만 맛없는 개살구처럼, 겉만 좋고 실속이 없는 것을 이르는 말이에요."
+    },
+    {
+      "id": "life-c45a7224",
+      "category": "life",
+      "difficulty": 3,
+      "question": "음력 6월에 잡은 새우로 담가 최상품으로 치는 새우젓은?",
+      "choices": [
+        "오젓",
+        "동백하젓",
+        "육젓",
+        "추젓"
+      ],
+      "answerIndex": 2,
+      "explanation": "육젓은 음력 6월 산란기의 살이 통통한 새우로 담가 최고로 쳐요. 5월은 오젓, 가을은 추젓이라고 해요.",
+      "funFact": "김장 김치에는 값이 비싼 육젓을 넣기도 해요."
+    },
+    {
+      "id": "economy-f58ff547",
+      "category": "economy",
+      "difficulty": 3,
+      "question": "회사가 잉여금으로 새 주식을 만들어 주주에게 공짜로 주는 것은?",
+      "choices": [
+        "유상증자",
+        "자사주 소각",
+        "액면분할",
+        "무상증자"
+      ],
+      "answerIndex": 3,
+      "explanation": "무상증자는 회사 안의 잉여금을 자본금으로 옮기며 주식을 나눠 줘요. 새 돈이 들어오지 않아 회사 가치 자체는 변하지 않아요."
+    },
+    {
+      "id": "korean-21388589",
+      "category": "korean",
+      "difficulty": 3,
+      "question": "관용구 '이골이 나다'의 뜻은?",
+      "choices": [
+        "화가 치밀어 오름",
+        "몸에 배어 아주 익숙함",
+        "몹시 싫증이 남",
+        "병이 깊어짐"
+      ],
+      "answerIndex": 1,
+      "explanation": "어떤 일에 아주 길이 들어 익숙해진 것을 말해요."
+    }
+  ]
+}
