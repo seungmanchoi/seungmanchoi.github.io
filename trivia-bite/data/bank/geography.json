@@ -1,0 +1,1423 @@
+{
+  "version": 1,
+  "id": "bank-geography",
+  "category": "geography",
+  "questions": [
+    {
+      "id": "geography-866fb7ad",
+      "category": "geography",
+      "difficulty": 1,
+      "question": "면적이 세계에서 가장 넓은 나라는?",
+      "choices": [
+        "캐나다",
+        "러시아",
+        "미국",
+        "중국"
+      ],
+      "answerIndex": 1,
+      "explanation": "러시아는 유럽 동부에서 아시아 북부까지 이어진 거대한 나라예요. 면적이 약 1,700만㎢로 2위인 캐나다보다 훨씬 넓어요.",
+      "funFact": "러시아에는 표준 시간대가 11개나 있어요."
+    },
+    {
+      "id": "geography-d3cbf10b",
+      "category": "geography",
+      "difficulty": 1,
+      "question": "세계에서 가장 높은 산은?",
+      "choices": [
+        "K2",
+        "몽블랑",
+        "킬리만자로",
+        "에베레스트산"
+      ],
+      "answerIndex": 3,
+      "explanation": "에베레스트산은 해발 약 8,800m대로 지구에서 가장 높은 산이에요. 히말라야산맥에 있고 네팔과 중국의 국경에 걸쳐 있어요."
+    },
+    {
+      "id": "geography-b8a6a480",
+      "category": "geography",
+      "difficulty": 1,
+      "question": "해운대 해수욕장이 있는 도시는?",
+      "choices": [
+        "울산",
+        "목포",
+        "부산",
+        "인천"
+      ],
+      "answerIndex": 2,
+      "explanation": "해운대는 부산 동쪽 해안에 있는 우리나라 대표 해수욕장이에요. 여름이면 전국에서 많은 피서객이 찾아와요."
+    },
+    {
+      "id": "geography-8c72f548",
+      "category": "geography",
+      "difficulty": 1,
+      "question": "제주도 한가운데 솟은 화산으로 남한에서 가장 높은 산은?",
+      "choices": [
+        "한라산",
+        "지리산",
+        "설악산",
+        "덕유산"
+      ],
+      "answerIndex": 0,
+      "explanation": "한라산은 해발 약 1,950m로 남한에서 가장 높은 산이에요. 제주도 자체가 화산 활동으로 만들어진 섬이에요."
+    },
+    {
+      "id": "geography-a8e1b578",
+      "category": "geography",
+      "difficulty": 1,
+      "question": "설악산이 자리한 우리나라의 도는?",
+      "choices": [
+        "강원특별자치도",
+        "충청북도",
+        "경기도",
+        "경상북도"
+      ],
+      "answerIndex": 0,
+      "explanation": "설악산은 속초, 양양, 인제, 고성에 걸쳐 있는 산이에요. 태백산맥에 속하고 단풍이 아름답기로 유명해요."
+    },
+    {
+      "id": "geography-4c98d7e3",
+      "category": "geography",
+      "difficulty": 1,
+      "question": "영국 런던을 가로질러 흐르는 강은?",
+      "choices": [
+        "라인강",
+        "다뉴브강",
+        "템스강",
+        "센강"
+      ],
+      "answerIndex": 2,
+      "explanation": "템스강은 영국 남부를 흘러 런던 한복판을 지나 북해로 들어가요. 타워 브리지와 국회의사당 같은 명소가 강변에 있어요."
+    },
+    {
+      "id": "geography-cb4fefe2",
+      "category": "geography",
+      "difficulty": 1,
+      "question": "세계에서 가장 큰 뜨거운 사막 사하라가 있는 대륙은?",
+      "choices": [
+        "남아메리카",
+        "아시아",
+        "아프리카",
+        "오세아니아"
+      ],
+      "answerIndex": 2,
+      "explanation": "사하라 사막은 아프리카 북부에 넓게 펼쳐져 있어요. 면적이 미국 본토와 맞먹을 만큼 커요.",
+      "funFact": "사하라는 아랍어로 '사막'이라는 뜻이에요."
+    },
+    {
+      "id": "geography-cf10d5e6",
+      "category": "geography",
+      "difficulty": 1,
+      "question": "위도 0도로 지구를 북반구와 남반구로 나누는 선은?",
+      "choices": [
+        "적도",
+        "북회귀선",
+        "날짜 변경선",
+        "본초 자오선"
+      ],
+      "answerIndex": 0,
+      "explanation": "적도는 위도 0도의 선으로 지구를 북반구와 남반구로 나눠요. 태양 빛을 많이 받아 적도 부근은 대체로 더워요."
+    },
+    {
+      "id": "geography-ec7ce4d4",
+      "category": "geography",
+      "difficulty": 1,
+      "question": "일본에서 가장 높은 산은?",
+      "choices": [
+        "다테야마",
+        "후지산",
+        "사쿠라지마",
+        "아소산"
+      ],
+      "answerIndex": 1,
+      "explanation": "후지산은 해발 약 3,776m로 일본에서 가장 높은 산이에요. 원뿔 모양의 화산으로 일본을 상징하는 산이에요."
+    },
+    {
+      "id": "geography-e0cc045c",
+      "category": "geography",
+      "difficulty": 1,
+      "question": "세계 최대 열대우림 아마존의 대부분이 자리한 나라는?",
+      "choices": [
+        "페루",
+        "콜롬비아",
+        "아르헨티나",
+        "브라질"
+      ],
+      "answerIndex": 3,
+      "explanation": "아마존 열대우림의 절반이 훨씬 넘는 부분이 브라질에 있어요. 아마존강 유역은 다양한 생물이 사는 곳으로 유명해요."
+    },
+    {
+      "id": "geography-beee8d19",
+      "category": "geography",
+      "difficulty": 1,
+      "question": "인천국제공항이 있는 도시는?",
+      "choices": [
+        "김포",
+        "인천",
+        "수원",
+        "부산"
+      ],
+      "answerIndex": 1,
+      "explanation": "인천국제공항은 인천 영종도에 있어요. 바다를 메워 만든 땅 위에 세워진 공항이에요."
+    },
+    {
+      "id": "geography-580c9231",
+      "category": "geography",
+      "difficulty": 2,
+      "question": "오스트레일리아의 수도는 어디일까요?",
+      "choices": [
+        "캔버라",
+        "시드니",
+        "멜버른",
+        "브리즈번"
+      ],
+      "answerIndex": 0,
+      "explanation": "오스트레일리아의 수도는 캔버라예요. 가장 큰 도시는 시드니라서 많은 사람이 시드니로 착각해요.",
+      "funFact": "시드니와 멜버른이 수도 자리를 두고 다투자 그 중간에 새로 계획해 만든 도시예요."
+    },
+    {
+      "id": "geography-532614e2",
+      "category": "geography",
+      "difficulty": 2,
+      "question": "세계 대륙 중 면적이 가장 작은 대륙은?",
+      "choices": [
+        "남극 대륙",
+        "남아메리카",
+        "유럽",
+        "오세아니아"
+      ],
+      "answerIndex": 3,
+      "explanation": "오세아니아는 오스트레일리아와 태평양의 섬들로 이뤄진 가장 작은 대륙이에요. 유럽이나 남극 대륙보다도 면적이 작아요."
+    },
+    {
+      "id": "geography-fc64a421",
+      "category": "geography",
+      "difficulty": 2,
+      "question": "파나마 운하가 이어 주는 두 바다는?",
+      "choices": [
+        "대서양과 인도양",
+        "태평양과 인도양",
+        "지중해와 홍해",
+        "태평양과 대서양"
+      ],
+      "answerIndex": 3,
+      "explanation": "파나마 운하는 중앙아메리카의 좁은 땅을 가로질러 태평양과 대서양을 연결해요. 덕분에 배가 남아메리카를 돌아가지 않아도 돼요."
+    },
+    {
+      "id": "geography-59d7cac3",
+      "category": "geography",
+      "difficulty": 2,
+      "question": "인도의 수도는 어디일까요?",
+      "choices": [
+        "뉴델리",
+        "콜카타",
+        "뭄바이",
+        "벵갈루루"
+      ],
+      "answerIndex": 0,
+      "explanation": "인도의 수도는 뉴델리예요. 뭄바이는 경제 중심지로 큰 도시지만 수도는 아니에요."
+    },
+    {
+      "id": "geography-c71358ea",
+      "category": "geography",
+      "difficulty": 2,
+      "question": "경도 0도인 본초 자오선이 지나는 영국의 천문대 지역은?",
+      "choices": [
+        "케임브리지",
+        "옥스퍼드",
+        "그리니치",
+        "맨체스터"
+      ],
+      "answerIndex": 2,
+      "explanation": "그리니치 천문대를 지나는 선을 경도 0도의 기준인 본초 자오선으로 삼아요. 세계 표준시의 바탕이 되는 곳이에요."
+    },
+    {
+      "id": "geography-df692a41",
+      "category": "geography",
+      "difficulty": 2,
+      "question": "다윈의 진화론으로 유명한 갈라파고스 제도가 속한 나라는?",
+      "choices": [
+        "페루",
+        "에콰도르",
+        "칠레",
+        "콜롬비아"
+      ],
+      "answerIndex": 1,
+      "explanation": "갈라파고스 제도는 남아메리카 서쪽 태평양에 있는 에콰도르령 섬들이에요. 이곳에서만 사는 독특한 생물이 많아요.",
+      "funFact": "에콰도르라는 나라 이름은 스페인어로 '적도'라는 뜻이에요."
+    },
+    {
+      "id": "geography-2595080d",
+      "category": "geography",
+      "difficulty": 2,
+      "question": "나일강이 최종적으로 흘러드는 바다는?",
+      "choices": [
+        "흑해",
+        "대서양",
+        "홍해",
+        "지중해"
+      ],
+      "answerIndex": 3,
+      "explanation": "나일강은 아프리카 대륙을 북쪽으로 흘러 이집트를 지나 지중해로 들어가요. 하류에는 넓은 삼각주가 발달했어요."
+    },
+    {
+      "id": "geography-af03f1aa",
+      "category": "geography",
+      "difficulty": 2,
+      "question": "대륙을 제외하고 세계에서 가장 큰 섬은?",
+      "choices": [
+        "뉴기니섬",
+        "마다가스카르",
+        "그린란드",
+        "보르네오섬"
+      ],
+      "answerIndex": 2,
+      "explanation": "그린란드는 면적이 약 217만㎢로 세계에서 가장 큰 섬이에요. 땅의 대부분이 얼음으로 덮여 있어요.",
+      "funFact": "이름은 '초록 땅'이지만 실제로는 대부분이 얼음이에요."
+    },
+    {
+      "id": "geography-0b1b0142",
+      "category": "geography",
+      "difficulty": 2,
+      "question": "일본의 4대 섬 중 가장 북쪽에 있는 섬은?",
+      "choices": [
+        "혼슈",
+        "홋카이도",
+        "시코쿠",
+        "규슈"
+      ],
+      "answerIndex": 1,
+      "explanation": "홋카이도는 일본 열도의 가장 북쪽에 있는 큰 섬이에요. 겨울이 길고 눈이 많이 와요."
+    },
+    {
+      "id": "geography-43d1487a",
+      "category": "geography",
+      "difficulty": 2,
+      "question": "우리나라 도(道) 중 바다와 맞닿지 않은 곳은?",
+      "choices": [
+        "충청남도",
+        "강원특별자치도",
+        "충청북도",
+        "경기도"
+      ],
+      "answerIndex": 2,
+      "explanation": "충청북도는 우리나라 도 가운데 유일하게 바다에 닿지 않은 내륙 지역이에요. 대신 충주호 같은 큰 호수가 있어요."
+    },
+    {
+      "id": "geography-a18ae192",
+      "category": "geography",
+      "difficulty": 3,
+      "question": "오스트레일리아 중앙 사막에 우뚝 선 거대한 붉은 바위는?",
+      "choices": [
+        "로라이마산",
+        "울루루",
+        "테이블마운틴",
+        "마터호른"
+      ],
+      "answerIndex": 1,
+      "explanation": "울루루는 '에어즈 록'이라고도 불리는 거대한 바위로 해 질 녘 붉게 물드는 모습이 유명해요. 원주민에게는 신성한 장소예요."
+    },
+    {
+      "id": "geography-3362f528",
+      "category": "geography",
+      "difficulty": 3,
+      "question": "다음 중 카스피해에 접하지 않는 나라는?",
+      "choices": [
+        "아제르바이잔",
+        "이란",
+        "우즈베키스탄",
+        "카자흐스탄"
+      ],
+      "answerIndex": 2,
+      "explanation": "카스피해에는 러시아, 카자흐스탄, 투르크메니스탄, 이란, 아제르바이잔이 닿아 있어요. 우즈베키스탄은 닿지 않아요.",
+      "funFact": "우즈베키스탄은 이웃 나라들도 모두 내륙국인 '이중 내륙국'이에요."
+    },
+    {
+      "id": "geography-c5021e44",
+      "category": "geography",
+      "difficulty": 3,
+      "question": "몽골의 수도는 어디일까요?",
+      "choices": [
+        "울란바토르",
+        "다르항",
+        "에르데네트",
+        "하르호린"
+      ],
+      "answerIndex": 0,
+      "explanation": "몽골의 수도는 울란바토르예요. 나라 인구의 상당수가 이 도시에 모여 살아요.",
+      "funFact": "울란바토르는 '붉은 영웅'이라는 뜻이에요."
+    },
+    {
+      "id": "geography-c1905b3b",
+      "category": "geography",
+      "difficulty": 3,
+      "question": "안데스산맥의 최고봉 아콩카과가 있는 나라는?",
+      "choices": [
+        "아르헨티나",
+        "볼리비아",
+        "페루",
+        "칠레"
+      ],
+      "answerIndex": 0,
+      "explanation": "아콩카과는 칠레와의 국경 가까이에 있는 아르헨티나의 산이에요. 높이가 약 6,960m예요.",
+      "funFact": "아시아 밖에서 가장 높은 산이에요."
+    },
+    {
+      "id": "geography-2a7eed3b",
+      "category": "geography",
+      "difficulty": 3,
+      "question": "청나일강과 백나일강이 합쳐지는 도시는?",
+      "choices": [
+        "아디스아바바",
+        "카이로",
+        "나이로비",
+        "하르툼"
+      ],
+      "answerIndex": 3,
+      "explanation": "청나일강과 백나일강은 수단의 수도 하르툼 부근에서 만나요. 이후 하나의 나일강이 되어 이집트로 흘러가요."
+    },
+    {
+      "id": "geography-657d2e10",
+      "category": "geography",
+      "difficulty": 3,
+      "question": "백두대간이 남쪽 끝에서 마무리되는 산은?",
+      "choices": [
+        "덕유산",
+        "지리산",
+        "설악산",
+        "태백산"
+      ],
+      "answerIndex": 1,
+      "explanation": "백두대간은 백두산에서 시작해 한반도의 등줄기를 이루며 남쪽의 지리산에서 끝나요. 지리산 천왕봉은 남한 본토에서 가장 높은 봉우리예요."
+    },
+    {
+      "id": "geography-f68f5984",
+      "category": "geography",
+      "difficulty": 3,
+      "question": "케이프타운 근처의 '희망봉'이 있는 나라는?",
+      "choices": [
+        "남아프리카공화국",
+        "나미비아",
+        "모잠비크",
+        "앙골라"
+      ],
+      "answerIndex": 0,
+      "explanation": "희망봉은 아프리카 남서쪽 끝 케이프타운 부근에 있어요. 유럽에서 인도로 가는 바닷길의 중요한 길목이었어요."
+    },
+    {
+      "id": "geography-6e3219bc",
+      "category": "geography",
+      "difficulty": 3,
+      "question": "아프리카에서 가장 큰 호수는?",
+      "choices": [
+        "말라위호",
+        "탕가니카호",
+        "차드호",
+        "빅토리아호"
+      ],
+      "answerIndex": 3,
+      "explanation": "빅토리아호는 케냐, 우간다, 탄자니아에 걸쳐 있는 아프리카 최대의 호수예요. 면적이 약 6만 8천㎢에 이르러요.",
+      "funFact": "나일강의 주요 수원 가운데 하나예요."
+    },
+    {
+      "id": "geography-afb854ea",
+      "category": "geography",
+      "difficulty": 1,
+      "question": "해발 고도 기준으로 지구에서 가장 높은 산은?",
+      "choices": [
+        "킬리만자로",
+        "K2",
+        "에베레스트",
+        "칸첸중가"
+      ],
+      "answerIndex": 2,
+      "explanation": "에베레스트는 히말라야 산맥에 있고 해발 고도가 약 8,800m대예요. 네팔과 중국의 국경에 걸쳐 있어요.",
+      "funFact": "티베트에서는 '초모랑마'라고 부르고, 네팔에서는 '사가르마타'라고 불러요."
+    },
+    {
+      "id": "geography-e3c1eceb",
+      "category": "geography",
+      "difficulty": 1,
+      "question": "고대 이집트 문명의 젖줄이 된 강은?",
+      "choices": [
+        "라인강",
+        "나일강",
+        "도나우강",
+        "갠지스강"
+      ],
+      "answerIndex": 1,
+      "explanation": "나일강은 해마다 범람하며 기름진 흙을 실어 와 농사를 가능하게 했어요. 그래서 '이집트는 나일강의 선물'이라는 말이 생겼어요."
+    },
+    {
+      "id": "geography-e8bc0125",
+      "category": "geography",
+      "difficulty": 1,
+      "question": "우리나라의 서쪽에 있는 바다는?",
+      "choices": [
+        "서해",
+        "남해",
+        "동해",
+        "홍해"
+      ],
+      "answerIndex": 0,
+      "explanation": "우리나라는 동쪽의 동해, 남쪽의 남해, 서쪽의 서해로 둘러싸인 반도국이에요. 서해는 수심이 얕고 갯벌이 발달했어요."
+    },
+    {
+      "id": "geography-0610303a",
+      "category": "geography",
+      "difficulty": 1,
+      "question": "아프리카 북부에 있는 세계에서 가장 큰 뜨거운 사막은?",
+      "choices": [
+        "사하라 사막",
+        "칼라하리 사막",
+        "고비 사막",
+        "아타카마 사막"
+      ],
+      "answerIndex": 0,
+      "explanation": "사하라 사막은 아프리카 북부를 가로지르는 거대한 열대 사막이에요. 면적이 미국 본토와 비슷한 수준이에요."
+    },
+    {
+      "id": "geography-1c664392",
+      "category": "geography",
+      "difficulty": 1,
+      "question": "피사의 사탑이 있는 나라는?",
+      "choices": [
+        "스페인",
+        "이탈리아",
+        "프랑스",
+        "그리스"
+      ],
+      "answerIndex": 1,
+      "explanation": "피사의 사탑은 이탈리아 토스카나 지방의 피사에 있어요. 땅이 한쪽으로 가라앉아 탑이 기울었어요."
+    },
+    {
+      "id": "geography-6ac3a410",
+      "category": "geography",
+      "difficulty": 1,
+      "question": "지구를 북반구와 남반구로 나누는 위도 0도의 선은?",
+      "choices": [
+        "날짜변경선",
+        "적도",
+        "북회귀선",
+        "본초자오선"
+      ],
+      "answerIndex": 1,
+      "explanation": "적도는 위도 0도의 가상선으로 지구를 북반구와 남반구로 나눠요. 적도 부근은 일 년 내내 더운 편이에요."
+    },
+    {
+      "id": "geography-2f504e6e",
+      "category": "geography",
+      "difficulty": 1,
+      "question": "백두산 꼭대기에 있는 화산 호수의 이름은?",
+      "choices": [
+        "소양호",
+        "경포호",
+        "천지",
+        "백록담"
+      ],
+      "answerIndex": 2,
+      "explanation": "백두산 정상의 칼데라 호수를 천지라고 해요. 압록강과 두만강이 이 일대에서 시작돼요."
+    },
+    {
+      "id": "geography-f01007e4",
+      "category": "geography",
+      "difficulty": 1,
+      "question": "오페라 하우스로 유명한 호주의 도시는?",
+      "choices": [
+        "브리즈번",
+        "시드니",
+        "멜버른",
+        "퍼스"
+      ],
+      "answerIndex": 1,
+      "explanation": "시드니 항구에 있는 오페라 하우스는 조개껍데기 같은 지붕이 특징이에요. 유네스코 세계유산으로도 등재됐어요."
+    },
+    {
+      "id": "geography-f9404755",
+      "category": "geography",
+      "difficulty": 1,
+      "question": "남아메리카에서 유량이 세계에서 가장 많은 강은?",
+      "choices": [
+        "아마존강",
+        "나일강",
+        "양쯔강",
+        "미시시피강"
+      ],
+      "answerIndex": 0,
+      "explanation": "아마존강은 열대 우림 지대를 흘러 대서양으로 들어가요. 강물의 양이 세계에서 가장 많아요."
+    },
+    {
+      "id": "geography-4a786962",
+      "category": "geography",
+      "difficulty": 1,
+      "question": "자유의 여신상이 서 있는 미국의 도시는?",
+      "choices": [
+        "로스앤젤레스",
+        "워싱턴 D.C.",
+        "뉴욕",
+        "시카고"
+      ],
+      "answerIndex": 2,
+      "explanation": "자유의 여신상은 뉴욕 항구의 리버티섬에 서 있어요. 1886년 프랑스가 선물한 조각상이에요."
+    },
+    {
+      "id": "geography-9a01b4c4",
+      "category": "geography",
+      "difficulty": 2,
+      "question": "경도 0도인 본초자오선이 지나는 영국 런던의 지역은?",
+      "choices": [
+        "옥스퍼드",
+        "웨스트민스터",
+        "캠브리지",
+        "그리니치"
+      ],
+      "answerIndex": 3,
+      "explanation": "런던 동남쪽 그리니치의 옛 천문대를 지나는 선이 경도 0도의 기준이에요. 세계 시간의 기준인 그리니치 표준시도 여기서 나왔어요."
+    },
+    {
+      "id": "geography-be300130",
+      "category": "geography",
+      "difficulty": 2,
+      "question": "남아메리카 서쪽을 따라 길게 뻗은 산맥은?",
+      "choices": [
+        "로키 산맥",
+        "알프스 산맥",
+        "안데스 산맥",
+        "히말라야 산맥"
+      ],
+      "answerIndex": 2,
+      "explanation": "안데스 산맥은 남아메리카 서쪽 해안을 따라 7,000km 넘게 이어져요. 세계에서 가장 긴 산맥으로 꼽혀요."
+    },
+    {
+      "id": "geography-56738278",
+      "category": "geography",
+      "difficulty": 2,
+      "question": "한반도의 등뼈 역할을 하는 동쪽의 큰 산맥은?",
+      "choices": [
+        "차령산맥",
+        "노령산맥",
+        "소백산맥",
+        "태백산맥"
+      ],
+      "answerIndex": 3,
+      "explanation": "태백산맥은 한반도 동쪽 해안을 따라 남북으로 길게 뻗어 있어요. 동해안과 내륙을 가르는 큰 산줄기예요."
+    },
+    {
+      "id": "geography-6ce6e96e",
+      "category": "geography",
+      "difficulty": 2,
+      "question": "나일강이 흘러드는 바다는?",
+      "choices": [
+        "홍해",
+        "대서양",
+        "흑해",
+        "지중해"
+      ],
+      "answerIndex": 3,
+      "explanation": "나일강은 아프리카 내륙에서 북쪽으로 흘러 이집트를 지나 지중해로 들어가요. 하구에는 삼각주가 넓게 발달했어요."
+    },
+    {
+      "id": "geography-af413c75",
+      "category": "geography",
+      "difficulty": 2,
+      "question": "나이아가라 폭포가 걸쳐 있는 두 나라는?",
+      "choices": [
+        "브라질과 아르헨티나",
+        "캐나다와 영국",
+        "미국과 캐나다",
+        "미국과 멕시코"
+      ],
+      "answerIndex": 2,
+      "explanation": "나이아가라 폭포는 이리호와 온타리오호 사이의 강에 있어요. 미국과 캐나다의 국경이 폭포를 가로질러요."
+    },
+    {
+      "id": "geography-c0ccfe01",
+      "category": "geography",
+      "difficulty": 2,
+      "question": "해수면보다 낮고 염분이 매우 높아 몸이 잘 뜨는 호수는?",
+      "choices": [
+        "슈피리어호",
+        "사해",
+        "레만호",
+        "빅토리아호"
+      ],
+      "answerIndex": 1,
+      "explanation": "사해는 이스라엘과 요르단 사이에 있는 호수예요. 바닷물보다 훨씬 짜서 사람이 가만히 있어도 물 위에 떠요.",
+      "funFact": "육지에서 해수면보다 가장 낮은 곳 가운데 하나로 알려져 있어요."
+    },
+    {
+      "id": "geography-5185025f",
+      "category": "geography",
+      "difficulty": 3,
+      "question": "우리나라 도 가운데 면적이 가장 넓은 곳은?",
+      "choices": [
+        "경상남도",
+        "전라남도",
+        "강원도",
+        "경상북도"
+      ],
+      "answerIndex": 3,
+      "explanation": "경상북도는 약 1만 9천 km²로 우리나라 도 가운데 가장 넓어요. 동해안에서 내륙 산지까지 길게 이어져 있어요."
+    },
+    {
+      "id": "geography-686f3b48",
+      "category": "geography",
+      "difficulty": 3,
+      "question": "미국 50개 주 중 면적이 가장 작은 주는?",
+      "choices": [
+        "로드아일랜드",
+        "코네티컷",
+        "델라웨어",
+        "뉴햄프셔"
+      ],
+      "answerIndex": 0,
+      "explanation": "로드아일랜드는 미국 북동부에 있는 주로 면적이 가장 작아요. 이름에 '섬'이 들어 있지만 대부분은 본토 땅이에요."
+    },
+    {
+      "id": "geography-f8c2bf5e",
+      "category": "geography",
+      "difficulty": 3,
+      "question": "남아프리카공화국의 행정 수도는?",
+      "choices": [
+        "더반",
+        "요하네스버그",
+        "프리토리아",
+        "케이프타운"
+      ],
+      "answerIndex": 2,
+      "explanation": "남아프리카공화국은 수도 기능을 세 도시가 나눠 맡아요. 행정은 프리토리아, 입법은 케이프타운, 사법은 블룸폰테인이에요."
+    },
+    {
+      "id": "geography-30e3d4ea",
+      "category": "geography",
+      "difficulty": 3,
+      "question": "일본의 4대 섬 중 가장 남쪽에 있는 섬은?",
+      "choices": [
+        "홋카이도",
+        "시코쿠",
+        "혼슈",
+        "규슈"
+      ],
+      "answerIndex": 3,
+      "explanation": "일본의 큰 섬은 북쪽부터 홋카이도, 혼슈, 시코쿠, 규슈예요. 이 가운데 규슈가 가장 남쪽에 있어요."
+    },
+    {
+      "id": "geography-2d157c45",
+      "category": "geography",
+      "difficulty": 3,
+      "question": "말레이 반도와 수마트라섬 사이에 있는 해협은?",
+      "choices": [
+        "말라카 해협",
+        "타이완 해협",
+        "대한 해협",
+        "호르무즈 해협"
+      ],
+      "answerIndex": 0,
+      "explanation": "말라카 해협은 인도양과 남중국해를 잇는 좁고 긴 바닷길이에요. 아시아와 유럽을 오가는 무역선이 많이 지나다녀요."
+    },
+    {
+      "id": "geography-2b76e4f5",
+      "category": "geography",
+      "difficulty": 3,
+      "question": "스페인 남쪽과 모로코 사이에서 지중해와 대서양을 잇는 해협은?",
+      "choices": [
+        "마젤란 해협",
+        "지브롤터 해협",
+        "도버 해협",
+        "메시나 해협"
+      ],
+      "answerIndex": 1,
+      "explanation": "지브롤터 해협은 유럽 이베리아 반도와 아프리카 북서부 사이에 있어요. 가장 좁은 곳의 폭은 약 14km예요."
+    },
+    {
+      "id": "geography-65f86419",
+      "category": "geography",
+      "difficulty": 3,
+      "question": "우리나라에서 가장 먼저 국립공원으로 지정된 산은?",
+      "choices": [
+        "지리산",
+        "한라산",
+        "북한산",
+        "설악산"
+      ],
+      "answerIndex": 0,
+      "explanation": "지리산은 1967년에 우리나라 최초의 국립공원으로 지정됐어요. 전남, 전북, 경남에 걸쳐 있는 넓은 산이에요."
+    },
+    {
+      "id": "geography-53fc25a3",
+      "category": "geography",
+      "difficulty": 3,
+      "question": "나라 이름이 스페인어로 '적도'를 뜻하는 남미 국가는?",
+      "choices": [
+        "베네수엘라",
+        "콜롬비아",
+        "에콰도르",
+        "페루"
+      ],
+      "answerIndex": 2,
+      "explanation": "에콰도르는 스페인어로 '적도'라는 뜻이에요. 실제로 적도가 나라를 가로질러 수도 키토 가까이를 지나요."
+    },
+    {
+      "id": "geography-77886ac5",
+      "category": "geography",
+      "difficulty": 3,
+      "question": "미국 그랜드 캐니언을 깎아 만든 강은?",
+      "choices": [
+        "컬럼비아강",
+        "미시시피강",
+        "리오그란데강",
+        "콜로라도강"
+      ],
+      "answerIndex": 3,
+      "explanation": "콜로라도강이 오랜 세월 흐르며 바위 땅을 깎아 그랜드 캐니언을 만들었어요. 협곡 벽에는 지층이 겹겹이 드러나 있어요."
+    },
+    {
+      "id": "geography-a1672578",
+      "category": "geography",
+      "difficulty": 1,
+      "question": "고대 이집트 문명이 싹튼 큰 강은?",
+      "choices": [
+        "티그리스강",
+        "나일강",
+        "갠지스강",
+        "황허강"
+      ],
+      "answerIndex": 1,
+      "explanation": "고대 이집트 사람들은 나일강 주변의 기름진 땅에서 농사를 지으며 문명을 일으켰어요. 이집트 문명은 흔히 '나일강의 선물'이라고 불러요.",
+      "funFact": "나일강은 해마다 범람하면서 땅을 기름지게 만들었어요."
+    },
+    {
+      "id": "geography-d21a01e8",
+      "category": "geography",
+      "difficulty": 1,
+      "question": "아프리카 북부에 펼쳐진 세계 최대의 뜨거운 사막은?",
+      "choices": [
+        "칼라하리 사막",
+        "사하라 사막",
+        "아타카마 사막",
+        "고비 사막"
+      ],
+      "answerIndex": 1,
+      "explanation": "사하라 사막은 아프리카 북부를 가로지르는 거대한 열대·아열대 사막이에요. 면적이 미국 전체와 비슷할 만큼 넓어요."
+    },
+    {
+      "id": "geography-29257e54",
+      "category": "geography",
+      "difficulty": 1,
+      "question": "지구 표면에서 바다가 차지하는 비율은 약 몇 %일까요?",
+      "choices": [
+        "약 30%",
+        "약 70%",
+        "약 90%",
+        "약 50%"
+      ],
+      "answerIndex": 1,
+      "explanation": "지구 표면의 약 70%는 바다고 나머지 약 30%가 육지예요. 그래서 우주에서 보면 지구가 푸르게 보여요."
+    },
+    {
+      "id": "geography-aaee8495",
+      "category": "geography",
+      "difficulty": 1,
+      "question": "위도 0도로 지구를 둘러 북반구와 남반구를 나누는 선은?",
+      "choices": [
+        "날짜 변경선",
+        "본초 자오선",
+        "적도",
+        "북회귀선"
+      ],
+      "answerIndex": 2,
+      "explanation": "적도는 위도 0도의 기준선으로 지구를 북반구와 남반구로 나눠요. 태양 빛을 많이 받아 적도 부근은 대체로 더워요."
+    },
+    {
+      "id": "geography-dae2e8a9",
+      "category": "geography",
+      "difficulty": 1,
+      "question": "현재 중국의 수도는 어디일까요?",
+      "choices": [
+        "베이징",
+        "상하이",
+        "난징",
+        "광저우"
+      ],
+      "answerIndex": 0,
+      "explanation": "중국의 수도는 베이징이에요. 자금성과 천안문 같은 역사 유적이 많은 도시예요. 상하이는 가장 큰 경제 도시 중 하나지만 수도는 아니에요."
+    },
+    {
+      "id": "geography-42545e52",
+      "category": "geography",
+      "difficulty": 1,
+      "question": "미국의 자유의 여신상이 서 있는 항구 도시는?",
+      "choices": [
+        "뉴욕",
+        "샌프란시스코",
+        "시카고",
+        "보스턴"
+      ],
+      "answerIndex": 0,
+      "explanation": "자유의 여신상은 뉴욕 항의 리버티섬에 서 있어요. 1886년 프랑스가 미국에 선물한 조각상이에요."
+    },
+    {
+      "id": "geography-060f833e",
+      "category": "geography",
+      "difficulty": 1,
+      "question": "해운대 해수욕장으로 유명한 도시는?",
+      "choices": [
+        "부산",
+        "여수",
+        "강릉",
+        "인천"
+      ],
+      "answerIndex": 0,
+      "explanation": "해운대 해수욕장은 부산에 있는 대표적인 해변이에요. 여름이면 많은 사람이 찾는 우리나라 대표 피서지예요."
+    },
+    {
+      "id": "geography-6cdc0de4",
+      "category": "geography",
+      "difficulty": 1,
+      "question": "남아메리카에서 면적이 가장 큰 나라는?",
+      "choices": [
+        "페루",
+        "아르헨티나",
+        "콜롬비아",
+        "브라질"
+      ],
+      "answerIndex": 3,
+      "explanation": "브라질은 남아메리카 대륙의 거의 절반을 차지하는 가장 큰 나라예요. 아마존 열대우림도 대부분 브라질에 있어요."
+    },
+    {
+      "id": "geography-7280f2b1",
+      "category": "geography",
+      "difficulty": 1,
+      "question": "한반도 서쪽에 있는 바다는?",
+      "choices": [
+        "남해",
+        "서해",
+        "동해",
+        "오호츠크해"
+      ],
+      "answerIndex": 1,
+      "explanation": "서해는 한반도와 중국 사이에 있는 바다로 황해라고도 불러요. 수심이 얕고 갯벌이 발달했어요."
+    },
+    {
+      "id": "geography-5316603e",
+      "category": "geography",
+      "difficulty": 1,
+      "question": "캥거루와 코알라로 유명한 오세아니아의 나라는?",
+      "choices": [
+        "필리핀",
+        "남아프리카공화국",
+        "뉴질랜드",
+        "호주"
+      ],
+      "answerIndex": 3,
+      "explanation": "캥거루와 코알라는 호주를 대표하는 동물이에요. 호주는 나라 하나가 대륙 하나를 이루고 있어요."
+    },
+    {
+      "id": "geography-6571b2e7",
+      "category": "geography",
+      "difficulty": 1,
+      "question": "곤돌라를 타고 다니는 '물의 도시'로 유명한 이탈리아 도시는?",
+      "choices": [
+        "토리노",
+        "베네치아",
+        "밀라노",
+        "나폴리"
+      ],
+      "answerIndex": 1,
+      "explanation": "베네치아는 바다 위 섬들에 세워져 골목 대신 운하가 길 역할을 해요. 곤돌라를 타고 도시를 구경하는 것으로 유명해요."
+    },
+    {
+      "id": "geography-633f2403",
+      "category": "geography",
+      "difficulty": 2,
+      "question": "파나마 운하가 이어 주는 두 대양은?",
+      "choices": [
+        "태평양과 대서양",
+        "대서양과 북극해",
+        "대서양과 인도양",
+        "태평양과 인도양"
+      ],
+      "answerIndex": 0,
+      "explanation": "파나마 운하는 중앙아메리카의 좁은 땅을 가로질러 태평양과 대서양을 연결해요. 덕분에 배가 남아메리카 끝을 돌아가지 않아도 돼요."
+    },
+    {
+      "id": "geography-662f112c",
+      "category": "geography",
+      "difficulty": 2,
+      "question": "세계에서 유량이 가장 많은 아마존강이 흘러드는 바다는?",
+      "choices": [
+        "태평양",
+        "인도양",
+        "북극해",
+        "대서양"
+      ],
+      "answerIndex": 3,
+      "explanation": "아마존강은 안데스산맥에서 시작해 브라질을 지나 대서양으로 흘러들어요. 하구가 바다처럼 넓게 펼쳐져 있어요."
+    },
+    {
+      "id": "geography-649d2fd0",
+      "category": "geography",
+      "difficulty": 2,
+      "question": "한반도 북쪽에서 중국과 국경을 이루는 두 강은?",
+      "choices": [
+        "한강과 임진강",
+        "압록강과 두만강",
+        "대동강과 청천강",
+        "낙동강과 섬진강"
+      ],
+      "answerIndex": 1,
+      "explanation": "압록강과 두만강은 한반도와 중국의 국경을 이루며 각각 서해와 동해로 흘러요. 두 강의 발원지는 백두산이에요."
+    },
+    {
+      "id": "geography-96068ddc",
+      "category": "geography",
+      "difficulty": 2,
+      "question": "1967년 우리나라 국립공원 제1호로 지정된 산은?",
+      "choices": [
+        "설악산",
+        "북한산",
+        "지리산",
+        "한라산"
+      ],
+      "answerIndex": 2,
+      "explanation": "지리산은 1967년 우리나라 최초의 국립공원으로 지정됐어요. 전북, 전남, 경남에 걸쳐 있는 넓고 큰 산이에요."
+    },
+    {
+      "id": "geography-f6addd50",
+      "category": "geography",
+      "difficulty": 2,
+      "question": "한반도 동쪽 해안선을 따라 남북으로 뻗은 산맥은?",
+      "choices": [
+        "태백산맥",
+        "노령산맥",
+        "소백산맥",
+        "차령산맥"
+      ],
+      "answerIndex": 0,
+      "explanation": "태백산맥은 강원도에서 경북 쪽으로 동해안을 따라 이어지는 한반도의 큰 산줄기예요. 동쪽이 가파르고 서쪽이 완만해요."
+    },
+    {
+      "id": "geography-d26c8ad6",
+      "category": "geography",
+      "difficulty": 2,
+      "question": "한라산 정상에 있는 화구호는?",
+      "choices": [
+        "소양호",
+        "경포호",
+        "천지",
+        "백록담"
+      ],
+      "answerIndex": 3,
+      "explanation": "백록담은 제주 한라산 정상의 분화구에 물이 고여 생긴 호수예요. 천지는 백두산 정상에 있는 화구호예요."
+    },
+    {
+      "id": "geography-ec24a3bb",
+      "category": "geography",
+      "difficulty": 2,
+      "question": "지중해와 대서양을 잇는 해협은?",
+      "choices": [
+        "지브롤터 해협",
+        "도버 해협",
+        "말라카 해협",
+        "보스포루스 해협"
+      ],
+      "answerIndex": 0,
+      "explanation": "지브롤터 해협은 유럽의 이베리아반도와 아프리카 북서부 사이에 있어요. 지중해가 대서양으로 열리는 좁은 길목이에요."
+    },
+    {
+      "id": "geography-4bde2c6c",
+      "category": "geography",
+      "difficulty": 3,
+      "question": "세계에서 가장 깊은 해구로 알려진 곳은?",
+      "choices": [
+        "푸에르토리코 해구",
+        "마리아나 해구",
+        "페루-칠레 해구",
+        "일본 해구"
+      ],
+      "answerIndex": 1,
+      "explanation": "마리아나 해구는 서태평양 마리아나 제도 근처에 있는 가장 깊은 바다 골짜기예요. 가장 깊은 곳은 수심이 약 1만 1천 m에 가까워요.",
+      "funFact": "에베레스트산을 통째로 넣어도 잠길 만큼 깊어요."
+    },
+    {
+      "id": "geography-831a005f",
+      "category": "geography",
+      "difficulty": 3,
+      "question": "아프리카에서 면적이 가장 큰 호수는?",
+      "choices": [
+        "말라위호",
+        "차드호",
+        "빅토리아호",
+        "탕가니카호"
+      ],
+      "answerIndex": 2,
+      "explanation": "빅토리아호는 우간다, 케냐, 탄자니아에 걸쳐 있는 아프리카 최대의 호수예요. 나일강의 주요 수원 중 하나로 알려져 있어요."
+    },
+    {
+      "id": "geography-caa9be5b",
+      "category": "geography",
+      "difficulty": 3,
+      "question": "우리나라 도(道) 가운데 면적이 가장 넓은 곳은?",
+      "choices": [
+        "전라남도",
+        "경기도",
+        "경상북도",
+        "강원도"
+      ],
+      "answerIndex": 2,
+      "explanation": "경상북도는 우리나라 도 중에서 면적이 가장 넓어요. 울릉도와 독도도 행정구역상 경상북도에 속해요."
+    },
+    {
+      "id": "geography-cbfc5d80",
+      "category": "geography",
+      "difficulty": 3,
+      "question": "남아프리카공화국 영토에 완전히 둘러싸인 나라는?",
+      "choices": [
+        "레소토",
+        "에스와티니",
+        "짐바브웨",
+        "보츠와나"
+      ],
+      "answerIndex": 0,
+      "explanation": "레소토는 사방이 남아프리카공화국으로 둘러싸인 작은 내륙국이에요. 에스와티니는 모잠비크와도 국경을 맞대고 있어요.",
+      "funFact": "레소토는 국토 전체가 해발 1,000m 이상인 고지대 나라예요."
+    },
+    {
+      "id": "geography-1076ff4b",
+      "category": "geography",
+      "difficulty": 3,
+      "question": "사우디아라비아의 수도는 어디일까요?",
+      "choices": [
+        "메카",
+        "제다",
+        "리야드",
+        "담맘"
+      ],
+      "answerIndex": 2,
+      "explanation": "사우디아라비아의 수도는 내륙에 있는 리야드예요. 이슬람 성지인 메카나 홍해 항구인 제다와 혼동하기 쉬워요."
+    },
+    {
+      "id": "geography-f4063ca7",
+      "category": "geography",
+      "difficulty": 3,
+      "question": "호주 중앙 사막에 우뚝 솟은 거대한 붉은 바위는?",
+      "choices": [
+        "시기리야",
+        "로라이마",
+        "울루루",
+        "마터호른"
+      ],
+      "answerIndex": 2,
+      "explanation": "울루루는 호주 중앙 사막 지대에 솟은 거대한 붉은 바위로 에어즈 록이라고도 해요. 원주민에게는 신성한 장소예요.",
+      "funFact": "울루루는 해가 뜨고 질 때 색이 붉게 바뀌는 것으로 유명해요."
+    },
+    {
+      "id": "geography-233af99d",
+      "category": "geography",
+      "difficulty": 3,
+      "question": "케냐의 수도는 어디일까요?",
+      "choices": [
+        "아디스아바바",
+        "몸바사",
+        "다르에스살람",
+        "나이로비"
+      ],
+      "answerIndex": 3,
+      "explanation": "케냐의 수도는 나이로비예요. 몸바사는 인도양에 접한 항구 도시고 아디스아바바는 에티오피아의 수도예요."
+    },
+    {
+      "id": "geography-6b3273ad",
+      "category": "geography",
+      "difficulty": 3,
+      "question": "페루의 수도는 어디일까요?",
+      "choices": [
+        "쿠스코",
+        "보고타",
+        "키토",
+        "리마"
+      ],
+      "answerIndex": 3,
+      "explanation": "페루의 수도는 태평양 연안에 있는 리마예요. 쿠스코는 잉카 제국의 옛 수도이고 보고타와 키토는 다른 나라의 수도예요."
+    },
+    {
+      "id": "geography-b27963cd",
+      "category": "geography",
+      "difficulty": 1,
+      "question": "에펠탑이 있는 도시는 어디일까요?",
+      "choices": [
+        "로마",
+        "런던",
+        "마드리드",
+        "파리"
+      ],
+      "answerIndex": 3,
+      "explanation": "에펠탑은 프랑스 파리에 있어요. 1889년 파리 만국박람회를 기념해 세워졌어요."
+    },
+    {
+      "id": "geography-461a0807",
+      "category": "geography",
+      "difficulty": 1,
+      "question": "6대주 중 면적이 가장 작은 대륙은?",
+      "choices": [
+        "남극 대륙",
+        "남아메리카",
+        "오세아니아",
+        "유럽"
+      ],
+      "answerIndex": 2,
+      "explanation": "오세아니아는 오스트레일리아와 태평양의 여러 섬나라를 합친 대륙이에요. 6대주 가운데 면적이 가장 작아요."
+    },
+    {
+      "id": "geography-e059cbbd",
+      "category": "geography",
+      "difficulty": 1,
+      "question": "한반도의 서쪽에 있는 바다의 이름은?",
+      "choices": [
+        "서해(황해)",
+        "동해",
+        "남해",
+        "오호츠크해"
+      ],
+      "answerIndex": 0,
+      "explanation": "한반도 서쪽에 있는 바다는 서해예요. 황해라고도 불러요."
+    },
+    {
+      "id": "geography-4dcbb25b",
+      "category": "geography",
+      "difficulty": 1,
+      "question": "지구를 남반구와 북반구로 나누는 위도 0도의 선은?",
+      "choices": [
+        "북회귀선",
+        "본초 자오선",
+        "날짜 변경선",
+        "적도"
+      ],
+      "answerIndex": 3,
+      "explanation": "적도는 위도 0도인 선으로 지구를 남반구와 북반구로 나눠요. 적도 부근은 연중 기온이 높은 편이에요."
+    },
+    {
+      "id": "geography-991c5b6c",
+      "category": "geography",
+      "difficulty": 1,
+      "question": "세계 최대 열대우림 아마존의 대부분이 속한 나라는?",
+      "choices": [
+        "칠레",
+        "우루과이",
+        "브라질",
+        "아르헨티나"
+      ],
+      "answerIndex": 2,
+      "explanation": "아마존 열대우림의 큰 부분이 브라질 영토에 있어요. 아르헨티나, 칠레, 우루과이에는 아마존 열대우림이 없어요."
+    },
+    {
+      "id": "geography-69218dd7",
+      "category": "geography",
+      "difficulty": 1,
+      "question": "나이아가라 폭포를 사이에 두고 미국과 맞닿은 나라는?",
+      "choices": [
+        "쿠바",
+        "캐나다",
+        "멕시코",
+        "영국"
+      ],
+      "answerIndex": 1,
+      "explanation": "나이아가라 폭포는 미국과 캐나다의 국경에 걸쳐 있어요. 두 나라 사이를 흐르는 나이아가라강에 있어요."
+    },
+    {
+      "id": "geography-43887197",
+      "category": "geography",
+      "difficulty": 2,
+      "question": "태평양 다음으로 넓은 바다는 어디일까요?",
+      "choices": [
+        "대서양",
+        "남극해",
+        "인도양",
+        "북극해"
+      ],
+      "answerIndex": 0,
+      "explanation": "대서양은 태평양 다음으로 넓은 바다예요. 유럽·아프리카와 아메리카 대륙 사이에 있어요."
+    },
+    {
+      "id": "geography-7ad29b63",
+      "category": "geography",
+      "difficulty": 2,
+      "question": "부산과 일본 규슈 사이에 놓인 해협은?",
+      "choices": [
+        "대한해협",
+        "말라카 해협",
+        "타타르 해협",
+        "도버 해협"
+      ],
+      "answerIndex": 0,
+      "explanation": "대한해협은 한반도 남동쪽과 일본 규슈 사이에 있는 해협이에요. 쓰시마 섬을 경계로 나누어 부르기도 해요."
+    },
+    {
+      "id": "geography-a441966f",
+      "category": "geography",
+      "difficulty": 2,
+      "question": "한라산 정상에 있는 화산 호수의 이름은?",
+      "choices": [
+        "경포호",
+        "천지",
+        "우포늪",
+        "백록담"
+      ],
+      "answerIndex": 3,
+      "explanation": "백록담은 제주 한라산 정상의 화구호예요. 천지는 백두산 정상에 있는 호수예요."
+    },
+    {
+      "id": "geography-7d3f5079",
+      "category": "geography",
+      "difficulty": 2,
+      "question": "안데스 산맥이 남북으로 길게 뻗은 대륙은?",
+      "choices": [
+        "아시아",
+        "북아메리카",
+        "남아메리카",
+        "아프리카"
+      ],
+      "answerIndex": 2,
+      "explanation": "안데스 산맥은 남아메리카 서쪽 가장자리를 따라 길게 뻗어 있어요. 세계에서 가장 긴 대륙 산맥이에요."
+    },
+    {
+      "id": "geography-49fcf463",
+      "category": "geography",
+      "difficulty": 2,
+      "question": "미국 그랜드캐니언을 깊게 깎아 낸 강은?",
+      "choices": [
+        "컬럼비아강",
+        "허드슨강",
+        "미시시피강",
+        "콜로라도강"
+      ],
+      "answerIndex": 3,
+      "explanation": "그랜드캐니언은 콜로라도강이 오랜 세월 땅을 깎아 만든 거대한 협곡이에요. 애리조나주에 있어요."
+    },
+    {
+      "id": "geography-9b2e1696",
+      "category": "geography",
+      "difficulty": 2,
+      "question": "다음 중 알프스 산맥이 지나는 나라는?",
+      "choices": [
+        "포르투갈",
+        "스위스",
+        "폴란드",
+        "노르웨이"
+      ],
+      "answerIndex": 1,
+      "explanation": "알프스 산맥은 스위스를 비롯해 프랑스, 이탈리아, 오스트리아 등에 걸쳐 있어요. 포르투갈, 노르웨이, 폴란드는 알프스가 지나지 않아요."
+    },
+    {
+      "id": "geography-abc9d481",
+      "category": "geography",
+      "difficulty": 2,
+      "question": "한반도 동쪽 해안을 따라 남북으로 뻗은 척추 산맥은?",
+      "choices": [
+        "차령산맥",
+        "노령산맥",
+        "태백산맥",
+        "소백산맥"
+      ],
+      "answerIndex": 2,
+      "explanation": "태백산맥은 한반도 동쪽에 치우쳐 남북으로 길게 뻗은 산맥이에요. 그래서 동해안은 경사가 급하고 서쪽은 완만해요."
+    },
+    {
+      "id": "geography-6b3a4de4",
+      "category": "geography",
+      "difficulty": 3,
+      "question": "나일강이 흘러 들어가는 바다는?",
+      "choices": [
+        "인도양",
+        "홍해",
+        "지중해",
+        "흑해"
+      ],
+      "answerIndex": 2,
+      "explanation": "나일강은 아프리카 내륙에서 북쪽으로 흘러 이집트를 지나 지중해로 들어가요. 하구에는 넓은 삼각주가 발달했어요."
+    },
+    {
+      "id": "geography-fa3d0df0",
+      "category": "geography",
+      "difficulty": 3,
+      "question": "세계의 대양 중 면적이 가장 작은 곳은?",
+      "choices": [
+        "태평양",
+        "인도양",
+        "대서양",
+        "북극해"
+      ],
+      "answerIndex": 3,
+      "explanation": "북극해는 북극을 중심으로 한 바다로 대양 중 가장 작아요. 대부분 해역이 겨울에 얼음으로 덮여요."
+    },
+    {
+      "id": "geography-31bbb4f8",
+      "category": "geography",
+      "difficulty": 3,
+      "question": "아프리카 남동쪽의 큰 섬 마다가스카르가 있는 바다는?",
+      "choices": [
+        "북극해",
+        "인도양",
+        "태평양",
+        "대서양"
+      ],
+      "answerIndex": 1,
+      "explanation": "마다가스카르는 아프리카 대륙 남동쪽 인도양에 있는 섬나라예요. 세계에서 손꼽히는 큰 섬이에요."
+    },
+    {
+      "id": "geography-944235ba",
+      "category": "geography",
+      "difficulty": 3,
+      "question": "지브롤터 해협이 이어 주는 두 바다는?",
+      "choices": [
+        "대서양과 지중해",
+        "북해와 발트해",
+        "흑해와 카스피해",
+        "홍해와 인도양"
+      ],
+      "answerIndex": 0,
+      "explanation": "지브롤터 해협은 이베리아 반도 남쪽과 아프리카 북서쪽 사이의 좁은 바닷길이에요. 대서양과 지중해를 이어 줘요."
+    },
+    {
+      "id": "geography-e8924857",
+      "category": "geography",
+      "difficulty": 3,
+      "question": "다음 중 서해로 흘러들지 않는 강은?",
+      "choices": [
+        "대동강",
+        "낙동강",
+        "한강",
+        "금강"
+      ],
+      "answerIndex": 1,
+      "explanation": "낙동강은 경상도 지역을 지나 남해로 흘러가요. 한강, 금강, 대동강은 서해로 들어가요."
+    },
+    {
+      "id": "geography-7ac3b730",
+      "category": "geography",
+      "difficulty": 3,
+      "question": "스웨덴의 수도는 어디일까요?",
+      "choices": [
+        "오슬로",
+        "스톡홀름",
+        "헬싱키",
+        "코펜하겐"
+      ],
+      "answerIndex": 1,
+      "explanation": "스웨덴의 수도는 스톡홀름이에요. 오슬로는 노르웨이, 코펜하겐은 덴마크, 헬싱키는 핀란드의 수도예요."
+    },
+    {
+      "id": "geography-d5d47343",
+      "category": "geography",
+      "difficulty": 1,
+      "question": "히말라야 산맥에 있는 세계에서 가장 높은 산은?",
+      "choices": [
+        "에베레스트산",
+        "몽블랑",
+        "킬리만자로산",
+        "후지산"
+      ],
+      "answerIndex": 0,
+      "explanation": "에베레스트산은 네팔과 중국(티베트) 국경에 솟아 있는 세계 최고봉이에요. 히말라야 산맥에서도 가장 높은 곳이에요.",
+      "funFact": "티베트에서는 '초모랑마', 네팔에서는 '사가르마타'라고 불러요."
+    }
+  ]
+}

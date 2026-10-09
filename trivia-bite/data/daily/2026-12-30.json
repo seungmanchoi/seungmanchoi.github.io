@@ -1,0 +1,150 @@
+{
+  "version": 1,
+  "id": "daily-2026-12-30",
+  "date": "2026-12-30",
+  "questions": [
+    {
+      "id": "science-ea896d05",
+      "category": "science",
+      "difficulty": 1,
+      "question": "소리가 전달되지 못하는 곳은?",
+      "choices": [
+        "진공 상태의 공간",
+        "쇠막대 속",
+        "공기 중",
+        "물속"
+      ],
+      "answerIndex": 0,
+      "explanation": "소리는 공기, 물, 고체 같은 물질이 떨리면서 전달돼요. 진공에는 떨릴 물질이 없어서 소리가 전해지지 않아요.",
+      "funFact": "달 표면에서는 우주인끼리 무전기 없이는 대화할 수 없어요."
+    },
+    {
+      "id": "geography-5270d7d1",
+      "category": "geography",
+      "difficulty": 1,
+      "question": "한반도에서 가장 높은 산은?",
+      "choices": [
+        "지리산",
+        "백두산",
+        "금강산",
+        "한라산"
+      ],
+      "answerIndex": 1,
+      "explanation": "백두산은 해발 약 2,744m로 한반도에서 가장 높아요. 정상에는 천지라는 호수가 있어요. 한라산은 남한에서 가장 높은 산이에요."
+    },
+    {
+      "id": "economy-9bfa5ea5",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "미국의 공식 화폐 단위는?",
+      "choices": [
+        "파운드",
+        "엔",
+        "달러",
+        "유로"
+      ],
+      "answerIndex": 2,
+      "explanation": "미국의 화폐 단위는 달러예요. 유로는 유럽 여러 나라, 파운드는 영국, 엔은 일본의 화폐 단위예요."
+    },
+    {
+      "id": "life-469bb4c4",
+      "category": "life",
+      "difficulty": 1,
+      "question": "전자레인지에 넣으면 불꽃이 튈 수 있는 것은?",
+      "choices": [
+        "전용 플라스틱 용기",
+        "알루미늄 포일",
+        "내열 유리 그릇",
+        "젖은 키친타월"
+      ],
+      "answerIndex": 1,
+      "explanation": "전자레인지의 마이크로파는 금속 표면에 전류를 일으켜 불꽃을 만들 수 있어요. 알루미늄 포일은 넣지 않는 게 안전해요."
+    },
+    {
+      "id": "history-73bf41fa",
+      "category": "history",
+      "difficulty": 2,
+      "question": "'눈에는 눈, 이에는 이'로 유명한 함무라비 법전이 만들어진 문명은?",
+      "choices": [
+        "황허 문명",
+        "이집트 문명",
+        "메소포타미아 문명",
+        "인더스 문명"
+      ],
+      "answerIndex": 2,
+      "explanation": "바빌로니아의 함무라비 왕이 만든 성문법으로, 메소포타미아 지역에서 나왔어요. 입은 피해와 같은 정도로 갚게 한 원칙이 담겨 있어요.",
+      "funFact": "법전이 새겨진 돌기둥은 지금 프랑스 루브르 박물관에 있어요."
+    },
+    {
+      "id": "science-503edd6b",
+      "category": "science",
+      "difficulty": 2,
+      "question": "식초의 신맛을 내는 주성분은?",
+      "choices": [
+        "구연산",
+        "젖산",
+        "염산",
+        "아세트산"
+      ],
+      "answerIndex": 3,
+      "explanation": "식초는 아세트산(초산)이 들어 있어서 신맛이 나요. 구연산은 레몬 같은 과일에 많이 들어 있어요."
+    },
+    {
+      "id": "economy-d2e8f6b5",
+      "category": "economy",
+      "difficulty": 2,
+      "question": "총수입과 총비용이 같아 이익도 손실도 없는 지점은?",
+      "choices": [
+        "포화점",
+        "변곡점",
+        "시장 균형점",
+        "손익분기점"
+      ],
+      "answerIndex": 3,
+      "explanation": "매출액이 들어간 비용과 딱 같아지는 지점이에요. 이 지점을 넘어서면 이익이 나기 시작해요."
+    },
+    {
+      "id": "korean-46511252",
+      "category": "korean",
+      "difficulty": 3,
+      "question": "사자성어 '조삼모사'의 뜻으로 알맞은 것은?",
+      "choices": [
+        "당장 눈앞의 차이에 속음",
+        "세 번 생각한 뒤 행동함",
+        "계획이 자주 바뀜",
+        "아침저녁으로 문안드림"
+      ],
+      "answerIndex": 0,
+      "explanation": "원숭이에게 먹이를 주는 옛 고사에서 나온 말이에요. 아침과 저녁에 주는 개수 순서만 바뀌었는데 좋아한 것처럼, 눈앞의 차이에 속는다는 뜻이에요."
+    },
+    {
+      "id": "history-e60901ee",
+      "category": "history",
+      "difficulty": 3,
+      "question": "372년 고구려 소수림왕이 인재 양성을 위해 세운 교육기관은?",
+      "choices": [
+        "태학",
+        "국자감",
+        "집현전",
+        "성균관"
+      ],
+      "answerIndex": 0,
+      "explanation": "소수림왕은 372년 태학을 세워 유학을 가르치고 관리를 길렀어요. 불교도 공인하고 율령을 반포해 나라의 체제를 정비했어요."
+    },
+    {
+      "id": "science-f98a40d0",
+      "category": "science",
+      "difficulty": 3,
+      "question": "1901년 ABO식 혈액형을 발견한 오스트리아 과학자는?",
+      "choices": [
+        "알렉산더 플레밍",
+        "카를 란트슈타이너",
+        "그레고어 멘델",
+        "루이 파스퇴르"
+      ],
+      "answerIndex": 1,
+      "explanation": "란트슈타이너는 서로 다른 사람의 피를 섞으면 엉기는 현상을 연구해 A, B, O형을 발견했어요. 덕분에 안전한 수혈이 가능해졌어요.",
+      "funFact": "그는 이 업적으로 1930년 노벨 생리의학상을 받았어요."
+    }
+  ]
+}

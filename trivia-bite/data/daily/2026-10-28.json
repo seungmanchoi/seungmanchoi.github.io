@@ -1,0 +1,154 @@
+{
+  "version": 1,
+  "id": "daily-2026-10-28",
+  "date": "2026-10-28",
+  "questions": [
+    {
+      "id": "history-53f69f55",
+      "category": "history",
+      "difficulty": 1,
+      "question": "진시황릉 주변에서 발견된 흙으로 빚은 군대 인형은?",
+      "choices": [
+        "하니와",
+        "모아이",
+        "병마용",
+        "스핑크스"
+      ],
+      "answerIndex": 2,
+      "explanation": "진시황의 무덤 근처에서 실물 크기의 흙 병사와 말 인형이 수천 점 발견됐어요. 이것을 병마용이라고 불러요.",
+      "funFact": "1974년 우물을 파던 농부들이 우연히 처음 발견했어요."
+    },
+    {
+      "id": "science-8bd1a6b6",
+      "category": "science",
+      "difficulty": 1,
+      "question": "숨 쉴 때 공기 속 산소가 혈액으로 들어가는 기관은?",
+      "choices": [
+        "폐",
+        "위",
+        "간",
+        "신장"
+      ],
+      "answerIndex": 0,
+      "explanation": "폐 속의 허파꽈리에서 산소는 혈액으로 들어가고 이산화탄소는 밖으로 나와요. 이 과정을 기체 교환이라고 해요.",
+      "funFact": "허파꽈리는 양쪽 폐에 수억 개나 있다고 해요."
+    },
+    {
+      "id": "geography-940636aa",
+      "category": "geography",
+      "difficulty": 1,
+      "question": "7대륙 가운데 면적이 가장 작은 대륙은?",
+      "choices": [
+        "오세아니아",
+        "유럽",
+        "아프리카",
+        "남극"
+      ],
+      "answerIndex": 0,
+      "explanation": "오세아니아는 오스트레일리아와 주변 섬들로 이루어진 가장 작은 대륙이에요. 유럽, 남극, 아프리카는 모두 이보다 훨씬 넓어요."
+    },
+    {
+      "id": "korean-1b94f03e",
+      "category": "korean",
+      "difficulty": 1,
+      "question": "속담 '호랑이도 제 말 하면 온다'의 뜻으로 알맞은 것은?",
+      "choices": [
+        "무서운 사람은 피해야 함",
+        "말하던 사람이 마침 나타남",
+        "말한 것은 반드시 이뤄짐",
+        "큰소리치면 일이 잘 풀림"
+      ],
+      "answerIndex": 1,
+      "explanation": "어떤 사람이 없는 자리에서 그 사람 이야기를 하는데 마침 그 사람이 나타날 때 쓰는 속담이에요.",
+      "funFact": "영어에도 비슷한 뜻의 'Speak of the devil'이라는 표현이 있어요."
+    },
+    {
+      "id": "life-db5ef463",
+      "category": "life",
+      "difficulty": 2,
+      "question": "가벼운 화상을 입었을 때 가장 먼저 할 일은?",
+      "choices": [
+        "물집을 바로 터뜨리기",
+        "흐르는 찬물에 식히기",
+        "된장을 바르기",
+        "치약을 바르기"
+      ],
+      "answerIndex": 1,
+      "explanation": "먼저 흐르는 찬물로 열기를 충분히 식혀 주는 것이 가장 중요해요. 치약이나 된장을 바르면 감염될 수 있어요."
+    },
+    {
+      "id": "culture-8aef6f48",
+      "category": "culture",
+      "difficulty": 2,
+      "question": "마라톤의 공식 경기 거리는 얼마일까요?",
+      "choices": [
+        "41.195km",
+        "42.195km",
+        "43.195km",
+        "40.000km"
+      ],
+      "answerIndex": 1,
+      "explanation": "마라톤의 공식 거리는 42.195km예요. 1908년 런던 올림픽의 코스 거리에서 비롯돼 이후 표준으로 굳어졌어요.",
+      "funFact": "당시 영국 왕실의 요청으로 출발점이 윈저성으로 정해지면서 이 거리가 나왔다고 알려져 있어요."
+    },
+    {
+      "id": "history-e318cebc",
+      "category": "history",
+      "difficulty": 2,
+      "question": "18세기 증기기관을 크게 개량해 산업혁명에 기여한 사람은?",
+      "choices": [
+        "토머스 에디슨",
+        "찰스 다윈",
+        "제임스 와트",
+        "아이작 뉴턴"
+      ],
+      "answerIndex": 2,
+      "explanation": "와트는 기존 증기기관의 효율을 크게 높였어요. 덕분에 공장과 기계의 동력으로 증기기관이 널리 퍼졌어요.",
+      "funFact": "동력의 단위 '와트(W)'는 그의 이름에서 따왔어요."
+    },
+    {
+      "id": "economy-2758660a",
+      "category": "economy",
+      "difficulty": 3,
+      "question": "비교우위론으로 자유무역의 이점을 설명한 영국 경제학자는?",
+      "choices": [
+        "토머스 맬서스",
+        "애덤 스미스",
+        "데이비드 리카도",
+        "존 메이너드 케인스"
+      ],
+      "answerIndex": 2,
+      "explanation": "리카도는 각 나라가 상대적으로 더 잘 만드는 물건에 집중해 교환하면 모두 이익이라고 설명했어요. 이것이 비교우위론이에요."
+    },
+    {
+      "id": "history-dbfb3010",
+      "category": "history",
+      "difficulty": 3,
+      "question": "1419년 세종 때 쓰시마(대마도) 정벌을 이끈 장수는?",
+      "choices": [
+        "김종서",
+        "곽재우",
+        "최영",
+        "이종무"
+      ],
+      "answerIndex": 3,
+      "explanation": "세종 때 왜구의 근거지인 쓰시마를 정벌하려고 이종무가 군대를 이끌고 출정했어요. 이 일로 왜구의 약탈이 크게 줄었어요.",
+      "funFact": "이 사건은 해의 간지를 따서 기해동정이라고도 불려요."
+    },
+    {
+      "id": "science-8f37928d",
+      "category": "science",
+      "difficulty": 3,
+      "question": "사람의 성숙한 적혈구에 없는 구조는?",
+      "choices": [
+        "세포막",
+        "세포질",
+        "헤모글로빈",
+        "핵"
+      ],
+      "answerIndex": 3,
+      "explanation": "사람의 적혈구는 성숙하면서 핵을 잃어요. 그 덕분에 산소를 운반하는 헤모글로빈을 더 많이 담을 수 있어요.",
+      "funFact": "새나 파충류 같은 동물의 적혈구에는 핵이 남아 있어요."
+    }
+  ]
+}

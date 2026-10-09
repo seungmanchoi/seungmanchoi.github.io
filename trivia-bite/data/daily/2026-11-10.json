@@ -1,0 +1,149 @@
+{
+  "version": 1,
+  "id": "daily-2026-11-10",
+  "date": "2026-11-10",
+  "questions": [
+    {
+      "id": "geography-5898a5f7",
+      "category": "geography",
+      "difficulty": 1,
+      "question": "지구를 북반구와 남반구로 나누는 가상의 선은?",
+      "choices": [
+        "날짜변경선",
+        "본초자오선",
+        "북회귀선",
+        "적도"
+      ],
+      "answerIndex": 3,
+      "explanation": "적도는 위도 0도로, 북극과 남극에서 같은 거리에 있는 선이에요. 적도를 기준으로 북쪽은 북반구, 남쪽은 남반구예요.",
+      "funFact": "적도의 길이는 지구를 한 바퀴 도는 길이인 약 4만 km예요."
+    },
+    {
+      "id": "history-d936fe59",
+      "category": "history",
+      "difficulty": 1,
+      "question": "1443년 훈민정음을 창제한 조선의 왕은?",
+      "choices": [
+        "세조",
+        "세종",
+        "성종",
+        "태종"
+      ],
+      "answerIndex": 1,
+      "explanation": "세종은 백성이 쉽게 익혀 쓸 수 있는 문자를 만들려고 훈민정음을 창제했어요. 1446년에 이를 세상에 널리 알렸어요.",
+      "funFact": "훈민정음은 '백성을 가르치는 바른 소리'라는 뜻이에요."
+    },
+    {
+      "id": "science-0dead5fa",
+      "category": "science",
+      "difficulty": 1,
+      "question": "사람이 숨을 내쉴 때 들이마실 때보다 늘어나는 기체는?",
+      "choices": [
+        "헬륨",
+        "아르곤",
+        "이산화탄소",
+        "수소"
+      ],
+      "answerIndex": 2,
+      "explanation": "몸속에서 영양소를 분해해 에너지를 얻으면 이산화탄소가 생겨요. 이 기체가 날숨으로 나가서 들숨보다 날숨에 더 많이 들어 있어요."
+    },
+    {
+      "id": "economy-5a289194",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "물가가 지속적으로 오르는 현상을 무엇이라 할까요?",
+      "choices": [
+        "디플레이션",
+        "리세션",
+        "인플레이션",
+        "디폴트"
+      ],
+      "answerIndex": 2,
+      "explanation": "인플레이션은 물가가 계속 올라 화폐의 가치가 떨어지는 현상이에요. 같은 돈으로 살 수 있는 물건이 점점 줄어들어요."
+    },
+    {
+      "id": "korean-97007e0f",
+      "category": "korean",
+      "difficulty": 2,
+      "question": "'이게 ○○ 일이야?'의 빈칸에 알맞은 표기는?",
+      "choices": [
+        "왼",
+        "웬",
+        "왠",
+        "웨"
+      ],
+      "answerIndex": 1,
+      "explanation": "'웬'은 '어찌 된'이라는 뜻이라 '웬일', '웬만하면'처럼 써요. '왠'은 '왜인지'의 준말인 '왠지'에서만 쓰여요."
+    },
+    {
+      "id": "life-1011a12c",
+      "category": "life",
+      "difficulty": 2,
+      "question": "눈에 먼지가 들어갔을 때 올바른 응급 대처는?",
+      "choices": [
+        "입김으로 불기",
+        "손가락으로 빼기",
+        "세게 비비기",
+        "깨끗한 물로 씻기"
+      ],
+      "answerIndex": 3,
+      "explanation": "눈을 비비면 각막에 상처가 날 수 있어요. 깨끗한 흐르는 물로 눈을 충분히 씻어 내는 게 기본이에요."
+    },
+    {
+      "id": "history-55a9753a",
+      "category": "history",
+      "difficulty": 2,
+      "question": "698년 고구려 유민을 이끌고 발해를 세운 인물은?",
+      "choices": [
+        "견훤",
+        "김유신",
+        "대조영",
+        "연개소문"
+      ],
+      "answerIndex": 2,
+      "explanation": "대조영은 고구려 유민과 말갈족을 이끌고 동모산 일대에서 나라를 세웠어요. 이 나라는 훗날 발해라는 이름을 쓰게 되었어요."
+    },
+    {
+      "id": "culture-a7680ca5",
+      "category": "culture",
+      "difficulty": 3,
+      "question": "오페라 '라 트라비아타'를 작곡한 사람은?",
+      "choices": [
+        "푸치니",
+        "베르디",
+        "로시니",
+        "바그너"
+      ],
+      "answerIndex": 1,
+      "explanation": "베르디는 19세기 이탈리아의 대표 오페라 작곡가로 '리골레토', '아이다'도 남겼어요. 라 트라비아타는 파리 사교계 여인 비올레타의 사랑 이야기예요."
+    },
+    {
+      "id": "geography-92e72126",
+      "category": "geography",
+      "difficulty": 3,
+      "question": "남아메리카에서 바다에 접하지 않은 나라는 볼리비아와 어디일까요?",
+      "choices": [
+        "파라과이",
+        "우루과이",
+        "페루",
+        "칠레"
+      ],
+      "answerIndex": 0,
+      "explanation": "남아메리카의 내륙국은 볼리비아와 파라과이 두 나라뿐이에요. 우루과이, 칠레, 페루는 모두 바다에 접해 있어요."
+    },
+    {
+      "id": "history-23bf419b",
+      "category": "history",
+      "difficulty": 3,
+      "question": "조선이 일본과 맺은 최초의 근대적 조약인 강화도 조약은 몇 년일까요?",
+      "choices": [
+        "1876년",
+        "1894년",
+        "1882년",
+        "1866년"
+      ],
+      "answerIndex": 0,
+      "explanation": "강화도 조약은 1876년 일본과 맺은 조약으로, 부산 등 항구를 열게 되었어요. 일본에 유리한 불평등 조약이었어요."
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "version": 1,
+  "id": "daily-2026-12-28",
+  "date": "2026-12-28",
+  "questions": [
+    {
+      "id": "science-51ae1f4d",
+      "category": "science",
+      "difficulty": 1,
+      "question": "지구에서 가장 가까운 별은?",
+      "choices": [
+        "태양",
+        "베텔게우스",
+        "시리우스",
+        "북극성"
+      ],
+      "answerIndex": 0,
+      "explanation": "태양은 지구에서 약 1억 5천만 km 떨어진 가장 가까운 별이에요. 스스로 빛을 내는 천체를 별(항성)이라고 해요.",
+      "funFact": "태양을 제외하면 가장 가까운 별까지는 빛의 속도로도 4년 넘게 걸려요."
+    },
+    {
+      "id": "korean-287c2d68",
+      "category": "korean",
+      "difficulty": 1,
+      "question": "속담 '고래 싸움에 ○○ 등 터진다'의 빈칸에 들어갈 말은?",
+      "choices": [
+        "문어",
+        "멸치",
+        "새우",
+        "조개"
+      ],
+      "answerIndex": 2,
+      "explanation": "강한 이들끼리 싸우는 틈에 상관없는 약한 사람이 피해를 본다는 뜻의 속담이에요. 큰 고래들이 싸우면 작은 새우가 휩쓸린다는 데서 나왔어요."
+    },
+    {
+      "id": "economy-16ab8b4c",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "돈 없이 물건끼리 직접 맞바꾸는 거래 방식은?",
+      "choices": [
+        "신용 거래",
+        "할부 거래",
+        "경매",
+        "물물교환"
+      ],
+      "answerIndex": 3,
+      "explanation": "화폐 없이 물건과 물건을 직접 맞바꾸는 거래를 물물교환이라고 해요. 서로 원하는 물건이 딱 맞아야 해서 불편했고, 그래서 화폐가 생겨났어요."
+    },
+    {
+      "id": "life-438f6d69",
+      "category": "life",
+      "difficulty": 1,
+      "question": "심장이 갑자기 멈춘 사람에게 하는 응급처치는?",
+      "choices": [
+        "압박 지혈",
+        "하임리히법",
+        "심폐소생술",
+        "냉찜질"
+      ],
+      "answerIndex": 2,
+      "explanation": "심장이 멈춘 사람에게는 119에 신고한 뒤 가슴 가운데를 강하고 빠르게 눌러 주는 심폐소생술을 해요. 분당 100~120회 속도로 눌러 주면 돼요."
+    },
+    {
+      "id": "history-de21303f",
+      "category": "history",
+      "difficulty": 2,
+      "question": "1860년 동학을 창시한 인물은?",
+      "choices": [
+        "손병희",
+        "최시형",
+        "전봉준",
+        "최제우"
+      ],
+      "answerIndex": 3,
+      "explanation": "최제우는 1860년 서학에 맞서는 뜻으로 동학을 창시했어요. 2대 교주 최시형이 이를 널리 퍼뜨렸어요.",
+      "funFact": "동학이라는 이름은 서쪽의 학문인 서학에 대응해 '동쪽 나라의 학문'이라는 뜻으로 지었어요."
+    },
+    {
+      "id": "geography-953eb17a",
+      "category": "geography",
+      "difficulty": 2,
+      "question": "우리나라 국토 최남단에 있는 섬은?",
+      "choices": [
+        "백령도",
+        "거제도",
+        "울릉도",
+        "마라도"
+      ],
+      "answerIndex": 3,
+      "explanation": "마라도는 제주도 남쪽에 있는 우리 국토 최남단의 섬이에요. 작지만 관광지로 잘 알려져 있어요."
+    },
+    {
+      "id": "science-2ff0ad15",
+      "category": "science",
+      "difficulty": 2,
+      "question": "밀물과 썰물이 생기는 주된 원인은?",
+      "choices": [
+        "지구 자기장",
+        "달과 태양의 인력",
+        "강물 유입량",
+        "바람의 세기"
+      ],
+      "answerIndex": 1,
+      "explanation": "바닷물이 달과 태양의 인력에 끌려 높아졌다 낮아지는 현상이 밀물과 썰물이에요. 태양보다 훨씬 가까운 달의 영향이 더 커요."
+    },
+    {
+      "id": "culture-6c09e46a",
+      "category": "culture",
+      "difficulty": 3,
+      "question": "시스티나 성당 천장화 '천지창조'를 그린 화가는?",
+      "choices": [
+        "레오나르도 다 빈치",
+        "미켈란젤로",
+        "라파엘로",
+        "산드로 보티첼리"
+      ],
+      "answerIndex": 1,
+      "explanation": "시스티나 성당의 천장화 '천지창조'는 미켈란젤로가 1508년부터 1512년까지 그렸어요. 교황 율리우스 2세가 맡긴 작품이에요.",
+      "funFact": "미켈란젤로는 스스로를 화가보다 조각가라고 여겼다고 해요."
+    },
+    {
+      "id": "history-c7288b91",
+      "category": "history",
+      "difficulty": 3,
+      "question": "『경국대전』을 완성해 반포한 조선의 왕은?",
+      "choices": [
+        "세조",
+        "세종",
+        "성종",
+        "영조"
+      ],
+      "answerIndex": 2,
+      "explanation": "경국대전은 세조 때 편찬을 시작해 성종 16년(1485)에 반포된 조선의 기본 법전이에요. 이후 조선 통치의 바탕이 됐어요."
+    },
+    {
+      "id": "science-cf228e65",
+      "category": "science",
+      "difficulty": 3,
+      "question": "양성자 수는 같고 중성자 수만 다른 원자를 부르는 말은?",
+      "choices": [
+        "동위원소",
+        "화합물",
+        "이온",
+        "동소체"
+      ],
+      "answerIndex": 0,
+      "explanation": "원소의 종류는 양성자 수로 정해져요. 양성자 수는 같지만 중성자 수가 달라 질량이 다른 원자를 동위원소라고 해요.",
+      "funFact": "탄소-14라는 동위원소의 성질을 이용해 유물의 나이를 알아내요."
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "version": 1,
+  "id": "daily-2026-11-13",
+  "date": "2026-11-13",
+  "questions": [
+    {
+      "id": "history-1dc90643",
+      "category": "history",
+      "difficulty": 1,
+      "question": "7세기에 삼국 통일을 이룬 나라는?",
+      "choices": [
+        "고려",
+        "신라",
+        "고구려",
+        "백제"
+      ],
+      "answerIndex": 1,
+      "explanation": "신라는 당나라와 손잡고 백제와 고구려를 차례로 무너뜨렸어요. 이후 당의 세력까지 몰아내며 676년에 삼국 통일을 마무리했어요."
+    },
+    {
+      "id": "geography-a35dee1c",
+      "category": "geography",
+      "difficulty": 1,
+      "question": "우리나라에서 가장 큰 섬은?",
+      "choices": [
+        "거제도",
+        "울릉도",
+        "강화도",
+        "제주도"
+      ],
+      "answerIndex": 3,
+      "explanation": "제주도는 우리나라에서 면적이 가장 넓은 섬이에요. 한가운데에는 한라산이 우뚝 솟아 있어요."
+    },
+    {
+      "id": "korean-bea1e4d8",
+      "category": "korean",
+      "difficulty": 1,
+      "question": "사자성어 '동문서답'의 뜻으로 알맞은 것은?",
+      "choices": [
+        "서로 마음이 저절로 통함",
+        "말없이 조용히 지냄",
+        "묻는 말과 다른 엉뚱한 대답",
+        "같은 말을 자꾸 되풀이함"
+      ],
+      "answerIndex": 2,
+      "explanation": "동문서답은 동쪽을 묻는데 서쪽을 답한다는 뜻이에요. 질문과 상관없는 엉뚱한 대답을 할 때 쓰는 말이에요."
+    },
+    {
+      "id": "economy-4765774c",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "한 나라 안에서 일정 기간 생산한 재화·서비스의 총가치는?",
+      "choices": [
+        "국내총생산(GDP)",
+        "무역수지",
+        "소비자물가지수",
+        "기준금리"
+      ],
+      "answerIndex": 0,
+      "explanation": "국내총생산은 한 나라의 경제 규모를 나타내는 대표 지표예요. 영어 약자로 GDP라고 불러요."
+    },
+    {
+      "id": "science-5ff09b20",
+      "category": "science",
+      "difficulty": 2,
+      "question": "적혈구 속에서 산소를 실어 나르는 붉은 단백질은?",
+      "choices": [
+        "헤모글로빈",
+        "콜라겐",
+        "인슐린",
+        "아밀레이스"
+      ],
+      "answerIndex": 0,
+      "explanation": "헤모글로빈은 철을 포함하고 있어 산소와 쉽게 결합해요. 이 철 성분 때문에 피가 붉게 보여요."
+    },
+    {
+      "id": "history-4909ac2f",
+      "category": "history",
+      "difficulty": 2,
+      "question": "612년 살수에서 수나라 대군을 물리친 고구려 장군은?",
+      "choices": [
+        "을지문덕",
+        "양만춘",
+        "연개소문",
+        "온달"
+      ],
+      "answerIndex": 0,
+      "explanation": "을지문덕은 거짓으로 물러나며 수나라군을 깊숙이 끌어들였어요. 지친 적이 살수를 건널 때 공격해 크게 이겼어요."
+    },
+    {
+      "id": "korean-a7792d7f",
+      "category": "korean",
+      "difficulty": 2,
+      "question": "'내일 또 ○○.' 빈칸에 알맞은 표기는?",
+      "choices": [
+        "봬여",
+        "봬요",
+        "뵈여",
+        "뵈요"
+      ],
+      "answerIndex": 1,
+      "explanation": "'봬요'는 '뵈어요'가 줄어든 말이에요. '뵈요'는 '뵈다'에 '요'만 붙인 것이라 틀린 표기예요."
+    },
+    {
+      "id": "culture-b3724222",
+      "category": "culture",
+      "difficulty": 3,
+      "question": "베토벤 교향곡 9번 '합창'에 쓰인 가사의 원작 시인은?",
+      "choices": [
+        "괴테",
+        "횔덜린",
+        "하이네",
+        "실러"
+      ],
+      "answerIndex": 3,
+      "explanation": "4악장 합창에는 독일 시인 프리드리히 실러의 시 '환희에 부쳐'가 쓰였어요. 베토벤은 이 시의 일부를 골라 곡을 붙였어요.",
+      "funFact": "이 곡의 선율은 유럽 연합의 공식 찬가로도 쓰여요."
+    },
+    {
+      "id": "science-a5426bc2",
+      "category": "science",
+      "difficulty": 3,
+      "question": "생물 분류에서 '종'의 바로 위 단계는?",
+      "choices": [
+        "목",
+        "강",
+        "속",
+        "과"
+      ],
+      "answerIndex": 2,
+      "explanation": "생물 분류는 계, 문, 강, 목, 과, 속, 종 순서로 점점 좁아져요. 그래서 종의 바로 위 단계는 속이에요."
+    },
+    {
+      "id": "korean-ba3a5405",
+      "category": "korean",
+      "difficulty": 3,
+      "question": "고유어 '노루잠'의 뜻으로 알맞은 것은?",
+      "choices": [
+        "남몰래 몰래 자는 잠",
+        "한번 들면 깨지 않는 잠",
+        "앉아서 꾸벅꾸벅 조는 잠",
+        "깊이 못 들고 자주 깨는 잠"
+      ],
+      "answerIndex": 3,
+      "explanation": "노루잠은 깊이 들지 못하고 자꾸 깨는 선잠을 뜻하는 우리말이에요. 푹 자지 못하고 뒤척일 때 쓸 수 있어요."
+    }
+  ]
+}

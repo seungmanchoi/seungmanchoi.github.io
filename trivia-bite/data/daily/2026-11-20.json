@@ -1,0 +1,149 @@
+{
+  "version": 1,
+  "id": "daily-2026-11-20",
+  "date": "2026-11-20",
+  "questions": [
+    {
+      "id": "history-8f22b716",
+      "category": "history",
+      "difficulty": 1,
+      "question": "6·25 전쟁이 일어난 해는 몇 년일까요?",
+      "choices": [
+        "1945년",
+        "1948년",
+        "1953년",
+        "1950년"
+      ],
+      "answerIndex": 3,
+      "explanation": "1950년 6월 25일 북한군이 남쪽으로 쳐들어오며 전쟁이 시작됐어요. 1953년 정전 협정으로 전투가 멈췄어요."
+    },
+    {
+      "id": "geography-d49d25a4",
+      "category": "geography",
+      "difficulty": 1,
+      "question": "남한에서 가장 높은 산은 어디일까요?",
+      "choices": [
+        "설악산",
+        "한라산",
+        "지리산",
+        "태백산"
+      ],
+      "answerIndex": 1,
+      "explanation": "한라산은 제주도에 있고 높이가 약 1,947m예요. 남한에서 가장 높은 산이에요."
+    },
+    {
+      "id": "life-1cb0a846",
+      "category": "life",
+      "difficulty": 1,
+      "question": "손가락을 베어 피가 날 때 가장 먼저 할 일은?",
+      "choices": [
+        "피가 멎을 때까지 방치해요",
+        "상처를 세게 문질러요",
+        "깨끗한 천으로 꾹 눌러요",
+        "된장이나 치약을 발라요"
+      ],
+      "answerIndex": 2,
+      "explanation": "출혈이 있을 때는 깨끗한 거즈나 천으로 상처를 직접 눌러 지혈하는 것이 먼저예요. 된장이나 치약은 감염 위험이 있어 바르면 안 돼요."
+    },
+    {
+      "id": "culture-78058599",
+      "category": "culture",
+      "difficulty": 1,
+      "question": "축구 경기는 전반과 후반 각각 몇 분일까요?",
+      "choices": [
+        "30분",
+        "40분",
+        "50분",
+        "45분"
+      ],
+      "answerIndex": 3,
+      "explanation": "축구는 전반과 후반 각각 45분, 모두 90분 동안 경기해요. 여기에 심판이 판단한 추가 시간이 더해져요."
+    },
+    {
+      "id": "economy-f0ba0445",
+      "category": "economy",
+      "difficulty": 2,
+      "question": "물가가 지속적으로 떨어지는 현상을 무엇이라 할까요?",
+      "choices": [
+        "애그플레이션",
+        "스태그플레이션",
+        "디플레이션",
+        "인플레이션"
+      ],
+      "answerIndex": 2,
+      "explanation": "디플레이션은 물가가 계속 내려가는 현상이에요. 물건값이 더 내릴 거라 기대해 소비가 줄고 경기가 나빠질 수 있어요."
+    },
+    {
+      "id": "korean-64080a0a",
+      "category": "korean",
+      "difficulty": 2,
+      "question": "'버스가 ○○ 도착할 거예요'의 빈칸에 알맞은 표기는?",
+      "choices": [
+        "금쎄",
+        "금세",
+        "금새",
+        "근세"
+      ],
+      "answerIndex": 1,
+      "explanation": "'금세'는 '금시에'가 줄어든 말로 '곧, 바로'를 뜻해요. '금새'는 물건의 값이라는 뜻의 다른 낱말이라 이 문장에는 맞지 않아요."
+    },
+    {
+      "id": "science-ceb9d77a",
+      "category": "science",
+      "difficulty": 2,
+      "question": "외부에서 힘이 작용하지 않으면 물체가 지금의 운동 상태를 유지하려는 성질은?",
+      "choices": [
+        "관성",
+        "중력",
+        "마찰력",
+        "탄성력"
+      ],
+      "answerIndex": 0,
+      "explanation": "정지한 물체는 계속 멈춰 있고 움직이던 물체는 계속 같은 속도로 움직이려는 성질을 관성이라고 해요. 질량이 클수록 관성도 커요.",
+      "funFact": "달리던 버스가 급정거할 때 몸이 앞으로 쏠리는 것도 관성 때문이에요."
+    },
+    {
+      "id": "history-b4fc252f",
+      "category": "history",
+      "difficulty": 3,
+      "question": "병자호란 때 청과 화친하자는 주화론을 편 인물은?",
+      "choices": [
+        "홍익한",
+        "윤집",
+        "김상헌",
+        "최명길"
+      ],
+      "answerIndex": 3,
+      "explanation": "최명길은 전쟁을 끝내 백성을 지키자는 주화론을 펼쳤어요. 김상헌, 홍익한, 윤집 등은 끝까지 맞서 싸우자는 척화론을 주장했어요."
+    },
+    {
+      "id": "korean-225bce0d",
+      "category": "korean",
+      "difficulty": 3,
+      "question": "순우리말 '갓밝이'의 뜻으로 알맞은 것은?",
+      "choices": [
+        "날이 막 밝을 무렵",
+        "한낮의 가장 더운 때",
+        "깊은 밤 한가운데",
+        "해가 질 무렵"
+      ],
+      "answerIndex": 0,
+      "explanation": "'갓밝이'는 날이 막 밝을 무렵을 뜻하는 고유어예요. 해가 질 무렵은 땅거미라고 해요."
+    },
+    {
+      "id": "culture-a0721786",
+      "category": "culture",
+      "difficulty": 3,
+      "question": "소설 『돈키호테』를 쓴 스페인 작가는?",
+      "choices": [
+        "로페 데 베가",
+        "우나무노",
+        "세르반테스",
+        "칼데론"
+      ],
+      "answerIndex": 2,
+      "explanation": "세르반테스는 17세기 초 『돈키호테』를 발표했어요. 이상에 사로잡힌 기사와 그의 시종 산초의 모험을 그린 작품이에요.",
+      "funFact": "세르반테스는 레판토 해전에서 왼손을 쓰지 못하게 되어 '레판토의 외팔이'로 불렸어요."
+    }
+  ]
+}

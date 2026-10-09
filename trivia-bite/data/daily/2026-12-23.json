@@ -1,0 +1,150 @@
+{
+  "version": 1,
+  "id": "daily-2026-12-23",
+  "date": "2026-12-23",
+  "questions": [
+    {
+      "id": "history-407e6f1c",
+      "category": "history",
+      "difficulty": 1,
+      "question": "세종 때 만들어져 비의 양을 재던 기구는?",
+      "choices": [
+        "혼천의",
+        "앙부일구",
+        "자격루",
+        "측우기"
+      ],
+      "answerIndex": 3,
+      "explanation": "측우기는 세종 때 만든 강우량 측정 기구예요. 그릇에 고인 빗물의 깊이를 재서 비의 양을 쟀어요.",
+      "funFact": "서양에서 비슷한 우량계가 나오기보다 약 200년 앞섰다고 해요."
+    },
+    {
+      "id": "science-1eb46ff7",
+      "category": "science",
+      "difficulty": 1,
+      "question": "액체인 물이 기체인 수증기로 변하는 현상은?",
+      "choices": [
+        "융해",
+        "액화",
+        "기화",
+        "응고"
+      ],
+      "answerIndex": 2,
+      "explanation": "액체가 기체로 변하는 상태 변화를 기화라고 해요. 증발과 끓음이 모두 기화에 속해요."
+    },
+    {
+      "id": "korean-87661f29",
+      "category": "korean",
+      "difficulty": 1,
+      "question": "속담 '낫 놓고 기역 자도 모른다'가 가리키는 사람은?",
+      "choices": [
+        "말이 많은 사람",
+        "힘이 아주 센 사람",
+        "농사일에 서툰 사람",
+        "글자를 전혀 모르는 사람"
+      ],
+      "answerIndex": 3,
+      "explanation": "낫의 모양이 'ㄱ'과 닮았는데도 기역 자를 모른다는 뜻이에요. 글자를 전혀 모르는 무식한 사람을 빗대는 말이에요."
+    },
+    {
+      "id": "economy-1295a214",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "내 통장에서 돈을 꺼내는 일을 무엇이라 할까요?",
+      "choices": [
+        "출금",
+        "예치",
+        "입금",
+        "이체"
+      ],
+      "answerIndex": 0,
+      "explanation": "통장이나 계좌에서 돈을 빼는 일을 출금이라고 해요. 반대로 돈을 넣는 일은 입금이에요."
+    },
+    {
+      "id": "geography-de496b05",
+      "category": "geography",
+      "difficulty": 2,
+      "question": "일본 열도에서 가장 큰 섬은 어디일까요?",
+      "choices": [
+        "혼슈",
+        "규슈",
+        "홋카이도",
+        "시코쿠"
+      ],
+      "answerIndex": 0,
+      "explanation": "혼슈는 일본에서 가장 큰 섬이에요. 도쿄, 오사카, 교토 같은 주요 도시가 모두 이 섬에 있어요."
+    },
+    {
+      "id": "life-e1ed4efd",
+      "category": "life",
+      "difficulty": 2,
+      "question": "프라이팬의 기름에 불이 붙었을 때 올바른 조치는?",
+      "choices": [
+        "팬을 들고 밖으로 옮긴다",
+        "부채질로 불을 끈다",
+        "뚜껑을 덮어 불을 끈다",
+        "물을 끼얹는다"
+      ],
+      "answerIndex": 2,
+      "explanation": "뚜껑을 덮어 산소를 막아야 불이 꺼져요. 기름에 물을 부으면 기름이 튀어 불이 더 크게 번질 수 있어요."
+    },
+    {
+      "id": "history-63a2a295",
+      "category": "history",
+      "difficulty": 2,
+      "question": "임진왜란 때 행주산성에서 크게 이긴 조선 장수는?",
+      "choices": [
+        "정문부",
+        "권율",
+        "김천일",
+        "곽재우"
+      ],
+      "answerIndex": 1,
+      "explanation": "권율 장군은 1593년 행주산성에서 왜군을 크게 물리쳤어요. 이를 행주대첩이라고 불러요.",
+      "funFact": "행주대첩은 임진왜란 3대 대첩 중 하나로 꼽혀요."
+    },
+    {
+      "id": "culture-e6449297",
+      "category": "culture",
+      "difficulty": 3,
+      "question": "소설 『율리시스』를 쓴 아일랜드 작가는?",
+      "choices": [
+        "조지 오웰",
+        "제임스 조이스",
+        "오스카 와일드",
+        "버지니아 울프"
+      ],
+      "answerIndex": 1,
+      "explanation": "제임스 조이스는 하루 동안 더블린에서 벌어진 일을 그린 『율리시스』를 썼어요. 호메로스의 『오디세이아』 구조를 빌려 온 작품이에요.",
+      "funFact": "소설의 배경인 6월 16일을 아일랜드에서는 '블룸스데이'로 기념해요."
+    },
+    {
+      "id": "history-7a8e9117",
+      "category": "history",
+      "difficulty": 3,
+      "question": "1377년 최무선의 건의로 화약 무기를 만들려고 세운 관청은?",
+      "choices": [
+        "식목도감",
+        "도평의사사",
+        "화통도감",
+        "교정도감"
+      ],
+      "answerIndex": 2,
+      "explanation": "고려 말 최무선은 화약 제조법을 익혀 화통도감을 세웠어요. 이곳에서 대포 같은 화약 무기를 만들었어요."
+    },
+    {
+      "id": "science-2c553e36",
+      "category": "science",
+      "difficulty": 3,
+      "question": "생물 분류에서 '종'의 바로 위 단계는 무엇일까요?",
+      "choices": [
+        "과",
+        "강",
+        "목",
+        "속"
+      ],
+      "answerIndex": 3,
+      "explanation": "생물은 종, 속, 과, 목, 강, 문, 계 순으로 더 큰 무리로 묶어요. 그래서 종 바로 위 단계는 속이에요."
+    }
+  ]
+}

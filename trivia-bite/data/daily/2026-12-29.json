@@ -1,0 +1,149 @@
+{
+  "version": 1,
+  "id": "daily-2026-12-29",
+  "date": "2026-12-29",
+  "questions": [
+    {
+      "id": "history-93e858aa",
+      "category": "history",
+      "difficulty": 1,
+      "question": "서울 도성의 남쪽 정문으로 '남대문'이라고도 부르는 문은?",
+      "choices": [
+        "숭례문",
+        "돈의문",
+        "숙정문",
+        "흥인지문"
+      ],
+      "answerIndex": 0,
+      "explanation": "숭례문은 조선 한양도성의 4대문 가운데 남쪽 문이에요. 동쪽은 흥인지문, 서쪽은 돈의문, 북쪽은 숙정문이에요.",
+      "funFact": "숭례문은 2008년 화재로 크게 손상됐다가 2013년에 복구를 마쳤어요."
+    },
+    {
+      "id": "economy-377014f2",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "다른 조건이 같을 때, 물건 값이 오르면 일반적으로 수요량은?",
+      "choices": [
+        "변하지 않는다",
+        "두 배가 된다",
+        "늘어난다",
+        "줄어든다"
+      ],
+      "answerIndex": 3,
+      "explanation": "가격이 오르면 사려는 양이 줄어드는 것을 수요의 법칙이라고 해요. 값이 비싸지면 덜 사거나 다른 물건으로 바꾸기 때문이에요."
+    },
+    {
+      "id": "life-f1c41ab1",
+      "category": "life",
+      "difficulty": 1,
+      "question": "가벼운 화상을 입었을 때 가장 먼저 할 응급처치는?",
+      "choices": [
+        "흐르는 찬물에 식히기",
+        "얼음을 바로 대기",
+        "치약을 바르기",
+        "된장을 바르기"
+      ],
+      "answerIndex": 0,
+      "explanation": "화상 부위를 흐르는 찬물에 10~20분쯤 식혀 열기를 빼 주세요. 얼음이나 된장, 치약은 상처를 더 나쁘게 할 수 있어요."
+    },
+    {
+      "id": "culture-017894e1",
+      "category": "culture",
+      "difficulty": 1,
+      "question": "실내 배구에서 한 팀이 코트에 내보내는 선수는 몇 명일까요?",
+      "choices": [
+        "5명",
+        "6명",
+        "7명",
+        "8명"
+      ],
+      "answerIndex": 1,
+      "explanation": "실내 배구는 한 팀 6명이 코트에서 경기해요. 서브 순서에 맞춰 선수들이 위치를 돌아가며 뛰어요."
+    },
+    {
+      "id": "science-45472ee1",
+      "category": "science",
+      "difficulty": 2,
+      "question": "다음 중 식물 세포에는 있고 동물 세포에는 없는 것은?",
+      "choices": [
+        "세포벽",
+        "미토콘드리아",
+        "핵",
+        "리보솜"
+      ],
+      "answerIndex": 0,
+      "explanation": "식물 세포는 세포막 바깥에 단단한 세포벽이 있어서 모양을 유지해요. 핵, 미토콘드리아, 리보솜은 동물 세포에도 있어요."
+    },
+    {
+      "id": "history-3b199459",
+      "category": "history",
+      "difficulty": 2,
+      "question": "세종 때 우리 풍토에 맞는 농법을 정리해 펴낸 농서는?",
+      "choices": [
+        "임원경제지",
+        "농사직설",
+        "산림경제",
+        "구황촬요"
+      ],
+      "answerIndex": 1,
+      "explanation": "『농사직설』은 세종의 명으로 정초 등이 편찬한 농서예요. 중국 농법이 아닌 우리 땅에 맞는 농사 방법을 담았어요.",
+      "funFact": "각 지방 농부들의 경험을 직접 물어 모아 만들었어요."
+    },
+    {
+      "id": "economy-27089e0d",
+      "category": "economy",
+      "difficulty": 2,
+      "question": "사람의 욕구에 비해 자원이 부족한 상태를 뜻하는 말은?",
+      "choices": [
+        "외부효과",
+        "희소성",
+        "한계효용",
+        "규모의 경제"
+      ],
+      "answerIndex": 1,
+      "explanation": "자원은 한정돼 있는데 원하는 것은 많아서 선택이 필요하다는 개념이 희소성이에요. 경제 문제가 생기는 근본 이유예요."
+    },
+    {
+      "id": "geography-7b1a740c",
+      "category": "geography",
+      "difficulty": 3,
+      "question": "유럽에서 가장 긴 강인 볼가강이 흘러드는 곳은?",
+      "choices": [
+        "발트해",
+        "흑해",
+        "카스피해",
+        "북해"
+      ],
+      "answerIndex": 2,
+      "explanation": "볼가강은 러시아를 가로질러 카스피해로 들어가요. 카스피해는 이름은 바다지만 사방이 육지로 둘러싸여 있어요."
+    },
+    {
+      "id": "korean-86d9eb6b",
+      "category": "korean",
+      "difficulty": 3,
+      "question": "고유어 '볕뉘'의 뜻으로 알맞은 것은?",
+      "choices": [
+        "바다 위로 번지는 노을",
+        "비 갠 뒤 뜨는 무지개",
+        "작은 틈으로 드는 햇볕",
+        "산마루에 걸린 구름"
+      ],
+      "answerIndex": 2,
+      "explanation": "볕뉘는 나뭇잎 사이처럼 작은 틈으로 잠깐 비치는 햇볕을 뜻해요. 그늘진 곳에 미치는 조그만 햇볕의 기운이라는 뜻도 있어요."
+    },
+    {
+      "id": "history-7c94b2cd",
+      "category": "history",
+      "difficulty": 3,
+      "question": "1209년 최충헌이 설치해 무신 정권의 최고 권력 기구가 된 곳은?",
+      "choices": [
+        "도병마사",
+        "식목도감",
+        "어사대",
+        "교정도감"
+      ],
+      "answerIndex": 3,
+      "explanation": "교정도감은 최충헌이 반대 세력을 제거하며 설치한 기구로, 장관인 교정별감이 국정을 쥐었어요. 이후 최씨 정권이 이 자리를 이어 갔어요."
+    }
+  ]
+}

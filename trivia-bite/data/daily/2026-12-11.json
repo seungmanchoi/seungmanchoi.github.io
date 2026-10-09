@@ -1,0 +1,150 @@
+{
+  "version": 1,
+  "id": "daily-2026-12-11",
+  "date": "2026-12-11",
+  "questions": [
+    {
+      "id": "science-0bb241cb",
+      "category": "science",
+      "difficulty": 1,
+      "question": "표면이 붉은 산화철로 덮여 '붉은 행성'이라 불리는 곳은?",
+      "choices": [
+        "화성",
+        "금성",
+        "목성",
+        "토성"
+      ],
+      "answerIndex": 0,
+      "explanation": "화성 표면에는 녹슨 쇠와 같은 산화철이 많아서 붉게 보여요. 화성은 태양에서 네 번째로 가까운 행성이에요.",
+      "funFact": "화성에는 태양계에서 가장 큰 화산인 올림포스 화산이 있어요."
+    },
+    {
+      "id": "economy-43b7b342",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "물건 값이 전반적으로 계속 오르는 현상은?",
+      "choices": [
+        "독점",
+        "리세션",
+        "인플레이션",
+        "디플레이션"
+      ],
+      "answerIndex": 2,
+      "explanation": "물가가 계속 오르면 돈의 가치는 떨어져요. 그래서 같은 돈으로 살 수 있는 물건이 줄어들어요."
+    },
+    {
+      "id": "life-d0992089",
+      "category": "life",
+      "difficulty": 1,
+      "question": "감전 사고가 났을 때 구조자가 가장 먼저 할 일은?",
+      "choices": [
+        "젖은 수건으로 잡아당긴다",
+        "맨손으로 떼어 낸다",
+        "물을 끼얹는다",
+        "전원을 먼저 차단한다"
+      ],
+      "answerIndex": 3,
+      "explanation": "전기가 흐르는 사람을 맨손으로 만지면 구조자도 감전돼요. 먼저 전원을 끄고 119에 신고해야 해요."
+    },
+    {
+      "id": "culture-dbe920b1",
+      "category": "culture",
+      "difficulty": 1,
+      "question": "『흥부전』에서 흥부가 고쳐 준 제비가 물어다 준 것은?",
+      "choices": [
+        "도깨비방망이",
+        "콩씨",
+        "보리 이삭",
+        "박씨"
+      ],
+      "answerIndex": 3,
+      "explanation": "흥부가 다리가 부러진 제비를 치료해 주자, 이듬해 제비가 박씨를 물고 돌아와요. 그 박을 타자 금은보화가 쏟아져 나와요."
+    },
+    {
+      "id": "history-89a7062b",
+      "category": "history",
+      "difficulty": 2,
+      "question": "장수왕이 아버지 광개토대왕의 업적을 기려 세운 비석은?",
+      "choices": [
+        "단양 신라 적성비",
+        "중원 고구려비",
+        "광개토대왕릉비",
+        "북한산 순수비"
+      ],
+      "answerIndex": 2,
+      "explanation": "414년 장수왕이 지금의 중국 지린성 집안에 세웠어요. 비에는 고구려의 건국 신화와 광개토대왕의 정복 활동이 새겨져 있어요.",
+      "funFact": "높이가 6m가 넘는 거대한 비석이에요."
+    },
+    {
+      "id": "korean-67996527",
+      "category": "korean",
+      "difficulty": 2,
+      "question": "순우리말 '가람'의 뜻으로 알맞은 것은?",
+      "choices": [
+        "바다",
+        "들판",
+        "산",
+        "강"
+      ],
+      "answerIndex": 3,
+      "explanation": "'가람'은 강을 뜻하는 순우리말이에요. 산을 뜻하는 '뫼'와 짝을 이뤄 '뫼와 가람'처럼 쓰이기도 해요."
+    },
+    {
+      "id": "science-d19e2631",
+      "category": "science",
+      "difficulty": 2,
+      "question": "드라이아이스가 액체를 거치지 않고 곧바로 기체가 되는 현상은?",
+      "choices": [
+        "기화",
+        "승화",
+        "융해",
+        "액화"
+      ],
+      "answerIndex": 1,
+      "explanation": "고체가 액체를 거치지 않고 바로 기체로 변하는 현상을 승화라고 해요. 드라이아이스는 고체 이산화탄소라서 상온에서 이렇게 사라져요.",
+      "funFact": "반대로 기체가 곧바로 고체가 되는 변화도 승화라고 불러요."
+    },
+    {
+      "id": "geography-42d6c885",
+      "category": "geography",
+      "difficulty": 3,
+      "question": "안데스 고원의 티티카카호가 걸쳐 있는 두 나라는?",
+      "choices": [
+        "브라질과 파라과이",
+        "페루와 볼리비아",
+        "칠레와 아르헨티나",
+        "에콰도르와 콜롬비아"
+      ],
+      "answerIndex": 1,
+      "explanation": "티티카카호는 해발 약 3,800m에 있는 큰 호수예요. 페루와 볼리비아의 국경에 걸쳐 있어요."
+    },
+    {
+      "id": "history-b00f867b",
+      "category": "history",
+      "difficulty": 3,
+      "question": "1498년 아프리카를 돌아 인도에 도착한 포르투갈 항해가는?",
+      "choices": [
+        "아메리고 베스푸치",
+        "바르톨로메우 디아스",
+        "바스쿠 다 가마",
+        "마젤란"
+      ],
+      "answerIndex": 2,
+      "explanation": "바스쿠 다 가마는 아프리카 남단 희망봉을 돌아 인도 서해안의 캘리컷에 도착했어요. 이로써 유럽과 인도를 잇는 바닷길이 열렸어요."
+    },
+    {
+      "id": "korean-40617b37",
+      "category": "korean",
+      "difficulty": 3,
+      "question": "고유어 '그루잠'의 뜻으로 알맞은 것은?",
+      "choices": [
+        "깨었다가 다시 든 잠",
+        "깊이 곯아떨어진 잠",
+        "낮에 잠깐 자는 잠",
+        "두 팔을 올리고 자는 잠"
+      ],
+      "answerIndex": 0,
+      "explanation": "'그루잠'은 깨었다가 다시 드는 잠을 뜻해요. 새벽에 깼다가 다시 눈을 붙일 때 쓸 수 있어요."
+    }
+  ]
+}

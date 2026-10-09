@@ -1,0 +1,150 @@
+{
+  "version": 1,
+  "id": "daily-2026-11-03",
+  "date": "2026-11-03",
+  "questions": [
+    {
+      "id": "history-db676146",
+      "category": "history",
+      "difficulty": 1,
+      "question": "고려 시대에 푸른 비췻빛으로 유명했던 대표 도자기는?",
+      "choices": [
+        "옹기",
+        "조선백자",
+        "분청사기",
+        "고려청자"
+      ],
+      "answerIndex": 3,
+      "explanation": "고려청자는 푸른 비췻빛이 나는 도자기로 고려 귀족 문화를 대표해요. 무늬를 새겨 넣은 상감청자가 특히 유명해요."
+    },
+    {
+      "id": "science-695807f3",
+      "category": "science",
+      "difficulty": 1,
+      "question": "다음 중 곤충이 아닌 동물은?",
+      "choices": [
+        "개미",
+        "거미",
+        "잠자리",
+        "나비"
+      ],
+      "answerIndex": 1,
+      "explanation": "곤충은 몸이 머리·가슴·배 세 부분으로 나뉘고 다리가 여섯 개예요. 거미는 몸이 두 부분이고 다리가 여덟 개라 곤충이 아니에요.",
+      "funFact": "거미는 곤충이 아니라 전갈과 같은 거미류에 속해요."
+    },
+    {
+      "id": "geography-7685c1a1",
+      "category": "geography",
+      "difficulty": 1,
+      "question": "러시아의 수도는 어디일까요?",
+      "choices": [
+        "바르샤바",
+        "이스탄불",
+        "상트페테르부르크",
+        "모스크바"
+      ],
+      "answerIndex": 3,
+      "explanation": "러시아의 수도는 모스크바예요. 붉은 광장과 크렘린이 있는 곳으로 유명해요. 상트페테르부르크는 제정 러시아 시절 오랫동안 수도였어요."
+    },
+    {
+      "id": "korean-ac34aec4",
+      "category": "korean",
+      "difficulty": 1,
+      "question": "속담 '가는 말이 고와야 오는 말이 곱다'의 뜻으로 알맞은 것은?",
+      "choices": [
+        "소문은 금방 퍼진다",
+        "내가 잘해야 남도 잘한다",
+        "말은 달릴수록 빨라진다",
+        "말을 아끼면 복이 온다"
+      ],
+      "answerIndex": 1,
+      "explanation": "내가 남에게 말과 행동을 곱게 해야 남도 나에게 곱게 대해 준다는 뜻이에요. 말은 주고받는 것이니 먼저 예쁘게 말하라는 가르침이에요."
+    },
+    {
+      "id": "economy-68405b6e",
+      "category": "economy",
+      "difficulty": 2,
+      "question": "원금뿐 아니라 이미 붙은 이자에도 이자가 붙는 계산 방식은?",
+      "choices": [
+        "단리",
+        "할부",
+        "복리",
+        "환율"
+      ],
+      "answerIndex": 2,
+      "explanation": "복리는 이자에 다시 이자가 붙어서 시간이 갈수록 불어나는 속도가 빨라져요. 원금에만 이자가 붙는 방식은 단리예요.",
+      "funFact": "복리 효과를 어림할 때 쓰는 '72의 법칙'으로 원금이 두 배가 되는 기간을 대략 계산할 수 있어요."
+    },
+    {
+      "id": "history-681f7599",
+      "category": "history",
+      "difficulty": 2,
+      "question": "1919년 대한민국 임시정부가 처음 수립된 중국 도시는?",
+      "choices": [
+        "상하이",
+        "난징",
+        "베이징",
+        "충칭"
+      ],
+      "answerIndex": 0,
+      "explanation": "3·1 운동 직후인 1919년 4월 상하이에서 대한민국 임시정부가 세워졌어요. 이후 일본의 탄압을 피해 여러 도시를 옮겨 다녔어요."
+    },
+    {
+      "id": "science-64c20d5e",
+      "category": "science",
+      "difficulty": 2,
+      "question": "다음 중 낮과 밤의 길이가 거의 같아지는 절기는?",
+      "choices": [
+        "하지",
+        "입춘",
+        "추분",
+        "동지"
+      ],
+      "answerIndex": 2,
+      "explanation": "춘분과 추분에는 태양이 적도 바로 위를 비춰 낮과 밤의 길이가 거의 같아요. 하지는 낮이 가장 길고 동지는 밤이 가장 길어요."
+    },
+    {
+      "id": "culture-5ae45bc6",
+      "category": "culture",
+      "difficulty": 3,
+      "question": "소설 『이방인』을 쓴 프랑스 작가는?",
+      "choices": [
+        "빅토르 위고",
+        "귀스타브 플로베르",
+        "알베르 카뮈",
+        "장폴 사르트르"
+      ],
+      "answerIndex": 2,
+      "explanation": "『이방인』은 알베르 카뮈가 1942년에 발표한 소설로, 부조리 문학의 대표작으로 꼽혀요. 카뮈는 1957년 노벨 문학상을 받았어요.",
+      "funFact": "첫 문장 '오늘 엄마가 죽었다'는 문학사에서 손꼽히는 첫 문장으로 유명해요."
+    },
+    {
+      "id": "life-ede16943",
+      "category": "life",
+      "difficulty": 3,
+      "question": "락스와 산성 세제를 섞었을 때 발생하는 유독 기체는?",
+      "choices": [
+        "염소 가스",
+        "일산화탄소",
+        "이산화황",
+        "수소"
+      ],
+      "answerIndex": 0,
+      "explanation": "락스에 산성 세제가 닿으면 독성이 강한 염소 가스가 나와요. 눈과 호흡기를 크게 해칠 수 있으니 절대 섞지 마세요. 청소할 때는 환기도 꼭 해 주세요."
+    },
+    {
+      "id": "geography-cfc3bb30",
+      "category": "geography",
+      "difficulty": 3,
+      "question": "뉴질랜드의 수도는 어디일까요?",
+      "choices": [
+        "시드니",
+        "크라이스트처치",
+        "오클랜드",
+        "웰링턴"
+      ],
+      "answerIndex": 3,
+      "explanation": "뉴질랜드의 수도는 웰링턴이고 북섬의 남쪽 끝에 있어요. 가장 큰 도시는 오클랜드라서 자주 헷갈려요."
+    }
+  ]
+}

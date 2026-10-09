@@ -1,0 +1,149 @@
+{
+  "version": 1,
+  "id": "daily-2026-11-09",
+  "date": "2026-11-09",
+  "questions": [
+    {
+      "id": "korean-8c5dd67a",
+      "category": "korean",
+      "difficulty": 1,
+      "question": "속담 '백지장도 맞들면 낫다'의 뜻으로 알맞은 것은?",
+      "choices": [
+        "함께하면 일이 더 쉽다",
+        "남의 일에 끼어들지 마라",
+        "약한 것은 쉽게 찢어진다",
+        "종이는 가볍다는 뜻이다"
+      ],
+      "answerIndex": 0,
+      "explanation": "백지장은 하얀 종이 한 장이라 아주 가벼운 물건이에요. 그런 것도 같이 들면 더 가볍듯이, 쉬운 일도 힘을 합치면 더 낫다는 뜻이에요."
+    },
+    {
+      "id": "economy-b38483c1",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "회사의 주식을 가지고 있는 사람을 무엇이라고 부를까요?",
+      "choices": [
+        "채권자",
+        "예금주",
+        "주주",
+        "대표이사"
+      ],
+      "answerIndex": 2,
+      "explanation": "주식회사는 주식을 발행해 자금을 모으고, 그 주식을 가진 사람이 주주예요. 주주는 회사 소유권의 일부를 가져요."
+    },
+    {
+      "id": "life-b5e72b79",
+      "category": "life",
+      "difficulty": 1,
+      "question": "천둥·번개가 칠 때 가장 안전한 곳은?",
+      "choices": [
+        "넓은 들판 한가운데",
+        "튼튼한 건물 안",
+        "물가나 수영장 안",
+        "큰 나무 아래"
+      ],
+      "answerIndex": 1,
+      "explanation": "번개는 높고 뾰족한 곳이나 물가, 탁 트인 곳에 떨어지기 쉬워요. 튼튼한 건물이나 자동차 안으로 피하는 것이 안전해요."
+    },
+    {
+      "id": "culture-98e39d7a",
+      "category": "culture",
+      "difficulty": 1,
+      "question": "흥부가 다친 제비를 고쳐 주자 제비가 물어다 준 것은?",
+      "choices": [
+        "도깨비방망이",
+        "은가락지",
+        "수수 씨앗",
+        "박씨"
+      ],
+      "answerIndex": 3,
+      "explanation": "고전 소설 『흥부전』에서 제비가 박씨를 물어다 줘요. 흥부가 박을 타자 금은보화가 나와 부자가 돼요."
+    },
+    {
+      "id": "history-eb60e7d0",
+      "category": "history",
+      "difficulty": 2,
+      "question": "청동기 시대에 벼 이삭을 따는 데 쓴 도구는?",
+      "choices": [
+        "주먹도끼",
+        "반달 돌칼",
+        "돌화살촉",
+        "가락바퀴"
+      ],
+      "answerIndex": 1,
+      "explanation": "반달 돌칼은 반달 모양 돌에 구멍을 뚫고 끈을 꿰어 손에 걸고 이삭을 자르는 데 썼어요. 이 시기에 농사가 발달했다는 걸 보여 주는 유물이에요."
+    },
+    {
+      "id": "geography-cc5f813b",
+      "category": "geography",
+      "difficulty": 2,
+      "question": "우리나라 영토에서 가장 남쪽에 있는 섬은?",
+      "choices": [
+        "백령도",
+        "거문도",
+        "울릉도",
+        "마라도"
+      ],
+      "answerIndex": 3,
+      "explanation": "제주도 남쪽에 있는 마라도가 우리나라 국토의 최남단이에요. 백령도는 서쪽 끝, 울릉도는 동쪽 바다에 있어요.",
+      "funFact": "마라도에는 '대한민국 최남단' 기념비가 서 있어요."
+    },
+    {
+      "id": "economy-ca597ae3",
+      "category": "economy",
+      "difficulty": 2,
+      "question": "'보이지 않는 손'이라는 말로 시장 원리를 설명한 경제학자는?",
+      "choices": [
+        "존 메이너드 케인스",
+        "토머스 맬서스",
+        "애덤 스미스",
+        "카를 마르크스"
+      ],
+      "answerIndex": 2,
+      "explanation": "애덤 스미스는 『국부론』에서 각자가 이익을 추구해도 시장 가격이 자원을 알맞게 나눈다고 봤어요. 이를 '보이지 않는 손'에 빗댔어요."
+    },
+    {
+      "id": "science-03d906ae",
+      "category": "science",
+      "difficulty": 3,
+      "question": "프리즘을 통과한 햇빛에서 가장 크게 꺾이는 색은?",
+      "choices": [
+        "빨간색",
+        "초록색",
+        "노란색",
+        "보라색"
+      ],
+      "answerIndex": 3,
+      "explanation": "파장이 짧은 빛일수록 더 많이 꺾여요. 보라색은 파장이 가장 짧아서 가장 크게 꺾이고, 빨간색은 가장 적게 꺾여요."
+    },
+    {
+      "id": "geography-96a43974",
+      "category": "geography",
+      "difficulty": 3,
+      "question": "브라질의 수도는 어디일까요?",
+      "choices": [
+        "브라질리아",
+        "상파울루",
+        "살바도르",
+        "리우데자네이루"
+      ],
+      "answerIndex": 0,
+      "explanation": "브라질의 수도는 브라질리아예요. 리우데자네이루나 상파울루가 더 유명해서 헷갈리기 쉬워요.",
+      "funFact": "브라질리아는 1960년에 새로 계획해 만든 도시로 수도가 되었어요."
+    },
+    {
+      "id": "korean-ab03eff8",
+      "category": "korean",
+      "difficulty": 3,
+      "question": "고유어 '나비잠'의 뜻으로 알맞은 것은?",
+      "choices": [
+        "잠깐 눈만 붙이는 잠",
+        "나비 꿈을 꾸는 잠",
+        "아기가 팔 벌려 자는 잠",
+        "앉아서 꾸벅꾸벅 조는 잠"
+      ],
+      "answerIndex": 2,
+      "explanation": "나비잠은 갓난아기가 두 팔을 머리 위로 벌리고 편안히 자는 잠이에요. 그 모습이 나비 날개를 편 것 같아 붙은 이름이에요."
+    }
+  ]
+}

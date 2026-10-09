@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "id": "daily-2026-10-21",
+  "date": "2026-10-21",
+  "questions": [
+    {
+      "id": "history-beb38638",
+      "category": "history",
+      "difficulty": 1,
+      "question": "1969년 인류 최초로 달 표면에 발을 디딘 사람은?",
+      "choices": [
+        "존 글렌",
+        "유리 가가린",
+        "앨런 셰퍼드",
+        "닐 암스트롱"
+      ],
+      "answerIndex": 3,
+      "explanation": "1969년 아폴로 11호의 선장 닐 암스트롱이 인류 최초로 달 표면을 밟았어요. 함께 간 버즈 올드린이 그 뒤를 이었어요.",
+      "funFact": "유리 가가린은 달이 아니라 1961년 인류 최초로 우주에 다녀온 사람이에요."
+    },
+    {
+      "id": "science-c5bc19e1",
+      "category": "science",
+      "difficulty": 1,
+      "question": "건강한 성인의 몸을 이루는 뼈는 모두 몇 개일까요?",
+      "choices": [
+        "206개",
+        "256개",
+        "306개",
+        "156개"
+      ],
+      "answerIndex": 0,
+      "explanation": "성인의 뼈는 모두 206개예요. 아기는 태어날 때 뼈가 더 많지만 자라면서 일부가 서로 합쳐져요."
+    },
+    {
+      "id": "geography-bec0074d",
+      "category": "geography",
+      "difficulty": 1,
+      "question": "미국의 수도는 어디일까요?",
+      "choices": [
+        "시카고",
+        "뉴욕",
+        "워싱턴 D.C.",
+        "로스앤젤레스"
+      ],
+      "answerIndex": 2,
+      "explanation": "미국의 수도는 워싱턴 D.C.예요. 뉴욕은 가장 유명한 대도시지만 수도는 아니에요.",
+      "funFact": "D.C.는 '컬럼비아 특별구'를 줄인 말이에요."
+    },
+    {
+      "id": "korean-8d8d41cd",
+      "category": "korean",
+      "difficulty": 1,
+      "question": "속담 '발 없는 말이 천 리 간다'의 뜻으로 알맞은 것은?",
+      "choices": [
+        "먼 길은 말을 타고 간다",
+        "말이 없으면 갈 수 없다",
+        "말은 빨리 멀리 퍼진다",
+        "말보다 행동이 중요하다"
+      ],
+      "answerIndex": 2,
+      "explanation": "말에는 발이 없어도 순식간에 멀리까지 퍼진다는 뜻이에요. 그래서 말을 조심해야 한다는 교훈을 담고 있어요."
+    },
+    {
+      "id": "culture-27f9335b",
+      "category": "culture",
+      "difficulty": 2,
+      "question": "소설 『어린 왕자』를 쓴 프랑스 작가는?",
+      "choices": [
+        "쥘 베른",
+        "빅토르 위고",
+        "알베르 카뮈",
+        "생텍쥐페리"
+      ],
+      "answerIndex": 3,
+      "explanation": "『어린 왕자』는 프랑스 작가 생텍쥐페리가 1943년에 펴낸 소설이에요. 전 세계에서 가장 많이 번역된 책 중 하나로 꼽혀요.",
+      "funFact": "생텍쥐페리는 작가이면서 실제 비행기 조종사이기도 했어요."
+    },
+    {
+      "id": "history-95e54071",
+      "category": "history",
+      "difficulty": 2,
+      "question": "군포를 1년에 2필에서 1필로 줄인 균역법을 시행한 조선의 왕은?",
+      "choices": [
+        "정조",
+        "영조",
+        "숙종",
+        "광해군"
+      ],
+      "answerIndex": 1,
+      "explanation": "영조는 1750년 균역법을 시행해 백성의 군포 부담을 절반으로 줄였어요. 모자라는 세수는 결작, 어염세 등으로 채웠어요."
+    },
+    {
+      "id": "geography-dc7803b2",
+      "category": "geography",
+      "difficulty": 2,
+      "question": "오스트레일리아(호주)의 수도는 어디일까요?",
+      "choices": [
+        "캔버라",
+        "브리즈번",
+        "시드니",
+        "멜버른"
+      ],
+      "answerIndex": 0,
+      "explanation": "호주의 수도는 캔버라예요. 시드니가 가장 유명한 도시라서 수도로 착각하기 쉬워요.",
+      "funFact": "시드니와 멜버른이 서로 수도가 되려고 다투다가 중간에 새로 만든 도시가 캔버라예요."
+    },
+    {
+      "id": "economy-efb6daef",
+      "category": "economy",
+      "difficulty": 3,
+      "question": "경기는 침체되는데 물가는 계속 오르는 현상은?",
+      "choices": [
+        "리플레이션",
+        "스태그플레이션",
+        "디플레이션",
+        "애그플레이션"
+      ],
+      "answerIndex": 1,
+      "explanation": "스태그플레이션은 경기 침체를 뜻하는 스태그네이션과 인플레이션이 합쳐진 말이에요. 불황 속에서 물가가 오르는 상황을 가리켜요."
+    },
+    {
+      "id": "history-9462b475",
+      "category": "history",
+      "difficulty": 3,
+      "question": "고려 광종 때 과거제 실시를 건의한 후주 출신 인물은?",
+      "choices": [
+        "김부식",
+        "쌍기",
+        "최충",
+        "최승로"
+      ],
+      "answerIndex": 1,
+      "explanation": "광종은 쌍기의 건의를 받아들여 958년 과거제를 처음 시행했어요. 능력 있는 인재를 뽑아 호족 세력을 누르려는 목적이었어요."
+    },
+    {
+      "id": "science-a66cb525",
+      "category": "science",
+      "difficulty": 3,
+      "question": "ABO식 혈액형을 발견한 오스트리아 학자는?",
+      "choices": [
+        "파스퇴르",
+        "플레밍",
+        "란트슈타이너",
+        "멘델"
+      ],
+      "answerIndex": 2,
+      "explanation": "카를 란트슈타이너는 1901년 사람의 ABO식 혈액형을 발견했어요. 덕분에 안전한 수혈이 가능해졌어요.",
+      "funFact": "그는 이 업적으로 1930년 노벨 생리의학상을 받았어요."
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "version": 1,
+  "id": "daily-2026-11-11",
+  "date": "2026-11-11",
+  "questions": [
+    {
+      "id": "history-966c88f6",
+      "category": "history",
+      "difficulty": 1,
+      "question": "고대 이집트의 거대한 피라미드는 주로 무엇으로 쓰였을까요?",
+      "choices": [
+        "왕의 궁전",
+        "곡식 저장 창고",
+        "왕의 무덤",
+        "별 관측소"
+      ],
+      "answerIndex": 2,
+      "explanation": "피라미드는 파라오(왕)의 무덤으로 지어졌어요. 안에는 시신과 함께 여러 부장품을 넣어 두었어요.",
+      "funFact": "가장 큰 쿠푸 왕의 피라미드는 약 4500년 전에 지어졌어요."
+    },
+    {
+      "id": "science-9c06c1be",
+      "category": "science",
+      "difficulty": 1,
+      "question": "물 분자를 이루는 원소는 무엇일까요?",
+      "choices": [
+        "질소와 산소",
+        "수소와 질소",
+        "탄소와 산소",
+        "수소와 산소"
+      ],
+      "answerIndex": 3,
+      "explanation": "물의 화학식은 H2O예요. 수소 원자 2개와 산소 원자 1개가 결합해 물 분자 하나를 이뤄요."
+    },
+    {
+      "id": "geography-907e54a2",
+      "category": "geography",
+      "difficulty": 1,
+      "question": "우리나라가 속해 있는 대륙은 어디일까요?",
+      "choices": [
+        "오세아니아",
+        "아시아",
+        "아프리카",
+        "유럽"
+      ],
+      "answerIndex": 1,
+      "explanation": "한반도는 유라시아 대륙의 동쪽 끝에 있고, 그중 아시아에 속해요."
+    },
+    {
+      "id": "korean-316849a9",
+      "category": "korean",
+      "difficulty": 1,
+      "question": "그릇을 씻어 정리하는 일을 뜻하는 올바른 표기는?",
+      "choices": [
+        "설걷이",
+        "설겆이",
+        "설거지",
+        "설거치"
+      ],
+      "answerIndex": 2,
+      "explanation": "'설거지'가 표준어예요. '설겆이'는 예전에 쓰던 형태라 지금은 틀린 표기예요."
+    },
+    {
+      "id": "culture-a64b2b15",
+      "category": "culture",
+      "difficulty": 2,
+      "question": "셰익스피어의 4대 비극에 들지 않는 작품은?",
+      "choices": [
+        "맥베스",
+        "한여름 밤의 꿈",
+        "햄릿",
+        "리어왕"
+      ],
+      "answerIndex": 1,
+      "explanation": "4대 비극은 햄릿, 오셀로, 리어왕, 맥베스예요. 한여름 밤의 꿈은 유쾌한 희극이에요."
+    },
+    {
+      "id": "history-d743a219",
+      "category": "history",
+      "difficulty": 2,
+      "question": "신라 흥덕왕 때 완도에 청해진을 설치해 해상 무역을 이끈 인물은?",
+      "choices": [
+        "장보고",
+        "최치원",
+        "원효",
+        "김유신"
+      ],
+      "answerIndex": 0,
+      "explanation": "장보고는 828년 완도에 청해진을 세웠어요. 해적을 소탕하고 당나라·일본과의 무역을 이끌었어요."
+    },
+    {
+      "id": "science-7e25c12f",
+      "category": "science",
+      "difficulty": 2,
+      "question": "물이 담긴 컵 속 빨대가 꺾여 보이는 것은 어떤 현상 때문일까요?",
+      "choices": [
+        "빛의 반사",
+        "빛의 산란",
+        "빛의 흡수",
+        "빛의 굴절"
+      ],
+      "answerIndex": 3,
+      "explanation": "빛이 공기에서 물로 들어가면 속도가 달라져 진행 방향이 꺾여요. 이를 굴절이라고 하고, 그래서 빨대가 꺾여 보여요."
+    },
+    {
+      "id": "economy-19ae800b",
+      "category": "economy",
+      "difficulty": 3,
+      "question": "공장 매연처럼 거래와 무관한 제3자에게 피해를 주는 현상은?",
+      "choices": [
+        "외부불경제",
+        "매몰 비용",
+        "풍선 효과",
+        "규모의 경제"
+      ],
+      "answerIndex": 0,
+      "explanation": "거래 당사자가 아닌 사람에게 대가 없이 피해를 주는 것을 외부불경제(부정적 외부효과)라고 해요. 피해 비용이 가격에 반영되지 않아 과잉 생산되기 쉬워요."
+    },
+    {
+      "id": "life-4595247a",
+      "category": "life",
+      "difficulty": 3,
+      "question": "돌 전 아기에게 꿀을 먹이면 안 되는 주된 이유는?",
+      "choices": [
+        "보툴리누스균 포자",
+        "꿀의 높은 알코올",
+        "꿀의 강한 산성",
+        "꿀 속의 납 성분"
+      ],
+      "answerIndex": 0,
+      "explanation": "꿀에는 보툴리누스균 포자가 들어 있을 수 있어요. 장이 아직 미숙한 영아는 포자가 자라 독소를 만들 수 있어서 위험해요.",
+      "funFact": "꿀을 가열해도 이 포자는 쉽게 없어지지 않아요."
+    },
+    {
+      "id": "history-c917353e",
+      "category": "history",
+      "difficulty": 3,
+      "question": "993년 서희가 소손녕과 담판해 고려가 확보한 땅은?",
+      "choices": [
+        "철령 이북",
+        "강동 6주",
+        "동북 9성",
+        "4군 6진"
+      ],
+      "answerIndex": 1,
+      "explanation": "거란이 침입하자 서희는 담판에서 침입 명분을 반박했어요. 그 결과 거란군을 물러가게 하고 압록강 동쪽의 강동 6주를 확보했어요."
+    }
+  ]
+}

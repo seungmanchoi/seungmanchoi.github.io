@@ -1,0 +1,151 @@
+{
+  "version": 1,
+  "id": "daily-2026-10-26",
+  "date": "2026-10-26",
+  "questions": [
+    {
+      "id": "history-6b97f741",
+      "category": "history",
+      "difficulty": 1,
+      "question": "청동기 시대의 대표적인 무덤으로, 커다란 돌을 괴어 만든 것은?",
+      "choices": [
+        "돌무지덧널무덤",
+        "굴식 돌방무덤",
+        "고인돌",
+        "독무덤"
+      ],
+      "answerIndex": 2,
+      "explanation": "고인돌은 청동기 시대 지배층의 무덤으로, 큰 돌을 괴어 만들었어요. 우리나라에는 고인돌이 아주 많이 남아 있어요.",
+      "funFact": "강화, 고창, 화순의 고인돌 유적은 2000년 유네스코 세계유산에 올랐어요."
+    },
+    {
+      "id": "science-99d36956",
+      "category": "science",
+      "difficulty": 1,
+      "question": "물질이 불에 타려면 꼭 필요한 기체는?",
+      "choices": [
+        "산소",
+        "질소",
+        "헬륨",
+        "이산화탄소"
+      ],
+      "answerIndex": 0,
+      "explanation": "불에 타는 연소는 물질이 산소와 빠르게 결합하며 빛과 열을 내는 현상이에요. 그래서 산소를 막으면 불이 꺼져요."
+    },
+    {
+      "id": "geography-cc5e29d8",
+      "category": "geography",
+      "difficulty": 1,
+      "question": "영국의 수도는 어디일까요?",
+      "choices": [
+        "파리",
+        "더블린",
+        "런던",
+        "마드리드"
+      ],
+      "answerIndex": 2,
+      "explanation": "영국의 수도는 템스강을 끼고 발달한 런던이에요. 정치, 경제, 문화의 중심지예요.",
+      "funFact": "런던의 그리니치 천문대를 지나는 선이 경도 0도인 본초 자오선이에요."
+    },
+    {
+      "id": "korean-b1f931df",
+      "category": "korean",
+      "difficulty": 1,
+      "question": "속담 '세 살 버릇 여든까지 간다'의 뜻으로 알맞은 것은?",
+      "choices": [
+        "나이 들면 버릇이 사라진다",
+        "어릴 적 버릇은 평생 간다",
+        "어린이는 호기심이 많다",
+        "세 살이면 말을 할 수 있다"
+      ],
+      "answerIndex": 1,
+      "explanation": "어릴 때 몸에 밴 버릇은 늙어서도 고치기 어렵다는 뜻이에요. 그래서 어릴 때부터 좋은 습관을 들여야 한다는 가르침을 담고 있어요."
+    },
+    {
+      "id": "economy-cec8e4f3",
+      "category": "economy",
+      "difficulty": 2,
+      "question": "소득 분배의 불평등 정도를 나타내는 지표는?",
+      "choices": [
+        "경제성장률",
+        "소비자물가지수",
+        "지니계수",
+        "엥겔계수"
+      ],
+      "answerIndex": 2,
+      "explanation": "지니계수는 0과 1 사이의 값으로 소득 분배가 얼마나 고른지 보여 줘요. 0에 가까울수록 평등하고 1에 가까울수록 불평등해요."
+    },
+    {
+      "id": "history-f0fc0d52",
+      "category": "history",
+      "difficulty": 2,
+      "question": "백제 성왕이 538년 웅진에서 도읍을 옮긴 곳은?",
+      "choices": [
+        "한성",
+        "평양성",
+        "국내성",
+        "사비"
+      ],
+      "answerIndex": 3,
+      "explanation": "성왕은 웅진(공주)에서 사비(오늘날의 부여)로 도읍을 옮겼어요. 이때 나라 이름도 남부여로 바꿨어요."
+    },
+    {
+      "id": "science-22b9ab41",
+      "category": "science",
+      "difficulty": 2,
+      "question": "구름과 비 같은 기상 현상이 주로 일어나는 대기층은?",
+      "choices": [
+        "성층권",
+        "열권",
+        "중간권",
+        "대류권"
+      ],
+      "answerIndex": 3,
+      "explanation": "대류권은 지표 가까이에 있는 층이에요. 공기가 위아래로 활발히 움직이고 수증기가 많아서 날씨 변화가 나타나요."
+    },
+    {
+      "id": "life-3b033339",
+      "category": "life",
+      "difficulty": 3,
+      "question": "음식이 기도에 걸린 성인의 배를 뒤에서 감싸 위로 밀어 올리는 응급처치는?",
+      "choices": [
+        "인공호흡법",
+        "하임리히법",
+        "회복 자세법",
+        "압박 지혈법"
+      ],
+      "answerIndex": 1,
+      "explanation": "배를 위쪽으로 세게 밀쳐 올려 기도를 막은 이물질을 뱉어 내게 하는 방법이에요. 말을 못 하고 목을 움켜쥔다면 바로 시도해야 해요.",
+      "funFact": "이 방법은 1974년 소개한 미국 의사 헨리 하임리히의 이름에서 따왔어요."
+    },
+    {
+      "id": "culture-4d8fca7c",
+      "category": "culture",
+      "difficulty": 3,
+      "question": "현재 전해지는 판소리 다섯 마당에 속하지 않는 것은?",
+      "choices": [
+        "심청가",
+        "변강쇠타령",
+        "적벽가",
+        "춘향가"
+      ],
+      "answerIndex": 1,
+      "explanation": "판소리는 본래 열두 마당이었지만, 지금은 춘향가, 심청가, 흥보가, 수궁가, 적벽가 다섯 마당이 전해져요. 변강쇠타령은 소리로는 이어지지 않아요.",
+      "funFact": "판소리는 2003년 유네스코 인류구전 및 무형유산 걸작으로 선정됐어요."
+    },
+    {
+      "id": "economy-7e9b7db6",
+      "category": "economy",
+      "difficulty": 3,
+      "question": "소득이 늘어날수록 오히려 수요가 줄어드는 재화는?",
+      "choices": [
+        "열등재",
+        "보완재",
+        "공공재",
+        "정상재"
+      ],
+      "answerIndex": 0,
+      "explanation": "소득이 오르면 더 좋은 상품으로 갈아타서 덜 찾게 되는 재화를 열등재라고 해요. 반대로 소득이 늘면 수요도 느는 재화는 정상재예요."
+    }
+  ]
+}

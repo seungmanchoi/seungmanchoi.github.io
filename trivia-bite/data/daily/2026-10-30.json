@@ -1,0 +1,156 @@
+{
+  "version": 1,
+  "id": "daily-2026-10-30",
+  "date": "2026-10-30",
+  "questions": [
+    {
+      "id": "science-8c28575a",
+      "category": "science",
+      "difficulty": 1,
+      "question": "다음 중 전기가 잘 통하는 물질은?",
+      "choices": [
+        "유리",
+        "구리",
+        "나무",
+        "고무"
+      ],
+      "answerIndex": 1,
+      "explanation": "구리 같은 금속은 전자가 자유롭게 움직여서 전기가 잘 통해요. 고무, 유리, 나무는 전기가 거의 통하지 않는 부도체예요.",
+      "funFact": "전선은 구리 심을 고무나 플라스틱으로 감싸서 만들어요."
+    },
+    {
+      "id": "geography-fb9a9334",
+      "category": "geography",
+      "difficulty": 1,
+      "question": "열대우림으로 유명한 아마존강은 어느 대륙에 있을까요?",
+      "choices": [
+        "남아메리카",
+        "아시아",
+        "아프리카",
+        "오세아니아"
+      ],
+      "answerIndex": 0,
+      "explanation": "아마존강은 남아메리카 북부를 가로질러 대서양으로 흘러가요. 강 유역에는 세계 최대 규모의 열대우림이 펼쳐져 있어요.",
+      "funFact": "아마존강은 강물의 양이 세계에서 가장 많은 강으로 알려져 있어요."
+    },
+    {
+      "id": "korean-a6d45a10",
+      "category": "korean",
+      "difficulty": 1,
+      "question": "사자성어 '유비무환'의 뜻으로 알맞은 것은?",
+      "choices": [
+        "끝이 좋으면 다 좋다",
+        "미리 준비하면 걱정이 없다",
+        "급할수록 돌아가라",
+        "시작이 반이다"
+      ],
+      "answerIndex": 1,
+      "explanation": "유비무환(有備無患)은 준비가 되어 있으면 근심이 없다는 뜻이에요. 평소에 미리 대비해 두라는 가르침이에요.",
+      "funFact": "이 말은 중국의 옛 책 『서경』에 나오는 구절에서 유래했어요."
+    },
+    {
+      "id": "economy-e56d67e8",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "기업이 번 수입에서 모든 비용을 뺀 나머지를 무엇이라 할까요?",
+      "choices": [
+        "물가",
+        "관세",
+        "이윤",
+        "임금"
+      ],
+      "answerIndex": 2,
+      "explanation": "이윤은 총수입에서 생산과 판매에 든 비용을 뺀 몫이에요. 기업은 이윤을 늘리려고 생산과 판매 활동을 해요."
+    },
+    {
+      "id": "history-1cd31b6f",
+      "category": "history",
+      "difficulty": 2,
+      "question": "1019년 귀주 대첩에서 거란군을 크게 물리친 고려 장군은?",
+      "choices": [
+        "최영",
+        "김종서",
+        "윤관",
+        "강감찬"
+      ],
+      "answerIndex": 3,
+      "explanation": "강감찬은 거란의 3차 침입 때 귀주에서 적군을 크게 무찔렀어요. 이 승리로 고려와 거란의 긴 전쟁이 마무리됐어요.",
+      "funFact": "귀주 대첩은 살수 대첩, 한산도 대첩과 함께 3대 대첩으로 꼽혀요."
+    },
+    {
+      "id": "life-794eefd1",
+      "category": "life",
+      "difficulty": 2,
+      "question": "다음 중 기름에 녹는 지용성 비타민은?",
+      "choices": [
+        "비타민 A",
+        "비타민 B12",
+        "비타민 B1",
+        "비타민 C"
+      ],
+      "answerIndex": 0,
+      "explanation": "비타민 A, D, E, K는 지용성이고 B군과 C는 물에 녹는 수용성이에요. 지용성 비타민은 기름과 함께 먹으면 흡수가 잘돼요.",
+      "funFact": "당근 속 카로틴은 몸 안에서 비타민 A로 바뀌어요."
+    },
+    {
+      "id": "culture-74eaede8",
+      "category": "culture",
+      "difficulty": 2,
+      "question": "12세기 크메르 제국이 지은 사원 앙코르와트가 있는 나라는?",
+      "choices": [
+        "캄보디아",
+        "태국",
+        "베트남",
+        "미얀마"
+      ],
+      "answerIndex": 0,
+      "explanation": "앙코르와트는 캄보디아의 시엠레아프 근처에 있는 거대한 사원이에요. 유네스코 세계문화유산으로 등재되어 있어요.",
+      "funFact": "캄보디아 국기에는 앙코르와트가 그려져 있어요."
+    },
+    {
+      "id": "history-b96a2858",
+      "category": "history",
+      "difficulty": 3,
+      "question": "나폴레옹이 워털루 전투에서 패배한 해는 언제일까요?",
+      "choices": [
+        "1821년",
+        "1805년",
+        "1815년",
+        "1812년"
+      ],
+      "answerIndex": 2,
+      "explanation": "나폴레옹은 1815년 6월 워털루에서 영국·프로이센 연합군에 패했어요. 이후 황제 자리에서 완전히 물러나 다시 유배를 떠났어요.",
+      "funFact": "워털루는 오늘날 벨기에에 있는 지역이에요."
+    },
+    {
+      "id": "geography-04bf9734",
+      "category": "geography",
+      "difficulty": 3,
+      "question": "세계에서 가장 깊은 호수는 어디일까요?",
+      "choices": [
+        "슈피리어호",
+        "빅토리아호",
+        "티티카카호",
+        "바이칼호"
+      ],
+      "answerIndex": 3,
+      "explanation": "바이칼호는 러시아 시베리아에 있으며 최대 수심이 1,600m를 넘어요. 세계에서 가장 깊은 호수로 알려져 있어요.",
+      "funFact": "바이칼호는 지구 표면 민물의 약 5분의 1을 담고 있다고 해요."
+    },
+    {
+      "id": "science-e588de49",
+      "category": "science",
+      "difficulty": 3,
+      "question": "자전축이 거의 누운 채 공전하는 것으로 유명한 행성은?",
+      "choices": [
+        "목성",
+        "해왕성",
+        "토성",
+        "천왕성"
+      ],
+      "answerIndex": 3,
+      "explanation": "천왕성의 자전축은 공전 궤도면에 대해 약 98도나 기울어 있어요. 그래서 거의 누워서 굴러가듯 돌아요.",
+      "funFact": "천왕성은 망원경으로 처음 발견된 행성이에요."
+    }
+  ]
+}

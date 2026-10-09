@@ -1,0 +1,154 @@
+{
+  "version": 1,
+  "id": "daily-2026-10-11",
+  "date": "2026-10-11",
+  "questions": [
+    {
+      "id": "geography-498022a0",
+      "category": "geography",
+      "difficulty": 1,
+      "question": "남한에서 가장 높은 산은?",
+      "choices": [
+        "한라산",
+        "태백산",
+        "지리산",
+        "설악산"
+      ],
+      "answerIndex": 0,
+      "explanation": "한라산은 제주도에 있고 높이가 약 1,947m로 남한 최고봉이에요. 백두산은 북한과 중국 국경에 있어서 남한 기준에서는 제외해요.",
+      "funFact": "한라산 정상에는 화산 분화구인 백록담이 있어요."
+    },
+    {
+      "id": "economy-c4c68794",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "은행에 돈을 맡기면 원금에 더해 받는 대가는?",
+      "choices": [
+        "배당금",
+        "이자",
+        "수수료",
+        "세금"
+      ],
+      "answerIndex": 1,
+      "explanation": "이자는 돈을 맡기거나 빌려준 대가로 받는 돈이에요. 반대로 돈을 빌리면 이자를 내야 해요."
+    },
+    {
+      "id": "korean-90b2a6db",
+      "category": "korean",
+      "difficulty": 1,
+      "question": "그릇을 씻는 일을 뜻하는 올바른 표기는?",
+      "choices": [
+        "설거치",
+        "설걷이",
+        "설거지",
+        "설겆이"
+      ],
+      "answerIndex": 2,
+      "explanation": "표준어는 '설거지'예요. 예전에 쓰던 '설겆이'는 지금은 표준어로 인정하지 않아요."
+    },
+    {
+      "id": "science-0f2d4057",
+      "category": "science",
+      "difficulty": 1,
+      "question": "표준 기압(1기압)에서 물이 끓는 온도는?",
+      "choices": [
+        "120℃",
+        "90℃",
+        "100℃",
+        "80℃"
+      ],
+      "answerIndex": 2,
+      "explanation": "1기압에서 순수한 물은 100℃에서 끓어요. 이때 물이 수증기로 변해요.",
+      "funFact": "높은 산 위에서는 기압이 낮아서 100℃보다 낮은 온도에서 물이 끓어요."
+    },
+    {
+      "id": "history-ac552d71",
+      "category": "history",
+      "difficulty": 2,
+      "question": "수원 화성을 쌓을 때 거중기를 만들어 활용한 실학자는?",
+      "choices": [
+        "박지원",
+        "박제가",
+        "김정호",
+        "정약용"
+      ],
+      "answerIndex": 3,
+      "explanation": "정약용은 정조의 명을 받아 거중기를 설계했어요. 덕분에 화성 축조의 공사 기간과 비용을 줄일 수 있었어요.",
+      "funFact": "정약용은 전남 강진에서 유배 생활을 하던 시절 '목민심서'를 썼어요."
+    },
+    {
+      "id": "science-781e721d",
+      "category": "science",
+      "difficulty": 2,
+      "question": "산과 염기가 만나 물과 염이 만들어지는 반응은?",
+      "choices": [
+        "환원 반응",
+        "연소 반응",
+        "산화 반응",
+        "중화 반응"
+      ],
+      "answerIndex": 3,
+      "explanation": "산과 염기가 만나 서로의 성질을 잃는 반응을 중화 반응이라고 해요. 염산과 수산화 나트륨이 만나면 물과 염화 나트륨이 생겨요.",
+      "funFact": "속이 쓰릴 때 먹는 제산제도 위산을 중화시키는 원리예요."
+    },
+    {
+      "id": "geography-896e746a",
+      "category": "geography",
+      "difficulty": 2,
+      "question": "지중해와 대서양을 잇는 좁은 해협은?",
+      "choices": [
+        "도버 해협",
+        "말라카 해협",
+        "호르무즈 해협",
+        "지브롤터 해협"
+      ],
+      "answerIndex": 3,
+      "explanation": "지브롤터 해협은 유럽의 이베리아반도와 아프리카 북서쪽 사이에 있어요. 지중해와 대서양을 연결하는 길목이에요."
+    },
+    {
+      "id": "culture-50a594d2",
+      "category": "culture",
+      "difficulty": 3,
+      "question": "베토벤 교향곡 9번 '합창'에 쓰인 시 '환희의 송가'를 쓴 시인은?",
+      "choices": [
+        "실러",
+        "횔덜린",
+        "하이네",
+        "괴테"
+      ],
+      "answerIndex": 0,
+      "explanation": "베토벤은 독일 시인 프리드리히 실러의 시를 4악장 합창의 가사로 썼어요. 교향곡에 합창을 넣은 것으로도 유명한 작품이에요.",
+      "funFact": "베토벤은 이 곡을 작곡할 때 청력을 거의 잃은 상태였어요."
+    },
+    {
+      "id": "life-7ad3049e",
+      "category": "life",
+      "difficulty": 3,
+      "question": "돌 전 아기에게 꿀을 먹이면 안 되는 이유와 관련된 균은?",
+      "choices": [
+        "대장균",
+        "보툴리눔균",
+        "황색포도상구균",
+        "살모넬라균"
+      ],
+      "answerIndex": 1,
+      "explanation": "꿀에는 보툴리눔균 포자가 들어 있을 수 있어요. 장이 덜 발달한 1세 미만 아기는 이를 이기지 못해 영아 보툴리누스증에 걸릴 수 있어요.",
+      "funFact": "꿀을 가열해도 보툴리눔균 포자는 쉽게 죽지 않아요."
+    },
+    {
+      "id": "science-5c8ff948",
+      "category": "science",
+      "difficulty": 3,
+      "question": "지구에서 항상 달의 같은 면만 보이는 이유는?",
+      "choices": [
+        "자전·공전 주기가 같아서",
+        "달이 자전하지 않아서",
+        "달의 뒷면은 어두워서",
+        "지구 자전이 느려서"
+      ],
+      "answerIndex": 0,
+      "explanation": "달은 스스로 도는 자전 주기와 지구를 도는 공전 주기가 약 27.3일로 같아요. 그래서 지구에서는 늘 같은 면만 보여요.",
+      "funFact": "달의 뒷면은 어두운 게 아니라 지구에서 안 보일 뿐, 햇빛은 똑같이 받아요."
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "version": 1,
+  "id": "daily-2026-10-17",
+  "date": "2026-10-17",
+  "questions": [
+    {
+      "id": "geography-84ed61d2",
+      "category": "geography",
+      "difficulty": 1,
+      "question": "세계에서 가장 높은 산은 무엇일까요?",
+      "choices": [
+        "후지산",
+        "몽블랑",
+        "에베레스트산",
+        "킬리만자로산"
+      ],
+      "answerIndex": 2,
+      "explanation": "에베레스트산은 히말라야 산맥에 있는 세계에서 가장 높은 산이에요. 네팔과 중국의 국경에 걸쳐 있어요.",
+      "funFact": "에베레스트라는 이름은 인도 측량 책임자였던 조지 에베레스트의 이름에서 따왔어요."
+    },
+    {
+      "id": "science-bc3a24f6",
+      "category": "science",
+      "difficulty": 1,
+      "question": "식물이 광합성을 하면서 밖으로 내놓는 기체는?",
+      "choices": [
+        "산소",
+        "수소",
+        "이산화탄소",
+        "질소"
+      ],
+      "answerIndex": 0,
+      "explanation": "식물은 빛을 받아 이산화탄소와 물로 포도당을 만들어요. 이때 산소가 함께 만들어져 밖으로 나와요."
+    },
+    {
+      "id": "history-ad5f5a5e",
+      "category": "history",
+      "difficulty": 1,
+      "question": "1950년에 일어나 한반도를 휩쓴 전쟁은?",
+      "choices": [
+        "6·25 전쟁",
+        "임진왜란",
+        "러일 전쟁",
+        "병자호란"
+      ],
+      "answerIndex": 0,
+      "explanation": "6·25 전쟁은 1950년 6월 25일에 시작됐어요. 3년 뒤인 1953년에 정전 협정이 맺어지며 전투가 멈췄어요."
+    },
+    {
+      "id": "korean-fa97e965",
+      "category": "korean",
+      "difficulty": 1,
+      "question": "속담 '소 잃고 외양간 고친다'의 뜻으로 알맞은 것은?",
+      "choices": [
+        "이미 늦은 뒤에 대비한다",
+        "아무리 힘들어도 참고 견딘다",
+        "조금 얻으려다 크게 잃는다",
+        "남의 일에 괜히 참견한다"
+      ],
+      "answerIndex": 0,
+      "explanation": "소를 잃어버린 뒤에야 외양간을 고쳐 봐야 소용없다는 뜻이에요. 일이 잘못된 다음에 뒤늦게 대비하는 모습을 꼬집는 말이에요."
+    },
+    {
+      "id": "economy-62757380",
+      "category": "economy",
+      "difficulty": 2,
+      "question": "한 기업이 시장의 공급을 혼자 차지하는 시장 형태는?",
+      "choices": [
+        "협동조합",
+        "과점",
+        "완전 경쟁",
+        "독점"
+      ],
+      "answerIndex": 3,
+      "explanation": "독점은 한 기업이 어떤 상품의 공급을 혼자 맡는 형태예요. 소수의 기업이 나눠 갖는 과점과는 달라요."
+    },
+    {
+      "id": "history-4c0f7b81",
+      "category": "history",
+      "difficulty": 2,
+      "question": "메소포타미아 문명이 일어난 두 강은?",
+      "choices": [
+        "인더스·갠지스강",
+        "나일·요르단강",
+        "황허·양쯔강",
+        "티그리스·유프라테스강"
+      ],
+      "answerIndex": 3,
+      "explanation": "메소포타미아 문명은 티그리스강과 유프라테스강 유역에서 일어났어요. 쐐기 문자와 함무라비 법전이 이 지역에서 나왔어요.",
+      "funFact": "메소포타미아는 그리스어로 '강 사이의 땅'이라는 뜻이에요."
+    },
+    {
+      "id": "science-5c36b7ce",
+      "category": "science",
+      "difficulty": 2,
+      "question": "지진이 났을 때 가장 먼저 도착하는 지진파는?",
+      "choices": [
+        "S파",
+        "음파",
+        "표면파",
+        "P파"
+      ],
+      "answerIndex": 3,
+      "explanation": "P파는 속도가 가장 빨라서 지진파 중 제일 먼저 도착해요. 뒤이어 S파가 오고, 피해가 큰 표면파가 가장 늦게 와요.",
+      "funFact": "P파는 고체·액체·기체를 모두 지나지만 S파는 고체만 통과해요."
+    },
+    {
+      "id": "life-0cf0b84b",
+      "category": "life",
+      "difficulty": 3,
+      "question": "싹이 나거나 초록빛이 도는 감자에 많은 독성 물질은?",
+      "choices": [
+        "아플라톡신",
+        "솔라닌",
+        "보툴리눔 독소",
+        "테트로도톡신"
+      ],
+      "answerIndex": 1,
+      "explanation": "감자의 싹과 초록빛 껍질에는 솔라닌이 많아요. 먹으면 복통과 구토가 날 수 있어서 싹은 깊게 도려내고 푸른 감자는 피해야 해요."
+    },
+    {
+      "id": "culture-585d5615",
+      "category": "culture",
+      "difficulty": 3,
+      "question": "소설 『죄와 벌』을 쓴 러시아 작가는?",
+      "choices": [
+        "체호프",
+        "도스토옙스키",
+        "투르게네프",
+        "톨스토이"
+      ],
+      "answerIndex": 1,
+      "explanation": "『죄와 벌』은 1866년에 나온 도스토옙스키의 대표작이에요. 가난한 대학생 라스콜니코프의 죄와 양심의 갈등을 그려요."
+    },
+    {
+      "id": "history-b5dfaa89",
+      "category": "history",
+      "difficulty": 3,
+      "question": "백년 전쟁 때 잔 다르크가 영국군의 포위를 푼 도시는?",
+      "choices": [
+        "랭스",
+        "칼레",
+        "오를레앙",
+        "파리"
+      ],
+      "answerIndex": 2,
+      "explanation": "잔 다르크는 1429년 프랑스군을 이끌고 오를레앙의 포위를 풀었어요. 이 승리로 프랑스가 전쟁의 흐름을 바꿨어요.",
+      "funFact": "잔 다르크는 이 일로 '오를레앙의 처녀'라고 불렸어요."
+    }
+  ]
+}

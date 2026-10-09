@@ -1,0 +1,151 @@
+{
+  "version": 1,
+  "id": "daily-2026-12-04",
+  "date": "2026-12-04",
+  "questions": [
+    {
+      "id": "history-efdd9f0f",
+      "category": "history",
+      "difficulty": 1,
+      "question": "고려 시대를 대표하는 푸른빛 도자기는?",
+      "choices": [
+        "고려청자",
+        "가야토기",
+        "빗살무늬토기",
+        "조선백자"
+      ],
+      "answerIndex": 0,
+      "explanation": "고려청자는 푸른 옥빛(비색)이 나는 도자기예요. 표면을 파고 흙을 채워 무늬를 넣는 상감 기법으로 유명해요.",
+      "funFact": "송나라 사신 서긍도 고려청자의 비색을 칭찬하는 기록을 남겼어요."
+    },
+    {
+      "id": "economy-50a15239",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "물건을 살 때 가격에 포함해 내는 세금은?",
+      "choices": [
+        "상속세",
+        "소득세",
+        "부가가치세",
+        "재산세"
+      ],
+      "answerIndex": 2,
+      "explanation": "부가가치세는 상품을 사고팔 때 가격에 포함돼 소비자가 내는 세금이에요. 영수증에 '부가세'로 표시되는 경우가 많아요."
+    },
+    {
+      "id": "life-c731d696",
+      "category": "life",
+      "difficulty": 1,
+      "question": "햇볕을 쬐면 피부에서 만들어지는 비타민은?",
+      "choices": [
+        "비타민 K",
+        "비타민 A",
+        "비타민 C",
+        "비타민 D"
+      ],
+      "answerIndex": 3,
+      "explanation": "피부가 햇빛의 자외선을 받으면 비타민 D가 만들어져요. 비타민 D는 칼슘 흡수를 도와 뼈 건강에 중요해요."
+    },
+    {
+      "id": "culture-619f3a98",
+      "category": "culture",
+      "difficulty": 1,
+      "question": "일반적인 피아노의 건반은 모두 몇 개일까요?",
+      "choices": [
+        "76개",
+        "88개",
+        "66개",
+        "100개"
+      ],
+      "answerIndex": 1,
+      "explanation": "표준 피아노는 흰 건반 52개와 검은 건반 36개를 합쳐 모두 88개예요. 음역이 넓어서 대부분의 곡을 연주할 수 있어요."
+    },
+    {
+      "id": "korean-970348f1",
+      "category": "korean",
+      "difficulty": 2,
+      "question": "고유어 '사흘'은 며칠을 뜻할까요?",
+      "choices": [
+        "2일",
+        "3일",
+        "10일",
+        "4일"
+      ],
+      "answerIndex": 1,
+      "explanation": "'사흘'은 3일을 뜻해요. 이틀은 2일, 나흘은 4일, 열흘은 10일이에요."
+    },
+    {
+      "id": "history-0da6dfd8",
+      "category": "history",
+      "difficulty": 2,
+      "question": "고대 그리스에서 민주 정치가 발달한 도시국가는?",
+      "choices": [
+        "아테네",
+        "테베",
+        "코린토스",
+        "스파르타"
+      ],
+      "answerIndex": 0,
+      "explanation": "아테네에서는 시민들이 직접 모여 정치를 결정하는 직접 민주 정치가 발달했어요. 다만 여성과 노예는 시민에서 제외됐어요."
+    },
+    {
+      "id": "economy-a9fa05d2",
+      "category": "economy",
+      "difficulty": 2,
+      "question": "시장에서 수요량과 공급량이 일치할 때의 가격은?",
+      "choices": [
+        "최고 가격",
+        "소비자 가격",
+        "독점 가격",
+        "균형 가격"
+      ],
+      "answerIndex": 3,
+      "explanation": "수요량과 공급량이 같아지는 가격을 균형 가격이라고 해요. 이때 거래되는 양은 균형 거래량이라고 불러요."
+    },
+    {
+      "id": "science-1c48fb6a",
+      "category": "science",
+      "difficulty": 3,
+      "question": "광합성에서 발생하는 산소는 주로 어디에서 나올까요?",
+      "choices": [
+        "엽록소",
+        "포도당",
+        "물",
+        "이산화탄소"
+      ],
+      "answerIndex": 2,
+      "explanation": "광합성의 명반응에서 물이 분해되며 산소가 나와요. 이산화탄소는 포도당을 만드는 데 쓰여요.",
+      "funFact": "산소가 물에서 나온다는 사실은 동위원소를 이용한 실험으로 밝혀졌어요."
+    },
+    {
+      "id": "geography-486b887f",
+      "category": "geography",
+      "difficulty": 3,
+      "question": "나이지리아의 수도는 어디일까요?",
+      "choices": [
+        "라고스",
+        "이바단",
+        "아부자",
+        "카노"
+      ],
+      "answerIndex": 2,
+      "explanation": "나이지리아의 수도는 아부자예요. 가장 큰 도시인 라고스가 수도로 오해받기 쉬워요.",
+      "funFact": "나이지리아는 1991년 라고스에서 내륙의 아부자로 수도를 옮겼어요."
+    },
+    {
+      "id": "history-cdb5eea1",
+      "category": "history",
+      "difficulty": 3,
+      "question": "1815년 나폴레옹이 최종적으로 패배한 전투는?",
+      "choices": [
+        "아우스터리츠 전투",
+        "트라팔가르 해전",
+        "라이프치히 전투",
+        "워털루 전투"
+      ],
+      "answerIndex": 3,
+      "explanation": "나폴레옹은 1815년 워털루 전투에서 영국·프로이센 연합군에 패했어요. 이후 세인트헬레나섬으로 유배됐어요.",
+      "funFact": "'워털루'는 오늘날 참담한 패배를 뜻하는 말로도 쓰여요."
+    }
+  ]
+}

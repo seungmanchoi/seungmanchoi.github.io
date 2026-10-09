@@ -1,0 +1,150 @@
+{
+  "version": 1,
+  "id": "daily-2026-10-25",
+  "date": "2026-10-25",
+  "questions": [
+    {
+      "id": "history-539de6a1",
+      "category": "history",
+      "difficulty": 1,
+      "question": "천 년 가까이 신라의 수도였던 도시는?",
+      "choices": [
+        "평양",
+        "경주",
+        "공주",
+        "부여"
+      ],
+      "answerIndex": 1,
+      "explanation": "신라는 서라벌, 지금의 경주를 수도로 삼았어요. 불국사와 석굴암 같은 유적이 지금도 많이 남아 있어요.",
+      "funFact": "경주는 도시 곳곳에 유적이 있어 '지붕 없는 박물관'이라고 불려요."
+    },
+    {
+      "id": "science-c44d4725",
+      "category": "science",
+      "difficulty": 1,
+      "question": "태양에서 가장 가까운 행성은?",
+      "choices": [
+        "화성",
+        "지구",
+        "금성",
+        "수성"
+      ],
+      "answerIndex": 3,
+      "explanation": "수성은 태양계 여덟 행성 가운데 태양에 가장 가까운 궤도를 돌아요. 크기도 가장 작은 편이에요.",
+      "funFact": "수성은 태양을 한 바퀴 도는 데 약 88일이 걸려서 1년이 석 달이 채 안 돼요."
+    },
+    {
+      "id": "geography-b1e646ce",
+      "category": "geography",
+      "difficulty": 1,
+      "question": "지구에서 면적이 가장 넓은 대륙은?",
+      "choices": [
+        "아프리카",
+        "유럽",
+        "북아메리카",
+        "아시아"
+      ],
+      "answerIndex": 3,
+      "explanation": "아시아는 지구 육지 면적의 약 30%를 차지하는 가장 큰 대륙이에요. 인구도 가장 많아요."
+    },
+    {
+      "id": "korean-bb8ffe99",
+      "category": "korean",
+      "difficulty": 1,
+      "question": "속담 '원숭이도 나무에서 떨어진다'의 뜻으로 알맞은 것은?",
+      "choices": [
+        "재주 많은 사람이 많다",
+        "남의 흉내를 내면 망한다",
+        "잘하는 사람도 실수한다",
+        "높은 곳은 위험하다"
+      ],
+      "answerIndex": 2,
+      "explanation": "나무 타기의 달인인 원숭이도 가끔 떨어진다는 데서, 아무리 능숙한 사람도 실수할 수 있다는 뜻이 됐어요."
+    },
+    {
+      "id": "life-c1c275a5",
+      "category": "life",
+      "difficulty": 2,
+      "question": "피부에서 비타민 D가 만들어지려면 무엇이 필요할까요?",
+      "choices": [
+        "햇빛(자외선)",
+        "달빛",
+        "컴퓨터 화면",
+        "형광등 불빛"
+      ],
+      "answerIndex": 0,
+      "explanation": "피부가 햇빛의 자외선을 받으면 몸속에서 비타민 D가 만들어져요. 비타민 D는 칼슘 흡수를 도와 뼈를 튼튼하게 해 줘요."
+    },
+    {
+      "id": "culture-b259b168",
+      "category": "culture",
+      "difficulty": 2,
+      "question": "올림픽 오륜기의 다섯 고리가 상징하는 것은?",
+      "choices": [
+        "다섯 가지 종목",
+        "최초 참가 5개국",
+        "다섯 번의 대회",
+        "다섯 개 대륙"
+      ],
+      "answerIndex": 3,
+      "explanation": "서로 얽힌 다섯 개의 고리는 오대륙이 올림픽을 통해 하나로 만난다는 뜻을 담고 있어요. 다만 고리 색이 특정 대륙을 가리키는 것은 아니에요."
+    },
+    {
+      "id": "history-b8505fbc",
+      "category": "history",
+      "difficulty": 2,
+      "question": "1388년 이성계가 요동 정벌에 나섰다가 군대를 돌린 사건은?",
+      "choices": [
+        "이자겸의 난",
+        "묘청의 난",
+        "위화도 회군",
+        "무신정변"
+      ],
+      "answerIndex": 2,
+      "explanation": "요동 정벌군을 이끌던 이성계는 압록강의 위화도에서 군대를 돌려 개경으로 돌아왔어요. 이 일로 권력을 잡아 조선 건국의 발판을 마련했어요."
+    },
+    {
+      "id": "economy-1ef29b43",
+      "category": "economy",
+      "difficulty": 3,
+      "question": "'악화가 양화를 몰아낸다'는 화폐 관련 법칙의 이름은?",
+      "choices": [
+        "오쿤의 법칙",
+        "엥겔의 법칙",
+        "그레셤의 법칙",
+        "세이의 법칙"
+      ],
+      "answerIndex": 2,
+      "explanation": "가치가 낮은 돈이 함께 쓰이면 사람들이 가치 높은 돈은 쟁여 두어서 시장에서 사라진다는 법칙이에요. 영국의 금융가 토머스 그레셤의 이름을 땄어요."
+    },
+    {
+      "id": "history-60200c82",
+      "category": "history",
+      "difficulty": 3,
+      "question": "몽골의 침입에 맞서 1232년 강화도 천도를 주도한 무신 집권자는?",
+      "choices": [
+        "최우",
+        "정중부",
+        "이의민",
+        "최충헌"
+      ],
+      "answerIndex": 0,
+      "explanation": "최우는 몽골과 오래 싸울 것에 대비해 수도를 강화도로 옮겼어요. 바다에 약한 몽골군을 피하려는 전략이었어요.",
+      "funFact": "최우는 무신 집권자 최충헌의 아들로, 아버지의 권력을 이어받았어요."
+    },
+    {
+      "id": "science-7a3ee9cb",
+      "category": "science",
+      "difficulty": 3,
+      "question": "물의 밀도가 가장 커지는 온도는 몇 ℃일까요?",
+      "choices": [
+        "0℃",
+        "4℃",
+        "2℃",
+        "10℃"
+      ],
+      "answerIndex": 1,
+      "explanation": "물은 약 4℃에서 밀도가 가장 커서 가장 무거워요. 그래서 겨울 호수에서는 얼음 아래 바닥 쪽에 4℃에 가까운 물이 남아 물고기가 살 수 있어요."
+    }
+  ]
+}

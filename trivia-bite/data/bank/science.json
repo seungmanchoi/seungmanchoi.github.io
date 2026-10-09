@@ -1,0 +1,1443 @@
+{
+  "version": 1,
+  "id": "bank-science",
+  "category": "science",
+  "questions": [
+    {
+      "id": "science-5e5735d8",
+      "category": "science",
+      "difficulty": 1,
+      "question": "태양계에서 가장 큰 행성은 무엇일까요?",
+      "choices": [
+        "목성",
+        "토성",
+        "지구",
+        "해왕성"
+      ],
+      "answerIndex": 0,
+      "explanation": "목성은 태양계 행성 중 지름과 질량이 가장 커요. 가스로 이루어진 거대 행성이에요.",
+      "funFact": "목성 안에는 지구가 1,300개 넘게 들어갈 수 있어요."
+    },
+    {
+      "id": "science-a9ccc0e7",
+      "category": "science",
+      "difficulty": 1,
+      "question": "혈액 속에서 산소를 온몸으로 운반하는 것은?",
+      "choices": [
+        "혈소판",
+        "림프구",
+        "백혈구",
+        "적혈구"
+      ],
+      "answerIndex": 3,
+      "explanation": "적혈구 속 헤모글로빈이 폐에서 산소와 결합해 온몸으로 날라 줘요. 백혈구는 세균과 싸우고, 혈소판은 피를 굳게 해요.",
+      "funFact": "피가 붉은 건 헤모글로빈 속 철 성분 때문이에요."
+    },
+    {
+      "id": "science-469c5ac7",
+      "category": "science",
+      "difficulty": 1,
+      "question": "물의 화학식으로 알맞은 것은?",
+      "choices": [
+        "CO₂",
+        "H₂O",
+        "O₂",
+        "H₂O₂"
+      ],
+      "answerIndex": 1,
+      "explanation": "물 한 분자는 수소 원자 2개와 산소 원자 1개로 이루어져 있어요. 그래서 H₂O라고 써요."
+    },
+    {
+      "id": "science-d112c1ca",
+      "category": "science",
+      "difficulty": 1,
+      "question": "지구가 하루에 한 바퀴씩 자전해서 생기는 현상은?",
+      "choices": [
+        "일식",
+        "달의 위상 변화",
+        "낮과 밤",
+        "계절의 변화"
+      ],
+      "answerIndex": 2,
+      "explanation": "지구가 자전하면서 태양을 향한 면은 낮, 반대쪽 면은 밤이 돼요. 계절은 자전축의 기울기와 공전 때문에 생겨요."
+    },
+    {
+      "id": "science-4abcc6f0",
+      "category": "science",
+      "difficulty": 1,
+      "question": "소리가 전달되지 못하는 곳은 어디일까요?",
+      "choices": [
+        "쇠막대 속",
+        "물속",
+        "진공 상태",
+        "공기 중"
+      ],
+      "answerIndex": 2,
+      "explanation": "소리는 공기나 물 같은 물질이 떨리면서 전해져요. 물질이 없는 진공에서는 전달될 수 없어요.",
+      "funFact": "우주 공간에서는 옆에서 폭발이 일어나도 소리가 들리지 않아요."
+    },
+    {
+      "id": "science-fce727be",
+      "category": "science",
+      "difficulty": 1,
+      "question": "다음 중 포유류에 속하는 동물은?",
+      "choices": [
+        "상어",
+        "고래",
+        "펭귄",
+        "오징어"
+      ],
+      "answerIndex": 1,
+      "explanation": "고래는 물에서 살지만 폐로 숨 쉬고 새끼를 낳아 젖을 먹여요. 그래서 어류가 아니라 포유류예요."
+    },
+    {
+      "id": "science-6a738319",
+      "category": "science",
+      "difficulty": 2,
+      "question": "번개가 친 뒤 천둥소리가 늦게 들리는 이유는?",
+      "choices": [
+        "소리가 빛보다 먼저 사라져서",
+        "빛이 소리보다 훨씬 빨라서",
+        "천둥이 번개보다 늦게 생겨서",
+        "구름이 소리를 막아서"
+      ],
+      "answerIndex": 1,
+      "explanation": "번개와 천둥은 동시에 생기지만 빛은 거의 순식간에 오고 소리는 초속 340m쯤으로 느려요. 그래서 번개가 먼저 보여요.",
+      "funFact": "번개를 본 뒤 3초 뒤에 천둥이 들리면 약 1km 떨어진 곳이에요."
+    },
+    {
+      "id": "science-2d3ba3fd",
+      "category": "science",
+      "difficulty": 2,
+      "question": "지구 대기에서 가장 많은 비율을 차지하는 기체는?",
+      "choices": [
+        "산소",
+        "이산화탄소",
+        "질소",
+        "아르곤"
+      ],
+      "answerIndex": 2,
+      "explanation": "공기의 약 78%가 질소예요. 산소는 약 21% 정도이고 나머지는 아르곤 등이에요."
+    },
+    {
+      "id": "science-390642ba",
+      "category": "science",
+      "difficulty": 2,
+      "question": "산성 용액에 푸른 리트머스 종이를 담그면 어떻게 될까요?",
+      "choices": [
+        "붉게 변해요",
+        "색이 변하지 않아요",
+        "노랗게 변해요",
+        "검게 변해요"
+      ],
+      "answerIndex": 0,
+      "explanation": "푸른 리트머스 종이는 산성 용액에서 붉게 변해요. 염기성 용액에서는 붉은 종이가 푸르게 변해요.",
+      "funFact": "리트머스 색소는 지의류라는 생물에서 얻어요."
+    },
+    {
+      "id": "science-1add168b",
+      "category": "science",
+      "difficulty": 2,
+      "question": "식물 세포에는 있지만 동물 세포에는 없는 것은?",
+      "choices": [
+        "핵",
+        "세포막",
+        "미토콘드리아",
+        "세포벽"
+      ],
+      "answerIndex": 3,
+      "explanation": "식물 세포는 세포막 바깥에 단단한 세포벽이 있어서 모양을 유지해요. 동물 세포에는 세포벽이 없어요.",
+      "funFact": "식물 세포벽의 주성분은 셀룰로스예요."
+    },
+    {
+      "id": "science-4a2723fd",
+      "category": "science",
+      "difficulty": 3,
+      "question": "금속 중 상온에서 액체 상태로 있는 것은?",
+      "choices": [
+        "수은",
+        "납",
+        "아연",
+        "주석"
+      ],
+      "answerIndex": 0,
+      "explanation": "수은은 금속 중 실온에서 액체로 존재하는 대표적인 원소예요. 나머지 금속은 상온에서 고체예요.",
+      "funFact": "예전 체온계에는 수은이 들어 있었어요."
+    },
+    {
+      "id": "science-ac2d75a7",
+      "category": "science",
+      "difficulty": 3,
+      "question": "지구 내부 구조 중 액체 상태인 층은?",
+      "choices": [
+        "지각",
+        "맨틀",
+        "외핵",
+        "내핵"
+      ],
+      "answerIndex": 2,
+      "explanation": "지구의 핵은 바깥쪽 외핵은 액체이고 안쪽 내핵은 고체예요. 맨틀과 지각은 고체 상태예요.",
+      "funFact": "외핵의 액체 금속이 움직이며 지구 자기장을 만든다고 해요."
+    },
+    {
+      "id": "science-35b96255",
+      "category": "science",
+      "difficulty": 3,
+      "question": "다이아몬드와 흑연을 이루는 공통 원소는?",
+      "choices": [
+        "탄소",
+        "질소",
+        "붕소",
+        "규소"
+      ],
+      "answerIndex": 0,
+      "explanation": "두 물질 모두 탄소 원자로만 이루어져 있어요. 원자가 배열된 방식이 달라서 단단함과 성질이 크게 달라요.",
+      "funFact": "연필심에 쓰이는 흑연과 보석 다이아몬드가 같은 원소예요."
+    },
+    {
+      "id": "science-14a50491",
+      "category": "science",
+      "difficulty": 3,
+      "question": "DNA에서 아데닌과 짝을 이루는 염기는?",
+      "choices": [
+        "구아닌",
+        "우라실",
+        "사이토신",
+        "티민"
+      ],
+      "answerIndex": 3,
+      "explanation": "DNA에서는 아데닌이 티민과, 구아닌이 사이토신과 짝을 이뤄요. 우라실은 DNA가 아니라 RNA에 있는 염기예요."
+    },
+    {
+      "id": "science-a1a203a7",
+      "category": "science",
+      "difficulty": 3,
+      "question": "햇빛이 프리즘을 지날 때 가장 크게 꺾이는 색은?",
+      "choices": [
+        "노란색",
+        "초록색",
+        "빨간색",
+        "보라색"
+      ],
+      "answerIndex": 3,
+      "explanation": "빛은 파장이 짧을수록 더 크게 굴절돼요. 가시광선 중 파장이 가장 짧은 보라색이 가장 많이 꺾여요.",
+      "funFact": "무지개 안쪽에 보라색이, 바깥쪽에 빨간색이 보이는 이유예요."
+    },
+    {
+      "id": "science-e78b1e47",
+      "category": "science",
+      "difficulty": 1,
+      "question": "얼음이 물 위에 뜨는 까닭으로 알맞은 것은?",
+      "choices": [
+        "얼음 속이 텅 비어서",
+        "물보다 온도가 높아서",
+        "물이 끈적하게 붙잡아서",
+        "물보다 밀도가 작아서"
+      ],
+      "answerIndex": 3,
+      "explanation": "물은 얼면 부피가 늘어나요. 그래서 같은 부피일 때 더 가벼워지고, 밀도가 작은 얼음이 물 위에 떠요.",
+      "funFact": "얼음이 가라앉았다면 호수가 바닥부터 얼어 물고기가 살기 어려웠을 거예요."
+    },
+    {
+      "id": "science-b6f5b8ed",
+      "category": "science",
+      "difficulty": 1,
+      "question": "혈액을 온몸으로 내보내는 펌프 역할을 하는 기관은?",
+      "choices": [
+        "간",
+        "콩팥",
+        "위",
+        "심장"
+      ],
+      "answerIndex": 3,
+      "explanation": "심장은 근육으로 된 기관으로, 규칙적으로 수축하면서 혈액을 혈관으로 밀어 내요. 덕분에 산소와 영양분이 온몸에 전달돼요."
+    },
+    {
+      "id": "science-a7af5b91",
+      "category": "science",
+      "difficulty": 1,
+      "question": "천연 물질 가운데 가장 단단한 것은?",
+      "choices": [
+        "흑연",
+        "다이아몬드",
+        "금",
+        "철"
+      ],
+      "answerIndex": 1,
+      "explanation": "다이아몬드는 탄소 원자가 매우 단단하게 결합한 광물이라 천연 물질 중 가장 단단해요. 같은 탄소로 된 흑연은 오히려 무르답니다."
+    },
+    {
+      "id": "science-0ccedf28",
+      "category": "science",
+      "difficulty": 1,
+      "question": "달이 초승달·보름달처럼 모양이 달라 보이는 까닭은?",
+      "choices": [
+        "보이는 밝은 면이 달라서",
+        "달 자체가 모양을 바꿔서",
+        "지구 그림자에 가려져서",
+        "구름이 달을 가려서"
+      ],
+      "answerIndex": 0,
+      "explanation": "달은 스스로 빛나지 않고 햇빛을 반사해요. 달이 지구 둘레를 돌면서 우리가 볼 수 있는 밝은 면이 달라져 모양이 변해 보여요."
+    },
+    {
+      "id": "science-30dc84b5",
+      "category": "science",
+      "difficulty": 1,
+      "question": "달이 태양 앞을 지나며 태양을 가리는 현상은?",
+      "choices": [
+        "신기루",
+        "오로라",
+        "일식",
+        "월식"
+      ],
+      "answerIndex": 2,
+      "explanation": "태양, 달, 지구가 일직선에 가까이 놓일 때 달이 태양을 가려요. 반대로 지구 그림자가 달을 가리면 월식이에요."
+    },
+    {
+      "id": "science-3236b7d7",
+      "category": "science",
+      "difficulty": 1,
+      "question": "물체가 불에 타려면 공기 중의 어떤 기체가 필요할까요?",
+      "choices": [
+        "산소",
+        "이산화 탄소",
+        "헬륨",
+        "질소"
+      ],
+      "answerIndex": 0,
+      "explanation": "불이 붙으려면 탈 물질, 발화점 이상의 온도, 산소가 모두 필요해요. 이 가운데 하나만 없애도 불이 꺼져요."
+    },
+    {
+      "id": "science-a956e83c",
+      "category": "science",
+      "difficulty": 1,
+      "question": "지구 표면에서 바다가 차지하는 비율은 대략 얼마일까요?",
+      "choices": [
+        "약 30%",
+        "약 90%",
+        "약 50%",
+        "약 70%"
+      ],
+      "answerIndex": 3,
+      "explanation": "지구 표면의 약 71%가 바다로 덮여 있어요. 그래서 우주에서 보면 푸르게 보여 '푸른 행성'이라고 불러요."
+    },
+    {
+      "id": "science-a9dd3c7c",
+      "category": "science",
+      "difficulty": 1,
+      "question": "다음 중 자석에 붙는 물체는?",
+      "choices": [
+        "유리컵",
+        "철못",
+        "고무장갑",
+        "플라스틱 자"
+      ],
+      "answerIndex": 1,
+      "explanation": "철, 니켈, 코발트 같은 금속은 자석에 붙어요. 유리, 플라스틱, 고무는 자석에 붙지 않아요."
+    },
+    {
+      "id": "science-7be42c34",
+      "category": "science",
+      "difficulty": 1,
+      "question": "사람 몸에서 가장 크고 넓은 기관은?",
+      "choices": [
+        "위",
+        "간",
+        "폐",
+        "피부"
+      ],
+      "answerIndex": 3,
+      "explanation": "피부는 몸 전체를 덮고 있어서 가장 큰 기관으로 꼽혀요. 외부 자극에서 몸을 지키고 체온을 조절하는 일을 해요."
+    },
+    {
+      "id": "science-978dd599",
+      "category": "science",
+      "difficulty": 1,
+      "question": "달 표면에 움푹 팬 둥근 구덩이를 무엇이라 부를까요?",
+      "choices": [
+        "해구",
+        "협곡",
+        "사구",
+        "크레이터"
+      ],
+      "answerIndex": 3,
+      "explanation": "크레이터는 운석 등이 부딪혀서 생긴 구덩이예요. 달은 대기와 물이 거의 없어 오래도록 그 모습이 남아요."
+    },
+    {
+      "id": "science-8663244f",
+      "category": "science",
+      "difficulty": 1,
+      "question": "혈액 성분 중 상처가 났을 때 피를 굳게 돕는 것은?",
+      "choices": [
+        "림프액",
+        "백혈구",
+        "혈소판",
+        "적혈구"
+      ],
+      "answerIndex": 2,
+      "explanation": "혈소판은 상처 부위에 모여 피를 굳히고 출혈을 막아 줘요. 적혈구는 산소 운반, 백혈구는 세균 방어를 맡아요."
+    },
+    {
+      "id": "science-5c761e48",
+      "category": "science",
+      "difficulty": 1,
+      "question": "식물 세포에서 광합성이 일어나는 곳은?",
+      "choices": [
+        "미토콘드리아",
+        "액포",
+        "엽록체",
+        "핵"
+      ],
+      "answerIndex": 2,
+      "explanation": "엽록체 안의 엽록소가 빛을 흡수해 광합성이 일어나요. 엽록소 때문에 식물의 잎이 초록빛으로 보여요."
+    },
+    {
+      "id": "science-3d795b5c",
+      "category": "science",
+      "difficulty": 1,
+      "question": "소리의 크기를 나타내는 단위는?",
+      "choices": [
+        "와트",
+        "헤르츠",
+        "데시벨(dB)",
+        "뉴턴"
+      ],
+      "answerIndex": 2,
+      "explanation": "데시벨은 소리의 세기를 나타내는 단위예요. 헤르츠는 1초에 진동하는 횟수로, 소리의 높낮이와 관련돼요."
+    },
+    {
+      "id": "science-00ada3dd",
+      "category": "science",
+      "difficulty": 1,
+      "question": "겨울철 문고리를 만질 때 따끔한 이유는?",
+      "choices": [
+        "몸의 정전기가 방전돼서",
+        "자기력이 작용해서",
+        "문고리가 뜨거워서",
+        "몸속 물이 얼어서"
+      ],
+      "answerIndex": 0,
+      "explanation": "마찰로 몸에 쌓인 전하가 금속에 닿는 순간 한꺼번에 흘러요. 공기가 건조한 겨울에 특히 잘 생겨요.",
+      "funFact": "정전기 불꽃은 수천 볼트가 넘기도 하지만 전류가 아주 약해서 위험하지 않아요."
+    },
+    {
+      "id": "science-93aa6065",
+      "category": "science",
+      "difficulty": 2,
+      "question": "사랑니를 포함한 성인의 영구치는 모두 몇 개일까요?",
+      "choices": [
+        "28개",
+        "32개",
+        "20개",
+        "36개"
+      ],
+      "answerIndex": 1,
+      "explanation": "앞니 8개, 송곳니 4개, 작은 어금니 8개, 큰 어금니 12개를 합치면 32개예요. 사랑니 4개를 빼면 28개가 돼요.",
+      "funFact": "아기 때 나는 젖니는 모두 20개예요."
+    },
+    {
+      "id": "science-7e51c43e",
+      "category": "science",
+      "difficulty": 2,
+      "question": "눈에서 카메라 필름처럼 상이 맺히는 부분은?",
+      "choices": [
+        "망막",
+        "각막",
+        "홍채",
+        "수정체"
+      ],
+      "answerIndex": 0,
+      "explanation": "빛이 각막과 수정체를 지나 망막에 상을 맺어요. 그러면 시신경이 이 정보를 뇌로 전달해요. 수정체는 카메라의 렌즈에 해당해요."
+    },
+    {
+      "id": "science-9a1e1858",
+      "category": "science",
+      "difficulty": 2,
+      "question": "침 속에 든 아밀레이스가 분해하는 영양소는?",
+      "choices": [
+        "단백질",
+        "지방",
+        "녹말",
+        "무기염류"
+      ],
+      "answerIndex": 2,
+      "explanation": "아밀레이스는 밥 같은 음식 속 녹말을 엿당 등으로 분해해요. 밥을 오래 씹으면 단맛이 나는 까닭이 바로 이거예요."
+    },
+    {
+      "id": "science-c22cb4a6",
+      "category": "science",
+      "difficulty": 2,
+      "question": "차가운 컵 표면에 물방울이 맺히는 현상의 이름은?",
+      "choices": [
+        "승화",
+        "응결",
+        "융해",
+        "증발"
+      ],
+      "answerIndex": 1,
+      "explanation": "공기 중의 수증기가 차가운 표면에서 식어 액체인 물방울로 변해요. 아침에 풀잎에 맺히는 이슬도 같은 원리예요."
+    },
+    {
+      "id": "science-8ccbaa0c",
+      "category": "science",
+      "difficulty": 2,
+      "question": "달리던 버스가 급정거하면 몸이 앞으로 쏠리는 까닭은?",
+      "choices": [
+        "관성",
+        "중력",
+        "부력",
+        "마찰력"
+      ],
+      "answerIndex": 0,
+      "explanation": "물체는 하던 운동을 계속하려는 성질인 관성이 있어요. 버스는 멈춰도 몸은 계속 앞으로 가려고 해서 쏠리는 거예요.",
+      "funFact": "안전벨트는 이런 관성 때문에 생기는 피해를 줄여 줘요."
+    },
+    {
+      "id": "science-67a45d1a",
+      "category": "science",
+      "difficulty": 2,
+      "question": "일반적인 성인의 뼈는 모두 몇 개일까요?",
+      "choices": [
+        "156개",
+        "106개",
+        "206개",
+        "306개"
+      ],
+      "answerIndex": 2,
+      "explanation": "성인의 몸은 대략 206개의 뼈로 이루어져 있어요. 머리뼈, 척추, 갈비뼈, 팔다리뼈 등이 모두 포함돼요.",
+      "funFact": "아기는 약 300개 안팎의 뼈를 갖고 태어나고, 자라면서 일부가 합쳐져요."
+    },
+    {
+      "id": "science-24abc8c4",
+      "category": "science",
+      "difficulty": 2,
+      "question": "물이 담긴 컵 속 빨대가 꺾여 보이는 현상은?",
+      "choices": [
+        "빛의 반사",
+        "빛의 굴절",
+        "빛의 흡수",
+        "빛의 직진"
+      ],
+      "answerIndex": 1,
+      "explanation": "빛이 물에서 공기로 나올 때 속력이 달라져 진행 방향이 꺾여요. 그래서 물속 물체가 실제와 다른 위치에 보여요."
+    },
+    {
+      "id": "science-e1399ae1",
+      "category": "science",
+      "difficulty": 2,
+      "question": "근시인 사람의 시력을 교정하는 데 쓰는 렌즈는?",
+      "choices": [
+        "볼록 렌즈",
+        "프리즘",
+        "평면 거울",
+        "오목 렌즈"
+      ],
+      "answerIndex": 3,
+      "explanation": "근시는 상이 망막 앞에 맺혀서 생겨요. 빛을 퍼뜨려 주는 오목 렌즈로 교정해요. 원시는 볼록 렌즈를 써요."
+    },
+    {
+      "id": "science-b3030a40",
+      "category": "science",
+      "difficulty": 2,
+      "question": "혈당을 낮추는 호르몬 인슐린을 만드는 기관은?",
+      "choices": [
+        "쓸개",
+        "이자(췌장)",
+        "위",
+        "간"
+      ],
+      "answerIndex": 1,
+      "explanation": "이자에서 분비된 인슐린이 혈액 속 포도당이 세포로 들어가도록 도와요. 인슐린이 부족하거나 잘 작용하지 않으면 당뇨병이 생길 수 있어요."
+    },
+    {
+      "id": "science-3fa2905f",
+      "category": "science",
+      "difficulty": 2,
+      "question": "태양의 열이 빈 우주 공간을 지나 지구에 전해지는 방식은?",
+      "choices": [
+        "대류",
+        "복사",
+        "전도",
+        "증발"
+      ],
+      "answerIndex": 1,
+      "explanation": "복사는 물질이 없어도 열이 전달되는 방식이에요. 전도와 대류는 열을 전해 줄 물질이 있어야 해요."
+    },
+    {
+      "id": "science-5d1d00a8",
+      "category": "science",
+      "difficulty": 2,
+      "question": "광년은 무엇을 나타내는 단위일까요?",
+      "choices": [
+        "시간",
+        "밝기",
+        "거리",
+        "속력"
+      ],
+      "answerIndex": 2,
+      "explanation": "광년은 빛이 1년 동안 나아가는 거리예요. 약 9조 4600억 km에 해당해서 먼 천체까지의 거리를 나타낼 때 써요.",
+      "funFact": "태양을 뺀 가장 가까운 별도 약 4.2광년 떨어져 있어요."
+    },
+    {
+      "id": "science-28780799",
+      "category": "science",
+      "difficulty": 2,
+      "question": "구름·비 같은 날씨 변화가 주로 일어나는 대기층은?",
+      "choices": [
+        "대류권",
+        "열권",
+        "중간권",
+        "성층권"
+      ],
+      "answerIndex": 0,
+      "explanation": "대류권은 지표에서 약 10km 안팎까지의 가장 아래층이에요. 공기가 위아래로 움직이며 구름, 비, 눈 같은 날씨 변화가 생겨요."
+    },
+    {
+      "id": "science-9db8c6f8",
+      "category": "science",
+      "difficulty": 3,
+      "question": "나침반의 N극이 북쪽을 가리키는 까닭은?",
+      "choices": [
+        "북극성이 끌어당겨서",
+        "북쪽에 S극이 있어서",
+        "북쪽에 N극이 있어서",
+        "태양이 끌어당겨서"
+      ],
+      "answerIndex": 1,
+      "explanation": "지구는 커다란 자석이고, 지리상 북극 근처에 자기장의 S극이 있어요. 다른 극끼리 끌어당기기 때문에 나침반 N극이 북쪽을 향해요."
+    },
+    {
+      "id": "science-f1e46698",
+      "category": "science",
+      "difficulty": 3,
+      "question": "산소가 풍부한 혈액이 흐르는 정맥은?",
+      "choices": [
+        "대퇴정맥",
+        "폐정맥",
+        "경정맥",
+        "대정맥"
+      ],
+      "answerIndex": 1,
+      "explanation": "폐에서 산소를 받은 혈액이 폐정맥을 통해 심장 왼쪽으로 돌아와요. 대부분의 다른 정맥에는 산소가 적은 혈액이 흘러요."
+    },
+    {
+      "id": "science-329b51d1",
+      "category": "science",
+      "difficulty": 3,
+      "question": "원소 기호 Pb가 나타내는 금속은?",
+      "choices": [
+        "납",
+        "주석",
+        "아연",
+        "백금"
+      ],
+      "answerIndex": 0,
+      "explanation": "Pb는 납을 뜻하는 라틴어 plumbum에서 따온 기호예요. 납은 무겁고 무른 금속이에요.",
+      "funFact": "영어 plumber(배관공)도 plumbum에서 나온 말이에요."
+    },
+    {
+      "id": "science-4a97148e",
+      "category": "science",
+      "difficulty": 3,
+      "question": "비타민 B1이 부족하면 생기기 쉬운 질환은?",
+      "choices": [
+        "각기병",
+        "야맹증",
+        "구루병",
+        "괴혈병"
+      ],
+      "answerIndex": 0,
+      "explanation": "비타민 B1(티아민)이 부족하면 각기병이 생겨요. 괴혈병은 비타민 C, 구루병은 D, 야맹증은 A가 부족할 때 생겨요.",
+      "funFact": "쌀겨에 B1이 많아서 흰쌀 위주로 먹던 시절에 각기병이 흔했어요."
+    },
+    {
+      "id": "science-499d306c",
+      "category": "science",
+      "difficulty": 3,
+      "question": "갑상샘 호르몬의 재료로 꼭 필요한 원소는?",
+      "choices": [
+        "철",
+        "나트륨",
+        "칼슘",
+        "요오드"
+      ],
+      "answerIndex": 3,
+      "explanation": "갑상샘 호르몬은 요오드를 재료로 만들어져요. 요오드가 부족하면 갑상샘이 커지는 질환이 생길 수 있어요. 미역과 다시마에 많이 들어 있어요."
+    },
+    {
+      "id": "science-b946bffe",
+      "category": "science",
+      "difficulty": 3,
+      "question": "공기 중에서 소리는 어떤 종류의 파동일까요?",
+      "choices": [
+        "중력파",
+        "횡파",
+        "전자기파",
+        "종파"
+      ],
+      "answerIndex": 3,
+      "explanation": "소리는 공기 입자가 진행 방향과 나란하게 진동하며 퍼지는 종파예요. 물결이나 빛은 진행 방향과 수직으로 진동하는 횡파 성격이에요."
+    },
+    {
+      "id": "science-ccd5246a",
+      "category": "science",
+      "difficulty": 3,
+      "question": "태양계 행성 중 표면 온도가 가장 높은 행성은?",
+      "choices": [
+        "화성",
+        "목성",
+        "수성",
+        "금성"
+      ],
+      "answerIndex": 3,
+      "explanation": "금성은 두꺼운 이산화 탄소 대기가 만든 강한 온실효과로 표면이 460℃가 넘어요. 태양에 더 가까운 수성보다도 더 뜨거워요."
+    },
+    {
+      "id": "science-6341d40c",
+      "category": "science",
+      "difficulty": 3,
+      "question": "공기가 없는 진공에서 깃털과 쇠공을 동시에 떨어뜨리면?",
+      "choices": [
+        "동시에 땅에 닿는다",
+        "쇠공이 먼저 닿는다",
+        "깃털이 먼저 닿는다",
+        "둘 다 둥둥 뜬다"
+      ],
+      "answerIndex": 0,
+      "explanation": "공기 저항이 없으면 질량과 상관없이 같은 가속도로 떨어져요. 평소에 깃털이 늦게 떨어지는 건 공기 저항 때문이에요.",
+      "funFact": "아폴로 15호 대원이 달에서 망치와 깃털로 이 실험을 직접 보여 줬어요."
+    },
+    {
+      "id": "science-be48afba",
+      "category": "science",
+      "difficulty": 3,
+      "question": "맑은 낮 하늘이 푸르게 보이는 주된 까닭은?",
+      "choices": [
+        "산소가 파란색이라서",
+        "파란빛이 많이 흩어져서",
+        "태양이 파란빛만 내서",
+        "바다가 하늘에 비쳐서"
+      ],
+      "answerIndex": 1,
+      "explanation": "공기 분자는 파장이 짧은 파란빛을 더 잘 흩뜨려요. 이것을 산란이라고 해요. 그래서 사방에서 파란빛이 눈에 들어와요.",
+      "funFact": "해 질 녘엔 빛이 대기를 길게 지나며 파란빛이 흩어져 하늘이 붉게 보여요."
+    },
+    {
+      "id": "science-6f7fd25c",
+      "category": "science",
+      "difficulty": 3,
+      "question": "버섯이 속하는 생물 분류 단계(계)는?",
+      "choices": [
+        "동물계",
+        "원생생물계",
+        "균계",
+        "식물계"
+      ],
+      "answerIndex": 2,
+      "explanation": "버섯은 곰팡이와 함께 균계에 속해요. 광합성을 하지 못하고 다른 생물이나 죽은 유기물에서 양분을 얻어요."
+    },
+    {
+      "id": "science-8c9d4850",
+      "category": "science",
+      "difficulty": 3,
+      "question": "지진이 방출한 에너지의 크기를 나타내는 것은?",
+      "choices": [
+        "진앙",
+        "진도",
+        "규모",
+        "진원"
+      ],
+      "answerIndex": 2,
+      "explanation": "규모는 지진 자체의 에너지 크기를 나타내는 값으로, 한 지진에 하나만 있어요. 진도는 장소마다 느끼는 흔들림의 정도라서 지역에 따라 달라요."
+    },
+    {
+      "id": "science-25bb706e",
+      "category": "science",
+      "difficulty": 1,
+      "question": "비 온 뒤 하늘에 무지개가 생기는 주된 원인은?",
+      "choices": [
+        "빛의 직진만 일어나서",
+        "빛의 굴절과 분산",
+        "정전기 방전",
+        "소리의 반사"
+      ],
+      "answerIndex": 1,
+      "explanation": "햇빛이 공기 중 물방울을 지나며 꺾이고 색깔별로 갈라져요. 그래서 여러 색의 띠가 보여요.",
+      "funFact": "무지개는 보는 사람마다 조금씩 다른 위치에서 보는 셈이에요."
+    },
+    {
+      "id": "science-389bae65",
+      "category": "science",
+      "difficulty": 1,
+      "question": "소리 진동을 가장 먼저 받아 떨리는 귓속 얇은 막은?",
+      "choices": [
+        "홍채",
+        "망막",
+        "각막",
+        "고막"
+      ],
+      "answerIndex": 3,
+      "explanation": "소리가 귓구멍으로 들어오면 고막이 떨려요. 이 떨림이 귓속뼈를 거쳐 달팽이관으로 전달돼요."
+    },
+    {
+      "id": "science-02b65221",
+      "category": "science",
+      "difficulty": 1,
+      "question": "달의 모양이 날마다 달라 보이는 까닭은?",
+      "choices": [
+        "구름이 달을 가려서",
+        "지구 그림자가 달을 가려서",
+        "태양·지구·달의 위치 변화",
+        "달이 스스로 모양을 바꿔서"
+      ],
+      "answerIndex": 2,
+      "explanation": "달은 스스로 빛나지 않고 햇빛을 받는 부분만 보여요. 달이 지구 둘레를 돌면서 보이는 면이 달라져요."
+    },
+    {
+      "id": "science-5d5843cc",
+      "category": "science",
+      "difficulty": 1,
+      "question": "다음 중 자석에 붙는 물질은?",
+      "choices": [
+        "구리",
+        "철",
+        "알루미늄",
+        "플라스틱"
+      ],
+      "answerIndex": 1,
+      "explanation": "철은 자석에 끌려 붙는 대표적인 금속이에요. 구리와 알루미늄은 금속이어도 자석에 붙지 않아요."
+    },
+    {
+      "id": "science-42258ec7",
+      "category": "science",
+      "difficulty": 1,
+      "question": "얼음이 녹아 물이 되는 현상을 무엇이라 할까요?",
+      "choices": [
+        "응고",
+        "융해",
+        "응결",
+        "기화"
+      ],
+      "answerIndex": 1,
+      "explanation": "고체가 액체로 변하는 현상이 융해예요. 반대로 액체가 고체로 변하는 것은 응고라고 해요."
+    },
+    {
+      "id": "science-c8086f7f",
+      "category": "science",
+      "difficulty": 1,
+      "question": "식물의 잎이 초록색으로 보이게 하는 색소는?",
+      "choices": [
+        "케라틴",
+        "멜라닌",
+        "헤모글로빈",
+        "엽록소"
+      ],
+      "answerIndex": 3,
+      "explanation": "엽록소는 빛을 흡수해 광합성을 돕고 초록빛을 반사해요. 그래서 잎이 초록색으로 보여요."
+    },
+    {
+      "id": "science-02a88919",
+      "category": "science",
+      "difficulty": 1,
+      "question": "지구에 계절 변화가 생기는 가장 큰 까닭은?",
+      "choices": [
+        "태양 활동이 변해서",
+        "달의 인력 때문에",
+        "자전축이 기울어 있어서",
+        "태양과의 거리가 변해서"
+      ],
+      "answerIndex": 2,
+      "explanation": "지구의 자전축이 기울어진 채 태양 둘레를 돌아요. 그래서 계절마다 태양빛을 받는 각도와 낮의 길이가 달라져요."
+    },
+    {
+      "id": "science-5e440936",
+      "category": "science",
+      "difficulty": 1,
+      "question": "다음 중 속력이 가장 빠른 것은?",
+      "choices": [
+        "빛",
+        "제트기",
+        "소리",
+        "총알"
+      ],
+      "answerIndex": 0,
+      "explanation": "빛은 진공에서 1초에 약 30만 km를 가요. 소리나 제트기, 총알과는 비교할 수 없이 빨라요."
+    },
+    {
+      "id": "science-49c78dc5",
+      "category": "science",
+      "difficulty": 1,
+      "question": "천연 광물 가운데 가장 단단한 것은?",
+      "choices": [
+        "다이아몬드",
+        "루비",
+        "흑연",
+        "석영"
+      ],
+      "answerIndex": 0,
+      "explanation": "다이아몬드는 광물의 단단함을 나타내는 모스 굳기 10으로 가장 단단해요. 같은 탄소로 된 흑연은 아주 무르답니다.",
+      "funFact": "다이아몬드와 연필심 흑연은 모두 탄소로만 이루어져 있어요."
+    },
+    {
+      "id": "science-5ac7dd8a",
+      "category": "science",
+      "difficulty": 1,
+      "question": "식탁 소금의 주성분인 화합물은?",
+      "choices": [
+        "수산화나트륨",
+        "탄산칼슘",
+        "염화나트륨",
+        "황산구리"
+      ],
+      "answerIndex": 2,
+      "explanation": "소금의 주성분은 나트륨과 염소가 결합한 염화나트륨이에요. 화학식은 NaCl이에요."
+    },
+    {
+      "id": "science-d765ec29",
+      "category": "science",
+      "difficulty": 1,
+      "question": "다음 중 전기가 잘 통하지 않는 물질은?",
+      "choices": [
+        "은",
+        "구리",
+        "고무",
+        "철"
+      ],
+      "answerIndex": 2,
+      "explanation": "고무는 전기가 거의 흐르지 않는 부도체예요. 그래서 전선의 겉을 고무나 플라스틱으로 감싸요."
+    },
+    {
+      "id": "science-679374dd",
+      "category": "science",
+      "difficulty": 2,
+      "question": "풍선을 공중에 뜨게 하는 불에 타지 않는 가벼운 기체는?",
+      "choices": [
+        "질소",
+        "산소",
+        "이산화탄소",
+        "헬륨"
+      ],
+      "answerIndex": 3,
+      "explanation": "헬륨은 공기보다 가볍고 불에 타지 않아 풍선이나 비행선에 안전하게 써요. 산소, 이산화탄소, 질소는 공기와 비슷하거나 더 무거워요."
+    },
+    {
+      "id": "science-0414ee41",
+      "category": "science",
+      "difficulty": 2,
+      "question": "혈당을 낮추는 인슐린을 분비하는 기관은?",
+      "choices": [
+        "쓸개",
+        "이자(췌장)",
+        "간",
+        "콩팥"
+      ],
+      "answerIndex": 1,
+      "explanation": "이자는 인슐린과 소화 효소를 만들어요. 인슐린이 부족하면 혈당이 높아지는 당뇨병이 생겨요."
+    },
+    {
+      "id": "science-28230f2e",
+      "category": "science",
+      "difficulty": 2,
+      "question": "pH가 7보다 낮은 용액의 성질은?",
+      "choices": [
+        "산성",
+        "불용성",
+        "중성",
+        "염기성"
+      ],
+      "answerIndex": 0,
+      "explanation": "pH 7은 중성이고 그보다 낮으면 산성, 높으면 염기성이에요. 식초나 레몬즙이 산성의 예예요."
+    },
+    {
+      "id": "science-17781910",
+      "category": "science",
+      "difficulty": 2,
+      "question": "지구 내부에서 가장 두꺼운 층은?",
+      "choices": [
+        "외핵",
+        "지각",
+        "맨틀",
+        "내핵"
+      ],
+      "answerIndex": 2,
+      "explanation": "맨틀은 깊이 약 2900km에 이르는 가장 두꺼운 층이에요. 지구 부피의 대부분을 차지해요."
+    },
+    {
+      "id": "science-3c8651fd",
+      "category": "science",
+      "difficulty": 2,
+      "question": "마그마가 식어 굳어서 만들어진 암석은?",
+      "choices": [
+        "퇴적암",
+        "변성암",
+        "화성암",
+        "석회암"
+      ],
+      "answerIndex": 2,
+      "explanation": "마그마나 용암이 식어 굳으면 화성암이 돼요. 화강암과 현무암이 대표적이에요."
+    },
+    {
+      "id": "science-3ac1be11",
+      "category": "science",
+      "difficulty": 2,
+      "question": "일식이 일어날 때 천체의 배열 순서는?",
+      "choices": [
+        "태양-지구-달 순",
+        "달-지구-태양 순",
+        "태양-달-지구 순",
+        "지구-태양-달 순"
+      ],
+      "answerIndex": 2,
+      "explanation": "달이 태양과 지구 사이에 들어와 태양을 가리면 일식이에요. 지구가 가운데 오면 월식이에요."
+    },
+    {
+      "id": "science-768d191e",
+      "category": "science",
+      "difficulty": 2,
+      "question": "혈액 성분 중 세균 같은 병원체와 싸우는 것은?",
+      "choices": [
+        "백혈구",
+        "적혈구",
+        "혈소판",
+        "혈장"
+      ],
+      "answerIndex": 0,
+      "explanation": "백혈구는 몸에 들어온 세균이나 바이러스를 잡아먹거나 없애요. 우리 몸을 지키는 면역의 중심이에요."
+    },
+    {
+      "id": "science-e9cfcebb",
+      "category": "science",
+      "difficulty": 2,
+      "question": "비·구름 같은 날씨 변화가 일어나는 대기권 층은?",
+      "choices": [
+        "중간권",
+        "대류권",
+        "열권",
+        "성층권"
+      ],
+      "answerIndex": 1,
+      "explanation": "대류권은 지표면에서 가장 가까운 층이에요. 수증기가 많고 공기가 위아래로 움직여 비와 구름이 생겨요."
+    },
+    {
+      "id": "science-961ef381",
+      "category": "science",
+      "difficulty": 2,
+      "question": "공룡이 번성했던 지질 시대는?",
+      "choices": [
+        "선캄브리아 시대",
+        "고생대",
+        "신생대",
+        "중생대"
+      ],
+      "answerIndex": 3,
+      "explanation": "공룡은 중생대의 트라이아스기, 쥐라기, 백악기에 번성했어요. 중생대 말에 대부분 멸종했어요."
+    },
+    {
+      "id": "science-f245d3fd",
+      "category": "science",
+      "difficulty": 2,
+      "question": "1928년 푸른곰팡이에서 항생제 페니실린을 발견한 사람은?",
+      "choices": [
+        "루이 파스퇴르",
+        "로베르트 코흐",
+        "에드워드 제너",
+        "알렉산더 플레밍"
+      ],
+      "answerIndex": 3,
+      "explanation": "플레밍은 푸른곰팡이 주변에서 세균이 자라지 못하는 것을 보고 페니실린을 발견했어요. 이후 많은 감염병 치료가 가능해졌어요.",
+      "funFact": "실험실을 정리하지 않고 휴가를 다녀온 덕에 발견했다고 전해져요."
+    },
+    {
+      "id": "science-d978faae",
+      "category": "science",
+      "difficulty": 2,
+      "question": "눈에서 물체의 상이 맺히는 곳은?",
+      "choices": [
+        "홍채",
+        "각막",
+        "망막",
+        "수정체"
+      ],
+      "answerIndex": 2,
+      "explanation": "빛이 수정체를 지나 망막에 닿으면 상이 맺혀요. 이 정보를 시각 신경이 뇌로 보내요."
+    },
+    {
+      "id": "science-33516ea9",
+      "category": "science",
+      "difficulty": 3,
+      "question": "푸코의 진자가 직접 보여 주는 것은?",
+      "choices": [
+        "지구의 자전",
+        "달의 인력",
+        "태양 흑점",
+        "지구의 공전"
+      ],
+      "answerIndex": 0,
+      "explanation": "푸코의 진자는 흔들리는 방향이 서서히 바뀌어요. 지구가 자전하기 때문에 생기는 현상이에요."
+    },
+    {
+      "id": "science-e8d5235b",
+      "category": "science",
+      "difficulty": 3,
+      "question": "금속 가운데 녹는점이 가장 높은 것은?",
+      "choices": [
+        "백금",
+        "텅스텐",
+        "철",
+        "티타늄"
+      ],
+      "answerIndex": 1,
+      "explanation": "텅스텐은 녹는점이 3400℃가 넘는 금속이에요. 그래서 백열전구의 필라멘트에 써요."
+    },
+    {
+      "id": "science-8d1484aa",
+      "category": "science",
+      "difficulty": 3,
+      "question": "폐정맥을 흐르는 혈액의 특징은?",
+      "choices": [
+        "산소가 많은 혈액",
+        "이산화탄소가 많은 혈액",
+        "산소가 거의 없는 혈액",
+        "혈액이 아닌 림프액"
+      ],
+      "answerIndex": 0,
+      "explanation": "폐에서 산소를 받은 혈액이 폐정맥을 통해 심장으로 돌아와요. 정맥이지만 산소가 풍부한 혈액이 흘러요.",
+      "funFact": "몸에서 산소가 많은 피가 흐르는 정맥은 폐정맥이 대표적이에요."
+    },
+    {
+      "id": "science-06a1026f",
+      "category": "science",
+      "difficulty": 3,
+      "question": "1911년 금박 실험으로 원자핵을 발견한 과학자는?",
+      "choices": [
+        "톰슨",
+        "보어",
+        "러더퍼드",
+        "돌턴"
+      ],
+      "answerIndex": 2,
+      "explanation": "러더퍼드는 금박에 알파 입자를 쏘는 실험으로 원자 중심에 작고 단단한 핵이 있음을 알아냈어요."
+    },
+    {
+      "id": "science-be7b624d",
+      "category": "science",
+      "difficulty": 3,
+      "question": "아인슈타인이 노벨 물리학상을 받은 업적은?",
+      "choices": [
+        "일반 상대성 이론",
+        "광전 효과 설명",
+        "질량-에너지 등가식",
+        "블랙홀 발견"
+      ],
+      "answerIndex": 1,
+      "explanation": "아인슈타인은 빛이 알갱이처럼 행동한다는 설명으로 광전 효과를 풀어내 노벨상을 받았어요.",
+      "funFact": "유명한 상대성 이론으로는 노벨상을 받지 않았어요."
+    },
+    {
+      "id": "science-111ec55a",
+      "category": "science",
+      "difficulty": 3,
+      "question": "지각을 이루는 원소 중 질량비가 가장 큰 것은?",
+      "choices": [
+        "알루미늄",
+        "철",
+        "규소",
+        "산소"
+      ],
+      "answerIndex": 3,
+      "explanation": "지각에서는 산소가 질량의 약 절반을 차지해요. 그다음으로 규소, 알루미늄, 철 순으로 많아요."
+    },
+    {
+      "id": "science-cc07250c",
+      "category": "science",
+      "difficulty": 3,
+      "question": "태양을 이루는 물질의 주된 상태는?",
+      "choices": [
+        "플라스마",
+        "액정",
+        "고체",
+        "액체"
+      ],
+      "answerIndex": 0,
+      "explanation": "태양은 아주 뜨거워서 원자가 전자와 원자핵으로 갈라진 플라스마 상태예요. 별 대부분이 이런 상태예요.",
+      "funFact": "번개와 네온사인 속 빛도 플라스마 상태예요."
+    },
+    {
+      "id": "science-806968dc",
+      "category": "science",
+      "difficulty": 3,
+      "question": "과일을 익게 만드는 기체 상태의 식물 호르몬은?",
+      "choices": [
+        "지베렐린",
+        "에틸렌",
+        "옥신",
+        "사이토키닌"
+      ],
+      "answerIndex": 1,
+      "explanation": "에틸렌은 과일이 익는 것을 촉진하는 기체 호르몬이에요. 그래서 덜 익은 바나나를 익은 사과와 함께 두면 빨리 익어요."
+    },
+    {
+      "id": "science-6c13bb63",
+      "category": "science",
+      "difficulty": 3,
+      "question": "철에 소량 섞어 강철을 만드는 원소는?",
+      "choices": [
+        "아연",
+        "주석",
+        "구리",
+        "탄소"
+      ],
+      "answerIndex": 3,
+      "explanation": "철에 탄소를 약 2% 이하로 섞으면 단단하고 질긴 강철이 돼요. 건축과 기계에 널리 써요."
+    },
+    {
+      "id": "science-b7203d9c",
+      "category": "science",
+      "difficulty": 3,
+      "question": "1912년 대륙 이동설을 처음 주장한 독일 과학자는?",
+      "choices": [
+        "베게너",
+        "케플러",
+        "다윈",
+        "허블"
+      ],
+      "answerIndex": 0,
+      "explanation": "베게너는 대륙들의 모양이 퍼즐처럼 맞고 화석이 같다는 점을 근거로 대륙이 움직인다고 주장했어요. 훗날 판 구조론으로 발전했어요."
+    },
+    {
+      "id": "science-e56d7ea7",
+      "category": "science",
+      "difficulty": 3,
+      "question": "침 속 아밀레이스가 분해하는 영양소는?",
+      "choices": [
+        "비타민",
+        "단백질",
+        "지방",
+        "녹말"
+      ],
+      "answerIndex": 3,
+      "explanation": "아밀레이스는 녹말을 엿당 같은 작은 당으로 분해하는 소화 효소예요. 밥을 오래 씹으면 단맛이 나는 이유예요.",
+      "funFact": "밥을 오래 씹으면 단맛이 나는 것이 바로 이 효소 덕분이에요."
+    },
+    {
+      "id": "science-28c50258",
+      "category": "science",
+      "difficulty": 1,
+      "question": "물이 얼음으로 얼면 부피는 어떻게 될까요?",
+      "choices": [
+        "줄어들어요",
+        "늘어나요",
+        "절반이 돼요",
+        "그대로예요"
+      ],
+      "answerIndex": 1,
+      "explanation": "물이 얼면 분자가 빈 공간이 많은 육각형 구조로 배열돼요. 그래서 부피가 약 9% 늘어나요.",
+      "funFact": "그래서 겨울에 수도관이 터지고, 얼음은 물에 떠요."
+    },
+    {
+      "id": "science-9063ee9e",
+      "category": "science",
+      "difficulty": 1,
+      "question": "지구에 계절이 생기는 가장 큰 까닭은?",
+      "choices": [
+        "달의 인력 때문에",
+        "태양 크기가 변해서",
+        "자전축이 기울어 있어서",
+        "태양과의 거리가 변해서"
+      ],
+      "answerIndex": 2,
+      "explanation": "지구는 자전축이 기울어진 채 태양을 돌아요. 그래서 계절에 따라 태양 빛이 닿는 각도와 낮의 길이가 달라져요.",
+      "funFact": "북반구가 여름인 7월 초에 지구는 태양에서 가장 멀어져요."
+    },
+    {
+      "id": "science-fc3a288a",
+      "category": "science",
+      "difficulty": 1,
+      "question": "달이 밤하늘에서 밝게 보이는 까닭은?",
+      "choices": [
+        "스스로 빛을 내서",
+        "달 표면이 불타서",
+        "햇빛을 반사해서",
+        "별빛이 모여서"
+      ],
+      "answerIndex": 2,
+      "explanation": "달은 스스로 빛을 내지 못해요. 태양 빛을 반사하기 때문에 우리 눈에 밝게 보여요.",
+      "funFact": "달 표면은 사실 낡은 아스팔트처럼 어두운 색이에요."
+    },
+    {
+      "id": "science-4c9365ec",
+      "category": "science",
+      "difficulty": 1,
+      "question": "사람의 심장은 모두 몇 개의 방으로 이루어져 있을까요?",
+      "choices": [
+        "2개",
+        "6개",
+        "4개",
+        "3개"
+      ],
+      "answerIndex": 2,
+      "explanation": "사람의 심장은 좌우 심방 2개와 좌우 심실 2개, 모두 4개의 방으로 되어 있어요. 이 구조 덕분에 산소가 많은 피와 적은 피가 섞이지 않아요.",
+      "funFact": "물고기의 심장은 방이 2개뿐이에요."
+    },
+    {
+      "id": "science-afcbfc93",
+      "category": "science",
+      "difficulty": 1,
+      "question": "식탁용 소금의 주성분인 화합물은?",
+      "choices": [
+        "황산구리",
+        "염화나트륨",
+        "염화칼슘",
+        "탄산나트륨"
+      ],
+      "answerIndex": 1,
+      "explanation": "소금은 나트륨과 염소가 결합한 염화나트륨(NaCl)이 주성분이에요. 물에 잘 녹고 짠맛이 나요."
+    },
+    {
+      "id": "science-3c091c4b",
+      "category": "science",
+      "difficulty": 1,
+      "question": "올챙이가 개구리가 되듯 모습이 크게 바뀌는 성장 과정은?",
+      "choices": [
+        "소화",
+        "변태",
+        "증산",
+        "광합성"
+      ],
+      "answerIndex": 1,
+      "explanation": "변태는 알에서 깬 동물이 자라면서 몸의 모양이 크게 달라지는 과정이에요. 개구리와 나비가 대표적이에요."
+    },
+    {
+      "id": "science-1b1a79b1",
+      "category": "science",
+      "difficulty": 1,
+      "question": "쇠가 녹스는 데 꼭 필요한 것은?",
+      "choices": [
+        "물과 헬륨",
+        "이산화탄소와 질소",
+        "수소와 아르곤",
+        "물과 산소"
+      ],
+      "answerIndex": 3,
+      "explanation": "철이 물과 산소를 만나면 산화되어 붉은 녹이 슬어요. 그래서 쇠에 페인트를 칠해 물과 공기를 막아 줘요."
+    },
+    {
+      "id": "science-db109bd4",
+      "category": "science",
+      "difficulty": 1,
+      "question": "뼈와 이를 튼튼하게 하는 대표적인 무기질은?",
+      "choices": [
+        "칼륨",
+        "칼슘",
+        "요오드",
+        "나트륨"
+      ],
+      "answerIndex": 1,
+      "explanation": "칼슘은 뼈와 이의 주요 성분이에요. 우유, 멸치, 두부 같은 음식에 많이 들어 있어요."
+    },
+    {
+      "id": "science-96580502",
+      "category": "science",
+      "difficulty": 1,
+      "question": "천연 물질 가운데 가장 단단하다고 알려진 것은?",
+      "choices": [
+        "철",
+        "석영",
+        "금",
+        "다이아몬드"
+      ],
+      "answerIndex": 3,
+      "explanation": "다이아몬드는 탄소 원자가 단단하게 결합한 광물로, 굳기가 가장 높은 10이에요.",
+      "funFact": "연필심의 흑연도 다이아몬드와 같은 탄소로 이뤄져 있어요."
+    },
+    {
+      "id": "science-36e2b5c0",
+      "category": "science",
+      "difficulty": 2,
+      "question": "태양 빛이 지구까지 오는 데 걸리는 시간은 약 얼마일까요?",
+      "choices": [
+        "약 8초",
+        "약 80분",
+        "약 8시간",
+        "약 8분"
+      ],
+      "answerIndex": 3,
+      "explanation": "태양과 지구는 약 1억 5천만 km 떨어져 있어요. 빛이 초속 약 30만 km로 달려 약 8분 20초가 걸려요.",
+      "funFact": "지금 보는 태양은 약 8분 전의 모습이에요."
+    },
+    {
+      "id": "science-252d10e1",
+      "category": "science",
+      "difficulty": 2,
+      "question": "산성비의 주된 원인이 되는 물질은?",
+      "choices": [
+        "황산화물·질소산화물",
+        "헬륨·네온",
+        "아르곤·수소",
+        "산소·질소"
+      ],
+      "answerIndex": 0,
+      "explanation": "화석 연료를 태우면 황산화물과 질소산화물이 나와요. 이것들이 빗물에 녹아 pH 5.6보다 낮은 산성비가 돼요."
+    },
+    {
+      "id": "science-68e4308f",
+      "category": "science",
+      "difficulty": 2,
+      "question": "푸른색 리트머스 종이를 붉게 바꾸는 용액의 성질은?",
+      "choices": [
+        "가연성",
+        "중성",
+        "염기성",
+        "산성"
+      ],
+      "answerIndex": 3,
+      "explanation": "산성 용액은 푸른 리트머스 종이를 붉게 만들어요. 식초와 레몬즙이 대표적인 산성 물질이에요.",
+      "funFact": "리트머스는 지의류라는 생물에서 얻은 색소예요."
+    },
+    {
+      "id": "science-ccdd172b",
+      "category": "science",
+      "difficulty": 2,
+      "question": "혈액 성분 중 세균 같은 침입자와 싸워 몸을 지키는 것은?",
+      "choices": [
+        "백혈구",
+        "적혈구",
+        "혈소판",
+        "혈장"
+      ],
+      "answerIndex": 0,
+      "explanation": "백혈구는 몸에 들어온 세균과 바이러스를 잡아먹거나 없애요. 면역에서 중요한 역할을 해요."
+    },
+    {
+      "id": "science-4bc6a96c",
+      "category": "science",
+      "difficulty": 2,
+      "question": "차가운 컵 표면에 수증기가 물방울로 맺히는 현상은?",
+      "choices": [
+        "승화",
+        "증발",
+        "응결",
+        "융해"
+      ],
+      "answerIndex": 2,
+      "explanation": "공기 중 수증기가 차가운 표면을 만나 식으면 작은 물방울로 변해요. 이런 현상을 응결이라고 해요.",
+      "funFact": "풀잎에 맺히는 이슬도 응결로 생겨요."
+    },
+    {
+      "id": "science-29da2152",
+      "category": "science",
+      "difficulty": 3,
+      "question": "지구 내부에서 액체 상태로 알려진 층은?",
+      "choices": [
+        "외핵",
+        "내핵",
+        "지각",
+        "맨틀"
+      ],
+      "answerIndex": 0,
+      "explanation": "외핵은 철과 니켈이 녹아 있는 액체 상태예요. 내핵은 압력이 매우 커서 고체이고, 맨틀과 지각은 암석으로 이뤄져 있어요.",
+      "funFact": "외핵의 흐름이 지구 자기장을 만든다고 알려져 있어요."
+    }
+  ]
+}

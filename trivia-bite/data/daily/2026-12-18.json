@@ -1,0 +1,153 @@
+{
+  "version": 1,
+  "id": "daily-2026-12-18",
+  "date": "2026-12-18",
+  "questions": [
+    {
+      "id": "history-7aa7f642",
+      "category": "history",
+      "difficulty": 1,
+      "question": "고구려를 세운 시조로 전해지는 인물은?",
+      "choices": [
+        "온조",
+        "박혁거세",
+        "왕건",
+        "주몽"
+      ],
+      "answerIndex": 3,
+      "explanation": "주몽은 기원전 37년 졸본에서 고구려를 세웠다고 전해져요. 동명성왕이라고도 불러요. 온조는 백제, 박혁거세는 신라의 시조예요.",
+      "funFact": "주몽은 '활을 잘 쏘는 사람'을 뜻하는 말이라고 전해져요."
+    },
+    {
+      "id": "science-7e5afa59",
+      "category": "science",
+      "difficulty": 1,
+      "question": "빛이 거울 표면에 부딪혀 되돌아 나오는 현상은?",
+      "choices": [
+        "회절",
+        "굴절",
+        "반사",
+        "분산"
+      ],
+      "answerIndex": 2,
+      "explanation": "빛이 물체 표면에 부딪혀 방향을 바꿔 되돌아가는 현상이 반사예요. 거울에 얼굴이 보이는 것도 반사 덕분이에요. 굴절은 빛이 다른 물질로 들어갈 때 꺾이는 현상이에요.",
+      "funFact": "달이 밝게 보이는 것도 햇빛을 반사하기 때문이에요."
+    },
+    {
+      "id": "korean-a64a585b",
+      "category": "korean",
+      "difficulty": 1,
+      "question": "속담 '소 잃고 ○○ 고친다'의 빈칸에 들어갈 말은?",
+      "choices": [
+        "외양간",
+        "지붕",
+        "대문",
+        "우물"
+      ],
+      "answerIndex": 0,
+      "explanation": "이미 일이 잘못된 뒤에야 뒤늦게 손을 써 봐야 소용없다는 뜻이에요. 외양간은 소를 기르는 우리를 말해요."
+    },
+    {
+      "id": "economy-0d8d6322",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "수입과 지출을 적어 집안 살림을 관리하는 장부는?",
+      "choices": [
+        "족보",
+        "일기장",
+        "가계부",
+        "출석부"
+      ],
+      "answerIndex": 2,
+      "explanation": "가계부는 가정의 수입과 지출을 적는 장부예요. 돈이 어디에 쓰이는지 알면 불필요한 지출을 줄일 수 있어요."
+    },
+    {
+      "id": "life-df02bc3d",
+      "category": "life",
+      "difficulty": 2,
+      "question": "연탄이나 보일러가 불완전 연소할 때 생기는 무색무취의 독성 가스는?",
+      "choices": [
+        "일산화탄소",
+        "암모니아",
+        "염소",
+        "이산화탄소"
+      ],
+      "answerIndex": 0,
+      "explanation": "산소가 부족한 상태에서 탄소가 타면 일산화탄소가 생겨요. 헤모글로빈과 산소보다 훨씬 잘 결합해 산소 운반을 막기 때문에 위험해요. 난방할 때는 꼭 환기해야 해요."
+    },
+    {
+      "id": "culture-adf02a06",
+      "category": "culture",
+      "difficulty": 2,
+      "question": "『죄와 벌』을 쓴 러시아 작가는?",
+      "choices": [
+        "톨스토이",
+        "도스토옙스키",
+        "체호프",
+        "푸시킨"
+      ],
+      "answerIndex": 1,
+      "explanation": "『죄와 벌』은 가난한 대학생 라스콜니코프의 범죄와 고뇌를 그린 도스토옙스키의 대표작이에요. 톨스토이는 『전쟁과 평화』, 『안나 카레니나』로 유명해요."
+    },
+    {
+      "id": "science-03c2787c",
+      "category": "science",
+      "difficulty": 2,
+      "question": "세포 안에서 호흡으로 에너지를 만드는 소기관은?",
+      "choices": [
+        "핵",
+        "미토콘드리아",
+        "리보솜",
+        "골지체"
+      ],
+      "answerIndex": 1,
+      "explanation": "미토콘드리아는 산소로 영양소를 분해해 생명 활동에 쓰는 에너지를 만들어 내요. 그래서 '세포의 발전소'라고 불려요.",
+      "funFact": "미토콘드리아는 세포핵과 별개로 자기만의 DNA를 가지고 있어요."
+    },
+    {
+      "id": "geography-c41eadcc",
+      "category": "geography",
+      "difficulty": 3,
+      "question": "지중해에서 가장 큰 섬은?",
+      "choices": [
+        "사르데냐",
+        "키프로스",
+        "크레타",
+        "시칠리아"
+      ],
+      "answerIndex": 3,
+      "explanation": "시칠리아는 이탈리아 남쪽에 있는 섬으로 지중해에서 가장 커요. 사르데냐가 두 번째로 큰 섬이에요.",
+      "funFact": "시칠리아에는 활화산인 에트나산이 솟아 있어요."
+    },
+    {
+      "id": "history-9cb73fa8",
+      "category": "history",
+      "difficulty": 3,
+      "question": "1123년 고려에 사신으로 와 『고려도경』을 쓴 송나라 사람은?",
+      "choices": [
+        "왕안석",
+        "구양수",
+        "소식",
+        "서긍"
+      ],
+      "answerIndex": 3,
+      "explanation": "서긍은 송나라 사신단의 일원으로 개경에 머문 뒤, 보고 들은 고려의 모습을 『고려도경』에 정리했어요. 고려 사회를 알려 주는 귀한 자료예요.",
+      "funFact": "『고려도경』에는 고려청자의 푸른빛을 '비색'이라 칭찬한 대목이 있어요."
+    },
+    {
+      "id": "science-8c9487cd",
+      "category": "science",
+      "difficulty": 3,
+      "question": "상온에서 액체 상태로 존재하는 비금속 원소는?",
+      "choices": [
+        "브로민",
+        "탄소",
+        "아이오딘",
+        "염소"
+      ],
+      "answerIndex": 0,
+      "explanation": "상온·1기압에서 액체인 원소 중 비금속은 브로민뿐이에요. 붉은 갈색을 띠고 독한 냄새가 나요.",
+      "funFact": "브로민은 그리스어로 '악취'를 뜻하는 말에서 이름이 왔어요."
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "version": 1,
+  "id": "daily-2026-10-10",
+  "date": "2026-10-10",
+  "questions": [
+    {
+      "id": "history-be6598d9",
+      "category": "history",
+      "difficulty": 1,
+      "question": "훈민정음을 만들어 반포한 조선의 왕은?",
+      "choices": [
+        "정조",
+        "세종대왕",
+        "세조",
+        "태종"
+      ],
+      "answerIndex": 1,
+      "explanation": "세종대왕이 1443년에 훈민정음을 창제하고 1446년에 반포했어요. 백성이 쉽게 익혀 쓸 수 있는 글자를 만들고자 했어요.",
+      "funFact": "훈민정음은 '백성을 가르치는 바른 소리'라는 뜻이에요."
+    },
+    {
+      "id": "science-6e35069a",
+      "category": "science",
+      "difficulty": 1,
+      "question": "식물이 광합성을 할 때 흡수하는 기체는?",
+      "choices": [
+        "이산화탄소",
+        "질소",
+        "수소",
+        "산소"
+      ],
+      "answerIndex": 0,
+      "explanation": "식물은 빛에너지를 이용해 이산화탄소와 물로 포도당을 만들어요. 이 과정에서 산소가 밖으로 나와요."
+    },
+    {
+      "id": "economy-78ca1acf",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "물가가 지속적으로 오르는 현상을 뜻하는 말은?",
+      "choices": [
+        "리세션",
+        "디폴트",
+        "인플레이션",
+        "디플레이션"
+      ],
+      "answerIndex": 2,
+      "explanation": "인플레이션은 물가가 계속 오르고 화폐 가치가 떨어지는 현상이에요. 반대로 물가가 계속 내리는 것은 디플레이션이에요."
+    },
+    {
+      "id": "life-3d2eef7c",
+      "category": "life",
+      "difficulty": 1,
+      "question": "건물에 불이 나 연기가 찼을 때 올바른 대피 방법은?",
+      "choices": [
+        "똑바로 서서 달리기",
+        "엘리베이터 이용",
+        "높은 곳으로 올라가기",
+        "몸을 낮추고 이동"
+      ],
+      "answerIndex": 3,
+      "explanation": "뜨거운 연기는 위로 모이기 때문에 몸을 낮추고 젖은 수건으로 코와 입을 막고 이동해야 해요. 엘리베이터는 멈출 수 있어서 위험해요."
+    },
+    {
+      "id": "korean-1d09e59d",
+      "category": "korean",
+      "difficulty": 2,
+      "question": "속담 '가는 날이 장날'의 뜻으로 알맞은 것은?",
+      "choices": [
+        "가는 길이 순탄함",
+        "공교롭게 일이 겹침",
+        "시장이 집 가까이 있음",
+        "날마다 장이 섬"
+      ],
+      "answerIndex": 1,
+      "explanation": "어떤 일을 하러 갔다가 뜻하지 않은 일을 공교롭게 만났을 때 쓰는 속담이에요."
+    },
+    {
+      "id": "culture-d5bc0ea1",
+      "category": "culture",
+      "difficulty": 2,
+      "question": "셰익스피어의 4대 비극에 속하지 않는 작품은?",
+      "choices": [
+        "오셀로",
+        "로미오와 줄리엣",
+        "햄릿",
+        "맥베스"
+      ],
+      "answerIndex": 1,
+      "explanation": "셰익스피어의 4대 비극은 햄릿, 오셀로, 리어왕, 맥베스예요. 로미오와 줄리엣도 비극이지만 4대 비극에는 들어가지 않아요."
+    },
+    {
+      "id": "history-19b9d974",
+      "category": "history",
+      "difficulty": 2,
+      "question": "고구려 유민을 이끌고 발해를 세운 인물은?",
+      "choices": [
+        "궁예",
+        "김유신",
+        "대조영",
+        "견훤"
+      ],
+      "answerIndex": 2,
+      "explanation": "대조영은 고구려 유민과 말갈족을 이끌고 698년에 발해를 세웠어요. 발해는 해동성국이라 불릴 만큼 번성했어요."
+    },
+    {
+      "id": "geography-917b8951",
+      "category": "geography",
+      "difficulty": 3,
+      "question": "다음 중 바다에 접하지 않은 내륙국은?",
+      "choices": [
+        "페루",
+        "에콰도르",
+        "칠레",
+        "볼리비아"
+      ],
+      "answerIndex": 3,
+      "explanation": "남아메리카의 내륙국은 볼리비아와 파라과이예요. 페루, 칠레, 에콰도르는 모두 태평양에 접해 있어요.",
+      "funFact": "볼리비아는 19세기 전쟁에서 해안 지역을 잃어 내륙국이 됐어요."
+    },
+    {
+      "id": "life-c58fb017",
+      "category": "life",
+      "difficulty": 3,
+      "question": "김치가 익으면서 신맛이 나는 주된 이유는?",
+      "choices": [
+        "젖산균의 발효",
+        "소금이 녹아서",
+        "식초가 스며들어서",
+        "고춧가루가 변해서"
+      ],
+      "answerIndex": 0,
+      "explanation": "김치 속 젖산균이 당분을 분해하면서 젖산을 만들어 신맛이 나요. 이 발효 과정에서 김치가 익어요."
+    },
+    {
+      "id": "history-c3de5d3f",
+      "category": "history",
+      "difficulty": 3,
+      "question": "신라가 당군을 몰아낸 676년의 해전은?",
+      "choices": [
+        "기벌포 전투",
+        "한산도 대첩",
+        "안시성 전투",
+        "귀주 대첩"
+      ],
+      "answerIndex": 0,
+      "explanation": "신라는 676년 기벌포에서 당의 수군을 물리쳤어요. 이를 계기로 당군을 한반도에서 몰아내고 삼국 통일을 이뤘어요."
+    }
+  ]
+}

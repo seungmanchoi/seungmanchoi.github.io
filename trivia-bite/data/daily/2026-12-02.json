@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "id": "daily-2026-12-02",
+  "date": "2026-12-02",
+  "questions": [
+    {
+      "id": "history-faebc551",
+      "category": "history",
+      "difficulty": 1,
+      "question": "1969년 아폴로 11호를 타고 인류 최초로 달에 발을 디딘 사람은?",
+      "choices": [
+        "버즈 올드린",
+        "존 글렌",
+        "유리 가가린",
+        "닐 암스트롱"
+      ],
+      "answerIndex": 3,
+      "explanation": "아폴로 11호의 선장 닐 암스트롱이 1969년 달 표면에 처음 발을 디뎠어요. 함께 간 버즈 올드린은 그 뒤를 이어 내렸어요.",
+      "funFact": "암스트롱이 달에서 한 '한 인간에게는 작은 발걸음'이라는 말은 지금도 유명해요."
+    },
+    {
+      "id": "science-e8817ee8",
+      "category": "science",
+      "difficulty": 1,
+      "question": "공기 중의 산소를 몸속으로 받아들이는 호흡 기관은?",
+      "choices": [
+        "심장",
+        "위",
+        "폐",
+        "간"
+      ],
+      "answerIndex": 2,
+      "explanation": "폐는 숨을 들이마신 공기 속 산소를 혈액에 넣고, 이산화탄소는 내보내는 기관이에요. 이 일을 가스 교환이라고 해요."
+    },
+    {
+      "id": "korean-de2d1156",
+      "category": "korean",
+      "difficulty": 1,
+      "question": "'그는 연극에서 주인공 ○○을 맡았어요'의 빈칸에 알맞은 표기는?",
+      "choices": [
+        "영활",
+        "열할",
+        "역할",
+        "역활"
+      ],
+      "answerIndex": 2,
+      "explanation": "맡은 일이나 구실을 뜻하는 말은 '역할'이에요. 흔히 '역활'로 잘못 쓰니 조심하세요."
+    },
+    {
+      "id": "economy-b53e24d6",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "경제 활동 중 물건이나 서비스를 만들어 내는 일은?",
+      "choices": [
+        "생산",
+        "유통",
+        "저축",
+        "소비"
+      ],
+      "answerIndex": 0,
+      "explanation": "물건이나 서비스를 만들어 내는 활동을 생산이라고 해요. 소비는 그것을 사서 쓰는 활동이고, 유통은 생산자와 소비자를 이어 주는 활동이에요."
+    },
+    {
+      "id": "geography-cf582a2e",
+      "category": "geography",
+      "difficulty": 2,
+      "question": "우리나라 서해안에 갯벌이 넓게 발달한 주된 이유는?",
+      "choices": [
+        "빙하가 녹아 흘러서",
+        "수심이 매우 깊어서",
+        "조수 간만의 차가 커서",
+        "화산 활동이 활발해서"
+      ],
+      "answerIndex": 2,
+      "explanation": "서해안은 밀물과 썰물의 높이 차가 커서 바닷물이 빠질 때 넓은 뻘이 드러나요. 완만한 해안선과 강이 실어 온 흙도 갯벌을 만들어요.",
+      "funFact": "우리나라의 갯벌은 유네스코 세계자연유산에 등재되어 있어요."
+    },
+    {
+      "id": "life-a84ec9f3",
+      "category": "life",
+      "difficulty": 2,
+      "question": "몸에 철분이 부족할 때 생기기 쉬운 질환은?",
+      "choices": [
+        "골다공증",
+        "빈혈",
+        "당뇨병",
+        "통풍"
+      ],
+      "answerIndex": 1,
+      "explanation": "철분은 적혈구 속 헤모글로빈을 만드는 데 꼭 필요해요. 철분이 부족하면 산소를 나르는 힘이 약해져 빈혈이 생기기 쉬워요."
+    },
+    {
+      "id": "culture-99359a08",
+      "category": "culture",
+      "difficulty": 2,
+      "question": "『어린 왕자』를 쓴 프랑스 작가는?",
+      "choices": [
+        "기 드 모파상",
+        "생텍쥐페리",
+        "빅토르 위고",
+        "쥘 베른"
+      ],
+      "answerIndex": 1,
+      "explanation": "『어린 왕자』는 프랑스 작가 앙투안 드 생텍쥐페리가 1943년에 펴낸 소설이에요. 전 세계에서 사랑받는 고전이에요.",
+      "funFact": "작가는 비행사였고, 사막에 불시착했던 경험이 작품에 녹아 있어요."
+    },
+    {
+      "id": "science-2c0715c2",
+      "category": "science",
+      "difficulty": 3,
+      "question": "사람 몸에서 가장 길고 튼튼한 뼈는?",
+      "choices": [
+        "넙다리뼈",
+        "정강이뼈",
+        "종아리뼈",
+        "위팔뼈"
+      ],
+      "answerIndex": 0,
+      "explanation": "넙다리뼈(대퇴골)는 허벅지에 있는 뼈로 몸에서 가장 길고 튼튼해요. 몸무게를 버티며 걷고 뛰는 일을 도와요.",
+      "funFact": "넙다리뼈의 길이는 키의 약 4분의 1이에요."
+    },
+    {
+      "id": "history-13cca003",
+      "category": "history",
+      "difficulty": 3,
+      "question": "1866년 병인양요 때 프랑스군이 외규장각에서 약탈한 기록물은?",
+      "choices": [
+        "일성록",
+        "조선왕조실록",
+        "승정원일기",
+        "의궤"
+      ],
+      "answerIndex": 3,
+      "explanation": "의궤는 왕실의 큰 행사를 글과 그림으로 자세히 기록한 책이에요. 프랑스군이 강화도 외규장각에서 가져갔고, 일부는 이후 우리나라로 돌아왔어요."
+    },
+    {
+      "id": "korean-c99deaa0",
+      "category": "korean",
+      "difficulty": 3,
+      "question": "다음 중 표준어가 아닌 것은?",
+      "choices": [
+        "맨날",
+        "먹거리",
+        "짜장면",
+        "괜시리"
+      ],
+      "answerIndex": 3,
+      "explanation": "'괜스레'가 표준어이고 '괜시리'는 표준어가 아니에요. 짜장면, 맨날, 먹거리는 2011년에 표준어로 인정됐어요.",
+      "funFact": "2011년에 '짜장면'이 '자장면'과 함께 표준어가 됐어요."
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "id": "daily-2026-10-29",
+  "date": "2026-10-29",
+  "questions": [
+    {
+      "id": "history-4928c76c",
+      "category": "history",
+      "difficulty": 1,
+      "question": "한글을 기념하는 한글날은 몇 월 며칠일까요?",
+      "choices": [
+        "9월 9일",
+        "11월 9일",
+        "10월 9일",
+        "10월 3일"
+      ],
+      "answerIndex": 2,
+      "explanation": "한글날은 세종이 훈민정음을 반포한 것을 기념하는 날이에요. 1446년 음력 9월 상순의 기록을 근거로 양력 10월 9일로 정했어요.",
+      "funFact": "한글날은 한동안 공휴일에서 빠졌다가 2013년에 다시 공휴일이 됐어요."
+    },
+    {
+      "id": "science-17953413",
+      "category": "science",
+      "difficulty": 1,
+      "question": "달은 지구 주위를 도는 지구의 무엇일까요?",
+      "choices": [
+        "소행성",
+        "위성",
+        "항성",
+        "행성"
+      ],
+      "answerIndex": 1,
+      "explanation": "위성은 행성 둘레를 도는 천체예요. 달은 지구 둘레를 도는 하나뿐인 자연 위성이에요."
+    },
+    {
+      "id": "geography-5158c07e",
+      "category": "geography",
+      "difficulty": 1,
+      "question": "지도에서 장화 모양으로 보이는 남유럽 반도 국가는?",
+      "choices": [
+        "이탈리아",
+        "포르투갈",
+        "스페인",
+        "그리스"
+      ],
+      "answerIndex": 0,
+      "explanation": "이탈리아 반도는 지중해 쪽으로 길게 뻗은 장화 모양이에요. 수도는 로마예요."
+    },
+    {
+      "id": "korean-0b28dbdd",
+      "category": "korean",
+      "difficulty": 1,
+      "question": "마음이 두근거리는 느낌을 뜻하는 올바른 표기는?",
+      "choices": [
+        "설레임",
+        "설램",
+        "설레움",
+        "설렘"
+      ],
+      "answerIndex": 3,
+      "explanation": "'설레다'의 명사형은 '설렘'이에요. '설레임'은 널리 쓰이지만 표준 표기가 아니에요."
+    },
+    {
+      "id": "economy-3514ae4c",
+      "category": "economy",
+      "difficulty": 2,
+      "question": "인간의 욕구에 비해 자원이 부족한 상태를 뜻하는 용어는?",
+      "choices": [
+        "효율성",
+        "희소성",
+        "유동성",
+        "생산성"
+      ],
+      "answerIndex": 1,
+      "explanation": "희소성은 사람의 욕구는 끝이 없는데 쓸 수 있는 자원은 한정된 상태를 말해요. 그래서 우리는 무엇을 선택할지 고민해야 해요."
+    },
+    {
+      "id": "history-bf6f5b30",
+      "category": "history",
+      "difficulty": 2,
+      "question": "고려 말 문익점이 원나라에서 들여온 것은?",
+      "choices": [
+        "옥수수",
+        "감자",
+        "목화씨",
+        "고구마"
+      ],
+      "answerIndex": 2,
+      "explanation": "문익점은 원나라에서 돌아오며 목화씨를 가져와 재배에 성공했어요. 덕분에 무명옷이 널리 퍼졌어요.",
+      "funFact": "문익점이 들여온 목화 덕분에 백성들이 따뜻한 무명옷을 입게 됐어요."
+    },
+    {
+      "id": "science-9f801c23",
+      "category": "science",
+      "difficulty": 2,
+      "question": "다음 중 소리가 가장 빠르게 전달되는 것은?",
+      "choices": [
+        "철",
+        "헬륨",
+        "물",
+        "공기"
+      ],
+      "answerIndex": 0,
+      "explanation": "소리는 보통 고체, 액체, 기체 순으로 빨라요. 철에서는 초속 5000m 안팎, 물에서는 1500m 안팎, 공기에서는 340m쯤이에요."
+    },
+    {
+      "id": "history-869becc5",
+      "category": "history",
+      "difficulty": 3,
+      "question": "1232년 처인성에서 몽골 장수 살리타를 쏘아 죽인 승려는?",
+      "choices": [
+        "김윤후",
+        "의천",
+        "일연",
+        "지눌"
+      ],
+      "answerIndex": 0,
+      "explanation": "고려가 몽골과 싸우던 1232년, 승려 김윤후가 처인성에서 적장 살리타를 쏘아 죽였어요. 이 승리로 몽골군은 물러났어요.",
+      "funFact": "김윤후는 1253년 충주성 방어전에서도 활약했어요."
+    },
+    {
+      "id": "science-81546711",
+      "category": "science",
+      "difficulty": 3,
+      "question": "다음 중 알을 낳는 포유류는?",
+      "choices": [
+        "캥거루",
+        "박쥐",
+        "돌고래",
+        "오리너구리"
+      ],
+      "answerIndex": 3,
+      "explanation": "오리너구리는 알을 낳지만 새끼에게 젖을 먹이는 포유류예요. 이런 무리를 단공류라고 불러요.",
+      "funFact": "알을 낳는 포유류는 오리너구리와 가시두더지류뿐이에요."
+    },
+    {
+      "id": "geography-b7249bc4",
+      "category": "geography",
+      "difficulty": 3,
+      "question": "캐나다의 수도는 어디일까요?",
+      "choices": [
+        "밴쿠버",
+        "토론토",
+        "몬트리올",
+        "오타와"
+      ],
+      "answerIndex": 3,
+      "explanation": "캐나다의 수도는 오타와예요. 토론토나 밴쿠버가 더 유명하지만 수도는 아니에요.",
+      "funFact": "오타와는 온타리오주와 퀘벡주의 경계에 자리해요."
+    }
+  ]
+}

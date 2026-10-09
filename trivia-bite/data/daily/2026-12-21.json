@@ -1,0 +1,149 @@
+{
+  "version": 1,
+  "id": "daily-2026-12-21",
+  "date": "2026-12-21",
+  "questions": [
+    {
+      "id": "history-b6dcdbda",
+      "category": "history",
+      "difficulty": 1,
+      "question": "한국 전쟁(6·25 전쟁)이 일어난 해는?",
+      "choices": [
+        "1945년",
+        "1948년",
+        "1953년",
+        "1950년"
+      ],
+      "answerIndex": 3,
+      "explanation": "한국 전쟁은 1950년 6월 25일에 시작됐어요. 1953년 정전 협정으로 전투가 멈췄어요."
+    },
+    {
+      "id": "korean-ceb53161",
+      "category": "korean",
+      "difficulty": 1,
+      "question": "속담 '티끌 모아 ○○'의 빈칸에 들어갈 말은?",
+      "choices": [
+        "보물",
+        "태산",
+        "황금",
+        "바다"
+      ],
+      "answerIndex": 1,
+      "explanation": "'티끌 모아 태산'은 아주 작은 것도 모이면 큰 것이 된다는 뜻이에요. 꾸준히 아끼고 쌓는 일의 중요성을 말해요."
+    },
+    {
+      "id": "economy-8fb32bd6",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "우리나라 돈과 외국 돈을 바꿀 때 적용하는 교환 비율은?",
+      "choices": [
+        "환율",
+        "물가",
+        "세율",
+        "금리"
+      ],
+      "answerIndex": 0,
+      "explanation": "환율은 한 나라의 돈과 다른 나라의 돈을 바꾸는 비율이에요. 해외여행이나 수출입 때 꼭 필요한 개념이에요."
+    },
+    {
+      "id": "life-2871bb42",
+      "category": "life",
+      "difficulty": 1,
+      "question": "치약에 든 불소가 주로 예방하는 것은?",
+      "choices": [
+        "변비",
+        "감기",
+        "충치",
+        "탈모"
+      ],
+      "answerIndex": 2,
+      "explanation": "불소는 치아 표면을 단단하게 해서 충치를 막아 줘요. 그래서 많은 치약에 들어 있어요."
+    },
+    {
+      "id": "science-fc16542c",
+      "category": "science",
+      "difficulty": 2,
+      "question": "지진이 났을 때 관측소에 가장 먼저 도달하는 지진파는?",
+      "choices": [
+        "S파",
+        "표면파",
+        "해일파",
+        "P파"
+      ],
+      "answerIndex": 3,
+      "explanation": "P파는 지진파 중 가장 빨라서 제일 먼저 도착해요. 그다음에 S파가, 마지막에 표면파가 도착해요."
+    },
+    {
+      "id": "history-46aad0b8",
+      "category": "history",
+      "difficulty": 2,
+      "question": "일연이 단군 신화를 실어 편찬한 고려 시대 책은?",
+      "choices": [
+        "삼국유사",
+        "열하일기",
+        "징비록",
+        "택리지"
+      ],
+      "answerIndex": 0,
+      "explanation": "『삼국유사』는 고려 승려 일연이 쓴 책으로 단군 신화와 여러 설화가 실려 있어요. 나머지는 조선 시대에 나온 책이에요.",
+      "funFact": "『삼국유사』에는 신라의 향가 14수가 실려 있어요."
+    },
+    {
+      "id": "economy-d3359e4b",
+      "category": "economy",
+      "difficulty": 2,
+      "question": "일정 기간 상품 수출액에서 수입액을 뺀 값은?",
+      "choices": [
+        "소비자물가",
+        "무역수지",
+        "국내총생산",
+        "재정수지"
+      ],
+      "answerIndex": 1,
+      "explanation": "무역수지는 수출액에서 수입액을 뺀 값이에요. 수출이 더 많으면 흑자, 수입이 더 많으면 적자라고 해요."
+    },
+    {
+      "id": "culture-c669e285",
+      "category": "culture",
+      "difficulty": 3,
+      "question": "고대 올림픽이 열린 그리스의 성지는?",
+      "choices": [
+        "델포이",
+        "스파르타",
+        "코린토스",
+        "올림피아"
+      ],
+      "answerIndex": 3,
+      "explanation": "고대 올림픽은 제우스 신을 모신 성지 올림피아에서 열렸어요. 이름도 여기서 따왔어요.",
+      "funFact": "지금도 올림픽 성화는 올림피아에서 채화해요."
+    },
+    {
+      "id": "culture-41fa37ff",
+      "category": "culture",
+      "difficulty": 3,
+      "question": "발레 음악 '백조의 호수'를 작곡한 러시아 작곡가는?",
+      "choices": [
+        "쇼스타코비치",
+        "림스키코르사코프",
+        "차이콥스키",
+        "라흐마니노프"
+      ],
+      "answerIndex": 2,
+      "explanation": "'백조의 호수'는 차이콥스키의 작품이에요. 그는 '잠자는 숲속의 미녀', '호두까기 인형'도 작곡했어요."
+    },
+    {
+      "id": "history-4a45b206",
+      "category": "history",
+      "difficulty": 3,
+      "question": "675년 나당 전쟁에서 신라가 당군을 크게 무찌른 곳은?",
+      "choices": [
+        "황산벌",
+        "안시성",
+        "매소성",
+        "기벌포"
+      ],
+      "answerIndex": 2,
+      "explanation": "신라는 675년 매소성에서 당의 대군을 크게 물리쳤어요. 이듬해 기벌포 해전에서도 이겨 당군을 몰아냈어요."
+    }
+  ]
+}

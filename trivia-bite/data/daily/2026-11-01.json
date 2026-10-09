@@ -1,0 +1,150 @@
+{
+  "version": 1,
+  "id": "daily-2026-11-01",
+  "date": "2026-11-01",
+  "questions": [
+    {
+      "id": "history-5146c5b2",
+      "category": "history",
+      "difficulty": 1,
+      "question": "고려의 수도였던 도시의 당시 이름은?",
+      "choices": [
+        "평양",
+        "한양",
+        "개경",
+        "웅진"
+      ],
+      "answerIndex": 2,
+      "explanation": "왕건이 도읍으로 삼은 곳이 오늘날 개성 지역이에요. 당시에는 개경이라고 불렀고, 고려는 대부분의 기간 이곳을 중심으로 나라를 다스렸어요.",
+      "funFact": "개경은 '송도'라고도 불렸어요."
+    },
+    {
+      "id": "science-37c419fb",
+      "category": "science",
+      "difficulty": 1,
+      "question": "다음 중 자석에 달라붙는 금속은?",
+      "choices": [
+        "철",
+        "알루미늄",
+        "금",
+        "구리"
+      ],
+      "answerIndex": 0,
+      "explanation": "철은 자석에 끌리는 대표적인 금속이에요. 구리, 알루미늄, 금은 자석에 붙지 않아요.",
+      "funFact": "지구 자체가 커다란 자석처럼 작용해서 나침반이 방향을 가리켜요."
+    },
+    {
+      "id": "geography-a8f83f32",
+      "category": "geography",
+      "difficulty": 1,
+      "question": "태국의 수도는 어디일까요?",
+      "choices": [
+        "마닐라",
+        "자카르타",
+        "하노이",
+        "방콕"
+      ],
+      "answerIndex": 3,
+      "explanation": "태국의 수도는 방콕이에요. 하노이는 베트남, 자카르타는 인도네시아, 마닐라는 필리핀의 수도예요."
+    },
+    {
+      "id": "korean-71021960",
+      "category": "korean",
+      "difficulty": 1,
+      "question": "'감기가 빨리 ○○○ 좋겠어요'의 빈칸에 알맞은 표기는?",
+      "choices": [
+        "낫았으면",
+        "나았으면",
+        "났았으면",
+        "낳았으면"
+      ],
+      "answerIndex": 1,
+      "explanation": "'낫다'는 병이 없어진다는 뜻이고, 'ㅅ'이 빠지면서 '나았으면'이 돼요. '낳다'는 아기를 낳는다는 뜻이라 쓰임이 달라요."
+    },
+    {
+      "id": "economy-980a2ede",
+      "category": "economy",
+      "difficulty": 2,
+      "question": "시장에서 수요량과 공급량이 같아지는 가격은?",
+      "choices": [
+        "독점 가격",
+        "권장 소비자가격",
+        "최고 가격",
+        "균형 가격"
+      ],
+      "answerIndex": 3,
+      "explanation": "수요와 공급이 만나 거래량이 딱 맞아떨어지는 가격을 균형 가격이라고 해요. 가격이 이보다 높으면 물건이 남고, 낮으면 부족해지기 쉬워요."
+    },
+    {
+      "id": "history-ca32b329",
+      "category": "history",
+      "difficulty": 2,
+      "question": "청나라 여행기 『열하일기』를 쓴 조선 후기 실학자는?",
+      "choices": [
+        "박제가",
+        "이익",
+        "최한기",
+        "박지원"
+      ],
+      "answerIndex": 3,
+      "explanation": "박지원은 1780년 청나라로 가는 사절단을 따라갔다가 보고 들은 것을 『열하일기』에 담았어요. 청의 앞선 문물을 배우자는 북학파 실학자였어요."
+    },
+    {
+      "id": "science-043f75a6",
+      "category": "science",
+      "difficulty": 2,
+      "question": "태양이 빛과 열을 내는 에너지의 근원이 되는 반응은?",
+      "choices": [
+        "핵분열 반응",
+        "광합성 반응",
+        "핵융합 반응",
+        "연소 반응"
+      ],
+      "answerIndex": 2,
+      "explanation": "태양 중심부에서는 수소 원자핵들이 합쳐져 헬륨이 되는 핵융합이 일어나요. 이때 막대한 에너지가 빛과 열로 나와요."
+    },
+    {
+      "id": "life-66acd646",
+      "category": "life",
+      "difficulty": 3,
+      "question": "복어의 난소와 간 등에 들어 있는 맹독 물질은?",
+      "choices": [
+        "무스카린",
+        "아플라톡신",
+        "테트로도톡신",
+        "리신"
+      ],
+      "answerIndex": 2,
+      "explanation": "복어의 내장, 특히 난소와 간에는 강한 신경독인 테트로도톡신이 있어요. 그래서 복어는 자격을 갖춘 조리사가 손질해야 안전해요.",
+      "funFact": "테트로도톡신은 가열해도 잘 분해되지 않아요."
+    },
+    {
+      "id": "culture-9e06c550",
+      "category": "culture",
+      "difficulty": 3,
+      "question": "4대 테니스 그랜드슬램 중 붉은 클레이 코트에서 열리는 대회는?",
+      "choices": [
+        "윔블던",
+        "프랑스 오픈",
+        "호주 오픈",
+        "US 오픈"
+      ],
+      "answerIndex": 1,
+      "explanation": "프랑스 오픈은 파리의 롤랑가로스에서 열리고 점토로 된 클레이 코트를 써요. 윔블던은 잔디, 호주 오픈과 US 오픈은 하드코트예요."
+    },
+    {
+      "id": "history-75e0702b",
+      "category": "history",
+      "difficulty": 3,
+      "question": "1170년 정중부 등의 무신정변으로 쫓겨난 고려의 왕은?",
+      "choices": [
+        "의종",
+        "예종",
+        "인종",
+        "명종"
+      ],
+      "answerIndex": 0,
+      "explanation": "1170년 무신 정중부 등이 일으킨 무신정변으로 의종이 쫓겨나 거제로 유배됐어요. 이후 약 100년간 무신들이 권력을 잡았어요."
+    }
+  ]
+}

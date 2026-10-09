@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "id": "daily-2026-10-24",
+  "date": "2026-10-24",
+  "questions": [
+    {
+      "id": "history-b79ce519",
+      "category": "history",
+      "difficulty": 1,
+      "question": "기원전 221년 중국을 최초로 통일해 '황제' 칭호를 쓴 인물은?",
+      "choices": [
+        "유방",
+        "진시황",
+        "항우",
+        "당 태종"
+      ],
+      "answerIndex": 1,
+      "explanation": "기원전 221년 진나라의 왕 정이 중국을 처음으로 통일했어요. 그는 스스로를 '황제'라고 부르며 이 칭호를 처음 썼어요.",
+      "funFact": "진시황릉 주변에서는 수천 점의 병마용이 발견됐어요."
+    },
+    {
+      "id": "science-00cbd781",
+      "category": "science",
+      "difficulty": 1,
+      "question": "액체가 기체로 변하는 상태 변화를 무엇이라고 할까요?",
+      "choices": [
+        "융해",
+        "액화",
+        "기화",
+        "응고"
+      ],
+      "answerIndex": 2,
+      "explanation": "액체가 열을 얻어 기체로 변하는 현상을 기화라고 해요. 빨래가 마르거나 물이 끓는 것이 대표적인 예예요."
+    },
+    {
+      "id": "geography-6df2c076",
+      "category": "geography",
+      "difficulty": 1,
+      "question": "중국의 수도는 어디일까요?",
+      "choices": [
+        "베이징",
+        "상하이",
+        "홍콩",
+        "광저우"
+      ],
+      "answerIndex": 0,
+      "explanation": "중국의 수도는 베이징이에요. 상하이는 경제 중심지로 꼽히지만 수도는 아니에요.",
+      "funFact": "베이징에는 명나라와 청나라 황제가 살던 자금성이 있어요."
+    },
+    {
+      "id": "korean-ad7f2daa",
+      "category": "korean",
+      "difficulty": 1,
+      "question": "속담 '누워서 떡 먹기'의 뜻으로 알맞은 것은?",
+      "choices": [
+        "몹시 게으른 사람",
+        "몸이 아파 누워 있음",
+        "아주 쉬운 일",
+        "먹을 복이 많음"
+      ],
+      "answerIndex": 2,
+      "explanation": "'누워서 떡 먹기'는 아주 쉽고 간단한 일을 이르는 속담이에요. 힘들이지 않고 해낼 수 있다는 뜻이죠."
+    },
+    {
+      "id": "economy-a58200f5",
+      "category": "economy",
+      "difficulty": 2,
+      "question": "회사가 이익의 일부를 주주에게 나누어 주는 돈은?",
+      "choices": [
+        "배당금",
+        "지대",
+        "이자",
+        "임금"
+      ],
+      "answerIndex": 0,
+      "explanation": "배당금은 기업이 번 이익 가운데 일부를 주식을 가진 주주에게 나눠 주는 돈이에요. 주식 투자로 얻는 수익 중 하나예요."
+    },
+    {
+      "id": "history-51cbf244",
+      "category": "history",
+      "difficulty": 2,
+      "question": "고려 인종 때 역사서 『삼국사기』를 펴낸 인물은?",
+      "choices": [
+        "이제현",
+        "김부식",
+        "일연",
+        "이규보"
+      ],
+      "answerIndex": 1,
+      "explanation": "『삼국사기』는 1145년 김부식이 왕명을 받아 편찬한 삼국 시대 역사서예요. 신라·고구려·백제의 역사를 정리했어요.",
+      "funFact": "『삼국유사』는 승려 일연이 쓴 책으로 단군 신화가 실려 있어요."
+    },
+    {
+      "id": "science-93708418",
+      "category": "science",
+      "difficulty": 2,
+      "question": "상처가 났을 때 피를 굳혀 출혈을 막는 데 중심 역할을 하는 것은?",
+      "choices": [
+        "적혈구",
+        "혈소판",
+        "백혈구",
+        "헤모글로빈"
+      ],
+      "answerIndex": 1,
+      "explanation": "혈소판은 상처 부위에 모여 덩어리를 만들고 피가 굳도록 도와요. 덕분에 피가 멈춰요."
+    },
+    {
+      "id": "culture-a537e607",
+      "category": "culture",
+      "difficulty": 3,
+      "question": "황금빛 장식이 돋보이는 그림 '키스'를 그린 오스트리아 화가는?",
+      "choices": [
+        "마티스",
+        "에곤 실레",
+        "뭉크",
+        "클림트"
+      ],
+      "answerIndex": 3,
+      "explanation": "'키스'는 구스타프 클림트가 금박을 써서 화려하게 그린 대표작이에요. 클림트는 빈 분리파를 이끈 화가예요.",
+      "funFact": "클림트는 이 작품에 실제 금박을 사용했어요."
+    },
+    {
+      "id": "history-993c1b04",
+      "category": "history",
+      "difficulty": 3,
+      "question": "1453년 비잔티움 제국의 수도 콘스탄티노폴리스를 함락한 나라는?",
+      "choices": [
+        "몽골 제국",
+        "신성 로마 제국",
+        "프랑크 왕국",
+        "오스만 제국"
+      ],
+      "answerIndex": 3,
+      "explanation": "1453년 오스만 제국의 메흐메트 2세가 콘스탄티노폴리스를 함락하면서 비잔티움 제국이 멸망했어요. 이후 이 도시는 오스만의 수도가 됐어요.",
+      "funFact": "지금의 이스탄불이 바로 콘스탄티노폴리스예요."
+    },
+    {
+      "id": "science-14c1fe26",
+      "category": "science",
+      "difficulty": 3,
+      "question": "지구 지각을 이루는 원소 중 질량비로 가장 많은 것은?",
+      "choices": [
+        "산소",
+        "알루미늄",
+        "철",
+        "규소"
+      ],
+      "answerIndex": 0,
+      "explanation": "지구 지각에서는 산소가 질량 기준으로 가장 많아 약 절반 가까이를 차지해요. 그다음으로 많은 원소는 규소예요."
+    }
+  ]
+}

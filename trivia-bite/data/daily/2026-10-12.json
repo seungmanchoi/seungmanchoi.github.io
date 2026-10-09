@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "id": "daily-2026-10-12",
+  "date": "2026-10-12",
+  "questions": [
+    {
+      "id": "geography-546740d3",
+      "category": "geography",
+      "difficulty": 1,
+      "question": "우리나라에서 가장 큰 섬은 어디일까요?",
+      "choices": [
+        "강화도",
+        "거제도",
+        "진도",
+        "제주도"
+      ],
+      "answerIndex": 3,
+      "explanation": "제주도는 우리나라에서 면적이 가장 넓은 섬이에요. 거제도, 진도, 강화도가 그 뒤를 이어요.",
+      "funFact": "제주도 면적은 서울의 약 3배예요."
+    },
+    {
+      "id": "science-f47072b9",
+      "category": "science",
+      "difficulty": 1,
+      "question": "소화된 영양소를 주로 흡수하는 기관은?",
+      "choices": [
+        "소장",
+        "대장",
+        "위",
+        "식도"
+      ],
+      "answerIndex": 0,
+      "explanation": "음식물이 분해되면 영양소 대부분은 소장 안쪽 벽에서 흡수돼요. 대장은 주로 수분을 흡수해요."
+    },
+    {
+      "id": "history-0b4677d4",
+      "category": "history",
+      "difficulty": 1,
+      "question": "고려를 무너뜨리고 1392년 조선을 세운 인물은?",
+      "choices": [
+        "이방원",
+        "이성계",
+        "최영",
+        "정도전"
+      ],
+      "answerIndex": 1,
+      "explanation": "이성계는 위화도 회군으로 힘을 얻은 뒤 1392년 조선을 세웠어요. 정도전은 조선 건국을 도운 신하예요."
+    },
+    {
+      "id": "economy-bf947861",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "어떤 상품을 사려는 욕구와 구매 능력을 뜻하는 말은?",
+      "choices": [
+        "생산",
+        "공급",
+        "수요",
+        "소득"
+      ],
+      "answerIndex": 2,
+      "explanation": "물건을 사려는 쪽의 힘을 수요라고 해요. 팔려는 쪽의 힘은 공급이고, 둘이 만나 가격이 정해져요."
+    },
+    {
+      "id": "korean-b2e74a87",
+      "category": "korean",
+      "difficulty": 2,
+      "question": "'오지랖이 넓다'는 어떤 사람을 가리킬까요?",
+      "choices": [
+        "씀씀이가 헤픈",
+        "옷을 잘 차려입는",
+        "남의 일에 참견이 많은",
+        "마음이 너그러운"
+      ],
+      "answerIndex": 2,
+      "explanation": "오지랖은 원래 윗옷의 앞자락을 뜻해요. 앞자락이 넓으면 남의 일에 쉽게 나선다고 해서, 쓸데없이 참견하는 사람에게 써요."
+    },
+    {
+      "id": "history-d569d82f",
+      "category": "history",
+      "difficulty": 2,
+      "question": "광개토대왕의 아들로 427년 평양으로 도읍을 옮긴 고구려 왕은?",
+      "choices": [
+        "소수림왕",
+        "장수왕",
+        "동천왕",
+        "고국천왕"
+      ],
+      "answerIndex": 1,
+      "explanation": "장수왕은 427년 도읍을 국내성에서 평양으로 옮기고 남쪽으로 영토를 넓혔어요. 아버지는 광개토대왕이에요.",
+      "funFact": "장수왕은 재위 기간이 79년에 이르러요."
+    },
+    {
+      "id": "science-9f285bb8",
+      "category": "science",
+      "difficulty": 2,
+      "question": "식물의 잎에서 증산 작용이 주로 일어나는 곳은?",
+      "choices": [
+        "꽃받침",
+        "물관",
+        "기공",
+        "뿌리털"
+      ],
+      "answerIndex": 2,
+      "explanation": "뿌리에서 올라온 물이 잎의 기공을 통해 수증기로 빠져나가는 것을 증산 작용이라고 해요. 기공은 산소와 이산화 탄소가 드나드는 통로이기도 해요."
+    },
+    {
+      "id": "life-c5935dc2",
+      "category": "life",
+      "difficulty": 3,
+      "question": "비타민 B1이 부족할 때 걸리기 쉬운 병은?",
+      "choices": [
+        "구루병",
+        "괴혈병",
+        "야맹증",
+        "각기병"
+      ],
+      "answerIndex": 3,
+      "explanation": "비타민 B1이 부족하면 다리가 붓고 힘이 빠지는 각기병이 생길 수 있어요. 괴혈병은 비타민 C, 구루병은 D, 야맹증은 A와 관련 있어요.",
+      "funFact": "흰쌀밥 위주로 먹던 지역에서 예전에 많이 나타났어요."
+    },
+    {
+      "id": "culture-ce4793f5",
+      "category": "culture",
+      "difficulty": 3,
+      "question": "오페라 '피가로의 결혼'을 작곡한 사람은?",
+      "choices": [
+        "모차르트",
+        "로시니",
+        "베르디",
+        "푸치니"
+      ],
+      "answerIndex": 0,
+      "explanation": "피가로의 결혼은 모차르트가 작곡해 1786년에 처음 무대에 올린 오페라예요. 로시니는 '세비야의 이발사'로 유명해요.",
+      "funFact": "피가로는 로시니의 '세비야의 이발사'에도 나오는 같은 인물이에요."
+    },
+    {
+      "id": "history-4b45af07",
+      "category": "history",
+      "difficulty": 3,
+      "question": "세종 때 우리 풍토에 맞는 농법을 담아 펴낸 농서는?",
+      "choices": [
+        "농가집성",
+        "농사직설",
+        "임원경제지",
+        "색경"
+      ],
+      "answerIndex": 1,
+      "explanation": "농사직설은 세종 때 1429년에 펴낸 우리나라 최초의 관찬 농서예요. 중국 책이 아닌 우리 땅에 맞는 농사법을 담았어요.",
+      "funFact": "각 지방 농부들의 농사 경험을 모아 엮었어요."
+    }
+  ]
+}

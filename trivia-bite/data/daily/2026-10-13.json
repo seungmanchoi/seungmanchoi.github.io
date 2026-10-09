@@ -1,0 +1,148 @@
+{
+  "version": 1,
+  "id": "daily-2026-10-13",
+  "date": "2026-10-13",
+  "questions": [
+    {
+      "id": "history-b1be5d98",
+      "category": "history",
+      "difficulty": 1,
+      "question": "우리나라 광복절은 몇 월 며칠일까요?",
+      "choices": [
+        "10월 3일",
+        "3월 1일",
+        "8월 15일",
+        "6월 25일"
+      ],
+      "answerIndex": 2,
+      "explanation": "1945년 8월 15일 우리나라가 일제로부터 해방된 것을 기념하는 날이에요. 해마다 이날을 국경일로 기념해요."
+    },
+    {
+      "id": "science-f11f7003",
+      "category": "science",
+      "difficulty": 1,
+      "question": "물이 얼어 얼음이 되면 부피는 어떻게 될까요?",
+      "choices": [
+        "커진다",
+        "변하지 않는다",
+        "절반으로 줄어든다",
+        "작아진다"
+      ],
+      "answerIndex": 0,
+      "explanation": "물은 얼 때 분자들이 육각형 구조로 배열되면서 사이에 빈 공간이 생겨요. 그래서 부피가 늘어나요.",
+      "funFact": "얼음이 물 위에 뜨는 것도 이 때문이에요."
+    },
+    {
+      "id": "geography-b91f2e58",
+      "category": "geography",
+      "difficulty": 1,
+      "question": "세계에서 가장 넓은 바다(대양)는 어디일까요?",
+      "choices": [
+        "북극해",
+        "대서양",
+        "인도양",
+        "태평양"
+      ],
+      "answerIndex": 3,
+      "explanation": "태평양은 지구 표면의 약 3분의 1을 차지하는 가장 넓고 깊은 대양이에요. 아시아, 아메리카, 오세아니아 대륙 사이에 있어요."
+    },
+    {
+      "id": "korean-ffcc2e6a",
+      "category": "korean",
+      "difficulty": 1,
+      "question": "속담 '낫 놓고 기역 자도 모른다'는 어떤 사람을 뜻할까요?",
+      "choices": [
+        "농사일을 못 하는 사람",
+        "낫질이 서투른 사람",
+        "글자를 모르는 무식한 사람",
+        "글씨를 못 쓰는 사람"
+      ],
+      "answerIndex": 2,
+      "explanation": "낫의 생김새가 기역(ㄱ) 자와 닮았는데도 그것을 알아보지 못한다는 뜻이에요. 아주 무식한 사람을 놀릴 때 써요."
+    },
+    {
+      "id": "economy-4a7ea330",
+      "category": "economy",
+      "difficulty": 2,
+      "question": "한 나라에서 일정 기간 새로 생산된 재화와 서비스의 가치 합은?",
+      "choices": [
+        "실업률",
+        "국내총생산(GDP)",
+        "소비자물가지수",
+        "경상수지"
+      ],
+      "answerIndex": 1,
+      "explanation": "국내총생산은 한 나라 안에서 일정 기간 새로 만들어진 재화와 서비스의 시장 가치를 모두 더한 값이에요. 그 나라의 경제 규모를 가늠하는 대표 지표예요."
+    },
+    {
+      "id": "history-21b701e3",
+      "category": "history",
+      "difficulty": 2,
+      "question": "612년 을지문덕이 수나라 대군을 물리친 싸움은?",
+      "choices": [
+        "한산도대첩",
+        "행주대첩",
+        "살수대첩",
+        "귀주대첩"
+      ],
+      "answerIndex": 2,
+      "explanation": "고구려의 을지문덕 장군이 살수(청천강)에서 수나라 군대를 크게 무찔렀어요. 귀주대첩은 고려 강감찬이 거란을 물리친 싸움이에요."
+    },
+    {
+      "id": "science-7b251cfd",
+      "category": "science",
+      "difficulty": 2,
+      "question": "고체가 액체를 거치지 않고 곧바로 기체가 되는 현상은?",
+      "choices": [
+        "액화",
+        "융해",
+        "응고",
+        "승화"
+      ],
+      "answerIndex": 3,
+      "explanation": "고체가 바로 기체로 변하는 현상을 승화라고 해요. 드라이아이스나 나프탈렌이 시간이 지나면 작아지는 것이 그 예예요."
+    },
+    {
+      "id": "life-2f8266ef",
+      "category": "life",
+      "difficulty": 3,
+      "question": "갑자기 코피가 날 때 올바른 응급처치 자세는?",
+      "choices": [
+        "고개를 숙이고 코를 쥔다",
+        "휴지를 깊이 밀어넣는다",
+        "바닥에 반듯이 눕는다",
+        "고개를 뒤로 젖힌다"
+      ],
+      "answerIndex": 0,
+      "explanation": "앉아서 고개를 살짝 앞으로 숙이고 콧방울을 눌러 10분 정도 지혈해요. 고개를 젖히면 피가 목으로 넘어가 위험할 수 있어요."
+    },
+    {
+      "id": "culture-733f39d1",
+      "category": "culture",
+      "difficulty": 3,
+      "question": "피카시와 브라크가 함께 이끈 20세기 초 미술 사조는?",
+      "choices": [
+        "야수주의",
+        "입체주의(큐비즘)",
+        "인상주의",
+        "초현실주의"
+      ],
+      "answerIndex": 1,
+      "explanation": "입체주의는 대상을 여러 방향에서 본 모습으로 쪼개 한 화면에 합쳐 표현하는 미술 사조예요. 파블로 피카소와 조르주 브라크가 함께 이끌었어요."
+    },
+    {
+      "id": "history-340d6b01",
+      "category": "history",
+      "difficulty": 3,
+      "question": "조선의 기본 법전 『경국대전』을 완성해 반포한 왕은?",
+      "choices": [
+        "태종",
+        "세종",
+        "세조",
+        "성종"
+      ],
+      "answerIndex": 3,
+      "explanation": "경국대전은 세조 때 편찬을 시작해 성종 때인 1485년에 완성·반포됐어요. 이후 조선 통치의 기본 법전이 됐어요."
+    }
+  ]
+}

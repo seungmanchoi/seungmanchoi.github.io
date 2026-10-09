@@ -1,0 +1,151 @@
+{
+  "version": 1,
+  "id": "daily-2026-12-15",
+  "date": "2026-12-15",
+  "questions": [
+    {
+      "id": "history-58dd6814",
+      "category": "history",
+      "difficulty": 1,
+      "question": "조선을 세운 초대 왕은 누구일까요?",
+      "choices": [
+        "왕건",
+        "궁예",
+        "세종",
+        "이성계"
+      ],
+      "answerIndex": 3,
+      "explanation": "이성계는 1392년 고려를 무너뜨리고 조선을 세웠어요. 훗날 태조라는 묘호로 불려요."
+    },
+    {
+      "id": "science-a0a1da1e",
+      "category": "science",
+      "difficulty": 1,
+      "question": "태양계 행성 중 고리가 가장 뚜렷하게 보이는 행성은?",
+      "choices": [
+        "수성",
+        "화성",
+        "금성",
+        "토성"
+      ],
+      "answerIndex": 3,
+      "explanation": "토성의 고리는 얼음과 암석 조각으로 이뤄져 있어서 작은 망원경으로도 잘 보여요. 다른 거대 행성에도 희미한 고리가 있지만 토성이 가장 뚜렷해요.",
+      "funFact": "토성은 평균 밀도가 물보다 낮아요."
+    },
+    {
+      "id": "economy-24b5db41",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "은행에 돈을 맡긴 대가로 받는 돈은 무엇일까요?",
+      "choices": [
+        "세금",
+        "보험료",
+        "수수료",
+        "이자"
+      ],
+      "answerIndex": 3,
+      "explanation": "은행은 맡긴 돈을 활용하는 대가로 예금한 사람에게 이자를 줘요. 반대로 돈을 빌린 사람은 은행에 이자를 내요."
+    },
+    {
+      "id": "life-d0d56ec2",
+      "category": "life",
+      "difficulty": 1,
+      "question": "젖은 손으로 전기 플러그를 만지면 위험한 까닭은?",
+      "choices": [
+        "플러그가 녹슬어서",
+        "물이 전기를 통하게 해서",
+        "손이 뜨거워져서",
+        "전기가 물에 녹아서"
+      ],
+      "answerIndex": 1,
+      "explanation": "수돗물이나 땀에는 이온이 들어 있어서 전기가 잘 통해요. 젖은 손으로 만지면 전류가 몸으로 흐르기 쉬워 감전 위험이 커져요."
+    },
+    {
+      "id": "korean-567c7e6e",
+      "category": "korean",
+      "difficulty": 2,
+      "question": "순우리말 '아우라지'의 뜻으로 알맞은 것은?",
+      "choices": [
+        "물이 솟아나는 샘",
+        "두 물줄기가 만나는 곳",
+        "폭포 아래의 웅덩이",
+        "물이 얕은 개울"
+      ],
+      "answerIndex": 1,
+      "explanation": "아우라지는 두 갈래 이상의 물이 한데 모이는 곳을 뜻하는 순우리말이에요. 강이나 개울이 합쳐지는 어귀를 가리켜요.",
+      "funFact": "강원도 정선에는 아우라지라는 이름의 나루터가 있어요."
+    },
+    {
+      "id": "history-91592898",
+      "category": "history",
+      "difficulty": 2,
+      "question": "612년 을지문덕이 살수에서 크게 무찌른 중국 왕조는?",
+      "choices": [
+        "명나라",
+        "당나라",
+        "수나라",
+        "한나라"
+      ],
+      "answerIndex": 2,
+      "explanation": "고구려의 을지문덕 장군이 살수에서 수나라 대군을 크게 물리쳤어요. 이를 살수 대첩이라고 불러요."
+    },
+    {
+      "id": "science-184ca59f",
+      "category": "science",
+      "difficulty": 2,
+      "question": "우리 몸에서 영양소를 주로 흡수하는 소화 기관은?",
+      "choices": [
+        "소장",
+        "대장",
+        "식도",
+        "위"
+      ],
+      "answerIndex": 0,
+      "explanation": "소장 안쪽 벽에는 융털이 빽빽해서 영양소를 효율적으로 흡수해요. 대장은 주로 수분을 흡수해요.",
+      "funFact": "소장은 펼치면 약 6~7m나 돼요."
+    },
+    {
+      "id": "culture-41fca262",
+      "category": "culture",
+      "difficulty": 3,
+      "question": "'한여름 밤의 꿈'의 결혼행진곡을 작곡한 사람은?",
+      "choices": [
+        "멘델스존",
+        "슈베르트",
+        "바그너",
+        "모차르트"
+      ],
+      "answerIndex": 0,
+      "explanation": "멘델스존이 셰익스피어의 희극 『한여름 밤의 꿈』에 붙인 부수음악 중 한 곡이에요. 지금도 결혼식에서 자주 연주돼요.",
+      "funFact": "신부 입장에는 바그너의 '혼례의 합창'도 자주 쓰여요."
+    },
+    {
+      "id": "history-9fb9c123",
+      "category": "history",
+      "difficulty": 3,
+      "question": "『북학의』를 쓴 조선 후기 실학자는?",
+      "choices": [
+        "박제가",
+        "유형원",
+        "박지원",
+        "이익"
+      ],
+      "answerIndex": 0,
+      "explanation": "박제가는 청나라의 앞선 문물을 배우자는 북학을 주장했어요. 『북학의』에서 수레와 선박의 사용, 통상의 필요성을 강조했어요."
+    },
+    {
+      "id": "science-7989d72b",
+      "category": "science",
+      "difficulty": 3,
+      "question": "DNA에서 아데닌(A)과 짝을 이루는 염기는?",
+      "choices": [
+        "우라실",
+        "시토신",
+        "티민",
+        "구아닌"
+      ],
+      "answerIndex": 2,
+      "explanation": "DNA의 염기는 아데닌은 티민과, 구아닌은 시토신과 짝을 이뤄요. 우라실은 DNA가 아닌 RNA에 들어 있는 염기예요."
+    }
+  ]
+}

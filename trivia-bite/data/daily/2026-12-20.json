@@ -1,0 +1,150 @@
+{
+  "version": 1,
+  "id": "daily-2026-12-20",
+  "date": "2026-12-20",
+  "questions": [
+    {
+      "id": "history-1db5af21",
+      "category": "history",
+      "difficulty": 1,
+      "question": "고대 이집트에서 왕을 부르던 이름은 무엇일까요?",
+      "choices": [
+        "카이사르",
+        "칸",
+        "파라오",
+        "술탄"
+      ],
+      "answerIndex": 2,
+      "explanation": "파라오는 고대 이집트의 왕을 가리키는 말이에요. 피라미드는 파라오의 무덤으로 지어졌어요.",
+      "funFact": "파라오는 원래 '큰 집'이라는 뜻으로 왕궁을 가리키던 말이었어요."
+    },
+    {
+      "id": "science-1a3c8dc5",
+      "category": "science",
+      "difficulty": 1,
+      "question": "1기압에서 물이 어는 온도는 몇 ℃일까요?",
+      "choices": [
+        "10℃",
+        "100℃",
+        "4℃",
+        "0℃"
+      ],
+      "answerIndex": 3,
+      "explanation": "1기압에서 물은 0℃에서 얼고 100℃에서 끓어요. 섭씨 눈금은 이 두 온도를 기준으로 정해졌어요."
+    },
+    {
+      "id": "korean-26bd1344",
+      "category": "korean",
+      "difficulty": 1,
+      "question": "속담 '가는 말이 고와야 오는 말이 ○○'의 빈칸에 들어갈 말은?",
+      "choices": [
+        "곱다",
+        "멀다",
+        "세다",
+        "빠르다"
+      ],
+      "answerIndex": 0,
+      "explanation": "내가 남에게 말을 곱게 해야 남도 내게 곱게 말한다는 뜻이에요. 말을 조심해서 하라는 교훈을 담고 있어요."
+    },
+    {
+      "id": "economy-4a7f06ca",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "소득 중 당장 쓰지 않고 아껴 모아 두는 것을 무엇이라 할까요?",
+      "choices": [
+        "소비",
+        "저축",
+        "대출",
+        "세금"
+      ],
+      "answerIndex": 1,
+      "explanation": "저축은 번 돈 가운데 쓰지 않고 남겨 두는 것을 말해요. 은행에 맡기거나 투자하는 것도 저축의 한 방법이에요."
+    },
+    {
+      "id": "life-4e8f6d28",
+      "category": "life",
+      "difficulty": 2,
+      "question": "코피가 날 때 올바른 자세는 무엇일까요?",
+      "choices": [
+        "고개 젖히고 누워 있기",
+        "휴지로 콧속 깊이 막기",
+        "코를 세게 풀어 내기",
+        "고개 숙이고 콧방울 누르기"
+      ],
+      "answerIndex": 3,
+      "explanation": "고개를 앞으로 숙이고 콧방울을 10분 정도 눌러 주세요. 고개를 젖히면 피가 목으로 넘어가 구역질이 날 수 있어요."
+    },
+    {
+      "id": "history-9ab510ef",
+      "category": "history",
+      "difficulty": 2,
+      "question": "1932년 상하이 훙커우 공원에 폭탄을 던진 독립운동가는?",
+      "choices": [
+        "김구",
+        "윤봉길",
+        "이봉창",
+        "나석주"
+      ],
+      "answerIndex": 1,
+      "explanation": "윤봉길 의사는 한인애국단 단원으로 일본군 경축 행사장에 폭탄을 던졌어요. 이 의거 이후 중국 정부가 한국 독립운동을 더 적극적으로 도왔어요."
+    },
+    {
+      "id": "science-86dca939",
+      "category": "science",
+      "difficulty": 2,
+      "question": "전기 저항의 단위는 무엇일까요?",
+      "choices": [
+        "볼트",
+        "와트",
+        "암페어",
+        "옴"
+      ],
+      "answerIndex": 3,
+      "explanation": "전기 저항의 단위는 옴(Ω)이에요. 독일 물리학자 옴의 이름에서 따왔고 전압은 전류와 저항의 곱이에요."
+    },
+    {
+      "id": "geography-1af327bc",
+      "category": "geography",
+      "difficulty": 3,
+      "question": "전남과 경남 경계를 흐르는 섬진강이 흘러드는 바다는?",
+      "choices": [
+        "동해",
+        "서해",
+        "남해",
+        "동중국해"
+      ],
+      "answerIndex": 2,
+      "explanation": "섬진강은 지리산 일대를 지나 광양만을 거쳐 남해로 흘러들어요. 서해로 가는 영산강과 헷갈리기 쉬워요.",
+      "funFact": "하구 근처에서 전남 광양과 경남 하동이 강을 사이에 두고 마주 보고 있어요."
+    },
+    {
+      "id": "culture-0b095031",
+      "category": "culture",
+      "difficulty": 3,
+      "question": "소설 『이방인』을 쓴 작가는 누구일까요?",
+      "choices": [
+        "장폴 사르트르",
+        "프란츠 카프카",
+        "알베르 카뮈",
+        "헤르만 헤세"
+      ],
+      "answerIndex": 2,
+      "explanation": "『이방인』은 1942년에 발표된 카뮈의 소설이에요. 카뮈는 1957년에 노벨 문학상을 받았어요."
+    },
+    {
+      "id": "history-d83bae49",
+      "category": "history",
+      "difficulty": 3,
+      "question": "395년 로마 제국을 두 아들에게 나눠 물려준 황제는?",
+      "choices": [
+        "테오도시우스 1세",
+        "하드리아누스",
+        "콘스탄티누스 1세",
+        "디오클레티아누스"
+      ],
+      "answerIndex": 0,
+      "explanation": "테오도시우스 1세가 죽은 뒤 로마는 서로마와 동로마로 갈라졌어요. 서로마는 476년에, 동로마는 1453년에 멸망했어요.",
+      "funFact": "테오도시우스 1세는 기독교를 로마의 국교로 삼은 황제로도 알려져 있어요."
+    }
+  ]
+}

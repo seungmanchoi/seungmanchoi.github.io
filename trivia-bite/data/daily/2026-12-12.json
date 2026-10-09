@@ -1,0 +1,149 @@
+{
+  "version": 1,
+  "id": "daily-2026-12-12",
+  "date": "2026-12-12",
+  "questions": [
+    {
+      "id": "history-056960dc",
+      "category": "history",
+      "difficulty": 1,
+      "question": "훈민정음을 창제한 조선의 왕은?",
+      "choices": [
+        "세조",
+        "태종",
+        "정조",
+        "세종대왕"
+      ],
+      "answerIndex": 3,
+      "explanation": "세종대왕은 1443년에 훈민정음을 만들고 1446년에 반포했어요. 백성이 쉽게 글을 익혀 쓰도록 하려는 뜻이었어요.",
+      "funFact": "훈민정음은 '백성을 가르치는 바른 소리'라는 뜻이에요."
+    },
+    {
+      "id": "science-5992bea7",
+      "category": "science",
+      "difficulty": 1,
+      "question": "식물이 광합성을 할 때 공기 중에서 흡수하는 기체는?",
+      "choices": [
+        "이산화탄소",
+        "산소",
+        "질소",
+        "수소"
+      ],
+      "answerIndex": 0,
+      "explanation": "식물은 잎의 기공으로 이산화탄소를 흡수해요. 이것과 물, 빛으로 양분을 만들고 산소를 내보내요."
+    },
+    {
+      "id": "korean-757131ce",
+      "category": "korean",
+      "difficulty": 1,
+      "question": "속담 '낮말은 새가 듣고 밤말은 쥐가 듣는다'의 교훈은?",
+      "choices": [
+        "말을 조심해야 한다",
+        "부지런히 일해야 한다",
+        "남의 일에 나서지 마라",
+        "친구를 많이 사귀어라"
+      ],
+      "answerIndex": 0,
+      "explanation": "아무도 없는 것 같아도 말은 어디선가 새어 나갈 수 있어요. 그래서 항상 말을 조심하라는 뜻이에요."
+    },
+    {
+      "id": "economy-2f2a80c7",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "물건을 만들어 팔아 이윤을 얻는 경제 주체는?",
+      "choices": [
+        "정부",
+        "가계",
+        "소비자",
+        "기업"
+      ],
+      "answerIndex": 3,
+      "explanation": "경제 주체 중 기업은 상품과 서비스를 생산해 판매하고 이윤을 얻어요. 가계는 소비하고 노동을 제공하는 주체예요."
+    },
+    {
+      "id": "history-a4a34482",
+      "category": "history",
+      "difficulty": 2,
+      "question": "1896년 서재필이 창간한 한글 민간 신문은?",
+      "choices": [
+        "대한매일신보",
+        "한성순보",
+        "독립신문",
+        "황성신문"
+      ],
+      "answerIndex": 2,
+      "explanation": "독립신문은 1896년 서재필이 만든 우리나라 최초의 민간 신문이에요. 한글판과 영문판을 함께 펴냈어요."
+    },
+    {
+      "id": "korean-4eeb4032",
+      "category": "korean",
+      "difficulty": 2,
+      "question": "'저녁을 먹고 ○○○를 했어요'의 빈칸에 알맞은 표기는?",
+      "choices": [
+        "설겆이",
+        "설것이",
+        "설거지",
+        "설거찌"
+      ],
+      "answerIndex": 2,
+      "explanation": "그릇을 씻는 일은 '설거지'가 표준어예요. '설겆이'는 옛 표기라서 지금은 쓰지 않아요."
+    },
+    {
+      "id": "economy-858a9523",
+      "category": "economy",
+      "difficulty": 2,
+      "question": "주식회사가 이익의 일부를 주주에게 나눠 주는 돈은?",
+      "choices": [
+        "퇴직금",
+        "배당금",
+        "월급",
+        "이자"
+      ],
+      "answerIndex": 1,
+      "explanation": "회사가 번 이익 가운데 일부를 주식을 가진 주주에게 지분에 따라 나눠 주는 돈을 배당금이라고 해요."
+    },
+    {
+      "id": "geography-8b68b31e",
+      "category": "geography",
+      "difficulty": 3,
+      "question": "빅토리아 폭포가 걸쳐 있는 두 나라는?",
+      "choices": [
+        "탄자니아와 케냐",
+        "잠비아와 짐바브웨",
+        "콩고와 우간다",
+        "나미비아와 앙골라"
+      ],
+      "answerIndex": 1,
+      "explanation": "빅토리아 폭포는 잠베지강에 있으며 잠비아와 짐바브웨의 국경에 걸쳐 있어요. 아프리카 남부를 대표하는 폭포예요.",
+      "funFact": "현지에서는 '천둥 치는 연기'라는 뜻의 이름으로 불러요."
+    },
+    {
+      "id": "life-4691b77f",
+      "category": "life",
+      "difficulty": 3,
+      "question": "돌 전 아기에게 꿀을 먹이면 안 되는 이유는?",
+      "choices": [
+        "당분이 너무 높아서",
+        "알코올이 들어 있어서",
+        "보툴리눔균 포자 때문",
+        "철분 흡수를 막아서"
+      ],
+      "answerIndex": 2,
+      "explanation": "꿀에는 보툴리눔균 포자가 들어 있을 수 있어요. 만 1세 미만 아기는 장이 미숙해 영아 보툴리누스증에 걸릴 위험이 있어요."
+    },
+    {
+      "id": "culture-1facc1f4",
+      "category": "culture",
+      "difficulty": 3,
+      "question": "『데카메론』을 쓴 이탈리아 작가는?",
+      "choices": [
+        "단테",
+        "보카치오",
+        "마키아벨리",
+        "페트라르카"
+      ],
+      "answerIndex": 1,
+      "explanation": "『데카메론』은 보카치오가 쓴 이야기 모음집이에요. 흑사병을 피해 교외로 간 열 사람이 백 편의 이야기를 나누는 구성이에요."
+    }
+  ]
+}

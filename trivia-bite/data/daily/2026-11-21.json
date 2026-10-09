@@ -1,0 +1,149 @@
+{
+  "version": 1,
+  "id": "daily-2026-11-21",
+  "date": "2026-11-21",
+  "questions": [
+    {
+      "id": "history-dbbd75dc",
+      "category": "history",
+      "difficulty": 1,
+      "question": "일본이 조선을 침략한 임진왜란이 시작된 해는?",
+      "choices": [
+        "1636년",
+        "1910년",
+        "1592년",
+        "1392년"
+      ],
+      "answerIndex": 2,
+      "explanation": "임진왜란은 임진년인 1592년에 일본군이 부산에 상륙하면서 시작됐어요. 이후 7년 동안 전쟁이 이어졌어요."
+    },
+    {
+      "id": "economy-cba753c1",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "경기가 나빠져 생산과 소비가 오래 위축된 상태는?",
+      "choices": [
+        "인플레이션",
+        "흑자",
+        "호황",
+        "불황"
+      ],
+      "answerIndex": 3,
+      "explanation": "불황은 물건이 잘 안 팔리고 생산과 고용이 줄어드는 나쁜 경기 상태예요. 반대로 경기가 좋은 상태는 호황이라고 해요."
+    },
+    {
+      "id": "life-36e6e3b2",
+      "category": "life",
+      "difficulty": 1,
+      "question": "우리 몸의 뼈와 이를 튼튼하게 하는 대표 무기질은?",
+      "choices": [
+        "나트륨",
+        "철",
+        "칼슘",
+        "요오드"
+      ],
+      "answerIndex": 2,
+      "explanation": "칼슘은 뼈와 치아를 이루는 중요한 무기질이에요. 우유, 멸치, 두부 같은 음식에 많이 들어 있어요."
+    },
+    {
+      "id": "culture-a2d40d6d",
+      "category": "culture",
+      "difficulty": 1,
+      "question": "'별이 빛나는 밤'을 그린 네덜란드 화가는?",
+      "choices": [
+        "폴 세잔",
+        "빈센트 반 고흐",
+        "에두아르 마네",
+        "클로드 모네"
+      ],
+      "answerIndex": 1,
+      "explanation": "'별이 빛나는 밤'은 네덜란드 출신 화가 빈센트 반 고흐의 대표작이에요. 소용돌이치는 하늘 표현이 특징이에요.",
+      "funFact": "이 그림은 고흐가 프랑스 생레미의 요양원에 머물며 그렸어요."
+    },
+    {
+      "id": "science-15ce2f89",
+      "category": "science",
+      "difficulty": 2,
+      "question": "다음 중 산성을 띠는 물질은?",
+      "choices": [
+        "석회수",
+        "식초",
+        "비눗물",
+        "암모니아수"
+      ],
+      "answerIndex": 1,
+      "explanation": "식초에는 아세트산이 들어 있어서 산성이에요. 비눗물, 석회수, 암모니아수는 염기성이에요."
+    },
+    {
+      "id": "korean-e01e9222",
+      "category": "korean",
+      "difficulty": 2,
+      "question": "사자성어 '오비이락'의 뜻으로 알맞은 것은?",
+      "choices": [
+        "우연한 일이 겹쳐 의심받음",
+        "끝까지 한 우물을 팜",
+        "작은 일이 큰일로 번짐",
+        "겉과 속이 서로 다름"
+      ],
+      "answerIndex": 0,
+      "explanation": "까마귀가 날아오르자 배가 떨어졌다는 말에서 나왔어요. 아무 관계 없는 일이 우연히 겹쳐 의심을 받게 되는 상황을 뜻해요."
+    },
+    {
+      "id": "history-42a908ce",
+      "category": "history",
+      "difficulty": 2,
+      "question": "1894년 전봉준이 고부에서 일으킨 농민 운동은?",
+      "choices": [
+        "홍경래의 난",
+        "동학 농민 운동",
+        "임오군란",
+        "갑신정변"
+      ],
+      "answerIndex": 1,
+      "explanation": "탐관오리의 수탈에 맞서 전봉준을 중심으로 일어난 농민 운동이에요. 이후 외세 배척과 폐정 개혁을 내세우며 전국으로 번졌어요."
+    },
+    {
+      "id": "geography-2be11f21",
+      "category": "geography",
+      "difficulty": 3,
+      "question": "대륙을 제외하고 세계에서 면적이 가장 큰 섬은?",
+      "choices": [
+        "뉴기니섬",
+        "마다가스카르",
+        "그린란드",
+        "보르네오섬"
+      ],
+      "answerIndex": 2,
+      "explanation": "그린란드는 대륙이 아닌 섬 중에서 가장 넓어요. 대부분이 얼음으로 덮여 있고 덴마크 왕국의 자치령이에요.",
+      "funFact": "세계지도에서는 도법 때문에 실제보다 훨씬 크게 보이기도 해요."
+    },
+    {
+      "id": "history-9ec93994",
+      "category": "history",
+      "difficulty": 3,
+      "question": "몽골에 맞선 삼별초가 마지막까지 항전한 곳은?",
+      "choices": [
+        "진도",
+        "강화도",
+        "거제도",
+        "제주도"
+      ],
+      "answerIndex": 3,
+      "explanation": "삼별초는 강화도에서 진도로, 다시 제주도로 근거지를 옮기며 싸웠어요. 1273년 제주도의 항파두리성에서 여몽 연합군에게 진압됐어요."
+    },
+    {
+      "id": "science-6384c29c",
+      "category": "science",
+      "difficulty": 3,
+      "question": "자외선을 흡수하는 오존층이 있는 대기층은?",
+      "choices": [
+        "성층권",
+        "중간권",
+        "대류권",
+        "열권"
+      ],
+      "answerIndex": 0,
+      "explanation": "오존층은 지상 약 20~30km의 성층권에 분포해요. 태양의 해로운 자외선을 흡수해 생물을 보호해 줘요."
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "version": 1,
+  "id": "daily-2026-11-18",
+  "date": "2026-11-18",
+  "questions": [
+    {
+      "id": "history-6f058cdd",
+      "category": "history",
+      "difficulty": 1,
+      "question": "1910년 대한제국이 일본에 국권을 빼앗긴 사건은?",
+      "choices": [
+        "임오군란",
+        "갑오개혁",
+        "갑신정변",
+        "경술국치"
+      ],
+      "answerIndex": 3,
+      "explanation": "1910년 8월 한일 병합 조약으로 대한제국은 국권을 잃었어요. 이 치욕스러운 사건을 간지를 따서 '경술국치'라고 불러요."
+    },
+    {
+      "id": "economy-c9edd8d7",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "개인이 번 소득에 매기는 세금은?",
+      "choices": [
+        "법인세",
+        "소득세",
+        "관세",
+        "재산세"
+      ],
+      "answerIndex": 1,
+      "explanation": "월급이나 사업 수입 같은 개인의 소득에 대해 내는 세금이에요. 보통 소득이 많을수록 더 높은 세율이 적용돼요."
+    },
+    {
+      "id": "life-5ab27c7b",
+      "category": "life",
+      "difficulty": 1,
+      "question": "짠 음식을 먹으면 얼굴이 붓는 주된 이유는?",
+      "choices": [
+        "나트륨이 수분을 붙잡아서",
+        "근육이 갑자기 커져서",
+        "지방이 물로 변해서",
+        "혈액이 줄어들어서"
+      ],
+      "answerIndex": 0,
+      "explanation": "소금의 나트륨이 몸에 많아지면 농도를 맞추려고 수분을 붙잡아 둬요. 그래서 짠 음식을 먹은 다음 날 얼굴이나 손발이 붓기 쉬워요."
+    },
+    {
+      "id": "culture-0dd3e18a",
+      "category": "culture",
+      "difficulty": 1,
+      "question": "축구에서 한 팀이 경기장에 내보내는 선수는 골키퍼 포함 몇 명?",
+      "choices": [
+        "9명",
+        "12명",
+        "10명",
+        "11명"
+      ],
+      "answerIndex": 3,
+      "explanation": "축구는 한 팀이 골키퍼를 포함해 11명으로 경기해요. 한 팀이 7명 미만이 되면 경기를 계속할 수 없어요."
+    },
+    {
+      "id": "science-7690971b",
+      "category": "science",
+      "difficulty": 2,
+      "question": "지구 대기에서 가장 많은 비중을 차지하는 기체는?",
+      "choices": [
+        "아르곤",
+        "이산화탄소",
+        "질소",
+        "산소"
+      ],
+      "answerIndex": 2,
+      "explanation": "지구 대기의 약 78%가 질소이고 산소는 약 21%예요. 많은 사람이 산소가 가장 많다고 착각해요.",
+      "funFact": "대기 중 세 번째로 많은 기체는 아르곤으로, 이산화탄소보다 훨씬 많아요."
+    },
+    {
+      "id": "geography-7d2f0679",
+      "category": "geography",
+      "difficulty": 2,
+      "question": "지중해와 홍해를 이어 주는 운하는?",
+      "choices": [
+        "코린토스 운하",
+        "수에즈 운하",
+        "파나마 운하",
+        "킬 운하"
+      ],
+      "answerIndex": 1,
+      "explanation": "1869년에 개통된 수에즈 운하는 이집트에 있어요. 배가 아프리카를 돌지 않고 유럽과 아시아를 오갈 수 있게 해 줘요.",
+      "funFact": "대서양과 태평양을 잇는 것은 파나마 운하예요."
+    },
+    {
+      "id": "history-3e939b2a",
+      "category": "history",
+      "difficulty": 2,
+      "question": "공물을 특산물 대신 쌀로 내게 한 조선 후기 제도는?",
+      "choices": [
+        "직전법",
+        "과전법",
+        "영정법",
+        "대동법"
+      ],
+      "answerIndex": 3,
+      "explanation": "집집마다 특산물을 내던 공납을 토지 면적 기준으로 쌀 등을 걷는 방식으로 바꾼 제도예요. 광해군 때 경기도에서 처음 시행했어요.",
+      "funFact": "전국으로 확대되기까지 약 100년이 걸렸어요."
+    },
+    {
+      "id": "korean-9f877df9",
+      "category": "korean",
+      "difficulty": 3,
+      "question": "순우리말 '윤슬'의 뜻으로 알맞은 것은?",
+      "choices": [
+        "소리 없이 내리는 눈",
+        "새벽에 끼는 옅은 안개",
+        "반짝이는 잔물결",
+        "저녁 하늘의 붉은 노을"
+      ],
+      "answerIndex": 2,
+      "explanation": "'윤슬'은 햇빛이나 달빛에 비쳐 반짝이는 잔물결을 뜻하는 순우리말이에요. 표준국어대사전에도 올라 있는 말이에요."
+    },
+    {
+      "id": "history-56c03525",
+      "category": "history",
+      "difficulty": 3,
+      "question": "1648년 유럽 30년 전쟁을 끝낸 조약은?",
+      "choices": [
+        "위트레흐트 조약",
+        "베르사유 조약",
+        "베스트팔렌 조약",
+        "틸지트 조약"
+      ],
+      "answerIndex": 2,
+      "explanation": "1648년 베스트팔렌 조약으로 신성 로마 제국을 무대로 한 종교·정치 전쟁인 30년 전쟁이 끝났어요. 이후 각국이 대등한 주권을 갖는 근대 국제 질서의 출발점으로 평가받아요."
+    },
+    {
+      "id": "science-d583770a",
+      "category": "science",
+      "difficulty": 3,
+      "question": "지구 내부에서 부피가 가장 큰 층은?",
+      "choices": [
+        "맨틀",
+        "지각",
+        "내핵",
+        "외핵"
+      ],
+      "answerIndex": 0,
+      "explanation": "맨틀은 지각 아래부터 깊이 약 2,900km까지 이어지며 지구 부피의 80% 넘게 차지해요. 지각은 매우 얇은 겉껍질이고 핵은 중심부에 있어요.",
+      "funFact": "지각은 사과 껍질처럼 지구 전체에 비하면 아주 얇아요."
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "id": "daily-2026-10-16",
+  "date": "2026-10-16",
+  "questions": [
+    {
+      "id": "history-f2815a3f",
+      "category": "history",
+      "difficulty": 1,
+      "question": "고구려를 세운 시조로 알려진 인물은?",
+      "choices": [
+        "박혁거세",
+        "주몽",
+        "온조",
+        "김수로"
+      ],
+      "answerIndex": 1,
+      "explanation": "주몽은 기원전 37년경 졸본에서 고구려를 세웠다고 전해져요. 훗날 동명성왕이라고도 불렸어요.",
+      "funFact": "온조는 주몽의 아들로 전해지는 백제의 시조예요."
+    },
+    {
+      "id": "science-e5d4f8dd",
+      "category": "science",
+      "difficulty": 1,
+      "question": "자석의 같은 극끼리 가까이 가져가면 어떻게 될까요?",
+      "choices": [
+        "서로 밀어내요",
+        "아무 일도 없어요",
+        "한쪽만 끌려가요",
+        "서로 끌어당겨요"
+      ],
+      "answerIndex": 0,
+      "explanation": "자석은 같은 극끼리 밀어내고 다른 극끼리 끌어당겨요. N극과 N극, S극과 S극이 만나면 밀어내는 힘이 생겨요.",
+      "funFact": "지구도 거대한 자석 같아서 나침반 바늘이 남북을 가리켜요."
+    },
+    {
+      "id": "geography-2c49d624",
+      "category": "geography",
+      "difficulty": 1,
+      "question": "일본의 수도는 어디일까요?",
+      "choices": [
+        "교토",
+        "도쿄",
+        "나고야",
+        "오사카"
+      ],
+      "answerIndex": 1,
+      "explanation": "일본의 수도는 도쿄예요. 오사카, 교토, 나고야는 모두 큰 도시지만 수도는 아니에요.",
+      "funFact": "교토는 약 천 년 동안 일본 왕이 머문 옛 도읍이었어요."
+    },
+    {
+      "id": "korean-697be258",
+      "category": "korean",
+      "difficulty": 1,
+      "question": "'오늘이 몇 월 ○○이지?'의 빈칸에 알맞은 표기는?",
+      "choices": [
+        "몇일",
+        "몇 칠",
+        "며칠",
+        "며츨"
+      ],
+      "answerIndex": 2,
+      "explanation": "'몇 월 며칠'처럼 날짜를 물을 때는 '며칠'이라고 적는 것이 표준 표기예요. '몇일'은 틀린 표기예요."
+    },
+    {
+      "id": "economy-4e2f1bc7",
+      "category": "economy",
+      "difficulty": 2,
+      "question": "무언가를 선택하며 포기한 것 중 가장 가치가 큰 것을 뜻하는 말은?",
+      "choices": [
+        "한계효용",
+        "고정자산",
+        "기회비용",
+        "매몰비용"
+      ],
+      "answerIndex": 2,
+      "explanation": "기회비용은 어떤 선택 때문에 포기한 여러 대안 중 가장 가치가 큰 것의 가치예요. 합리적으로 선택할 때 꼭 따져 봐야 해요."
+    },
+    {
+      "id": "life-1d70b929",
+      "category": "life",
+      "difficulty": 2,
+      "question": "소화기를 쓸 때 노즐을 겨눠야 하는 곳은?",
+      "choices": [
+        "불꽃 중간 높이",
+        "연기가 나는 천장",
+        "불꽃 맨 위쪽",
+        "불의 아랫부분"
+      ],
+      "answerIndex": 3,
+      "explanation": "소화기는 안전핀을 뽑고 바람을 등진 채 불의 아랫부분을 향해 쓸듯이 뿌려야 해요. 불꽃 윗부분에 뿌리면 약제가 타는 물질에 닿지 못해요."
+    },
+    {
+      "id": "history-3b825e3c",
+      "category": "history",
+      "difficulty": 2,
+      "question": "백제 무령왕릉이 있는 곳은 오늘날 어느 도시일까요?",
+      "choices": [
+        "부여",
+        "경주",
+        "익산",
+        "공주"
+      ],
+      "answerIndex": 3,
+      "explanation": "무령왕릉은 충남 공주에 있는 백제 무령왕과 왕비의 무덤이에요. 백제가 웅진, 지금의 공주에 도읍하던 시기의 왕릉이에요.",
+      "funFact": "1971년 배수로 공사 중 우연히 발견됐고, 무덤 주인을 알려 주는 지석이 나왔어요."
+    },
+    {
+      "id": "culture-80ebb121",
+      "category": "culture",
+      "difficulty": 3,
+      "question": "기사 이야기에 빠진 노인의 모험을 그린 「돈키호테」의 작가는?",
+      "choices": [
+        "보카치오",
+        "괴테",
+        "단테",
+        "세르반테스"
+      ],
+      "answerIndex": 3,
+      "explanation": "「돈키호테」는 스페인의 작가 미겔 데 세르반테스가 쓴 소설이에요. 기사 소설에 빠진 시골 귀족이 모험을 떠나는 이야기예요.",
+      "funFact": "흔히 근대 소설의 효시로 꼽히는 작품이에요."
+    },
+    {
+      "id": "korean-0da206e0",
+      "category": "korean",
+      "difficulty": 3,
+      "question": "고유어 '곰살궂다'의 뜻으로 알맞은 것은?",
+      "choices": [
+        "부드럽고 친절하다",
+        "겉과 속이 다르다",
+        "느리고 굼뜨다",
+        "몹시 사납고 거칠다"
+      ],
+      "answerIndex": 0,
+      "explanation": "'곰살궂다'는 성질이나 태도가 몹시 부드럽고 친절하다는 뜻이에요. '곰살궂게 대해 주다'처럼 써요."
+    },
+    {
+      "id": "history-de278454",
+      "category": "history",
+      "difficulty": 3,
+      "question": "삼별초가 마지막까지 항쟁하다 1273년 진압된 섬은?",
+      "choices": [
+        "거제도",
+        "강화도",
+        "제주도",
+        "진도"
+      ],
+      "answerIndex": 2,
+      "explanation": "삼별초는 강화도에서 진도로 옮겨 몽골과 고려 조정에 맞서다가 제주도로 근거지를 옮겼어요. 1273년 여몽 연합군에게 진압되며 항쟁이 끝났어요."
+    }
+  ]
+}

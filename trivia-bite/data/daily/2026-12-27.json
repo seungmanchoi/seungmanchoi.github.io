@@ -1,0 +1,149 @@
+{
+  "version": 1,
+  "id": "daily-2026-12-27",
+  "date": "2026-12-27",
+  "questions": [
+    {
+      "id": "science-90172895",
+      "category": "science",
+      "difficulty": 1,
+      "question": "물의 화학식은 무엇일까요?",
+      "choices": [
+        "O2",
+        "H2O",
+        "CO2",
+        "NaCl"
+      ],
+      "answerIndex": 1,
+      "explanation": "물 분자는 수소 원자 2개와 산소 원자 1개가 결합해 H2O로 나타내요. CO2는 이산화탄소, NaCl은 소금이에요."
+    },
+    {
+      "id": "geography-d21fa2f8",
+      "category": "geography",
+      "difficulty": 1,
+      "question": "울릉도가 자리한 한반도 동쪽 바다는?",
+      "choices": [
+        "동해",
+        "남해",
+        "동중국해",
+        "서해"
+      ],
+      "answerIndex": 0,
+      "explanation": "울릉도는 경북 앞바다 동해에 있는 화산섬이에요. 동해는 한반도 동쪽에 있는 바다예요."
+    },
+    {
+      "id": "korean-80528d99",
+      "category": "korean",
+      "difficulty": 1,
+      "question": "속담 '백지장도 맞들면 ○○'의 빈칸에 들어갈 말은?",
+      "choices": [
+        "구겨진다",
+        "무겁다",
+        "낫다",
+        "찢어진다"
+      ],
+      "answerIndex": 2,
+      "explanation": "'백지장도 맞들면 낫다'는 쉬운 일도 힘을 합치면 더 수월해진다는 뜻이에요. 협력의 중요성을 알려 주는 속담이에요."
+    },
+    {
+      "id": "economy-b7d5bdbd",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "기업이 물건이나 서비스를 팔아 벌어들인 총수입은?",
+      "choices": [
+        "적자",
+        "세금",
+        "매출",
+        "부채"
+      ],
+      "answerIndex": 2,
+      "explanation": "매출은 비용을 빼기 전에 판매로 들어온 돈 전체예요. 여기서 비용을 빼야 이익이 남아요."
+    },
+    {
+      "id": "history-fb59dbb1",
+      "category": "history",
+      "difficulty": 2,
+      "question": "광해군 때 경기도에서 처음 시행해 공물을 쌀로 걷게 한 제도는?",
+      "choices": [
+        "과전법",
+        "영정법",
+        "호포제",
+        "대동법"
+      ],
+      "answerIndex": 3,
+      "explanation": "대동법은 집집마다 특산물로 내던 공납을 토지 크기에 따라 쌀로 내게 한 제도예요. 1608년 경기도에서 시작해 점차 전국으로 넓어졌어요.",
+      "funFact": "대동법이 전국으로 확대되기까지 약 100년이 걸렸어요."
+    },
+    {
+      "id": "life-828717d9",
+      "category": "life",
+      "difficulty": 2,
+      "question": "바다에서 사고가 났을 때 해양경찰에 신고하는 번호는?",
+      "choices": [
+        "122",
+        "120",
+        "129",
+        "114"
+      ],
+      "answerIndex": 0,
+      "explanation": "바다에서 사고가 나면 해양긴급신고번호 122로 연락해요. 해양경찰이 바로 대응할 수 있어요."
+    },
+    {
+      "id": "culture-518e88d1",
+      "category": "culture",
+      "difficulty": 2,
+      "question": "시집 『님의 침묵』을 쓴 시인이자 승려는?",
+      "choices": [
+        "정지용",
+        "한용운",
+        "이상화",
+        "김소월"
+      ],
+      "answerIndex": 1,
+      "explanation": "『님의 침묵』은 1926년에 펴낸 한용운의 대표 시집이에요. 한용운은 승려이자 독립운동가로도 활동했어요.",
+      "funFact": "한용운은 3·1 운동 때 민족대표 33인 중 한 사람이었어요."
+    },
+    {
+      "id": "history-957643e6",
+      "category": "history",
+      "difficulty": 3,
+      "question": "병자호란 때 인조가 청 태종 앞에서 항복 의식을 치른 곳은?",
+      "choices": [
+        "탄금대",
+        "강화도",
+        "삼전도",
+        "남한산성"
+      ],
+      "answerIndex": 2,
+      "explanation": "인조는 남한산성에서 버티다 1637년 1월 삼전도에서 청 태종에게 항복 의식을 치렀어요. 남한산성은 항복 전에 머물던 곳이에요."
+    },
+    {
+      "id": "science-0b6dd89b",
+      "category": "science",
+      "difficulty": 3,
+      "question": "사람의 체세포에 들어 있는 염색체는 모두 몇 개일까요?",
+      "choices": [
+        "44개",
+        "48개",
+        "23개",
+        "46개"
+      ],
+      "answerIndex": 3,
+      "explanation": "사람의 체세포에는 염색체가 23쌍, 모두 46개 들어 있어요. 생식세포는 절반인 23개만 가져요."
+    },
+    {
+      "id": "geography-65567b23",
+      "category": "geography",
+      "difficulty": 3,
+      "question": "튀르키예(터키)의 수도는 어디일까요?",
+      "choices": [
+        "부르사",
+        "앙카라",
+        "이즈미르",
+        "이스탄불"
+      ],
+      "answerIndex": 1,
+      "explanation": "튀르키예의 수도는 내륙에 있는 앙카라예요. 가장 큰 도시인 이스탄불과 헷갈리기 쉬워요."
+    }
+  ]
+}

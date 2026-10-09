@@ -1,0 +1,153 @@
+{
+  "version": 1,
+  "id": "daily-2026-10-19",
+  "date": "2026-10-19",
+  "questions": [
+    {
+      "id": "history-819bf101",
+      "category": "history",
+      "difficulty": 1,
+      "question": "1909년 안중근 의사가 하얼빈역에서 처단한 인물은?",
+      "choices": [
+        "가쓰라 다로",
+        "야마가타 아리토모",
+        "데라우치 마사타케",
+        "이토 히로부미"
+      ],
+      "answerIndex": 3,
+      "explanation": "안중근 의사는 1909년 10월 하얼빈역에서 초대 조선 통감을 지낸 이토 히로부미를 저격했어요. 한국 침략의 핵심 인물을 겨눈 의거였어요."
+    },
+    {
+      "id": "science-3e3fdabc",
+      "category": "science",
+      "difficulty": 1,
+      "question": "사람 몸에서 혈액 속 노폐물을 걸러 오줌을 만드는 기관은?",
+      "choices": [
+        "콩팥",
+        "간",
+        "방광",
+        "허파"
+      ],
+      "answerIndex": 0,
+      "explanation": "콩팥(신장)은 혈액 속 노폐물을 걸러 오줌을 만들어요. 만들어진 오줌은 방광에 잠시 모였다가 몸 밖으로 나가요.",
+      "funFact": "콩팥은 보통 좌우 한 쌍이지만 하나만 있어도 생활이 가능해요."
+    },
+    {
+      "id": "geography-c2043f02",
+      "category": "geography",
+      "difficulty": 1,
+      "question": "이탈리아의 수도는 어디일까요?",
+      "choices": [
+        "로마",
+        "베네치아",
+        "나폴리",
+        "밀라노"
+      ],
+      "answerIndex": 0,
+      "explanation": "이탈리아의 수도는 로마예요. 밀라노는 경제·패션의 중심지이고, 베네치아는 물의 도시로 유명해요.",
+      "funFact": "로마 안에는 바티칸 시국이라는 독립 국가가 들어 있어요."
+    },
+    {
+      "id": "korean-7a4e508a",
+      "category": "korean",
+      "difficulty": 1,
+      "question": "속담 '등잔 밑이 어둡다'의 뜻으로 알맞은 것은?",
+      "choices": [
+        "남의 일에 참견을 잘함",
+        "가까운 것을 오히려 모름",
+        "집안이 가난해 불이 없음",
+        "밤에는 일을 하기 어려움"
+      ],
+      "answerIndex": 1,
+      "explanation": "등잔 바로 밑은 불빛이 가려져 오히려 어두워요. 그래서 가까이 있는 것을 오히려 잘 알아채지 못한다는 뜻으로 써요."
+    },
+    {
+      "id": "economy-22fc9019",
+      "category": "economy",
+      "difficulty": 2,
+      "question": "한 나라의 수출액이 수입액보다 많은 상태를 뜻하는 말은?",
+      "choices": [
+        "무역 흑자",
+        "관세 인상",
+        "무역 적자",
+        "재정 적자"
+      ],
+      "answerIndex": 0,
+      "explanation": "수출액이 수입액보다 크면 무역 흑자라고 해요. 반대로 수입액이 수출액보다 크면 무역 적자라고 해요."
+    },
+    {
+      "id": "history-87847f20",
+      "category": "history",
+      "difficulty": 2,
+      "question": "임진왜란 때 행주산성에서 일본군을 크게 물리친 장군은?",
+      "choices": [
+        "김시민",
+        "정발",
+        "권율",
+        "곽재우"
+      ],
+      "answerIndex": 2,
+      "explanation": "권율 장군은 1593년 행주산성에서 일본군을 크게 물리쳤어요. 김시민은 진주성 전투를 이끈 장군이라 헷갈리기 쉬워요.",
+      "funFact": "행주대첩은 한산도대첩, 진주대첩과 함께 임진왜란 3대 대첩으로 꼽혀요."
+    },
+    {
+      "id": "science-c7afcd68",
+      "category": "science",
+      "difficulty": 2,
+      "question": "달이 태양을 가리는 천문 현상은 무엇일까요?",
+      "choices": [
+        "오로라",
+        "월식",
+        "조석",
+        "일식"
+      ],
+      "answerIndex": 3,
+      "explanation": "태양, 달, 지구가 이 순서로 일직선에 놓이면 달이 태양을 가려요. 이것이 일식이고, 지구의 그림자가 달을 가리면 월식이에요."
+    },
+    {
+      "id": "life-7b629810",
+      "category": "life",
+      "difficulty": 3,
+      "question": "껍질째 달걀을 전자레인지에 돌리면 터지는 이유는?",
+      "choices": [
+        "노른자가 불에 타서",
+        "껍질이 전자파에 녹아서",
+        "내부 수증기 압력 상승",
+        "흰자가 얼어 팽창해서"
+      ],
+      "answerIndex": 2,
+      "explanation": "전자레인지는 달걀 속 수분을 빠르게 데워요. 껍질이 막고 있어 수증기가 빠져나가지 못하고 압력이 커져 터져요.",
+      "funFact": "삶은 달걀도 껍질째 다시 데우면 터질 수 있어요."
+    },
+    {
+      "id": "culture-583a59e5",
+      "category": "culture",
+      "difficulty": 3,
+      "question": "주인공이 어느 날 거대한 벌레로 변하는 소설 『변신』의 작가는?",
+      "choices": [
+        "토마스 만",
+        "프란츠 카프카",
+        "헤르만 헤세",
+        "알베르 카뮈"
+      ],
+      "answerIndex": 1,
+      "explanation": "『변신』은 프라하 출신 작가 프란츠 카프카가 1915년에 발표한 소설이에요. 어느 날 아침 벌레로 변해 버린 주인공의 이야기예요.",
+      "funFact": "카프카의 영향이 워낙 커서 '카프카적(Kafkaesque)'이라는 말이 생겼어요."
+    },
+    {
+      "id": "science-c7ae2d90",
+      "category": "science",
+      "difficulty": 3,
+      "question": "원소 기호 'K'가 나타내는 원소는?",
+      "choices": [
+        "칼슘",
+        "칼륨",
+        "코발트",
+        "크립톤"
+      ],
+      "answerIndex": 1,
+      "explanation": "K는 칼륨의 원소 기호예요. 칼슘은 Ca, 코발트는 Co, 크립톤은 Kr로 써서 헷갈리기 쉬워요.",
+      "funFact": "K는 칼륨의 라틴어식 이름 '칼리움(Kalium)'에서 왔어요."
+    }
+  ]
+}

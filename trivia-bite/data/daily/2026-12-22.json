@@ -1,0 +1,150 @@
+{
+  "version": 1,
+  "id": "daily-2026-12-22",
+  "date": "2026-12-22",
+  "questions": [
+    {
+      "id": "history-aa71cb61",
+      "category": "history",
+      "difficulty": 1,
+      "question": "팔만대장경판을 보관하고 있는 합천의 사찰은?",
+      "choices": [
+        "송광사",
+        "불국사",
+        "해인사",
+        "통도사"
+      ],
+      "answerIndex": 2,
+      "explanation": "팔만대장경판은 경남 합천 해인사의 장경판전에 보관돼 있어요. 장경판전은 통풍과 습도 조절이 잘되도록 지어졌어요.",
+      "funFact": "해인사 장경판전은 유네스코 세계유산에 올라 있어요."
+    },
+    {
+      "id": "economy-be59c8e4",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "물건 값이 전반적으로 계속 내리는 현상은?",
+      "choices": [
+        "인플레이션",
+        "디플레이션",
+        "스태그플레이션",
+        "리디노미네이션"
+      ],
+      "answerIndex": 1,
+      "explanation": "물가가 전반적으로 계속 떨어지는 현상을 디플레이션이라고 해요. 돈의 가치는 오르고 물건 값은 내려가요."
+    },
+    {
+      "id": "life-7accec7e",
+      "category": "life",
+      "difficulty": 1,
+      "question": "집에 불이 났을 때 소방서에 신고하는 전화번호는?",
+      "choices": [
+        "114",
+        "112",
+        "120",
+        "119"
+      ],
+      "answerIndex": 3,
+      "explanation": "화재와 응급 상황은 119로 신고해요. 불이 나면 먼저 대피하고 안전한 곳에서 신고하는 게 좋아요."
+    },
+    {
+      "id": "culture-ca808bb6",
+      "category": "culture",
+      "difficulty": 1,
+      "question": "축구 경기에서 한 팀이 경기장에 내보내는 선수는 골키퍼 포함 몇 명?",
+      "choices": [
+        "9명",
+        "10명",
+        "11명",
+        "12명"
+      ],
+      "answerIndex": 2,
+      "explanation": "축구는 골키퍼를 포함해 한 팀 11명이 경기장에서 뛰어요. 정식 경기는 전후반 90분 동안 진행돼요."
+    },
+    {
+      "id": "science-b6bf5fbd",
+      "category": "science",
+      "difficulty": 2,
+      "question": "번개가 번쩍인 뒤 천둥소리가 늦게 들리는 까닭은?",
+      "choices": [
+        "소리가 빛보다 빨라서",
+        "빛이 소리보다 빨라서",
+        "천둥이 나중에 생겨서",
+        "번개가 구름에 가려져서"
+      ],
+      "answerIndex": 1,
+      "explanation": "빛은 거의 순간에 도착하지만 소리는 초속 약 340m로 훨씬 느려요. 그래서 번개가 보인 뒤 천둥이 늦게 들려요.",
+      "funFact": "번개를 본 뒤 천둥까지 걸린 초에 340을 곱하면 번개까지의 대략적인 거리(m)를 알 수 있어요."
+    },
+    {
+      "id": "geography-ad433daa",
+      "category": "geography",
+      "difficulty": 2,
+      "question": "수에즈 운하가 이어 주는 두 바다는?",
+      "choices": [
+        "북해와 발트해",
+        "대서양과 태평양",
+        "지중해와 홍해",
+        "흑해와 카스피해"
+      ],
+      "answerIndex": 2,
+      "explanation": "수에즈 운하는 이집트에 있고 지중해와 홍해를 이어요. 덕분에 유럽과 아시아를 오갈 때 아프리카를 돌지 않아도 돼요.",
+      "funFact": "수에즈 운하는 1869년에 개통됐어요."
+    },
+    {
+      "id": "economy-b05182d7",
+      "category": "economy",
+      "difficulty": 2,
+      "question": "우리나라의 중앙은행으로 화폐를 발행하는 기관은?",
+      "choices": [
+        "한국은행",
+        "산업은행",
+        "국민은행",
+        "수출입은행"
+      ],
+      "answerIndex": 0,
+      "explanation": "한국은행은 우리나라의 중앙은행으로 화폐를 발행하고 통화 정책을 맡아요. 일반 시중은행과는 하는 일이 달라요."
+    },
+    {
+      "id": "history-f4c943e4",
+      "category": "history",
+      "difficulty": 3,
+      "question": "임진왜란 중 명량 대첩이 일어난 해는?",
+      "choices": [
+        "1597년",
+        "1594년",
+        "1592년",
+        "1598년"
+      ],
+      "answerIndex": 0,
+      "explanation": "명량 대첩은 정유재란이 한창이던 1597년에 벌어졌어요. 이순신이 울돌목의 거센 물살을 이용해 크게 이겼어요."
+    },
+    {
+      "id": "science-2846a2d0",
+      "category": "science",
+      "difficulty": 3,
+      "question": "콩팥에서 소변을 만드는 구조적·기능적 기본 단위는?",
+      "choices": [
+        "뉴런",
+        "폐포",
+        "간소엽",
+        "네프론"
+      ],
+      "answerIndex": 3,
+      "explanation": "네프론은 콩팥 한 개에 약 100만 개씩 들어 있고, 혈액을 걸러 소변을 만들어요. 사구체와 세뇨관 등으로 이루어져요."
+    },
+    {
+      "id": "geography-9644e5da",
+      "category": "geography",
+      "difficulty": 3,
+      "question": "다음 중 내륙국 가운데 면적이 가장 넓은 나라는?",
+      "choices": [
+        "에티오피아",
+        "카자흐스탄",
+        "몽골",
+        "차드"
+      ],
+      "answerIndex": 1,
+      "explanation": "카자흐스탄은 중앙아시아에 있는 내륙국이고, 내륙국 중 면적이 가장 넓어요. 면적은 약 270만㎢예요."
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "id": "daily-2026-12-07",
+  "date": "2026-12-07",
+  "questions": [
+    {
+      "id": "science-148e06dd",
+      "category": "science",
+      "difficulty": 1,
+      "question": "태양계 행성 중 태양에 가장 가까운 행성은?",
+      "choices": [
+        "화성",
+        "지구",
+        "금성",
+        "수성"
+      ],
+      "answerIndex": 3,
+      "explanation": "수성은 태양에서 가장 가까운 행성이에요. 크기는 태양계 행성 중 가장 작아요.",
+      "funFact": "수성이 태양과 가장 가깝지만, 가장 뜨거운 행성은 두꺼운 대기를 가진 금성이에요."
+    },
+    {
+      "id": "korean-ec4c9746",
+      "category": "korean",
+      "difficulty": 1,
+      "question": "'저녁에 김치○○를 끓였어요'의 빈칸에 알맞은 표기는?",
+      "choices": [
+        "찌께",
+        "찌개",
+        "찌계",
+        "찌게"
+      ],
+      "answerIndex": 1,
+      "explanation": "'찌개'가 올바른 표기예요. 발음이 비슷해서 '찌게'로 잘못 쓰는 경우가 많아요."
+    },
+    {
+      "id": "economy-fc9f958f",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "경제 활동 중 물건이나 서비스를 사서 쓰는 일은?",
+      "choices": [
+        "소비",
+        "생산",
+        "투자",
+        "분배"
+      ],
+      "answerIndex": 0,
+      "explanation": "소비는 필요한 재화나 서비스를 사서 쓰는 활동이에요. 물건을 만들어 내는 일은 생산, 나누는 일은 분배라고 해요."
+    },
+    {
+      "id": "life-de1cbacc",
+      "category": "life",
+      "difficulty": 1,
+      "question": "자동차를 탈 때 사고 피해를 줄이기 위해 몸에 매는 것은?",
+      "choices": [
+        "헤드레스트",
+        "핸드브레이크",
+        "에어백",
+        "안전벨트"
+      ],
+      "answerIndex": 3,
+      "explanation": "안전벨트는 충돌할 때 몸이 앞으로 튕겨 나가는 것을 막아 줘요. 뒷좌석을 포함해 모든 좌석에서 매는 것이 안전해요."
+    },
+    {
+      "id": "history-76da7b67",
+      "category": "history",
+      "difficulty": 2,
+      "question": "1884년 김옥균 등 개화파가 일으킨 정변은?",
+      "choices": [
+        "을미사변",
+        "갑오개혁",
+        "갑신정변",
+        "임오군란"
+      ],
+      "answerIndex": 2,
+      "explanation": "갑신정변은 김옥균, 박영효 등 급진 개화파가 우정총국 개국 축하연을 계기로 일으켰어요. 청나라 군대의 개입으로 곧 실패했어요.",
+      "funFact": "정권을 잡은 기간이 짧아 '삼일천하'라고도 불려요."
+    },
+    {
+      "id": "science-6c4c3dc5",
+      "category": "science",
+      "difficulty": 2,
+      "question": "다음 중 포유류가 아닌 동물은?",
+      "choices": [
+        "돌고래",
+        "박쥐",
+        "고래상어",
+        "오리너구리"
+      ],
+      "answerIndex": 2,
+      "explanation": "고래상어는 이름과 달리 아가미로 숨 쉬는 어류, 즉 상어의 한 종류예요. 돌고래, 박쥐, 오리너구리는 모두 젖을 먹여 새끼를 키우는 포유류예요.",
+      "funFact": "알을 낳는 포유류는 오리너구리와 가시두더지류뿐이에요."
+    },
+    {
+      "id": "korean-f814e6c5",
+      "category": "korean",
+      "difficulty": 2,
+      "question": "사자성어 '타산지석'의 뜻으로 알맞은 것은?",
+      "choices": [
+        "남의 실수도 본보기가 됨",
+        "처음과 끝이 같음",
+        "작은 이득에 큰 손해",
+        "힘을 합쳐 큰일을 이룸"
+      ],
+      "answerIndex": 0,
+      "explanation": "다른 산의 거친 돌도 옥을 가는 데 쓸 수 있다는 말이에요. 남의 하찮은 말이나 행동도 나를 닦는 데 도움이 된다는 뜻이에요."
+    },
+    {
+      "id": "culture-d3fbc739",
+      "category": "culture",
+      "difficulty": 3,
+      "question": "『로미오와 줄리엣』의 주된 배경이 되는 이탈리아 도시는?",
+      "choices": [
+        "나폴리",
+        "피렌체",
+        "베로나",
+        "베네치아"
+      ],
+      "answerIndex": 2,
+      "explanation": "셰익스피어의 이 비극은 이탈리아 북부 도시 베로나에서 앙숙인 두 가문의 연인 이야기를 그려요. 베네치아는 『베니스의 상인』의 배경이에요.",
+      "funFact": "베로나에는 '줄리엣의 집'이라 불리는 관광 명소가 있어요."
+    },
+    {
+      "id": "korean-cfa9a683",
+      "category": "korean",
+      "difficulty": 3,
+      "question": "밤·도토리가 익어 저절로 떨어질 정도가 된 상태는?",
+      "choices": [
+        "미르",
+        "아람",
+        "가람",
+        "아름"
+      ],
+      "answerIndex": 1,
+      "explanation": "'아람'은 밤이나 상수리 같은 열매가 충분히 익어 저절로 떨어질 정도가 된 상태를 뜻하는 순우리말이에요. '아름'은 두 팔로 껴안은 둘레, '가람'은 강을 뜻해요."
+    },
+    {
+      "id": "science-6107d13a",
+      "category": "science",
+      "difficulty": 3,
+      "question": "심장에서 폐로 혈액을 내보내는 혈관은?",
+      "choices": [
+        "대동맥",
+        "폐동맥",
+        "폐정맥",
+        "대정맥"
+      ],
+      "answerIndex": 1,
+      "explanation": "동맥은 심장에서 나가는 혈관이고, 정맥은 심장으로 들어오는 혈관이에요. 그래서 심장에서 폐로 나가는 혈관이 폐동맥이에요.",
+      "funFact": "폐동맥에는 산소가 적은 피가, 폐정맥에는 산소가 많은 피가 흘러서 보통의 동맥·정맥과 반대예요."
+    }
+  ]
+}

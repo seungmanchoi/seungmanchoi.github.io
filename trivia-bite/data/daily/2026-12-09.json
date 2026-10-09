@@ -1,0 +1,154 @@
+{
+  "version": 1,
+  "id": "daily-2026-12-09",
+  "date": "2026-12-09",
+  "questions": [
+    {
+      "id": "history-70e8cad0",
+      "category": "history",
+      "difficulty": 1,
+      "question": "조선이 한양에 도읍을 정하고 가장 먼저 지은 궁궐은?",
+      "choices": [
+        "덕수궁",
+        "경복궁",
+        "창경궁",
+        "창덕궁"
+      ],
+      "answerIndex": 1,
+      "explanation": "경복궁은 1395년 태조 때 완성된 조선의 법궁이에요. 창덕궁은 1405년 태종 때 이궁으로 지었어요.",
+      "funFact": "경복궁이라는 이름은 정도전이 '큰 복을 누리라'는 뜻으로 지었어요."
+    },
+    {
+      "id": "science-15cd3791",
+      "category": "science",
+      "difficulty": 1,
+      "question": "원소 가운데 가장 가볍고 우주에 가장 많은 것은?",
+      "choices": [
+        "수소",
+        "산소",
+        "헬륨",
+        "탄소"
+      ],
+      "answerIndex": 0,
+      "explanation": "수소는 원자번호 1번으로 가장 가벼운 원소예요. 우주 질량의 대부분을 차지해요.",
+      "funFact": "태양은 수소가 헬륨으로 융합하면서 빛과 열을 내요."
+    },
+    {
+      "id": "geography-acfb3a00",
+      "category": "geography",
+      "difficulty": 1,
+      "question": "이탈리아 로마 안에 있는, 세계에서 가장 작은 나라는?",
+      "choices": [
+        "산마리노",
+        "모나코",
+        "바티칸 시국",
+        "리히텐슈타인"
+      ],
+      "answerIndex": 2,
+      "explanation": "바티칸 시국은 로마 시내에 둘러싸인 독립국이에요. 면적이 약 0.44㎢로 세계에서 가장 작아요."
+    },
+    {
+      "id": "economy-835dec62",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "외국에서 들여오는 물건에 부과하는 세금은?",
+      "choices": [
+        "법인세",
+        "관세",
+        "상속세",
+        "재산세"
+      ],
+      "answerIndex": 1,
+      "explanation": "관세는 수입품이 국경을 넘을 때 내는 세금이에요. 국내 산업을 보호하거나 나라 수입을 늘리려고 매겨요."
+    },
+    {
+      "id": "korean-b147d854",
+      "category": "korean",
+      "difficulty": 2,
+      "question": "순우리말 '마파람'은 어느 쪽에서 부는 바람일까요?",
+      "choices": [
+        "북쪽",
+        "서쪽",
+        "남쪽",
+        "동쪽"
+      ],
+      "answerIndex": 2,
+      "explanation": "마파람은 남쪽에서 부는 바람이에요. 동쪽은 샛바람, 서쪽은 하늬바람, 북쪽은 된바람이라고 해요.",
+      "funFact": "'마파람에 게 눈 감추듯'은 음식을 아주 빨리 먹어 치운다는 뜻이에요."
+    },
+    {
+      "id": "life-cf63c021",
+      "category": "life",
+      "difficulty": 2,
+      "question": "흙 묻은 못에 깊게 찔렸을 때 걸릴 수 있는 위험한 감염병은?",
+      "choices": [
+        "파상풍",
+        "결핵",
+        "독감",
+        "홍역"
+      ],
+      "answerIndex": 0,
+      "explanation": "파상풍균은 흙 속에 살다가 깊은 상처로 들어가 독소를 내요. 상처를 깨끗이 씻고 예방접종을 챙기는 게 중요해요.",
+      "funFact": "파상풍은 사람에서 사람으로 옮지 않는 감염병이에요."
+    },
+    {
+      "id": "history-5e20dfc0",
+      "category": "history",
+      "difficulty": 2,
+      "question": "세종 때 만든 솥 모양의 해시계 이름은?",
+      "choices": [
+        "혼천의",
+        "자격루",
+        "측우기",
+        "앙부일구"
+      ],
+      "answerIndex": 3,
+      "explanation": "앙부일구는 오목한 솥 모양 면에 시각선을 그은 해시계예요. '하늘을 우러러보는 가마솥'이라는 뜻이고, 자격루는 물시계예요."
+    },
+    {
+      "id": "culture-e15d9229",
+      "category": "culture",
+      "difficulty": 3,
+      "question": "'인상, 해돋이'를 그려 인상주의 이름의 유래가 된 화가는?",
+      "choices": [
+        "르누아르",
+        "드가",
+        "마네",
+        "모네"
+      ],
+      "answerIndex": 3,
+      "explanation": "1874년 전시에 나온 모네의 '인상, 해돋이'를 보고 한 비평가가 비꼬며 '인상주의'라 부른 게 이름이 됐어요. 마네와 헷갈리기 쉬워요.",
+      "funFact": "조롱 섞인 별명이 그대로 미술 사조의 이름이 됐어요."
+    },
+    {
+      "id": "history-a8c6e666",
+      "category": "history",
+      "difficulty": 3,
+      "question": "『직지심체요절』을 금속활자로 찍어 낸 청주의 사찰은?",
+      "choices": [
+        "통도사",
+        "흥덕사",
+        "불국사",
+        "해인사"
+      ],
+      "answerIndex": 1,
+      "explanation": "직지는 1377년 청주 흥덕사에서 금속활자로 찍었어요. 현존하는 가장 오래된 금속활자본으로 유네스코 세계기록유산이에요.",
+      "funFact": "지금은 하권만 프랑스 국립도서관에 보관돼 있어요."
+    },
+    {
+      "id": "science-32c54357",
+      "category": "science",
+      "difficulty": 3,
+      "question": "이론상 가장 낮은 온도인 절대영도는 약 몇 ℃일까요?",
+      "choices": [
+        "약 -273℃",
+        "약 -373℃",
+        "약 -459℃",
+        "약 -100℃"
+      ],
+      "answerIndex": 0,
+      "explanation": "절대영도는 0K로 섭씨로는 약 -273.15℃예요. 입자의 열운동이 최소가 되는 온도라서 이보다 낮출 수 없어요.",
+      "funFact": "화씨로는 약 -459도예요."
+    }
+  ]
+}

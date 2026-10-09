@@ -1,0 +1,153 @@
+{
+  "version": 1,
+  "id": "daily-2026-11-17",
+  "date": "2026-11-17",
+  "questions": [
+    {
+      "id": "history-f151d218",
+      "category": "history",
+      "difficulty": 1,
+      "question": "고대 로마에서 검투사 경기가 열린 원형 경기장은?",
+      "choices": [
+        "아크로폴리스",
+        "파르테논 신전",
+        "콜로세움",
+        "판테온"
+      ],
+      "answerIndex": 2,
+      "explanation": "콜로세움은 로마 시내에 있는 거대한 원형 경기장이에요. 검투사 경기와 맹수 사냥 같은 구경거리가 열렸어요.",
+      "funFact": "수만 명의 관중이 들어갈 수 있는 규모였다고 알려져 있어요."
+    },
+    {
+      "id": "science-9ce4f0b4",
+      "category": "science",
+      "difficulty": 1,
+      "question": "식물이 햇빛을 받아 스스로 양분을 만드는 작용은?",
+      "choices": [
+        "호흡",
+        "증산 작용",
+        "광합성",
+        "발효"
+      ],
+      "answerIndex": 2,
+      "explanation": "식물은 잎의 엽록체에서 빛에너지로 물과 이산화탄소를 포도당으로 바꿔요. 이 과정에서 산소도 함께 만들어져요.",
+      "funFact": "우리가 숨 쉬는 산소의 상당 부분이 광합성 덕분에 만들어져요."
+    },
+    {
+      "id": "economy-357f654a",
+      "category": "economy",
+      "difficulty": 1,
+      "question": "소득 가운데 쓰지 않고 남겨 두는 돈을 뜻하는 말은?",
+      "choices": [
+        "저축",
+        "조세",
+        "소비",
+        "대출"
+      ],
+      "answerIndex": 0,
+      "explanation": "저축은 번 돈 중에서 당장 쓰지 않고 모아 두는 것이에요. 반대로 돈을 쓰는 것은 소비라고 해요."
+    },
+    {
+      "id": "life-ec6116ce",
+      "category": "life",
+      "difficulty": 1,
+      "question": "연탄이나 가스보일러를 쓸 때 일산화탄소 중독을 막는 방법은?",
+      "choices": [
+        "문틈을 막고 자기",
+        "수시로 환기하기",
+        "선풍기만 틀어 두기",
+        "창문을 모두 닫기"
+      ],
+      "answerIndex": 1,
+      "explanation": "일산화탄소는 연료가 불완전 연소할 때 생기는 유독 기체예요. 자주 환기하고 일산화탄소 경보기를 두면 안전해요.",
+      "funFact": "일산화탄소는 색과 냄새가 없어서 알아차리기 어려워요."
+    },
+    {
+      "id": "geography-4116d8bd",
+      "category": "geography",
+      "difficulty": 2,
+      "question": "유럽과 아시아의 경계로 꼽는, 러시아를 남북으로 가르는 산맥은?",
+      "choices": [
+        "알프스산맥",
+        "로키산맥",
+        "안데스산맥",
+        "우랄산맥"
+      ],
+      "answerIndex": 3,
+      "explanation": "우랄산맥은 러시아 서부를 남북으로 길게 뻗은 산맥이에요. 흔히 유럽과 아시아의 경계로 삼아요."
+    },
+    {
+      "id": "korean-04bf299f",
+      "category": "korean",
+      "difficulty": 2,
+      "question": "'○○○ 친구를 만났어요'의 빈칸에 알맞은 표기는?",
+      "choices": [
+        "오랜만에",
+        "오랬만에",
+        "오랫만에",
+        "오래만에"
+      ],
+      "answerIndex": 0,
+      "explanation": "'오래간만'이 줄어든 말이 '오랜만'이라서 '오랜만에'가 맞아요. '오랫만에'는 틀린 표기예요."
+    },
+    {
+      "id": "history-58bccdf9",
+      "category": "history",
+      "difficulty": 2,
+      "question": "정조가 수원에 쌓은 성의 이름은?",
+      "choices": [
+        "독산성",
+        "행주산성",
+        "수원 화성",
+        "남한산성"
+      ],
+      "answerIndex": 2,
+      "explanation": "정조가 아버지 사도세자의 묘를 수원으로 옮기며 쌓은 성이에요. 정약용이 설계에 참여했고 거중기가 쓰였어요.",
+      "funFact": "1997년 유네스코 세계유산에 등재됐어요."
+    },
+    {
+      "id": "science-ee8f0dfe",
+      "category": "science",
+      "difficulty": 3,
+      "question": "지구 자전축은 공전 궤도면에 수직인 선에서 약 몇 도 기울어 있을까요?",
+      "choices": [
+        "약 30도",
+        "약 23.5도",
+        "약 45도",
+        "약 15도"
+      ],
+      "answerIndex": 1,
+      "explanation": "지구의 자전축은 공전 궤도면에 수직인 선에서 약 23.5도 기울어 있어요. 이 기울기 때문에 계절이 생겨요.",
+      "funFact": "자전축이 기울어 있지 않다면 계절 변화가 거의 없을 거예요."
+    },
+    {
+      "id": "economy-dbc0a488",
+      "category": "economy",
+      "difficulty": 3,
+      "question": "재화를 한 단위 더 소비할 때 늘어나는 만족의 크기는?",
+      "choices": [
+        "총효용",
+        "한계효용",
+        "한계비용",
+        "소비자잉여"
+      ],
+      "answerIndex": 1,
+      "explanation": "한계효용은 재화를 추가로 한 단위 더 소비할 때 늘어나는 만족이에요. 보통 많이 소비할수록 점점 줄어들어요.",
+      "funFact": "물보다 다이아몬드가 비싼 이유를 설명할 때 한계효용 개념이 쓰여요."
+    },
+    {
+      "id": "geography-04264f6e",
+      "category": "geography",
+      "difficulty": 3,
+      "question": "세계에서 낙차가 가장 큰 폭포로 꼽히는 곳은?",
+      "choices": [
+        "나이아가라 폭포",
+        "빅토리아 폭포",
+        "이구아수 폭포",
+        "앙헬 폭포"
+      ],
+      "answerIndex": 3,
+      "explanation": "앙헬 폭포는 베네수엘라 밀림에 있고 낙차가 약 979m예요. 나이아가라 폭포는 유명하지만 낙차는 훨씬 작아요."
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "version": 1,
+  "id": "daily-2026-10-14",
+  "date": "2026-10-14",
+  "questions": [
+    {
+      "id": "history-5da73aaf",
+      "category": "history",
+      "difficulty": 1,
+      "question": "건국 신화에 따라 고조선을 세웠다고 전해지는 인물은?",
+      "choices": [
+        "단군왕검",
+        "온조",
+        "박혁거세",
+        "주몽"
+      ],
+      "answerIndex": 0,
+      "explanation": "단군왕검은 우리 역사에서 최초의 국가인 고조선을 세웠다고 전해지는 인물이에요. 『삼국유사』 같은 옛 책에 이야기가 실려 있어요."
+    },
+    {
+      "id": "science-4011d460",
+      "category": "science",
+      "difficulty": 1,
+      "question": "지구에서 가장 가까운 별은 무엇일까요?",
+      "choices": [
+        "북극성",
+        "태양",
+        "시리우스",
+        "베텔게우스"
+      ],
+      "answerIndex": 1,
+      "explanation": "태양은 스스로 빛을 내는 별이고, 지구와의 거리는 약 1억 5천만km예요. 밤하늘의 다른 별들은 훨씬 더 멀리 있어요.",
+      "funFact": "태양 빛이 지구에 닿기까지 약 8분 20초가 걸려요."
+    },
+    {
+      "id": "geography-276e518a",
+      "category": "geography",
+      "difficulty": 1,
+      "question": "서울 한가운데를 가로질러 서해로 흐르는 강은?",
+      "choices": [
+        "금강",
+        "섬진강",
+        "한강",
+        "낙동강"
+      ],
+      "answerIndex": 2,
+      "explanation": "한강은 서울을 가로질러 흐르다 서해로 들어가는 강이에요. 낙동강, 금강, 섬진강은 서울을 지나지 않아요."
+    },
+    {
+      "id": "korean-7c9f624e",
+      "category": "korean",
+      "difficulty": 1,
+      "question": "사자성어 '일석이조'의 뜻으로 알맞은 것은?",
+      "choices": [
+        "돌 하나로 산을 옮김",
+        "두 번 실패해도 포기 안 함",
+        "한 번에 두 가지 이익을 얻음",
+        "둘이 힘을 합쳐 일함"
+      ],
+      "answerIndex": 2,
+      "explanation": "일석이조(一石二鳥)는 돌 하나로 새 두 마리를 잡는다는 뜻이에요. 한 가지 일로 두 가지 이익을 얻을 때 써요."
+    },
+    {
+      "id": "life-3ee85708",
+      "category": "life",
+      "difficulty": 2,
+      "question": "기름을 두른 프라이팬에 불이 났을 때 절대 하면 안 되는 행동은?",
+      "choices": [
+        "소화기를 쓴다",
+        "물을 끼얹는다",
+        "뚜껑을 덮는다",
+        "가스 불을 끈다"
+      ],
+      "answerIndex": 1,
+      "explanation": "뜨거운 기름에 물이 닿으면 순식간에 끓어 튀면서 불이 크게 번져요. 가스 불을 끄고 뚜껑으로 덮어 산소를 막는 것이 안전해요."
+    },
+    {
+      "id": "economy-9d994941",
+      "category": "economy",
+      "difficulty": 2,
+      "question": "재화를 더 소비할수록 추가로 얻는 만족이 줄어드는 현상은?",
+      "choices": [
+        "한계효용 체감",
+        "그레셤의 법칙",
+        "수확 체감",
+        "규모의 경제"
+      ],
+      "answerIndex": 0,
+      "explanation": "배고플 때 먹는 첫 번째 빵이 가장 맛있고 갈수록 만족이 줄어드는 것처럼, 소비가 늘수록 추가 만족은 작아져요. 이를 한계효용 체감의 법칙이라고 해요."
+    },
+    {
+      "id": "history-5254bd59",
+      "category": "history",
+      "difficulty": 2,
+      "question": "흥선대원군이 서양 세력과 교류를 막으려고 전국에 세운 비석은?",
+      "choices": [
+        "광개토대왕릉비",
+        "진흥왕순수비",
+        "임신서기석",
+        "척화비"
+      ],
+      "answerIndex": 3,
+      "explanation": "흥선대원군은 병인양요와 신미양요를 겪은 뒤 1871년 전국에 척화비를 세웠어요. 서양과 화친하지 않겠다는 뜻을 새겼어요."
+    },
+    {
+      "id": "history-ddb54a18",
+      "category": "history",
+      "difficulty": 3,
+      "question": "1215년 영국 왕 존이 귀족들의 압력으로 서명한 문서는?",
+      "choices": [
+        "독립 선언문",
+        "권리 장전",
+        "인권 선언",
+        "마그나 카르타"
+      ],
+      "answerIndex": 3,
+      "explanation": "마그나 카르타는 왕이 마음대로 세금을 걷거나 사람을 가두지 못하도록 왕의 권한을 제한한 문서예요. 훗날 영국 입헌주의의 바탕이 되었어요.",
+      "funFact": "마그나 카르타는 라틴어로 '대헌장'이라는 뜻이에요."
+    },
+    {
+      "id": "science-80bdb48c",
+      "category": "science",
+      "difficulty": 3,
+      "question": "사람 몸에서 가장 단단한 조직은 무엇일까요?",
+      "choices": [
+        "대퇴골",
+        "두개골",
+        "손톱",
+        "치아의 법랑질"
+      ],
+      "answerIndex": 3,
+      "explanation": "치아 겉을 덮은 법랑질은 대부분 무기질로 이루어져 뼈보다도 훨씬 단단해요. 하지만 한 번 닳거나 상하면 스스로 재생되지 않아요."
+    },
+    {
+      "id": "geography-a1bd8ab7",
+      "category": "geography",
+      "difficulty": 3,
+      "question": "다음 중 적도가 지나가는 나라는?",
+      "choices": [
+        "이집트",
+        "멕시코",
+        "에콰도르",
+        "칠레"
+      ],
+      "answerIndex": 2,
+      "explanation": "에콰도르는 수도 키토 부근을 적도가 지나가는 남아메리카의 나라예요. 나머지 나라들은 적도에서 멀리 떨어져 있어요.",
+      "funFact": "에콰도르라는 이름은 스페인어로 '적도'라는 뜻이에요."
+    }
+  ]
+}

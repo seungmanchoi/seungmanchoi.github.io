@@ -1,0 +1,150 @@
+{
+  "version": 1,
+  "id": "daily-2026-10-18",
+  "date": "2026-10-18",
+  "questions": [
+    {
+      "id": "history-fbb2fe12",
+      "category": "history",
+      "difficulty": 1,
+      "question": "조선 후기에 지도 '대동여지도'를 만든 인물은?",
+      "choices": [
+        "김정호",
+        "이중환",
+        "박지원",
+        "정약용"
+      ],
+      "answerIndex": 0,
+      "explanation": "대동여지도는 조선 후기 김정호가 만든 전국 지도예요. 산줄기와 강줄기, 도로까지 자세히 담았어요."
+    },
+    {
+      "id": "science-efd9a1ee",
+      "category": "science",
+      "difficulty": 1,
+      "question": "식탁용 소금의 주성분인 물질은?",
+      "choices": [
+        "탄산칼슘",
+        "수산화나트륨",
+        "염화나트륨",
+        "염화칼륨"
+      ],
+      "answerIndex": 2,
+      "explanation": "소금은 나트륨과 염소가 결합한 염화나트륨(NaCl)이 대부분이에요. 물에 녹으면 나트륨 이온과 염화 이온으로 나뉘어요."
+    },
+    {
+      "id": "geography-bb426119",
+      "category": "geography",
+      "difficulty": 1,
+      "question": "한반도의 동쪽에 있는 바다 이름은?",
+      "choices": [
+        "동해",
+        "서해",
+        "남해",
+        "오호츠크해"
+      ],
+      "answerIndex": 0,
+      "explanation": "한반도는 동쪽의 동해, 서쪽의 서해, 남쪽의 남해로 삼면이 둘러싸여 있어요.",
+      "funFact": "서해는 수심이 얕은 편이고 동해는 훨씬 깊어요."
+    },
+    {
+      "id": "korean-6df6a736",
+      "category": "korean",
+      "difficulty": 1,
+      "question": "속담 '티끌 모아 태산'의 뜻으로 알맞은 것은?",
+      "choices": [
+        "욕심이 지나치면 망한다",
+        "남의 일에 참견한다",
+        "아무리 해도 소용없다",
+        "작은 것도 모이면 커진다"
+      ],
+      "answerIndex": 3,
+      "explanation": "티끌처럼 작은 것도 모이고 쌓이면 태산처럼 큰 것이 된다는 뜻이에요. 작은 돈이나 노력을 아끼지 말라고 할 때 써요."
+    },
+    {
+      "id": "economy-9faedc79",
+      "category": "economy",
+      "difficulty": 2,
+      "question": "소득이 많을수록 더 높은 세율을 매기는 방식은?",
+      "choices": [
+        "간접세",
+        "비례세",
+        "누진세",
+        "목적세"
+      ],
+      "answerIndex": 2,
+      "explanation": "소득이 늘수록 세율이 올라가는 방식을 누진세라고 해요. 소득세가 대표적인 예예요."
+    },
+    {
+      "id": "history-d08eaf65",
+      "category": "history",
+      "difficulty": 2,
+      "question": "1894년 동학농민운동을 이끈 대표적 지도자는?",
+      "choices": [
+        "김옥균",
+        "전봉준",
+        "홍경래",
+        "최제우"
+      ],
+      "answerIndex": 1,
+      "explanation": "전봉준은 고부 군수의 횡포에 맞서 농민들과 봉기했어요. 이후 농민군을 이끌고 전주성까지 차지했어요.",
+      "funFact": "체구가 작아서 '녹두장군'이라는 별명으로 불렸어요."
+    },
+    {
+      "id": "science-7d219fdf",
+      "category": "science",
+      "difficulty": 2,
+      "question": "소리의 높낮이는 무엇에 따라 달라질까요?",
+      "choices": [
+        "진폭",
+        "전달 속도",
+        "반사 횟수",
+        "진동수"
+      ],
+      "answerIndex": 3,
+      "explanation": "1초 동안 떨리는 횟수인 진동수가 많을수록 높은 소리가 나요. 진폭은 소리의 크기와 관련이 있어요."
+    },
+    {
+      "id": "life-50bf94c3",
+      "category": "life",
+      "difficulty": 3,
+      "question": "성인에게 심폐소생술을 할 때 가슴압박 위치는?",
+      "choices": [
+        "가슴 한가운데",
+        "배꼽 바로 위",
+        "왼쪽 가슴 위쪽",
+        "명치 바로 아래"
+      ],
+      "answerIndex": 0,
+      "explanation": "가슴뼈 아래쪽 절반, 곧 가슴 한가운데를 깊고 빠르게 눌러야 해요. 먼저 119에 신고하고 안내에 따라 진행해요."
+    },
+    {
+      "id": "culture-42e380c2",
+      "category": "culture",
+      "difficulty": 3,
+      "question": "피카소의 '게르니카'가 그리고 있는 것은?",
+      "choices": [
+        "나폴레옹의 러시아 원정",
+        "프랑스 혁명의 시민 봉기",
+        "제1차 세계 대전 참호전",
+        "스페인 도시의 폭격 참상"
+      ],
+      "answerIndex": 3,
+      "explanation": "스페인 내전 중 게르니카라는 도시가 폭격당한 참상을 그린 대형 작품이에요. 흑백 색조로 전쟁의 고통과 분노를 표현했어요.",
+      "funFact": "이 작품은 1937년 파리 만국박람회의 스페인관에 걸리기 위해 그려졌어요."
+    },
+    {
+      "id": "history-44e9640c",
+      "category": "history",
+      "difficulty": 3,
+      "question": "1966년 불국사 석가탑에서 나온 목판 인쇄물은?",
+      "choices": [
+        "삼국유사",
+        "무구정광대다라니경",
+        "팔만대장경",
+        "직지심체요절"
+      ],
+      "answerIndex": 1,
+      "explanation": "석가탑을 수리하다 발견된 두루마리 경전이에요. 통일신라 시대의 목판 인쇄술을 보여 주는 국보로 지정되어 있어요."
+    }
+  ]
+}

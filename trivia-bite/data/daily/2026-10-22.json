@@ -1,0 +1,149 @@
+{
+  "version": 1,
+  "id": "daily-2026-10-22",
+  "date": "2026-10-22",
+  "questions": [
+    {
+      "id": "history-3c10c6e5",
+      "category": "history",
+      "difficulty": 1,
+      "question": "비가 내린 양을 재기 위해 조선 시대에 만든 기구는?",
+      "choices": [
+        "자격루",
+        "앙부일구",
+        "혼천의",
+        "측우기"
+      ],
+      "answerIndex": 3,
+      "explanation": "측우기는 비가 내린 양을 재는 기구예요. 세종 때 만들어 전국에 보급했고, 농사 계획을 세우는 데 큰 도움이 됐어요."
+    },
+    {
+      "id": "science-d692e945",
+      "category": "science",
+      "difficulty": 1,
+      "question": "다음 중 빛의 삼원색이 아닌 것은?",
+      "choices": [
+        "빨강",
+        "노랑",
+        "초록",
+        "파랑"
+      ],
+      "answerIndex": 1,
+      "explanation": "빛의 삼원색은 빨강, 초록, 파랑이에요. 이 세 색의 빛을 섞으면 다양한 색과 흰색을 만들 수 있어요.",
+      "funFact": "TV와 스마트폰 화면도 이 세 가지 색의 빛을 조합해서 모든 색을 표현해요."
+    },
+    {
+      "id": "geography-04822a7b",
+      "category": "geography",
+      "difficulty": 1,
+      "question": "이집트를 가로질러 지중해로 흘러드는 강은?",
+      "choices": [
+        "갠지스강",
+        "아마존강",
+        "나일강",
+        "템스강"
+      ],
+      "answerIndex": 2,
+      "explanation": "나일강은 아프리카 북동부를 지나 이집트를 거쳐 지중해로 흘러요. 고대 이집트 문명도 이 강 주변에서 발달했어요.",
+      "funFact": "고대 이집트 사람들은 나일강이 해마다 범람한 덕분에 비옥한 땅에서 농사를 지었어요."
+    },
+    {
+      "id": "korean-61324626",
+      "category": "korean",
+      "difficulty": 1,
+      "question": "속담 '우물 안 개구리'는 어떤 사람을 가리킬까요?",
+      "choices": [
+        "게으른 사람",
+        "겁이 많은 사람",
+        "견문이 좁은 사람",
+        "욕심이 많은 사람"
+      ],
+      "answerIndex": 2,
+      "explanation": "우물 안에 사는 개구리는 우물 밖 넓은 세상을 몰라요. 그래서 보고 들은 것이 적어 시야가 좁은 사람을 빗대어 말해요."
+    },
+    {
+      "id": "economy-a5984574",
+      "category": "economy",
+      "difficulty": 2,
+      "question": "국가끼리 관세 같은 무역 장벽을 낮추거나 없애기로 약속하는 협정은?",
+      "choices": [
+        "금융안정협정",
+        "자유무역협정(FTA)",
+        "공동방위협정",
+        "이중과세방지협정"
+      ],
+      "answerIndex": 1,
+      "explanation": "자유무역협정은 협정을 맺은 나라끼리 관세 등 무역 장벽을 낮추거나 없애는 약속이에요. 영어 약자로 FTA라고 불러요."
+    },
+    {
+      "id": "life-9f9682fb",
+      "category": "life",
+      "difficulty": 2,
+      "question": "전자레인지에 넣으면 불꽃이 튀어 위험한 것은?",
+      "choices": [
+        "전자레인지 전용 용기",
+        "내열 유리그릇",
+        "무늬 없는 도자기",
+        "알루미늄 포일"
+      ],
+      "answerIndex": 3,
+      "explanation": "금속은 전자레인지의 마이크로파를 반사해서 불꽃이 튈 수 있어요. 금속 테두리가 있는 그릇도 함께 피해야 해요."
+    },
+    {
+      "id": "history-3e35932d",
+      "category": "history",
+      "difficulty": 2,
+      "question": "세종 때 두만강 유역에 6진을 개척한 장수는?",
+      "choices": [
+        "김종서",
+        "강감찬",
+        "최윤덕",
+        "이종무"
+      ],
+      "answerIndex": 0,
+      "explanation": "김종서는 세종 때 두만강 유역에 6진을 설치해 북쪽 국경을 안정시켰어요. 압록강 유역의 4군은 최윤덕 등이 개척했어요."
+    },
+    {
+      "id": "culture-e7bd81d9",
+      "category": "culture",
+      "difficulty": 3,
+      "question": "부조리극 '고도를 기다리며'를 쓴 작가는?",
+      "choices": [
+        "외젠 이오네스코",
+        "장폴 사르트르",
+        "사뮈엘 베케트",
+        "알베르 카뮈"
+      ],
+      "answerIndex": 2,
+      "explanation": "'고도를 기다리며'는 아일랜드 출신 작가 사뮈엘 베케트가 쓴 대표적인 부조리극이에요. 두 인물이 끝내 오지 않는 고도를 기다리는 이야기예요."
+    },
+    {
+      "id": "geography-65f481e5",
+      "category": "geography",
+      "difficulty": 3,
+      "question": "튀르키예의 수도는 어디일까요?",
+      "choices": [
+        "이즈미르",
+        "앙카라",
+        "이스탄불",
+        "부르사"
+      ],
+      "answerIndex": 1,
+      "explanation": "튀르키예의 수도는 앙카라예요. 이스탄불은 가장 큰 도시라서 수도로 착각하기 쉬워요."
+    },
+    {
+      "id": "history-fe3fa8eb",
+      "category": "history",
+      "difficulty": 3,
+      "question": "나폴레옹이 두 번째 유배 끝에 숨을 거둔 섬은?",
+      "choices": [
+        "세인트헬레나",
+        "코르시카",
+        "몰타",
+        "엘바"
+      ],
+      "answerIndex": 0,
+      "explanation": "나폴레옹은 엘바섬에서 탈출해 재기했지만 워털루 전투에서 패했어요. 이후 대서양의 외딴 섬 세인트헬레나로 보내져 그곳에서 생을 마쳤어요."
+    }
+  ]
+}

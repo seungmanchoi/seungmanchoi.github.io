@@ -1,0 +1,151 @@
+{
+  "version": 1,
+  "id": "daily-2026-12-26",
+  "date": "2026-12-26",
+  "questions": [
+    {
+      "id": "history-7b172a5f",
+      "category": "history",
+      "difficulty": 1,
+      "question": "세계 4대 문명 중 황허강 유역에서 발달한 문명은?",
+      "choices": [
+        "인더스 문명",
+        "이집트 문명",
+        "황허 문명",
+        "메소포타미아 문명"
+      ],
+      "answerIndex": 2,
+      "explanation": "황허 문명은 중국 황허강 유역에서 일어난 고대 문명이에요. 나머지 3대 문명은 나일강, 티그리스·유프라테스강, 인더스강 유역에서 일어났어요."
+    },
+    {
+      "id": "science-16f5254b",
+      "category": "science",
+      "difficulty": 1,
+      "question": "건강한 성인의 평균 체온은 약 몇 ℃일까요?",
+      "choices": [
+        "약 40.5℃",
+        "약 34.5℃",
+        "약 38.5℃",
+        "약 36.5℃"
+      ],
+      "answerIndex": 3,
+      "explanation": "건강한 성인의 겨드랑이 체온은 보통 36.5℃ 안팎이에요. 체온은 사람마다, 시간대마다 조금씩 달라요.",
+      "funFact": "체온은 보통 새벽에 가장 낮고 늦은 오후에 가장 높아요."
+    },
+    {
+      "id": "geography-b2d3b9d6",
+      "category": "geography",
+      "difficulty": 1,
+      "question": "대한민국에서 가장 큰 섬은 어디일까요?",
+      "choices": [
+        "강화도",
+        "제주도",
+        "거제도",
+        "울릉도"
+      ],
+      "answerIndex": 1,
+      "explanation": "제주도는 우리나라에서 면적이 가장 넓은 섬이에요. 화산 활동으로 만들어졌고 한라산이 한가운데 솟아 있어요.",
+      "funFact": "한라산은 해발 1,947m로 남한에서 가장 높은 산이에요."
+    },
+    {
+      "id": "korean-dd821542",
+      "category": "korean",
+      "difficulty": 1,
+      "question": "'오늘이 ○○인지 기억나요?'의 빈칸에 알맞은 표기는?",
+      "choices": [
+        "며칠",
+        "몇칠",
+        "몇일",
+        "메칠"
+      ],
+      "answerIndex": 0,
+      "explanation": "날짜를 물을 때는 '며칠'이 표준어 표기예요. '몇 일'로 나누어 쓰거나 '몇일'로 쓰면 틀려요.",
+      "funFact": "'몇 월'은 '몇'을 쓰지만 날짜는 '며칠'로 써요."
+    },
+    {
+      "id": "economy-e62dc5a5",
+      "category": "economy",
+      "difficulty": 2,
+      "question": "어떤 선택을 위해 포기한 대안 중 가장 가치 큰 것은?",
+      "choices": [
+        "고정비용",
+        "기회비용",
+        "한계비용",
+        "매몰비용"
+      ],
+      "answerIndex": 1,
+      "explanation": "하나를 선택하면 다른 것을 포기해야 하는데, 포기한 것 중 가장 큰 가치를 기회비용이라고 해요. 눈에 보이는 돈이 아니어도 포함돼요."
+    },
+    {
+      "id": "life-52100898",
+      "category": "life",
+      "difficulty": 2,
+      "question": "소독용 에탄올의 살균력이 가장 좋다고 알려진 농도는?",
+      "choices": [
+        "약 100%",
+        "약 70%",
+        "약 50%",
+        "약 30%"
+      ],
+      "answerIndex": 1,
+      "explanation": "알코올은 70% 정도일 때 살균 효과가 가장 좋다고 알려져 있어요. 농도가 너무 높으면 세균 겉만 빨리 굳어서 속까지 잘 스며들지 못해요."
+    },
+    {
+      "id": "culture-77caa052",
+      "category": "culture",
+      "difficulty": 2,
+      "question": "피카소가 스페인 내전 중 도시 폭격을 그린 대작은?",
+      "choices": [
+        "우는 여인",
+        "기타 치는 노인",
+        "아비뇽의 처녀들",
+        "게르니카"
+      ],
+      "answerIndex": 3,
+      "explanation": "게르니카는 1937년 스페인 내전 중 독일 공군이 게르니카 마을을 폭격한 일을 그린 작품이에요. 전쟁의 비극을 고발한 대표작이에요."
+    },
+    {
+      "id": "geography-707ca077",
+      "category": "geography",
+      "difficulty": 3,
+      "question": "베네수엘라에 있는 세계에서 가장 높은 폭포는?",
+      "choices": [
+        "앙헬 폭포",
+        "빅토리아 폭포",
+        "이구아수 폭포",
+        "나이아가라 폭포"
+      ],
+      "answerIndex": 0,
+      "explanation": "앙헬 폭포는 낙차가 약 979m에 이르는, 물이 끊김 없이 떨어지는 폭포 중 세계에서 가장 높은 폭포예요.",
+      "funFact": "이름은 폭포를 세상에 알린 미국 조종사 지미 에인절의 성에서 왔어요."
+    },
+    {
+      "id": "economy-26a3d1b5",
+      "category": "economy",
+      "difficulty": 3,
+      "question": "'악화가 양화를 구축한다'는 말로 알려진 경제 법칙은?",
+      "choices": [
+        "파레토 법칙",
+        "엥겔의 법칙",
+        "그레셤의 법칙",
+        "세이의 법칙"
+      ],
+      "answerIndex": 2,
+      "explanation": "품질이 나쁜 화폐와 좋은 화폐가 함께 쓰이면 좋은 화폐는 사라지고 나쁜 화폐만 유통된다는 법칙이에요. 16세기 영국의 토머스 그레셤의 이름에서 따왔어요."
+    },
+    {
+      "id": "culture-a501b128",
+      "category": "culture",
+      "difficulty": 3,
+      "question": "유네스코 세계유산 석굴암이 자리한 경주의 산은?",
+      "choices": [
+        "토함산",
+        "남산",
+        "단석산",
+        "선도산"
+      ],
+      "answerIndex": 0,
+      "explanation": "석굴암은 경주 토함산 중턱에 자리한 석굴 사원이에요. 불국사와 함께 1995년 유네스코 세계유산에 올랐어요."
+    }
+  ]
+}

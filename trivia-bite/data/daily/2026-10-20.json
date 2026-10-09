@@ -1,0 +1,149 @@
+{
+  "version": 1,
+  "id": "daily-2026-10-20",
+  "date": "2026-10-20",
+  "questions": [
+    {
+      "id": "history-388f05ff",
+      "category": "history",
+      "difficulty": 1,
+      "question": "조선 시대에 『동의보감』을 완성한 의관은?",
+      "choices": [
+        "지석영",
+        "허준",
+        "이제마",
+        "정약용"
+      ],
+      "answerIndex": 1,
+      "explanation": "허준은 선조의 명을 받아 의학 지식을 모았고, 광해군 때인 1610년 『동의보감』을 완성했어요. 우리 실정에 맞는 약재를 한글 이름과 함께 적은 것이 특징이에요.",
+      "funFact": "『동의보감』은 유네스코 세계기록유산에 등재되어 있어요."
+    },
+    {
+      "id": "science-3c3cc54c",
+      "category": "science",
+      "difficulty": 1,
+      "question": "물체를 지구 중심 쪽으로 끌어당기는 힘은?",
+      "choices": [
+        "부력",
+        "중력",
+        "탄성력",
+        "마찰력"
+      ],
+      "answerIndex": 1,
+      "explanation": "지구가 주변의 물체를 끌어당기는 힘이 중력이에요. 그래서 공중에 던진 물건이 땅으로 떨어져요."
+    },
+    {
+      "id": "geography-b0668b2d",
+      "category": "geography",
+      "difficulty": 1,
+      "question": "에펠탑이 있는 나라 프랑스의 수도는 어디일까요?",
+      "choices": [
+        "리옹",
+        "브뤼셀",
+        "마르세유",
+        "파리"
+      ],
+      "answerIndex": 3,
+      "explanation": "프랑스의 수도는 센강이 흐르는 파리예요. 에펠탑, 루브르 박물관, 노트르담 대성당이 이곳에 있어요."
+    },
+    {
+      "id": "korean-93efcf83",
+      "category": "korean",
+      "difficulty": 1,
+      "question": "'어떻게 해'의 준말로 알맞은 표기는?",
+      "choices": [
+        "어떡해",
+        "어떡케",
+        "어떠케",
+        "어떻해"
+      ],
+      "answerIndex": 0,
+      "explanation": "'어떻게 해'를 줄이면 '어떡해'가 돼요. '어떻해'는 틀린 표기예요. 뒤에 다른 말이 이어질 때는 '어떻게'를 쓰면 돼요."
+    },
+    {
+      "id": "economy-298bab55",
+      "category": "economy",
+      "difficulty": 2,
+      "question": "물가가 지속적으로 떨어지는 현상을 뜻하는 말은?",
+      "choices": [
+        "인플레이션",
+        "디플레이션",
+        "스태그플레이션",
+        "리디노미네이션"
+      ],
+      "answerIndex": 1,
+      "explanation": "디플레이션은 물가가 계속 내리고 화폐 가치가 오르는 현상이에요. 인플레이션은 반대로 물가가 계속 오르는 현상이고요."
+    },
+    {
+      "id": "history-2dfcc142",
+      "category": "history",
+      "difficulty": 2,
+      "question": "정조가 학문 연구와 개혁 정치를 위해 궁궐에 설치한 기관은?",
+      "choices": [
+        "규장각",
+        "성균관",
+        "집현전",
+        "홍문관"
+      ],
+      "answerIndex": 0,
+      "explanation": "정조는 즉위 직후 창덕궁에 규장각을 세워 학문을 연구하고 인재를 길렀어요. 집현전은 세종 때 설치된 기관이에요."
+    },
+    {
+      "id": "science-3d1c8a15",
+      "category": "science",
+      "difficulty": 2,
+      "question": "금의 원소 기호로 알맞은 것은?",
+      "choices": [
+        "Au",
+        "Fe",
+        "Al",
+        "Ag"
+      ],
+      "answerIndex": 0,
+      "explanation": "금의 원소 기호는 Au로, 금을 뜻하는 라틴어 아우룸에서 왔어요. Ag는 은, Al은 알루미늄, Fe는 철이에요."
+    },
+    {
+      "id": "culture-107fb565",
+      "category": "culture",
+      "difficulty": 3,
+      "question": "'인상주의'라는 이름이 유래한 모네의 작품은?",
+      "choices": [
+        "건초 더미",
+        "루앙 대성당",
+        "수련",
+        "인상, 해돋이"
+      ],
+      "answerIndex": 3,
+      "explanation": "모네가 1872년에 그린 '인상, 해돋이'를 한 평론가가 비꼬아 부르면서 '인상주의'라는 말이 생겼어요. 수련과 건초 더미도 모네의 작품이지만 이름의 유래는 아니에요."
+    },
+    {
+      "id": "history-6661832d",
+      "category": "history",
+      "difficulty": 3,
+      "question": "신라의 신분 제도인 골품제에서 가장 높은 신분은?",
+      "choices": [
+        "5두품",
+        "6두품",
+        "성골",
+        "진골"
+      ],
+      "answerIndex": 2,
+      "explanation": "골품제에서 가장 높은 신분은 왕족 가운데 성골이었어요. 그 아래가 진골이고, 6두품 이하는 두품 신분이에요.",
+      "funFact": "성골 출신의 마지막 왕은 진덕여왕으로 알려져 있어요."
+    },
+    {
+      "id": "science-a32f7f2d",
+      "category": "science",
+      "difficulty": 3,
+      "question": "지구 대기에서 오존층이 있는 층은?",
+      "choices": [
+        "열권",
+        "중간권",
+        "성층권",
+        "대류권"
+      ],
+      "answerIndex": 2,
+      "explanation": "오존층은 대기 중 성층권에 있어요. 오존은 태양에서 오는 자외선을 흡수해 지상의 생물을 보호해요."
+    }
+  ]
+}
