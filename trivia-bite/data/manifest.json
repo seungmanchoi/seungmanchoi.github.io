@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-09T15:04:29.003Z",
+  "updatedAt": "2026-10-24T09:56:23.188Z",
   "daily": [
     "2026-10-10",
     "2026-10-11",
@@ -178,54 +178,54 @@
   ],
   "bank": {
     "culture": {
-      "version": 2,
-      "count": 200,
-      "hash": "f29ef5d1156c"
+      "version": 4,
+      "count": 203,
+      "hash": "5bbf8f05d05f"
     },
     "economy": {
-      "version": 2,
+      "version": 3,
       "count": 200,
-      "hash": "e720833cdef9"
+      "hash": "8eed168e28bd"
     },
     "geography": {
-      "version": 2,
-      "count": 200,
-      "hash": "3a4bdea6e558"
+      "version": 3,
+      "count": 201,
+      "hash": "043f8a7d5aaf"
     },
     "history": {
-      "version": 3,
-      "count": 200,
-      "hash": "3a650d218c50"
+      "version": 5,
+      "count": 223,
+      "hash": "0d699c0482e9"
     },
     "korean": {
-      "version": 2,
-      "count": 200,
-      "hash": "371b87f44da4"
+      "version": 3,
+      "count": 201,
+      "hash": "0064b771db98"
     },
     "life": {
-      "version": 2,
-      "count": 200,
-      "hash": "174bc69311da"
+      "version": 3,
+      "count": 207,
+      "hash": "ecbcbdbc3fbd"
     },
     "nature": {
-      "version": 1,
-      "count": 200,
-      "hash": "96ede879b11a"
+      "version": 2,
+      "count": 204,
+      "hash": "3ba7ab747583"
     },
     "science": {
-      "version": 3,
-      "count": 200,
-      "hash": "40b83d7fdb46"
+      "version": 5,
+      "count": 203,
+      "hash": "99c83d8ab072"
     },
     "space": {
-      "version": 1,
-      "count": 200,
-      "hash": "1cecc18c4eb4"
+      "version": 2,
+      "count": 201,
+      "hash": "47b8bcb8ab1c"
     },
     "sports": {
-      "version": 1,
+      "version": 2,
       "count": 200,
-      "hash": "70c6308a776b"
+      "hash": "8275aeb756c7"
     }
   }
 }

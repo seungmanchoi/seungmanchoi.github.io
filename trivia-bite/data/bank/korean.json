@@ -2752,7 +2752,9 @@
         "할로인"
       ],
       "answerIndex": 1,
-      "explanation": "영어 'Halloween'은 '핼러윈'으로 적어요. 흔히 쓰는 '할로윈'은 표준 표기가 아니에요."
+      "explanation": "영어 'Halloween'은 '핼러윈'으로 적어요. 흔히 쓰는 '할로윈'은 표준 표기가 아니에요.",
+      "onThisDay": "10-31",
+      "dayLabel": "핼러윈"
     },
     {
       "id": "korean-b91a02a3",
@@ -2826,6 +2828,22 @@
       ],
       "answerIndex": 2,
       "explanation": "'ㄹ'이 [ㄴ]으로 바뀌고, 그 [ㄴ] 때문에 앞의 'ㅂ'이 [ㅁ]으로 바뀌어 [혐녁]이 돼요."
+    },
+    {
+      "id": "korean-b17cb94b",
+      "category": "korean",
+      "difficulty": 1,
+      "question": "10월 9일 한글날은 무엇을 기념하는 날일까요?",
+      "choices": [
+        "훈민정음 반포",
+        "세종 즉위",
+        "집현전 설치",
+        "『용비어천가』 완성"
+      ],
+      "answerIndex": 0,
+      "explanation": "한글날은 1446년 세종대왕이 훈민정음을 반포한 것을 기념해요. 『훈민정음』 해례본에 적힌 '9월 상순'을 양력으로 바꿔 10월 9일로 정했어요.",
+      "onThisDay": "10-09",
+      "dayLabel": "한글날"
     }
   ]
 }

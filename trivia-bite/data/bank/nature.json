@@ -3002,6 +3002,70 @@
       "answerIndex": 2,
       "explanation": "삵은 집고양이와 비슷한 크기의 야생 고양잇과 동물로, 멸종위기 야생생물로 보호받아요.",
       "funFact": "삵은 헤엄도 잘 쳐서 물가에서 물고기나 개구리를 잡아먹기도 해요."
+    },
+    {
+      "id": "nature-fa8d3bee",
+      "category": "nature",
+      "difficulty": 1,
+      "question": "유엔이 물의 소중함을 알리려고 정한 3월 22일 기념일은?",
+      "choices": [
+        "세계 환경의 날",
+        "세계 해양의 날",
+        "세계 물의 날",
+        "지구의 날"
+      ],
+      "answerIndex": 2,
+      "explanation": "1992년 유엔 총회가 3월 22일을 세계 물의 날로 정했고, 1993년부터 기념하고 있어요. 깨끗한 물을 쓰지 못하는 사람들의 문제를 알리는 날이에요.",
+      "onThisDay": "03-22",
+      "dayLabel": "세계 물의 날"
+    },
+    {
+      "id": "nature-8842ae05",
+      "category": "nature",
+      "difficulty": 1,
+      "question": "매년 4월 5일, 나무를 심고 숲을 가꾸자는 뜻의 기념일은?",
+      "choices": [
+        "지구의 날",
+        "산의 날",
+        "세계 환경의 날",
+        "식목일"
+      ],
+      "answerIndex": 3,
+      "explanation": "식목일은 1946년 4월 5일로 정해졌어요. 2006년부터 공휴일에서 빠졌지만 지금도 기념일로 지내요.",
+      "onThisDay": "04-05",
+      "dayLabel": "식목일"
+    },
+    {
+      "id": "nature-f0951b17",
+      "category": "nature",
+      "difficulty": 2,
+      "question": "1970년 미국에서 시작된 환경 운동으로, 4월 22일인 기념일은?",
+      "choices": [
+        "세계 물의 날",
+        "세계 해양의 날",
+        "지구의 날",
+        "세계 환경의 날"
+      ],
+      "answerIndex": 2,
+      "explanation": "지구의 날은 1970년 4월 22일 미국에서 시작된 민간 환경 운동이에요. 지금은 전 세계가 함께 기념하는 날이 됐어요.",
+      "onThisDay": "04-22",
+      "dayLabel": "지구의 날"
+    },
+    {
+      "id": "nature-fd23a80a",
+      "category": "nature",
+      "difficulty": 2,
+      "question": "1972년 스톡홀름 유엔 인간 환경 회의를 계기로 정해진 6월 5일 기념일은?",
+      "choices": [
+        "세계 물의 날",
+        "지구의 날",
+        "세계 환경의 날",
+        "세계 해양의 날"
+      ],
+      "answerIndex": 2,
+      "explanation": "1972년 6월 5일 스톡홀름에서 유엔 인간 환경 회의가 열렸어요. 이를 기려 6월 5일이 세계 환경의 날이 되었어요.",
+      "onThisDay": "06-05",
+      "dayLabel": "세계 환경의 날"
     }
   ]
 }
