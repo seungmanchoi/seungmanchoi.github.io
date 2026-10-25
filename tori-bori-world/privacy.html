@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tori Bori World - Privacy Policy</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      padding: 0 20px;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      color: #191f28;
+      background: #ffffff;
+      line-height: 1.7;
+    }
+    .container { width: min(760px, 100%); margin: 0 auto; padding: 40px 0 84px; }
+    .lang-switch { display: flex; flex-wrap: wrap; justify-content: flex-end; gap: 8px; margin-bottom: 24px; }
+    button {
+      min-height: 34px; padding: 6px 12px; border: 1px solid #e5e8eb; border-radius: 8px;
+      color: #4e5968; background: transparent; cursor: pointer; font-size: 14px;
+    }
+    button.active { color: #ffffff; border-color: #293b50; background: #293b50; }
+    .app-name { color: #293b50; font-size: 14px; font-weight: 800; letter-spacing: 0.04em; }
+    h1 { margin-top: 6px; font-size: 30px; line-height: 1.2; }
+    .last-updated { margin: 8px 0 34px; color: #8b95a1; font-size: 13px; }
+    h2 { margin-top: 34px; padding-bottom: 8px; border-bottom: 1px solid #f2f4f6; font-size: 20px; }
+    p { margin-top: 12px; color: #333d4b; }
+    ul { margin: 12px 0 0 22px; color: #333d4b; }
+    li { margin: 6px 0; }
+    a { color: #3182f6; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    .highlight { margin: 18px 0; padding: 14px 16px; border-radius: 16px; background: #f5eedf; }
+    .hidden { display: none; }
+    @media (prefers-color-scheme: dark) {
+      body { color: #ffffff; background: #17171c; }
+      p, ul { color: #c3c3c6; }
+      h2 { border-bottom-color: #2c2c35; }
+      button { color: #c3c3c6; border-color: #2c2c35; }
+      .app-name { color: #cec8bc; }
+      .highlight { background: #202f43; }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="lang-switch">
+      <button id="btn-en" class="active" onclick="switchLang('en')">English</button>
+      <button id="btn-ko" onclick="switchLang('ko')">한국어</button>
+      <button id="btn-ja" onclick="switchLang('ja')">日本語</button>
+      <button id="btn-zh" onclick="switchLang('zh')">中文</button>
+    </div>
+
+    <section id="lang-en">
+      <div class="app-name">Tori Bori World</div>
+      <h1>Privacy Policy</h1>
+      <p class="last-updated">Last Updated: October 25, 2026</p>
+      <div class="highlight">
+        <p><strong>Tori Bori World is a play world for young children. It has no account and no server: everything a child makes stays on the device. We do not collect names, email addresses, contacts, location, or the advertising identifier. The iOS version has no ads and no analytics.</strong></p>
+      </div>
+      <h2>1. Overview</h2>
+      <p>Tori Bori World is a sandbox play app developed by Seungman Choi. Children place characters and things in rooms, take photos of their scenes, and make their own characters. There are no user accounts, chats, or links for children to leave the app.</p>
+      <h2>2. Information Stored On The Device</h2>
+      <ul>
+        <li><strong>Play saves</strong>: how each room is arranged, the train's cargo, characters made in the creator, and the collection book.</li>
+        <li><strong>In-app album</strong>: photos of game scenes taken inside the app. The app does not use the camera.</li>
+        <li><strong>Settings</strong>: sound, music, vibration, and hint level.</li>
+        <li><strong>Parent PIN</strong>: stored only as a hash in the device's secure storage (iOS Keychain / Android Keystore).</li>
+        <li><strong>Counters</strong>: when a store rating was last requested and, on Android, ad frequency limits.</li>
+      </ul>
+      <p>This data does not leave the device unless a parent exports it (see below).</p>
+      <h2>3. Parent Area</h2>
+      <p>Settings, data tools, links that leave the app, and saving photos outside the app are behind a parent gate (a grown-up instruction and a PIN).</p>
+      <ul>
+        <li><strong>Save to photo library</strong>: a parent can copy an album photo to the device's photo library. The app asks only for permission to add photos and never reads the photo library.</li>
+        <li><strong>Backup</strong>: a parent can export a backup file through the system share sheet and restore it later. The file goes only where the parent chooses.</li>
+        <li><strong>Delete</strong>: a parent can reset one place or delete everything on the device.</li>
+      </ul>
+      <h2>4. Analytics And Diagnostics</h2>
+      <ul>
+        <li><strong>Android</strong>: Firebase Analytics records anonymous, aggregate play events (such as entering a place, how many things were moved in a room, photos kept) so we can improve the game. Advertising ID collection is turned off. No names, contact details, or location are sent.</li>
+        <li><strong>iOS</strong>: the app contains no analytics SDK.</li>
+        <li><strong>Both</strong>: Firebase Crashlytics receives crash reports (device model, OS version, and the technical details of the crash).</li>
+      </ul>
+      <h2>5. Advertising (Android Only)</h2>
+      <p>The Android version shows ads through <strong>Google AdMob</strong> with child-directed settings: every ad request is marked as directed to children, only ads rated G are allowed, ads are not personalized, and the app does not access the advertising identifier.</p>
+      <ul>
+        <li>Banners appear only on the map, album, and parent screens, never on play screens.</li>
+        <li>A gift box marked "AD" in the character creator plays a rewarded ad only when the child chooses it; it gives an extra accessory for that day, and the game is the same without it.</li>
+        <li>In the EEA, UK, and Switzerland, a Google-certified consent message is shown where required.</li>
+      </ul>
+      <p>The iOS version has no ads.</p>
+      <h2>6. Third-Party Services</h2>
+      <ul>
+        <li><strong>Google AdMob</strong> (Android): advertising. See the <a href="https://policies.google.com/privacy" target="_blank" rel="noopener">Google Privacy Policy</a>.</li>
+        <li><strong>Firebase Analytics</strong> (Android) and <strong>Firebase Crashlytics</strong>: usage statistics and crash diagnostics.</li>
+        <li><strong>App Store / Google Play</strong>: a rating prompt may be shown only in the parent area; the app does not receive the rating.</li>
+      </ul>
+      <h2>7. Children</h2>
+      <p>Tori Bori World is made for children. We do not knowingly collect personal information from children, and the app is designed to follow children's privacy rules such as COPPA and GDPR-K. Parents can delete all data at any time in the parent area or by deleting the app.</p>
+      <h2>8. Contact</h2>
+      <p>For privacy or support questions, contact <a href="mailto:blueng.choi@gmail.com">blueng.choi@gmail.com</a>.</p>
+    </section>
+
+    <section id="lang-ko" class="hidden">
+      <div class="app-name">토리보리 월드</div>
+      <h1>개인정보처리방침</h1>
+      <p class="last-updated">최종 업데이트: 2026년 10월 25일</p>
+      <div class="highlight">
+        <p><strong>토리보리 월드는 어린아이를 위한 놀이 앱입니다. 계정과 서버가 없어 아이가 만든 것은 모두 기기 안에만 남습니다. 이름, 이메일 주소, 연락처, 위치, 광고 식별자를 수집하지 않습니다. iOS 버전에는 광고와 분석 도구가 없습니다.</strong></p>
+      </div>
+      <h2>1. 개요</h2>
+      <p>토리보리 월드는 Seungman Choi가 개발한 놀이 앱입니다. 아이는 방에 캐릭터와 물건을 놓고, 장면을 사진으로 남기고, 자기만의 캐릭터를 만듭니다. 사용자 계정, 채팅, 아이가 앱 밖으로 나가는 링크가 없습니다.</p>
+      <h2>2. 기기에 저장되는 정보</h2>
+      <ul>
+        <li><strong>놀이 저장</strong>: 방마다의 배치, 기차에 실은 짐, 만들기에서 만든 캐릭터, 도감.</li>
+        <li><strong>앱 안 앨범</strong>: 앱 안에서 찍은 게임 장면 사진. 앱은 카메라를 쓰지 않습니다.</li>
+        <li><strong>설정</strong>: 효과음, 음악, 진동, 손짓 힌트.</li>
+        <li><strong>보호자 PIN</strong>: 기기의 보안 저장소(iOS 키체인 / Android Keystore)에 해시로만 저장합니다.</li>
+        <li><strong>횟수 기록</strong>: 마지막 평점 요청 시점, Android에서는 광고 노출 빈도 제한.</li>
+      </ul>
+      <p>이 데이터는 보호자가 내보내지 않는 한 기기 밖으로 나가지 않습니다(아래 참고).</p>
+      <h2>3. 보호자 영역</h2>
+      <p>설정, 데이터 관리, 앱 밖으로 나가는 링크, 앱 밖으로 사진 저장은 보호자 확인(어른용 안내와 PIN) 뒤에 있습니다.</p>
+      <ul>
+        <li><strong>사진첩에 저장</strong>: 보호자가 앨범 사진을 기기 사진첩에 복사할 수 있습니다. 앱은 사진 추가 권한만 요청하며 사진첩의 사진을 읽지 않습니다.</li>
+        <li><strong>백업</strong>: 보호자가 시스템 공유 시트로 백업 파일을 내보내고 나중에 복원할 수 있습니다. 파일은 보호자가 고른 곳으로만 갑니다.</li>
+        <li><strong>삭제</strong>: 보호자가 장소 하나를 처음 배치로 되돌리거나 기기의 데이터를 모두 지울 수 있습니다.</li>
+      </ul>
+      <h2>4. 분석 및 진단</h2>
+      <ul>
+        <li><strong>Android</strong>: 게임을 개선하기 위해 Firebase Analytics가 익명·집계된 놀이 이벤트(장소 진입, 방에서 옮긴 물건 수, 남긴 사진 등)를 기록합니다. 광고 ID 수집은 꺼져 있으며 이름, 연락처, 위치는 보내지 않습니다.</li>
+        <li><strong>iOS</strong>: 분석 도구가 들어 있지 않습니다.</li>
+        <li><strong>공통</strong>: Firebase Crashlytics가 충돌 보고(기기 모델, OS 버전, 충돌의 기술 정보)를 받습니다.</li>
+      </ul>
+      <h2>5. 광고 (Android만)</h2>
+      <p>Android 버전은 <strong>Google AdMob</strong>을 아동 대상 설정으로 사용합니다. 모든 광고 요청을 아동 대상으로 표시하고, G 등급 광고만 허용하며, 맞춤 광고를 하지 않고, 앱은 광고 식별자에 접근하지 않습니다.</p>
+      <ul>
+        <li>배너는 지도, 앨범, 보호자 화면에만 있고 놀이 화면에는 없습니다.</li>
+        <li>캐릭터 만들기의 "AD" 표시 선물 상자는 아이가 고를 때만 보상형 광고를 재생합니다. 그날 액세서리 하나를 더 주며, 보지 않아도 놀이는 같습니다.</li>
+        <li>EEA, 영국, 스위스에서는 필요한 경우 Google 인증 동의 메시지를 표시합니다.</li>
+      </ul>
+      <p>iOS 버전에는 광고가 없습니다.</p>
+      <h2>6. 제3자 서비스</h2>
+      <ul>
+        <li><strong>Google AdMob</strong>(Android): 광고. <a href="https://policies.google.com/privacy" target="_blank" rel="noopener">Google 개인정보처리방침</a> 참고.</li>
+        <li><strong>Firebase Analytics</strong>(Android), <strong>Firebase Crashlytics</strong>: 이용 통계와 충돌 진단.</li>
+        <li><strong>App Store / Google Play</strong>: 평점 요청은 보호자 영역에서만 표시될 수 있으며, 앱은 평점 내용을 받지 않습니다.</li>
+      </ul>
+      <h2>7. 아동 개인정보</h2>
+      <p>토리보리 월드는 아이를 위해 만든 앱입니다. 아동의 개인정보를 알면서 수집하지 않으며, COPPA, GDPR-K 같은 아동 개인정보 규정을 따르도록 설계했습니다. 보호자는 언제든 보호자 영역에서 또는 앱을 삭제해 모든 데이터를 지울 수 있습니다.</p>
+      <h2>8. 문의</h2>
+      <p>개인정보 및 지원 문의: <a href="mailto:blueng.choi@gmail.com">blueng.choi@gmail.com</a></p>
+    </section>
+
+    <section id="lang-ja" class="hidden">
+      <div class="app-name">トリボリワールド</div>
+      <h1>プライバシーポリシー</h1>
+      <p class="last-updated">最終更新日：2026年10月25日</p>
+      <div class="highlight">
+        <p><strong>トリボリワールドは小さな子ども向けのあそびアプリです。アカウントもサーバーもなく、子どもが作ったものはすべて端末の中だけに残ります。氏名、メールアドレス、連絡先、位置情報、広告IDは収集しません。iOS版には広告も分析ツールもありません。</strong></p>
+      </div>
+      <h2>1. 概要</h2>
+      <p>トリボリワールドは Seungman Choi が開発したあそびアプリです。子どもは部屋にキャラクターやものを置き、場面を写真に残し、自分だけのキャラクターを作ります。ユーザーアカウント、チャット、子どもがアプリの外へ出るリンクはありません。</p>
+      <h2>2. 端末に保存される情報</h2>
+      <ul>
+        <li><strong>あそびの保存データ</strong>：各部屋の配置、汽車の荷物、キャラクター作りで作ったキャラクター、図鑑。</li>
+        <li><strong>アプリ内アルバム</strong>：アプリ内で撮ったゲーム場面の写真。アプリはカメラを使いません。</li>
+        <li><strong>設定</strong>：効果音、音楽、振動、手のヒント。</li>
+        <li><strong>保護者PIN</strong>：端末の安全な保存領域（iOS キーチェーン／Android Keystore）にハッシュとしてのみ保存します。</li>
+        <li><strong>回数の記録</strong>：最後に評価をお願いした時期、Androidでは広告の表示頻度の制限。</li>
+      </ul>
+      <p>保護者が書き出さない限り、このデータは端末の外へ送られません（下記参照）。</p>
+      <h2>3. 保護者エリア</h2>
+      <p>設定、データ管理、アプリの外へ出るリンク、アプリ外への写真保存は、保護者確認（大人向けの案内とPIN）の先にあります。</p>
+      <ul>
+        <li><strong>写真ライブラリへの保存</strong>：保護者はアルバムの写真を端末の写真ライブラリにコピーできます。アプリは写真の追加の許可だけを求め、写真ライブラリを読み取りません。</li>
+        <li><strong>バックアップ</strong>：保護者はシステムの共有シートでバックアップファイルを書き出し、後で復元できます。ファイルは保護者が選んだ場所にだけ保存されます。</li>
+        <li><strong>削除</strong>：保護者は1つの場所を最初の配置に戻したり、端末のデータをすべて削除したりできます。</li>
+      </ul>
+      <h2>4. 分析と診断</h2>
+      <ul>
+        <li><strong>Android</strong>：ゲーム改善のため、Firebase Analytics が匿名・集計のあそびイベント（場所に入った、部屋で動かしたものの数、残した写真など）を記録します。広告IDの収集はオフで、氏名、連絡先、位置情報は送りません。</li>
+        <li><strong>iOS</strong>：分析ツールは含まれていません。</li>
+        <li><strong>共通</strong>：Firebase Crashlytics がクラッシュレポート（端末モデル、OSバージョン、クラッシュの技術情報）を受け取ります。</li>
+      </ul>
+      <h2>5. 広告（Androidのみ）</h2>
+      <p>Android版は <strong>Google AdMob</strong> を子ども向け設定で使用します。すべての広告リクエストを子ども向けとして扱い、G レーティングの広告のみを許可し、パーソナライズ広告は行わず、アプリは広告IDにアクセスしません。</p>
+      <ul>
+        <li>バナーは地図、アルバム、保護者画面だけに表示され、あそび画面には表示されません。</li>
+        <li>キャラクター作りの「AD」マーク付きのプレゼント箱は、子どもが選んだときだけリワード広告を再生します。その日だけアクセサリーが1つ増え、見なくてもあそびは同じです。</li>
+        <li>EEA、英国、スイスでは、必要な場合に Google 認定の同意メッセージを表示します。</li>
+      </ul>
+      <p>iOS版には広告はありません。</p>
+      <h2>6. 第三者サービス</h2>
+      <ul>
+        <li><strong>Google AdMob</strong>（Android）：広告。<a href="https://policies.google.com/privacy" target="_blank" rel="noopener">Google プライバシーポリシー</a>をご覧ください。</li>
+        <li><strong>Firebase Analytics</strong>（Android）、<strong>Firebase Crashlytics</strong>：利用統計とクラッシュ診断。</li>
+        <li><strong>App Store / Google Play</strong>：評価のお願いは保護者エリアでのみ表示されることがあり、アプリは評価内容を受け取りません。</li>
+      </ul>
+      <h2>7. 子どものプライバシー</h2>
+      <p>トリボリワールドは子どものために作られたアプリです。子どもの個人情報を意図的に収集することはなく、COPPA や GDPR-K などの子どものプライバシー規則に従うよう設計しています。保護者はいつでも保護者エリアから、またはアプリを削除してすべてのデータを消去できます。</p>
+      <h2>8. お問い合わせ</h2>
+      <p>プライバシーやサポートに関するお問い合わせ：<a href="mailto:blueng.choi@gmail.com">blueng.choi@gmail.com</a></p>
+    </section>
+
+    <section id="lang-zh" class="hidden">
+      <div class="app-name">托里波里世界</div>
+      <h1>隐私政策</h1>
+      <p class="last-updated">最后更新：2026年10月25日</p>
+      <div class="highlight">
+        <p><strong>托里波里世界是一款面向幼儿的游戏应用。没有账号，也没有服务器：孩子创作的一切都只保存在设备上。我们不收集姓名、电子邮件地址、联系人、位置或广告标识符。iOS 版本没有广告，也没有分析工具。</strong></p>
+      </div>
+      <h2>1. 概述</h2>
+      <p>托里波里世界是由 Seungman Choi 开发的游戏应用。孩子可以在房间里摆放角色和物品，给场景拍照，并创作自己的角色。应用没有用户账号、聊天，也没有让孩子离开应用的链接。</p>
+      <h2>2. 存储在设备上的信息</h2>
+      <ul>
+        <li><strong>游戏存档</strong>：每个房间的摆放、火车上的货物、在创作中做出的角色、图鉴。</li>
+        <li><strong>应用内相册</strong>：在应用内拍摄的游戏场景照片。应用不使用相机。</li>
+        <li><strong>设置</strong>：音效、音乐、振动和手势提示。</li>
+        <li><strong>家长 PIN 码</strong>：仅以哈希形式保存在设备的安全存储中（iOS 钥匙串 / Android Keystore）。</li>
+        <li><strong>次数记录</strong>：上次请求评分的时间，以及 Android 上的广告展示频率限制。</li>
+      </ul>
+      <p>除非家长导出，这些数据不会离开设备（见下文）。</p>
+      <h2>3. 家长专区</h2>
+      <p>设置、数据管理、离开应用的链接以及将照片保存到应用外，都需要通过家长验证（成人说明和 PIN 码）。</p>
+      <ul>
+        <li><strong>保存到相册</strong>：家长可以把相册中的照片复制到设备相册。应用只申请添加照片的权限，从不读取相册中的照片。</li>
+        <li><strong>备份</strong>：家长可以通过系统分享面板导出备份文件，之后再恢复。文件只会保存到家长选择的位置。</li>
+        <li><strong>删除</strong>：家长可以将某个地点恢复为初始摆放，或删除设备上的全部数据。</li>
+      </ul>
+      <h2>4. 分析与诊断</h2>
+      <ul>
+        <li><strong>Android</strong>：为改进游戏，Firebase Analytics 会记录匿名、汇总的游戏事件（如进入地点、在房间里移动物品的数量、保存的照片等）。广告 ID 收集已关闭，不会发送姓名、联系方式或位置。</li>
+        <li><strong>iOS</strong>：不包含任何分析工具。</li>
+        <li><strong>共同</strong>：Firebase Crashlytics 接收崩溃报告（设备型号、系统版本和崩溃的技术信息）。</li>
+      </ul>
+      <h2>5. 广告（仅 Android）</h2>
+      <p>Android 版本通过 <strong>Google AdMob</strong> 以面向儿童的设置展示广告：所有广告请求都标记为面向儿童，只允许 G 级广告，不展示个性化广告，应用也不访问广告标识符。</p>
+      <ul>
+        <li>横幅广告只出现在地图、相册和家长页面，从不出现在游戏画面中。</li>
+        <li>角色创作中带有“AD”标记的礼物盒只在孩子主动选择时播放激励广告；当天会多得到一个配饰，不看广告游戏内容也完全相同。</li>
+        <li>在欧洲经济区、英国和瑞士，会在需要时显示经 Google 认证的同意消息。</li>
+      </ul>
+      <p>iOS 版本没有广告。</p>
+      <h2>6. 第三方服务</h2>
+      <ul>
+        <li><strong>Google AdMob</strong>（Android）：广告。请参阅 <a href="https://policies.google.com/privacy" target="_blank" rel="noopener">Google 隐私政策</a>。</li>
+        <li><strong>Firebase Analytics</strong>（Android）和 <strong>Firebase Crashlytics</strong>：使用统计和崩溃诊断。</li>
+        <li><strong>App Store / Google Play</strong>：评分请求只可能出现在家长专区，应用不会收到评分内容。</li>
+      </ul>
+      <h2>7. 儿童隐私</h2>
+      <p>托里波里世界是为儿童设计的应用。我们不会有意收集儿童的个人信息，并按照 COPPA、GDPR-K 等儿童隐私规则进行设计。家长可以随时在家长专区或通过删除应用来清除全部数据。</p>
+      <h2>8. 联系我们</h2>
+      <p>如有隐私或支持问题，请联系 <a href="mailto:blueng.choi@gmail.com">blueng.choi@gmail.com</a>。</p>
+    </section>
+  </div>
+
+  <script>
+    function switchLang(lang) {
+      ["en", "ko", "ja", "zh"].forEach(function (code) {
+        document.getElementById("lang-" + code).classList.toggle("hidden", code !== lang);
+        document.getElementById("btn-" + code).classList.toggle("active", code === lang);
+      });
+      document.documentElement.lang = lang;
+    }
+  </script>
+</body>
+</html>
